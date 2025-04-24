@@ -1,0 +1,1978 @@
+=== Table ID: 2-12703558-2 ===
+=== Table Title: Mint Jams ===
+Columns: Region, Date, Label, Format, Catalog
+  - Japan, March 21, 1982, Alfa Records, stereo LP, ALR-20002
+  - Japan, December 21, 1983, Alfa Records, CD, 38XA-5
+  - Japan, January 25, 1987, Alfa Records, CD, 32XA-112
+  - Japan, March 21, 1992, Alfa Records, CD, ALCA-277
+  - Japan, July 27, 1994, Alfa Records, CD, ALCA-9007
+  - Japan, July 23, 1998, Alfa Records, CD, ALCA-9202
+  - Japan, January 23, 2002, Village Records, ed remaster CD, VRCL-2207
+  - Japan, February 14, 2002, Village Records, ed remaster CD, VRCL-2227
+  - Japan, May 27, 2009, Sony Music Direct, ed remaster CD, MHCL-20009
+
+=== Table ID: 2-12709578-1 ===
+=== Table Title: List of National Rugby League golden point games ===
+Columns: Home, Score, Away, Venue, Golden point(s) scorer
+  - Manly-Warringah Sea Eagles, 36–34, Parramatta Eels, Brookvale Oval, Ben Walker Category:Articles with hCards
+  - North Queensland Cowboys, 24–28, Penrith Panthers, Dairy Farmers Stadium, Joe Galuvao Category:Articles with hCards
+  - South Sydney Rabbitohs, 30–31, New Zealand Warriors, Aussie Stadium, Stacey Jones Category:Articles with hCards
+  - Melbourne Storm, 22–26, Brisbane Broncos, Olympic Park, Scott Minto Category:Articles with hCards
+  - South Sydney Rabbitohs, 17–16, Wests Tigers, Aussie Stadium, Willie Peters Category:Articles with hCards
+  - Parramatta Eels, 14–18, Cronulla-Sutherland Sharks, Parramatta Stadium, Nigel Vagana Category:Articles with hCards
+  - Brisbane Broncos, 16–17, Newcastle Knights, Suncorp Stadium, Kurt Gidley Category:Articles with hCards
+  - South Sydney Rabbitohs, 20–20, North Queensland Cowboys, Bluetounge Stadium, none
+  - New Zealand Warriors, 26–28, North Queensland Cowboys, Ericsson Stadium, Josh Hannay Category:Articles with hCards
+  - Newcastle Knights, 24–28, North Queensland Cowboys, EnergyAustralia Stadium, Travis Norton Category:Articles with hCards
+  - Canberra Raiders, 30–29, New Zealand Warriors, Canberra Stadium, Clinton Schifcofske Category:Articles with hCards
+  - Cronulla-Sutherland Sharks, 12–16, Brisbane Broncos, Toyota Park, Brent Tate Category:Articles with hCards
+  - South Sydney Rabbitohs, 34–34, Brisbane Broncos, Aussie Stadium, none
+  - Bulldogs, 21–21, South Sydney Rabbitohs, Sydney Showground, none
+  - Cronulla-Sutherland Sharks, 30–26, Newcastle Knights, Toyota Park, Vince Mellars Category:Articles with hCards
+  - St. George Illawarra Dragons, 12–13, Penrith Panthers, WIN Stadium, Preston Campbell Category:Articles with hCards
+  - Canberra Raiders, 21–20, Penrith Panthers, Canberra Stadium, Clinton Schifcofske Category:Articles with hCards
+  - North Queensland Cowboys, 14–15, Canberra Raiders, Dairy Farmers Stadium, Todd Carney Category:Articles with hCards
+  - Melbourne Storm, 17–16, Penrith Panthers, Olympic Park, Cooper Cronk Category:Articles with hCards
+  - Bulldogs, 22–18, New Zealand Warriors, Telstra Stadium, Mark O'Meley Category:Articles with hCards
+  - Canberra Raiders, 20–18, Wests Tigers, Canberra Stadium, Clinton Schifcofske Category:Articles with hCards
+  - Wests Tigers, 18–19, Canberra Raiders, Campbelltown Stadium, Todd Carney Category:Articles with hCards
+  - Parramatta Eels, 22–20, Wests Tigers, Parramatta Stadium, Luke Burt Category:Articles with hCards
+  - Brisbane Broncos, 28–29, Penrith Panthers, Suncorp Stadium, Peter Wallace Category:Articles with hCards
+  - Wests Tigers, 14–12, Cronulla-Sutherland Sharks, Campbelltown Stadium, Benji Marshall Category:Articles with hCards
+  - Cronulla-Sutherland Sharks, 12–13, Sydney Roosters, Toyota Park, Anthony Minichiello Category:Articles with hCards
+  - Brisbane Broncos, 19–18, Gold Coast Titans, Suncorp Stadium, Darren Lockyer Category:Articles with hCards
+  - Sydney Roosters, 31–31, New Zealand Warriors, Sydney Football Stadium, none
+  - Wests Tigers, 22–26, Sydney Roosters, Telstra Stadium, Joel Monaghan Category:Articles with hCards
+  - Parramatta Eels, 24–25, Cronulla-Sutherland Sharks, Parramatta Stadium, Brett Seymour Category:Articles with hCards
+  - Penrith Panthers, 26–30, North Queensland Cowboys, CUA Stadium, Ashley Graham Category:Articles with hCards
+  - Newcastle Knights, 13–12, Manly-Warringah Sea Eagles, EnergyAustralia Stadium, Scott Dureau Category:Articles with hCards
+  - Parramatta Eels, 24–23, Newcastle Knights, Parramatta Stadium, Luke Burt Category:Articles with hCards
+  - St. George Illawarra Dragons, 16–18, Cronulla-Sutherland Sharks, ANZ Stadium, Luke Covell Category:Articles with hCards
+  - Cronulla-Sutherland Sharks, 20–21, Penrith Panthers, Toyota Park, Jarrod Sammut
+  - North Queensland Cowboys, 18–19, Penrith Panthers, Dairy Farmers Stadium, Jarrod Sammut Category:Articles with hCards
+  - Penrith Panthers, 12–12, Brisbane Broncos, CUA Stadium, none
+  - Bulldogs, 30–34, South Sydney Rabbitohs, ANZ Stadium, Luke Capewell
+  - Brisbane Broncos, 25–21, Gold Coast Titans, Suncorp Stadium, Greg Eastwood Category:Articles with hCards
+  - Melbourne Storm, 17–16, St. George Illawarra Dragons, Olympic Park, Greg Inglis Category:Articles with hCards
+  - New Zealand Warriors, 17–16, Sydney Roosters, Mt Smart Stadium, Stacey Jones Category:Articles with hCards
+  - Melbourne Storm, 14–14, New Zealand Warriors, Olympic Park, none
+  - Parramatta Eels, 16–16, South Sydney Rabbitohs, ANZ Stadium, none
+  - Penrith Panthers, 32–32, New Zealand Warriors, CUA Stadium, none
+  - South Sydney Rabbitohs, 18–19, Gold Coast Titans, ANZ Stadium, Mat Rogers
+  - North Queensland Cowboys, 19–20, Cronulla Sharks, Dairy Farmers Stadium, Trent Barrett
+  - St. George Illawarra Dragons, 10–11, Gold Coast Titans, WIN Jubilee Oval, Mat Rogers
+  - North Queensland Cowboys, 28–24, Newcastle Knights, Dairy Farmers Stadium, Will Tupou
+  - South Sydney Rabbitohs, 34–30, Wests Tigers, ANZ Stadium, Dylan Farrell
+  - Wests Tigers, 15–19, Sydney Roosters, Sydney Football Stadium, Shaun Kenny-Dowall
+  - Canberra Raiders, 22–23, Gold Coast Titans, Canberra Stadium, Greg Bird
+  - Parramatta Eels, 14–14, St. George Illawarra Dragons, Parramatta Stadium, none
+  - Wests Tigers, 17–16, Newcastle Knights, Leichhardt Oval, Robbie Farah
+  - Brisbane Broncos, 25–24, Canberra Raiders, Suncorp Stadium, Peter Wallace
+  - Penrith Panthers, 23–22, Parramatta Eels, Centrebet Stadium, Luke Walsh
+  - South Sydney Rabbitohs, 21–20, Sydney Roosters, ANZ Stadium, Chris Sandow
+  - Bulldogs, 8–7, Parramatta Eels, ANZ Stadium, Trent Hodkinson
+  - South Sydney Rabbitohs, 26–24, North Queensland Cowboys, ANZ Stadium, Chris Sandow
+  - Parramatta Eels, 12–13, Sydney Roosters, Parramatta Stadium, Braith Anasta
+  - Brisbane Broncos, 13–12, St. George Illawarra Dragons, Suncorp Stadium, Darren Lockyer
+  - Newcastle Knights, 14–15, St. George Illawarra Dragons, Hunter Stadium, Jamie Soward
+  - Wests Tigers, 17–16, Cronulla-Sutherland Sharks, Leichhardt Oval, Benji Marshall
+  - Wests Tigers, 16–17, South Sydney Rabbitohs, Allianz Stadium, Greg Inglis
+  - Gold Coast Titans, 14–15, Wests Tigers, Skilled Park, Robbie Farah
+  - Penrith Panthers, 13–12, St. George Illawarra Dragons, Centrebet Stadium, Lachlan Coote
+  - St. George Illawarra Dragons, 18–19, South Sydney Rabbitohs, WIN Jubilee Oval, Adam Reynolds
+  - Penrith Panthers, 18–19, Parramatta Eels, Centrebet Stadium, Chris Sandow
+  - Cronulla Sharks, 14–14, Sydney Roosters, Toyota Stadium, none
+  - Cronulla Sharks, 20–21, Penrith Panthers, Toyota Stadium, Luke Walsh
+  - Canterbury-Bankstown Bulldogs, 23–22, Wests Tigers, ANZ Stadium, Krisnan Inu
+  - Newcastle Knights, 20–21, Cronulla Sharks, Hunter Stadium, Jeff Robson
+  - Melbourne Storm, 10–10, Manly-Warringah Sea Eagles, AAMI Park, none
+  - Manly-Warringah Sea Eagles, 30–32, Canterbury-Bankstown Bulldogs, Brookvale Oval, Trent Hodkinson
+  - South Sydney Rabbitohs, 18–22, St. George Illawarra Dragons, ANZ Stadium, Brett Morris
+  - Newcastle Knights, 18–18, Brisbane Broncos, Hunter Stadium, none
+  - Melbourne Storm, 23–22, Gold Coast Titans, AAMI Park, Cooper Cronk
+
+=== Table ID: 2-12710384-4 ===
+=== Table Title: Rickie Fowler ===
+Columns: Tournament, Wins, Top-5, Top-10, Top-25, Events, Cuts made
+  - Masters Tournament, 0, 0, 0, 0, 3, 3
+  - U.S. Open, 0, 0, 1, 1, 5, 3
+  - The Open Championship, 0, 1, 1, 2, 4, 3
+  - PGA Championship, 0, 0, 0, 1, 4, 3
+  - Totals, 0, 1, 2, 4, 16, 12
+
+=== Table ID: 2-12716513-3 ===
+=== Table Title: Eurocard Open ===
+Columns: Location, Year, Champions, Runners-up, Score
+  - Stuttgart, 2001, Max Mirnyi Sandon Stolle, Ellis Ferreira Jeff Tarango, 7–6 (7–0) , 7–6 (7–4)
+  - Stuttgart, 2000, Jiří Novák David Rikl, Donald Johnson Piet Norval, 3–6, 6–3, 6–4
+  - Stuttgart, 1999, Byron Black Jonas Björkman, David Adams John-Laffnie de Jager, 6–7 (6–8) , 7–6 (7–2) , 6–0
+  - Stuttgart, 1998, Sébastien Lareau Alex O'Brien, Mahesh Bhupathi Leander Paes, 6–3, 3–6, 7–5
+  - Stuttgart, 1997, Mark Woodforde Todd Woodbridge, Rick Leach Jonathan Stark, 6–3, 6–3
+  - Stuttgart, 1996, Sébastien Lareau Alex O'Brien, Jacco Eltingh Paul Haarhuis, 3–6, 6–4, 6–3
+  - Essen, 1995 (Oct), Jacco Eltingh Paul Haarhuis, Cyril Suk Daniel Vacek, 6–2, 6–2
+  - Stuttgart, 1995 (Feb), Grant Connell Patrick Galbraith, Cyril Suk Daniel Vacek, 7–5, 6–4
+  - Stuttgart, 1994, David Adams Andrei Olhovskiy, Grant Connell Patrick Galbraith, 6–7, 6–4, 7–6
+  - Stuttgart, 1993, Mark Kratzmann Wally Masur, Steve DeVries David Macpherson, 6–3, 7–6
+  - Stuttgart, 1992, Tom Nijssen Cyril Suk, John Fitzgerald Anders Järryd, 6–3, 6–7, 6–3
+  - Stuttgart, 1991, Sergio Casal Emilio Sánchez, Jeremy Bates Nick Brown, 6–3, 7–5
+  - Stuttgart, 1990, Guy Forget Jakob Hlasek, Michael Mortensen Tom Nijssen, 6–3, 6–2
+
+=== Table ID: 2-12717233-2 ===
+=== Table Title: Alfa Romeo Grand Prix results ===
+Columns: Year, Entrant, Chassis, Engine, Tyres, Points
+  - 1961, Scuderia Serenissima, De Tomaso F1, Alfa Romeo Giulietta 1.5 L4, D, 0
+  - 1961, Isobele de Tomaso, De Tomaso F1, Alfa Romeo Giulietta 1.5 L4, D, 0
+  - 1962, Otelle Nucci, LDS Mk 1, Alfa Romeo Giulietta 1.5 L4, D, 0
+  - 1962, Mike Harris, Cooper T53, Alfa Romeo Giulietta 1.5 L4, D, 0
+  - 1963, Otelle Nucci, LDS Mk 1, Alfa Romeo Giulietta 1.5 L4, D, 0
+  - 1963, Otelle Nucci, Alfa Romeo Special, Alfa Romeo Giulietta 1.5 L4, D, 0
+  - 1963, Sam Tingle, LDS Mk 1, Alfa Romeo Giulietta 1.5 L4, D, 0
+  - 1965, Sam Tingle, LDS Mk 1, Alfa Romeo Giulietta 1.5 L4, D, 0
+  - 1965, Jackie Pretorius, LDS Mk 1, Alfa Romeo Giulietta 1.5 L4, D, 0
+  - 1965, Otelle Nucci, Alfa Romeo Special, Alfa Romeo Giulietta 1.5 L4, D, 0
+  - 1970, Bruce McLaren Motor Racing, McLaren M7D M14D, Alfa Romeo T33 3.0 V8, G, 0
+  - 1971, STP March Racing Team, March 711, Alfa Romeo T33 3.0 V8, F, 0
+  - 1976, Martini Racing, Brabham BT45, Alfa Romeo 115-12 3.0 F12, G, 9
+  - 1977, Martini Racing, Brabham BT45 BT45B, Alfa Romeo 115-12 3.0 F12, G, 27
+  - 1978, Parmalat Racing Team, Brabham BT45C BT46 BT46B BT46C, Alfa Romeo 115-12 3.0 F12, G, 53
+  - 1979, Parmalat Racing Team, Brabham BT46 BT48 BT49, Alfa Romeo 115-12 1260 3.0, G, 7
+  - 1983, Osella Squadra Corse, Osella FA1D FA1E, Alfa Romeo 1260 3.0 V12, P, 0
+  - 1984, Osella Squadra Corse, Osella FA1F, Alfa Romeo 890T 1.5 V8 (t/c), P, 2
+  - 1985, Osella Squadra Corse, Osella FA1F, Alfa Romeo 890T 1.5 V8 (t/c), P, 0
+  - 1986, Osella Squadra Corse, Osella FA1G FA1F FA1H, Alfa Romeo 890T 1.5 V8 (t/c), P, 0
+  - 1987, Osella Squadra Corse, Osella FA1I, Alfa Romeo 890T 1.5 V8 (t/c), G, 0
+  - 1988, Osella Squadra Corse, Osella FA1I FA1L, Osella 890T 1.5 V8 (t/c), G, 0
+
+=== Table ID: 2-12726411-18 ===
+=== Table Title: Canadian Olympic stamps ===
+Columns: Date of Issue, Theme, Denomination, Printer, Quantity, Perforation, First Day Cover Cancellation
+  - 8 July 1996, Ethel Catherwood , High Jump , 1928, 45 cents, Ashton-Potter Limited, 2 400 000, 13 x 12.5, N/A
+  - 8 July 1996, Étienne Desmarteau , lb (kg) Weight Throw , 1904, 45 cents, Ashton-Potter Limited, 2 400 000, 13 x 12.5, N/A
+  - 8 July 1996, Fanny Rosenfeld , 100 m and 400 m Relay, 1928, 45 cents, Ashton-Potter Limited, 2 400 000, 13 x 12.5, N/A
+  - 8 July 1996, Gerald Ouellette , Smallbore Rifle , Prone, 1956, 45 cents, Ashton-Potter Limited, 2 400 000, 13 x 12.5, N/A
+  - 8 July 1996, Percy Williams , 100 m and 200 m, 1928, 45 cents, Ashton-Potter Limited, 2 400 000, 13 x 12.5, N/A
+
+=== Table ID: 2-12727420-2 ===
+=== Table Title: Szuperkupa ===
+Columns: Club, Winners, Finalists, Winning editions, Not winning editions
+  - Debrecen, 5, 3, 2005, 2006, 2007, 2009, 2010, 2008, 2012, 2013
+  - Ferencváros, 4, 2, 1993, 1994, 1995, 2004, 1992, 2003
+  - MTK Hungária/Bp., 3, —, 1997, 2003, 2008, 0 0 0 0 —
+  - Videoton/Fehérvar, 2, 2, 2011, 2012, 2006, 2010
+  - Újpesti TE / Újpest FC, 2, —, 1992, 2002, 0 0 0 0 —
+  - Győri, 1, —, 2013, 0 0 0 0 —
+  - Kispest/Bp. Honvéd, —, 3, 0 0 0 0 —, 1993, 2007, 2009
+  - Kecskemét, —, 1, 0 0 0 0 —, 2011
+  - Sopron, —, 1, 0 0 0 0 —, 2005
+  - Vác, —, 1, 0 0 0 0 —, 1994
+  - Zalaegerszeg, —, 1, 0 0 0 0 —, 2002
+
+=== Table ID: 2-12728831-5 ===
+=== Table Title: 1987–88 Edmonton Oilers season ===
+Columns: Date, Visitor, Score, Home, Record
+  - May 3, Detroit Red Wings, 1–4, Edmonton Oilers, 1–0
+  - May 5, Detroit Red Wings, 3–5, Edmonton Oilers, 2–0
+  - May 7, Edmonton Oilers, 2-5, Detroit Red Wings, 2–1
+  - May 9, Edmonton Oilers, 4–3, Detroit Red Wings, 3–1
+  - May 11, Detroit Red Wings, 4–8, Edmonton Oilers, 4–1
+
+=== Table ID: 2-12728831-6 ===
+=== Table Title: 1987–88 Edmonton Oilers season ===
+Columns: Date, Visitor, Score, Home, Record
+  - May 18, Boston Bruins, 1–2, Edmonton Oilers, 1–0
+  - May 20, Boston Bruins, 2–4, Edmonton Oilers, 2–0
+  - May 22, Edmonton Oilers, 6–3, Boston Bruins, 3–0
+  - May 24, Edmonton Oilers, 3–3, Boston Bruins, 3–0–1
+  - May 26, Boston Bruins, 3–6, Edmonton Oilers, 4–0–1
+
+=== Table ID: 2-12733279-2 ===
+=== Table Title: 2003 Major League Baseball Draft ===
+Columns: Pick, Player, Team, Position, School
+  - 1, Delmon Young, Tampa Bay Devil Rays, OF, Adolfo Camarillo High School
+  - 2, Rickie Weeks, Milwaukee Brewers, 2B, Southern University
+  - 3, Kyle Sleeth, Detroit Tigers, RHP, Wake Forest University
+  - 4, Tim Stauffer, San Diego Padres, RHP, University of Richmond
+  - 5, Chris Lubanski, Kansas City Royals, CF, Kennedy-Kenrick High School (PA)
+  - 6, Ryan Harvey, Chicago Cubs, CF, Dunedin High School
+  - 7, Nick Markakis, Baltimore Orioles, OF, Young Harris College
+  - 8, Paul Maholm, Pittsburgh Pirates, LHP, Mississippi State
+  - 9, John Danks, Texas Rangers, LHP, Round Rock High School
+  - 10, Ian Stewart, Colorado Rockies, 3B, La Quinta High School
+  - 11, Michael Aubrey, Cleveland Indians, 1B, Tulane University
+  - 12, Lastings Milledge, New York Mets, OF, Lakewood Ranch
+  - 13, Aaron Hill, Toronto Blue Jays, SS, Louisiana State University
+  - 14, Ryan Wagner, Cincinnati Reds, RHP, University of Houston
+  - 15, Brian Anderson, Chicago White Sox, CF, University of Arizona
+  - 16, Jeff Allison, Florida Marlins, RHP, Peabody Veterans Memorial High School (MA)
+  - 17, David Murphy, Boston Red Sox, CF, Baylor University
+  - 18, Brad Snyder, Cleveland Indians, RF, Ball State University
+  - 19, Conor Jackson, Arizona Diamondbacks, 3B, UC Berkeley
+  - 20, Chad Cordero, Montreal Expos, RHP, Cal State Fullerton
+  - 21, Matt Moses, Minnesota Twins, 3B, Mills E. Godwin High School
+  - 22, David Aardsma, San Francisco Giants, RHP, Rice University
+  - 23, Brandon Wood, Anaheim Angels, SS, Horizon High School
+  - 24, Chad Billingsley, Los Angeles Dodgers, RHP, Defiance High School
+  - 25, Brad Sullivan, Oakland Athletics, RHP, University of Houston
+  - 26, Brian Snyder, Oakland Athletics, 3B, Stetson University
+  - 27, Eric Duncan, New York Yankees, 3B, Seton Hall Preparatory School
+  - 28, Daric Barton, St. Louis Cardinals, C, Marina High School
+  - 29, Carlos Quentin, Arizona Diamondbacks, OF, Stanford University
+  - 30, Mitch Maier, Kansas City Royals, C, University of Toledo
+
+=== Table ID: 2-12736926-2 ===
+=== Table Title: 1988–89 Edmonton Oilers season ===
+Columns: Date, Visitor, Score, Home, Record
+  - October 7, New York Islanders, 1–5, Edmonton Oilers, 1–0–0
+  - October 9, Winnipeg Jets, 4–5, Edmonton Oilers, 2–0–0
+  - October 12, Vancouver Canucks, 6–2, Edmonton Oilers, 2–1–0
+  - October 14, Edmonton Oilers, 1–6, Calgary Flames, 2–2–0
+  - October 16, Edmonton Oilers, 3–3, Winnipeg Jets, 2–2–1
+  - October 17, Minnesota North Stars, 3–3, Edmonton Oilers, 2–2–2
+  - October 19, Los Angeles Kings, 6–8, Edmonton Oilers, 3–2–2
+  - October 23, Edmonton Oilers, 5–6, Vancouver Canucks, 3–3–2
+  - October 25, Edmonton Oilers, 5–4, Los Angeles Kings, 4–3–2
+  - October 29, Washington Capitals, 3–4, Edmonton Oilers, 5–3–2
+  - October 30, Chicago Blackhawks, 5–2, Edmonton Oilers, 5–4–2
+  - November 2, St. Louis Blues, 4–5, Edmonton Oilers, 6–4–2
+  - November 4, Buffalo Sabres, 3–7, Edmonton Oilers, 7–4–2
+  - November 6, Edmonton Oilers, 2–5, Detroit Red Wings, 7–5–2
+  - November 8, Edmonton Oilers, 7–3, Pittsburgh Penguins, 8–5–2
+  - November 9, Edmonton Oilers, 3–2, New Jersey Devils, 9–5–2
+  - November 12, Edmonton Oilers, 6–2, Toronto Maple Leafs, 10–5–2
+  - November 13, Edmonton Oilers, 5–4, Buffalo Sabres, 11–5–2
+  - November 16, Winnipeg Jets, 2–1, Edmonton Oilers, 11–6–2
+  - November 19, Toronto Maple Leafs, 1–9, Edmonton Oilers, 12–6–2
+  - November 20, Edmonton Oilers, 4–7, Winnipeg Jets, 12–7–2
+  - November 23, Edmonton Oilers, 3–3, Minnesota North Stars, 12–7–3
+  - November 24, Edmonton Oilers, 4–2, St. Louis Blues, 13–7–3
+  - November 26, Edmonton Oilers, 5–7, Montreal Canadiens, 13–8–3
+  - November 28, Edmonton Oilers, 7–4, Quebec Nordiques, 14–8–3
+  - November 30, Vancouver Canucks, 2–4, Edmonton Oilers, 15–8–3
+  - December 2, Calgary Flames, 7–4, Edmonton Oilers, 15–9–3
+  - December 4, New York Rangers, 6–10, Edmonton Oilers, 16–9–3
+  - December 7, Quebec Nordiques, 3–8, Edmonton Oilers, 17–9–3
+  - December 8, Edmonton Oilers, 3–5, Calgary Flames, 17–10–3
+  - December 10, Winnipeg Jets, 7–6, Edmonton Oilers, 17–11–3
+  - December 14, Edmonton Oilers, 8–2, Toronto Maple Leafs, 18–11–3
+  - December 15, Edmonton Oilers, 3–4, Boston Bruins, 18–12–3
+  - December 17, Edmonton Oilers, 4–2, Hartford Whalers, 19–12–3
+  - December 19, Edmonton Oilers, 5–5, Buffalo Sabres, 19–12–4
+  - December 21, Vancouver Canucks, 2–1, Edmonton Oilers, 19–13–4
+  - December 23, Calgary Flames, 1–4, Edmonton Oilers, 20–13–4
+  - December 31, Montreal Canadiens, 4–2, Edmonton Oilers, 20–14–4
+  - January 2, Edmonton Oilers, 3–2, Minnesota North Stars, 21–14–4
+  - January 4, Quebec Nordiques, 2–4, Edmonton Oilers, 22–14–4
+  - January 7, Edmonton Oilers, 2–7, Calgary Flames, 22–15–4
+  - January 8, Calgary Flames, 0–6, Edmonton Oilers, 23–15–4
+  - January 10, Edmonton Oilers, 4–5, Los Angeles Kings, 23–16–4
+  - January 13, Edmonton Oilers, 3–5, Washington Capitals, 23–17–4
+  - January 15, Edmonton Oilers, 0–1, New Jersey Devils, 23–18–4
+  - January 16, Edmonton Oilers, 2–2, Chicago Blackhawks, 23–18–5
+  - January 18, Edmonton Oilers, 9–4, Winnipeg Jets, 24–18–5
+  - January 20, Philadelphia Flyers, 1–1, Edmonton Oilers, 24–18–6
+  - January 21, Pittsburgh Penguins, 7–4, Edmonton Oilers, 24–19–6
+  - January 23, New York Rangers, 3–2, Edmonton Oilers, 24–20–6
+  - January 25, Chicago Blackhawks, 6–3, Edmonton Oilers, 24–21–6
+  - January 28, Edmonton Oilers, 7–6, Los Angeles Kings, 25–21–6
+  - January 31, Edmonton Oilers, 2–6, Vancouver Canucks, 25–22–6
+  - February 1, Vancouver Canucks, 3–4, Edmonton Oilers, 26–22–6
+  - February 3, Detroit Red Wings, 5–8, Edmonton Oilers, 27–22–6
+  - February 5, New Jersey Devils, 4–2, Edmonton Oilers, 27–23–6
+  - February 9, Edmonton Oilers, 3–1, Philadelphia Flyers, 28–23–6
+  - February 11, Edmonton Oilers, 2–5, Boston Bruins, 28–24–6
+  - February 12, Edmonton Oilers, 3–1, New York Rangers, 29–24–6
+  - February 14, Edmonton Oilers, 3–5, New York Islanders, 29–25–6
+  - February 17, Washington Capitals, 8–2, Edmonton Oilers, 29–26–6
+  - February 19, Boston Bruins, 4–2, Edmonton Oilers, 29–27–6
+  - February 21, Hartford Whalers, 4–7, Edmonton Oilers, 30–27–6
+  - February 24, Los Angeles Kings, 1–4, Edmonton Oilers, 31–27–6
+  - February 25, St. Louis Blues, 3–5, Edmonton Oilers, 32–27–6
+  - March 1, Montreal Canadiens, 0–3, Edmonton Oilers, 33–27–6
+  - March 3, Edmonton Oilers, 7–4, Winnipeg Jets, 34–27–6
+  - March 5, Edmonton Oilers, 4–2, Pittsburgh Penguins, 35–27–6
+  - March 7, Edmonton Oilers, 4–4, Philadelphia Flyers, 35–27–7
+  - March 8, Edmonton Oilers, 3–7, Hartford Whalers, 35–28–7
+  - March 11, Calgary Flames, 5–5, Edmonton Oilers, 35–28–8
+  - March 12, Los Angeles Kings, 6–3, Edmonton Oilers, 35–29–8
+  - March 15, Detroit Red Wings, 8–6, Edmonton Oilers, 35–30–8
+  - March 16, Edmonton Oilers, 0–3, Vancouver Canucks, 35–31–8
+  - March 19, New York Islanders, 2–3, Edmonton Oilers, 36–31–8
+  - March 21, Los Angeles Kings, 4–3, Edmonton Oilers, 36–32–8
+  - March 23, Winnipeg Jets, 4–5, Edmonton Oilers, 37–32–8
+  - March 25, Edmonton Oilers, 2–4, Los Angeles Kings, 37–33–8
+  - March 29, Edmonton Oilers, 5–2, Vancouver Canucks, 38–33–8
+  - April 2, Edmonton Oilers, 2–4, Calgary Flames, 38–34–8
+
+=== Table ID: 2-12738226-1 ===
+=== Table Title: Joseph Lindsay ===
+Columns: Date, Venue, Score, Result, Competition
+  - 27 March 1880, Hampden Park , Glasgow, 3-0, 5-1, Friendly
+  - 29 March 1884, Cathkin Park , Glasgow, 1-1, 4-1, BHC
+  - 21 March 1885, Kennington Oval , London, 1-0, 1-1, BHC
+  - 23 March 1885, Acton Park , Wrexham, 4-1, 8-1, BHC
+  - 23 March 1885, Acton Park , Wrexham, 7-1, 8-1, BHC
+  - 23 March 1885, Acton Park , Wrexham, 8-1, 8-1, BHC
+
+=== Table ID: 2-12741476-13 ===
+=== Table Title: 2004 Iowa Hawkeyes football team ===
+Columns: Player, Position, Round, Pick, NFL Club
+  - Matt Roth, Defensive End, 2, 46, Miami Dolphins
+  - Jonathan Babineaux, Defensive Tackle, 2, 59, Atlanta Falcons
+  - Sean Considine, Defensive Back, 4, 102, Philadelphia Eagles
+  - Tony Jackson, Tight End, 6, 196, Seattle Seahawks
+  - Pete McMahon, Tackle, 6, 214, Oakland Raiders
+
+=== Table ID: 2-12742744-1 ===
+=== Table Title: Dutch football transfer record ===
+Columns: Rank, Player, From, Transfer fee ( € million), Year
+  - 1, Ruud van Nistelrooy, PSV, 30.5, 2001
+  - 2, Wesley Sneijder, Ajax, 27, 2007
+  - 2, Klaas-Jan Huntelaar, Ajax, 27, 2009
+  - 4, Luis Suárez, Ajax, 26.5, 2011
+  - 5, Kevin Strootman, PSV, 20, 2013
+  - 5, Afonso Alves, Heerenveen, 20, 2008
+  - 7, Arjen Robben, PSV, 18.1, 2004
+  - 8, Cristian Chivu, Ajax, 18, 2003
+  - 8, Dirk Kuyt, Feyenoord, 18, 2006
+  - 10, Jaap Stam, PSV, 17, 1998
+  - 10, Ryan Babel, Ajax, 17, 2007
+  - 12, Zlatan Ibrahimović, Ajax, 16.9, 2004
+  - 13, Miralem Sulejmani, Heerenveen, 16.25, 2008
+  - 14, Dennis Bergkamp, Ajax, 16, 1993
+  - 15, Ronaldo, PSV, 15.5, 1996
+  - 16, Luuk de Jong, Twente, 15, 2012
+  - 17, Wilfried Bony, Vitesse, 14, 2013
+  - 17, Balázs Dzsudzsák, PSV, 14, 2011
+  - 17, Royston Drenthe, Feyenoord, 14, 2007
+  - 17, Heurelho Gomes, PSV, 14, 2008
+  - 21, Christian Eriksen, Ajax, 13,5, 2013
+  - 22, Strootman & Mertens, Utrecht, 13, 2011
+  - 23, Salomon Kalou, Feyenoord, 12.6, 2006
+  - 24, Bryan Ruiz, Twente, 12, 2011
+  - 24, Ahmed Hossam, Ajax, 12, 2003
+  - 24, Thomas Vermaelen, Ajax, 12, 2009
+  - 24, Arouna Koné, PSV, 12, 2007
+  - 28, Frank de Boer, Ajax, 11, 1998
+  - 29, John Heitinga, Ajax, 10, 2008
+  - 29, Jefferson Farfán, PSV, 10, 2008
+
+=== Table ID: 2-12744399-1 ===
+=== Table Title: List of Ranma ½ video games ===
+Columns: Japanese Title, Developer, Publisher, Genre, Console(s), Initial Release Date
+  - Ranma ½ Kakuren Bodesu Match, Banpresto, Banpresto, Puzzle (Maze), Game Boy JP, 1990/06/28 June 28, 1990
+  - Ranma ½, NCS, Masaya, Fighting (Side Scrolling), PC Engine JP, 1990/12/07 December 7, 1990
+  - Ranma ½: Battle Renaissance, Altelier-Sai, Shogakukan, Fighting, PlayStation JP, 1996/12/06 December 6, 1996
+  - Ranma ½: Toraware no Hanayome, NCS, Masaya, Digital Comic, PC Engine JP, 1991/12/06 December 6, 1991
+  - Ranma ½: Kakugeki Mondou!!, Banpresto, Banpresto, RPG (Quiz), Game Boy JP, 1993/08/06 August 6, 1993
+  - Fever Ranma ½: Onsen Asurechikku Hen, Sankyo, Sankyo, Arcade, Pachinko JP, 2011/02 February 2011
+  - Ranma ½: Hiryu Densetsu, Microvision, Bothtec, Text Adventure, PC-98 JP MSX JP, 1992
+  - Ranma ½: Bakuretsu Rantōhen, Atelier Double, Masaya DTMC, Fighting, SF JP SNES NA EU, 1992/12/25 December 25, 1992
+  - Ranma ½: Akaneko-dan teki Hihou, Rumic Soft, Toho Company Ltd., RPG, SF JP, 1993/10/22 October 22, 1993
+  - Ranma ½: Datou, Ganso Musabetsu Kakutou-ryuu!, NCS, Masaya, Fighting (Side Scrolling), PC Engine JP, 1992/10/02 October 2, 1992
+  - Ranma ½: Ougi Jaanken, Rumic Soft, Rumic Soft, Puzzle (Paper-Rock-Scissors/Tetris), SF JP PC-98 JP, 1995/07/21 July 21, 1995
+  - Ranma ½: Chōnai Gekitōhen, NCS Irem, Masaya Irem, Fighting, SF JP SNES NA, 1992/03/27 March 27, 1992
+  - Ranma ½: Chougi Rambuhen, Rumic Soft, Toho Company Ltd., Fighting, SF JP, 1994/04/28 April 28, 1994
+  - Ranma ½: Netsuretsu Kakutouhen, Banpresto, Banpresto, RPG (Fighter), Game Boy JP, 1992/07/17 July 17, 1992
+  - Ranma ½: Byakuran Aika, NCS, Masaya, Digital Comic, Mega-CD JP, 1993/04/23 April 23, 1993
+
+=== Table ID: 2-12750583-1 ===
+=== Table Title: 2007 United States motorcycle Grand Prix ===
+Columns: Rider, Manufacturer, Laps, Time/Retired, Grid
+  - Casey Stoner, Ducati, 32, 44:20.325, 1
+  - Chris Vermeulen, Suzuki, 32, +9.865, 3
+  - Marco Melandri, Honda, 32, +25.641, 10
+  - Valentino Rossi, Yamaha, 32, +30.664, 5
+  - Daniel Pedrosa, Honda, 32, +35.622, 2
+  - Randy de Puniet, Kawasaki, 32, +38.306, 13
+  - Anthony West, Kawasaki, 32, +41.422, 12
+  - Makoto Tamada, Yamaha, 32, +42.355, 11
+  - Alex Barros, Ducati, 32, +43.520, 17
+  - Roger Lee Hayden, Kawasaki, 32, +43.720, 16
+  - Colin Edwards, Yamaha, 32, +47.376, 8
+  - Shinya Nakano, Honda, 32, +52.848, 9
+  - Sylvain Guintoli, Yamaha, 32, +58.410, 14
+  - Carlos Checa, Honda, 32, +1'15.366, 15
+  - John Hopkins, Suzuki, 30, +2 laps, 7
+  - Chaz Davies, Ducati, 29, +3 laps, 20
+  - Nicky Hayden, Honda, 22, Retirement, 4
+  - Miguel Duhamel, Honda, 10, Retirement, 19
+  - Kurtis Roberts, KR212V, 5, Retirement, 18
+  - Loris Capirossi, Ducati, 3, Retirement, 6
+
+=== Table ID: 2-12752969-5 ===
+=== Table Title: 2000 PBA draft ===
+Columns: Pick, Player, Country of Origin*, PBA team, College
+  - 1, Paolo Mendoza, Philippines, Sta. Lucia Realtors, UP-Diliman
+  - 2, Mark Steven Victoria, Philippines, Pop Cola Panthers, Far Eastern
+  - 3, Dino Aldeguer, Philippines, Purefoods Tender Juicy Hotdogs, La Salle-Manila
+  - 4, Erwin Velez, Philippines, Mobiline Phone Pals, Letran
+  - 5, Joseph Gumatay, Philippines, Batang Red Bull Energizers, UP-Diliman
+  - 6, Ernesto Billones, Philippines, Barangay Ginebra Kings, Las Piñas
+  - 7, Ronaldo Carmona, Jr., Philippines, San Miguel Beermen, Perpetual Help
+  - 8, Glen Peter Yap, Philippines, Alaska Aces, Adamson
+  - 9, Patrick Madarang, United States, Alaska Aces, UP-Diliman
+  - 10, Randy Lopez, Philippines, Sta. Lucia Realtors, St. Benilde
+
+=== Table ID: 2-12755231-1 ===
+=== Table Title: List of largest dams in the world ===
+Columns: Name, Country, Year, Structure Height [m], Structure Volume [10 6 m 3 ], Reservoir Volume [10 9 m 3 ], Type
+  - Syncrude Tailings Dam Mildred MLSB, Canada, 1995, 88, 540/720, 0.35, TE
+  - Tarbela Dam, Pakistan, 1976, 143, 106 /152, 13.7, TE/ER
+  - Syncrude Tailings Dam Mildred SWSS, Canada, 2010, 40-50, 119, 0.25, TE
+  - Fort Peck Dam, United States, 1940, 76.4, 96, 23, TE
+  - Atatürk Dam, Turkey, 1990, 166, 84.5, 48.7, TE/ER
+  - Flevoland Dyke, Netherlands, 1968, 13, 78, 0, TE/ER
+  - Oahe Dam, United States, 1963, 75, 70.3, 29, TE/ER
+  - Gardiner Dam, Canada, 1967, 64, 65.4, 9.4, TE
+  - Mangla Dam, Pakistan, 1967, 138, 65.4, 7.25, TE or TE/ER
+  - Oroville Dam, United States, 1968, 230, 59.6, 4.36, TE/ER
+  - San Luis Dam (B F Sisk Dam), United States, 1967, 93, 59.6, 2.52, TE
+  - Nurek Dam, Tajikistan, 1980, 300, 54, 10.5, TE
+  - Samara Dam ( Kuybyshev Reservoir ), Russia, 1955, 52, 54, 57.3, TE or ER
+  - Garrison Dam ( Lake Sakakawea ), United States, 1954, 64, 50.8, 29, TE
+  - Cochiti Dam, United States, 1975, 76.5, 50.2, 0.73, TE
+  - Aswan Dam, Egypt, 1970, 111, 44.3, 157, TE/ER
+  - W. A. C. Bennett Dam ( Williston Lake ), Canada, 1968, 186, 43.7, 7.4, TE
+  - ASARCO Mission Mine Tailings Dam, United States, 1973, 30, 40.1, 0, ER
+  - Fort Randall Dam ( Lake Francis Case ), United States, 1953, 50.3, 38.2, 6.7, TE/ER
+  - Afsluitdijk, Netherlands, 1932, 13, 36.5, 5.5, TE/ER
+  - San Roque Dam, Philippines, 2003, 200/210, 35, 0.835, TE or ER
+
+=== Table ID: 2-12755786-8 ===
+=== Table Title: 2007–08 Partick Thistle F.C. season ===
+Columns: Player, League, Scottish Cup, League Cup, Challenge Cup, Total
+  - Liam Buchanan, 11, 3, 0, 0, 14
+  - Mark Roberts, 5, 1, 0, 0, 6
+  - Scott Chaplain, 5, 0, 0, 0, 5
+  - Damon Gray, 3, 1, 0, 0, 4
+  - Kevin McKinlay, 3, 0, 0, 0, 3
+  - Paul Keegan, 2, 0, 0, 1, 3
+  - Marc Twaddle, 2, 1, 0, 0, 3
+  - Gary Harkins, 1, 0, 1, 1, 3
+  - Stephen McKeown, 2, 0, 0, 0, 2
+  - Adam Strachan, 2, 0, 0, 0, 2
+  - Paul Di Giacomo, 1, 0, 0, 1, 2
+  - Simon Donnelly, 1, 0, 0, 0, 1
+  - Simon Storey, 1, 0, 0, 0, 1
+  - Stevie Murray, 0, 0, 1, 0, 1
+
+=== Table ID: 2-12757872-1 ===
+=== Table Title: Metro Conference Men's Basketball Tournament ===
+Columns: Year, Metro Champion, Score, Runner-up, Most Outstanding Player, Venue (and city)
+  - 1976, Cincinnati, 103–95, Memphis State, Dexter Reed , Memphis State, Freedom Hall ( Louisville, Kentucky )
+  - 1977, Cincinnati, 74–61, Georgia Tech, Gary Yoder , Cincinnati, Mid-South Coliseum ( Memphis, Tennessee )
+  - 1978, Louisville, 94–93, Florida State, Rick Wilson , Louisville, Riverfront Coliseum ( Cincinnati, Ohio )
+  - 1979, Virginia Tech, 68–60, Florida State, Dale Solomon , Virginia Tech, Mid-South Coliseum ( Memphis, Tennessee )
+  - 1980, Louisville, 81–72, Florida State, Darrell Griffith , Louisville, Freedom Hall ( Louisville, Kentucky )
+  - 1981, Louisville, 42–31, Cincinnati, Rodney McCray , Louisville, Freedom Hall ( Louisville, Kentucky )
+  - 1982, Memphis State, 73–62, Louisville, Keith Lee , Memphis State, Mid-South Coliseum ( Memphis, Tennessee )
+  - 1983, Louisville, 66–51, Tulane, Rodney McCray , Louisville, Riverfront Coliseum ( Cincinnati, Ohio )
+  - 1984, Memphis State, 78–65, Virginia Tech, Keith Lee , Memphis State, Mid-South Coliseum ( Memphis, Tennessee )
+  - 1985, Memphis State, 90–86 (OT), Florida State, Dean Shaffer , Florida State, Freedom Hall ( Louisville, Kentucky )
+  - 1986, Louisville, 88–79, Memphis State, Pervis Ellison , Louisville, Freedom Hall ( Louisville, Kentucky )
+  - 1987, Memphis State, 75–52, Louisville, Marvin Alexander , Memphis State, Freedom Hall ( Louisville, Kentucky )
+  - 1988, Louisville, 81–73, Memphis State, Herbert Crook , Louisville, Mid-South Coliseum ( Memphis, Tennessee )
+  - 1989, Louisville, 87–80, Florida State, Pervis Ellison , Louisville, Carolina Coliseum ( Columbia, South Carolina )
+  - 1990, Louisville, 83–80, Southern Miss, LaBradford Smith , Louisville, Mississippi Coast Coliseum ( Biloxi, Mississippi )
+  - 1991, Florida State, 76–69, Louisville, LaBradford Smith , Louisville, Roanoke Civic Center ( Roanoke, Virginia )
+  - 1992, UNC Charlotte, 64–63, Tulane, Henry Williams , UNC Charlotte, Freedom Hall ( Louisville, Kentucky )
+  - 1993, Louisville, 90–78, Virginia Commonwealth, Dwayne Morton , Louisville, Freedom Hall ( Louisville, Kentucky )
+  - 1994, Louisville, 69–61, Southern Miss, Clifford Rozier , Louisville, Mississippi Coast Coliseum ( Biloxi, Mississippi )
+  - 1995, Louisville, 78–64, Southern Miss, DeJuan Wheat , Louisville, Freedom Hall ( Louisville, Kentucky )
+
+=== Table ID: 2-12762866-2 ===
+=== Table Title: Mauro Galvão (fighter) ===
+Columns: Res., Record, Opponent, Method, Event, Round
+  - Win, 6-1, Kenji Osawa, Decision(majority), Shooto - Back To Our Roots 3, 1
+  - Win, 5-1, Naoya Uematsu, Decision(unanimous), Fury FC 1 - Fury Fighting Championship 1, 1
+  - Win, 4-1, Fredson Paixão, Decision, JF 6 - Jungle Fight 6, 3
+  - Loss, 3-1, Akitoshi Hokazono, Decision(unanimous), Shooto 2005 - 9/23 in Korakuen Hall, 3
+  - Win, 3-0, Jin Akimoto, Decision(unanimous), Shooto 2004 - 9/26 in Kourakuen Hall, 3
+  - Win, 2-0, Shuichiro Katsumura, Decision (unanimous), Shooto 2004 - 1/24 in Korakuen Hall, 3
+  - Win, 1-0, Masato Shiozawa, Decision(majority), Shooto 2003 - 5/4 in Korakuen Hall, 3
+
+=== Table ID: 2-1276579-2 ===
+=== Table Title: Renault Modus ===
+Columns: model, engine type, max. power, max. torque, top speed, 0–100km/h (62mph), CO 2 emissions
+  - s petrol engine all fuel injected, s petrol engine all fuel injected, s petrol engine all fuel injected, s petrol engine all fuel injected, s petrol engine all fuel injected, s petrol engine all fuel injected, s petrol engine all fuel injected
+  - 1.2 16v, I4 DOHC, PS ( kW ), N·m ( lbf·ft ), mph (km/h), 13.5 sec, 138 g/km
+  - 1.2 16v QS5 *, I4 DOHC, PS ( kW ), N·m ( lbf·ft ), mph (km/h), 15.0 sec, 134 g/km
+  - 1.2 TCe, I4 DOHC turbo, PS (kW), N·m (lbf·ft), mph (km/h), 11.2 sec, 139 g/km
+  - 1.6 16v Auto, I4 DOHC, PS (kW), N·m (lbf·ft), mph (km/h), 12.3 sec, 179 g/km
+  - s diesel engine all Direct Injection (dCi), s diesel engine all Direct Injection (dCi), s diesel engine all Direct Injection (dCi), s diesel engine all Direct Injection (dCi), s diesel engine all Direct Injection (dCi), s diesel engine all Direct Injection (dCi), s diesel engine all Direct Injection (dCi)
+  - 1.5 dCi, I4 SOHC turbo, PS ( kW ), N·m ( lbf·ft ), mph (km/h), 13.0 sec, 107 g/km
+  - 1.5 dCi QS5*, I4 SOHC turbo, PS ( kW ), N·m ( lbf·ft ), mph (km/h), 14.8 sec, 119 g/km
+
+=== Table ID: 2-12767523-1 ===
+=== Table Title: List of current champions in WWE ===
+Columns: Championship, Current champion(s), Reign, Date won, Days held, Location
+  - WWE Championship, Randy Orton, 8, October 27, 2013, 97, Miami , Florida
+  - World Heavyweight Championship, John Cena, 3, October 27, 2013, 97, Miami , Florida
+  - WWE Intercontinental Championship, Curtis Axel, 1, June 16, 2013, 230, Rosemont , Illinois
+  - WWE United States Championship, Dean Ambrose, 1, May 19, 2013, 258, St. Louis , Missouri
+  - WWE Tag Team Championship, Cody Rhodes and Goldust, 1 (2,1), October 14, 2013, 110, St. Louis , Missouri
+  - WWE Divas Championship, AJ Lee, 1, June 16, 2013, 230, Rosemont , Illinois
+
+=== Table ID: 2-12771946-4 ===
+=== Table Title: NFL Network Thursday Night Football results (2006–present) ===
+Columns: Week, Date, Visiting team, Final score, Host team, Stadium
+  - 10, November 12, Chicago Bears, 6–10, San Francisco 49ers, Candlestick Park
+  - 11, November 19, Miami Dolphins, 24–17, Carolina Panthers, Bank of America Stadium
+  - 12, November 26, New York Giants, 6–26, Denver Broncos, Invesco Field at Mile High
+  - 13, December 3, New York Jets, 19–13, Buffalo Bills, Rogers Centre
+  - 14, December 10, Pittsburgh Steelers, 6–13, Cleveland Browns, Cleveland Browns Stadium
+  - 15, December 17, Indianapolis Colts, 35–31, Jacksonville Jaguars, Jacksonville Municipal Stadium
+  - 15, December 19, Dallas Cowboys, 24–17, New Orleans Saints, Louisiana Superdome
+  - 16, December 25, San Diego Chargers, 42–17, Tennessee Titans, LP Field
+
+=== Table ID: 2-1277350-3 ===
+=== Table Title: Names of the days of the week ===
+Columns: Sunday Surya (the Sun), Monday Soma (the Moon), Tuesday Mangala (Mars), Friday Shukra (Venus), Saturday Shani (Saturn)
+  - ஞாயிற்று கிழமை Nyāyitru kizhamai, திங்கட் கிழமை Thingat kizhamai, செவ்வாய்க் கிழமை Sevvāi kizhamai, வெள்ளிக் கிழமை Velli kizhamai, சனிக் கிழமை Shani kizhamai
+  - भानुवासरम् Bhaan Vāsaram, इन्दुवासरम् Indu Vāsaram, भौमवासरम् Bhauma Vāsaram, भृगुवासरम् Bhrgu Vāsaram, स्थिरवासरम् Sthira Vāsaram
+  - रविवार Ravivār, सोमवार Somavār, मंगलवार Mangalavār, शुक्रवार Shukravār, शनिवार Shanivār
+  - रविवार Ravivār, सोमवार Somavār, मंगळवार Mangaḷavār, शुक्रवार Shukravār, शनिवार Shanivār
+  - রবিবার Robibar, সোমবার Shombar, মঙ্গলবার Monggolbar, শুক্রবার Shukrobar, শনিবার Shonibar
+  - Itwār اتوار, Pīr پیر [☽4 ] or Somwar سوموار, Mangal منگل, Jum'ah جمعہ [♀4 ], Sanīchar سنیچر or ہفتہ Haftah [♄6 ]
+  - اَتھ وار Aath'var, ژندر وار Tsander'var, پم وار Bom'var, جُمھ Jummah, بٹ وار Bat'var
+  - တနင်္ဂနွေ IPA: [tənɪ́ɴ ɡənwè ] (Tananganve), တနင်္လာ IPA: [tənɪ́ɴ là ] (Tanangla), အင်္ဂါ IPA: [ɪ̀ɴ ɡà ] (Angga), သောကြာ IPA: [θaʊʔ tɕà ] (Saukra), စနေ IPA: [sənè ] (Cane)
+  - တ္ၚဲ အဒိုတ် [ŋoa ətɜ̀t ] from Sans. āditya, တ္ၚဲ စန် [ŋoa cɔn] from Sans. candra, တ္ၚဲ အၚါ [ŋoa əŋɛ̀a] from Sans. aṅgāra, တ္ၚဲ သိုက်. [ŋoa sak] from Sans. śukra, တ္ၚဲ သ္ၚိ သဝ် [ŋoa hɔeʔ sɔ] from Sans. śani
+  - ថ្ងៃអាទិត្យ [tŋaj ʔaatɨt ], ថ្ងៃចន្ទ [tŋaj can], ថ្ងៃអង្គារ [tŋaj ʔɑŋkie], ថ្ងៃសុក្រ [tŋaj sok], ថ្ងៃសៅរ៍ [tŋaj saʋ]
+  - રવિવાર Ravivār, સોમવાર Somvār, મંગળવાર Mangaḷvār, શુક્રવાર Shukravār, શનિવાર Shanivār
+  - އާދީއްތަ Aadheettha, ހޯމަ Homa, އަންގާރަ Angaara, ހުކުރު Hukuru, ހޮނިހިރު Honihiru
+  - ఆదివారం Aadi Vāram, సోమవారం Soma Vāram, మంగళవారం Mangala Vāram, శుక్రవారం Shukra Vāram, శనివారం Shani Vāram
+  - ഞായര്‍ Nhāyar, തിങ്കള്‍ Tingal, ചൊവ്വ Covva, വെള്ളി Velli, ശനി Sani
+  - ಭಾನುವಾರ Bhanu Vaara, ಸೋಮವಾರ Soma Vaara, ಮಂಗಳವಾರ Mangala Vaara, ಶುಕ್ರವಾರ Shukra Vaara, ಶನಿವಾರ Shani Vaara
+  - ວັນອາທິດ [wán ʔàːtʰīt ], ວັນຈັນ [wán càn], ວັນອັງຄານ [wán ʔàŋkʰáːn], ວັນສຸກ [wán súk], ວັນເສົາ [wán sǎu]
+  - ඉරිදා Iridaa, සදුදා Sandudaa, අඟහරැවදා Anngaharuwadaa, සිකුරාදා Sikuradaa, සෙනසුරාදා Senasuraadaa
+  - ဝၼ်းဢႃတိတ်ႉ IPA: [wan˦ ʔaː˩ tit˥ ], ဝၼ်းၸၼ် IPA: [wan˦ tsan˩ ], ဝၼ်းဢင်းၵၼ်း IPA: [wan˦ ʔaŋ˦ kan˦ ], ဝၼ်းသုၵ်း IPA: [wan˦ sʰuk˦ ], ဝၼ်းသဝ် IPA: [wan˦ sʰaw˩ ]
+  - วันอาทิตย์ Wan Āthit, วันจันทร์ Wan Chan, วันอังคาร Wan Angkhān, วันศุกร์ Wan Suk, วันเสาร์ Wan Sao
+  - адъяа ad'yaa, сумъяа sum'yaa, ангараг angarag, сугар sugar, санчир sanchir
+  - Raditya, Soma, Anggara, Sukra, Tumpek
+  - Redite, Coma, Anggara, Sukra, Saniscara
+  - ਐਤਵਾਰ etvār, ਸੋਮਵਾਰ sōmvār, ਮੰਗਲਵਾਰ mangalvār, ਸ਼ੁੱਕਰਵਾਰ shukkarvār, ਸ਼ਨਿੱਚਰਵਾਰ shaniccharvār
+
+=== Table ID: 2-12779644-3 ===
+=== Table Title: 2007 British motorcycle Grand Prix ===
+Columns: Rider, Manufacturer, Laps, Time/Retired, Grid
+  - Mattia Pasini, Aprilia, 25, 41:49.049, 1
+  - Tomoyoshi Koyama, KTM, 25, +3.253, 3
+  - Héctor Faubel, Aprilia, 25, + 5.094, 6
+  - Sergio Gadea, Aprilia, 25, +6.781, 5
+  - Joan Olivé, Aprilia, 25, +7.212, 10
+  - Mike Di Meglio, Honda, 25, +7.335, 15
+  - Bradley Smith, Honda, 25, +13.505, 9
+  - Raffaele de Rosa, Aprilia, 25, +13.885, 12
+  - Pablo Nieto, Aprilia, 25, +14.367, 7
+  - Simone Corsi, Aprilia, 25, +26.672, 2
+  - Lorenzo Zanetti, Aprilia, 25, +27.060, 17
+  - Sandro Cortese, Aprilia, 25, +37.403, 16
+  - Randy Krummenacher, KTM, 25, +38.212, 11
+  - Enrique Jerez, Honda, 25, +41.905, 24
+  - Andrea Iannone, Aprilia, 25, +48.782, 14
+  - Robert Muresan, Derbi, 25, +1:05.000, 26
+  - Simone Grotzkyj, Aprilia, 25, +1:05.720, 31
+  - Lukáš Pešek, Derbi, 25, +1:05.847, 21
+  - Alexis Masbou, Honda, 25, +1:18.100, 8
+  - Michael Ranseder, Derbi, 25, +1:18.468, 18
+  - Joey Litjens, Honda, 25, +1:23.222, 29
+  - Luke Jones, Honda, 25, +1:24.001, 33
+  - Stevie Bonsey, KTM, 25, +1:24.309, 30
+  - Nicolás Terol, Derbi, 25, +1:27.391, 22
+  - Danny Webb, Honda, 25, +1:33.592, 37
+  - Hugo van den Berg, Aprilia, 25, +1:38.942, 27
+  - Nikki Coates, Honda, 25, +1:40.403, 34
+  - Robbie Stewart, Honda, 25, +1:40.553, 32
+  - Roberto Tamburini, Aprilia, 24, +1 Lap, 19
+  - Tom Hayward, Honda, 24, +1 Lap, 36
+  - Federico Sandi, Aprilia, 20, Retirement, 23
+  - Gábor Talmácsi, Aprilia, 19, Retirement, 4
+  - Kev Coghlan, Honda, 15, Retirement, 35
+  - Esteve Rabat, Honda, 13, Retirement, 28
+  - Stefano Bianco, Aprilia, 10, Retirement, 20
+  - Pol Espargaró, Aprilia, 10, Retirement, 13
+  - Dominique Aegerter, Aprilia, 4, Retirement, 25
+
+=== Table ID: 2-12783587-2 ===
+=== Table Title: List of Manchester United F.C. records and statistics ===
+Columns: Name, Years, League, FA Cup, League Cup, Europe, Other [C ], Total
+  - Bobby Charlton, 1956–1973, 199 (606), 0 19 0 (78), 00 7 0 (24), 0 22 0 (45), 00 2 00 (5), 249 (758)
+  - Denis Law, 1962–1973, 171 (309), 0 34 0 (46), 00 3 0 (11), 0 28 0 (33), 00 1 00 (5), 237 (404)
+  - Jack Rowley, 1937–1955, 182 (380), 0 26 0 (42), 00 0 00 (0), 00 0 00 (0), 00 3 00 (2), 211 (424)
+  - Wayne Rooney, 2004–present, 145 (286), 0 17 0 (29), 00 5 0 (15), 0 34 0 (79), 00 4 00 (7), 205 (416)
+  - Dennis Viollet, 1952–1962, 159 (259), 00 5 0 (18), 00 1 00 (2), 0 13 0 (12), 00 1 00 (2), 179 (293)
+  - George Best, 1963–1974, 137 (361), 0 21 0 (46), 00 9 0 (25), 0 11 0 (34), 00 1 00 (4), 179 (470)
+  - Joe Spence, 1919–1933, 158 (481), 0 10 0 (29), 00 0 00 (0), 00 0 00 (0), 00 0 00 (0), 168 (510)
+  - Ryan Giggs, 1991–present, 114 (664), 0 12 0 (74), 0 12 0 (40), 0 29 (152), 00 1 0 (19), 168 (949)
+  - Mark Hughes, 1983–1986 1988–1995, 120 (345), 0 17 0 (46), 0 16 0 (38), 00 9 0 (33), 00 1 00 (5), 163 (467)
+  - Paul Scholes, 1994–2011 2012–2013, 107 (499), 0 13 0 (49), 00 9 0 (21), 0 26 (134), 00 0 0 (15), 155 (718)
+
+=== Table ID: 2-12784134-24 ===
+=== Table Title: Basque verbs ===
+Columns: Perfect stem, Future stem, Imperfect stem, Short stem, Meaning
+  - hartu, hartuko, hartzen, har, 'take'
+  - garbitu, garbituko, garbitzen, garbi, 'clean'
+  - kendu, kenduko, kentzen, ken, 'take away, remove'
+  - poztu, poztuko, pozten, poz, 'be/become happy'
+  - ibili, ibiliko, ibiltzen, ibil, 'go about'
+  - ikusi, ikusiko, ikusten, ikus, 'see'
+  - iritsi, iritsiko, iristen, irits, 'arrive'
+  - ireki, irekiko, irekitzen, ireki, 'open'
+  - bete, beteko, betetzen, bete, 'fill'
+  - jo, joko, jotzen, jo, 'strike'
+  - hil, hilko, hiltzen, hil, 'die, kill'
+  - egin, egingo, egiten, egin, 'make, do'
+  - eman, emango, ematen, eman, 'give'
+  - esan, esango, esaten, esan, 'say'
+
+=== Table ID: 2-1278594-2 ===
+=== Table Title: List of cities and towns in Greenland ===
+Columns: Rank, Population, Name, Former Name, Municipality
+  - 14, 845, Qeqertarsuaq, Godhavn Lievely, Qaasuitsup
+  - 15, 656, Qaanaaq, Thule, Qaasuitsup
+  - 16, 558, Kangaatsiaq, —, Qaasuitsup
+  - 17, 512, Kangerlussuaq, Bluie West-8 Søndre Strømfjord Sondrestrom, Qeqqata
+  - 18, 452, Ittoqqortoormiit, Scoresbysund, Sermersooq
+  - 19, 448, Kullorsuaq, —, Qaasuitsup
+  - 20, 353, Kangaamiut, Gammel Sukkertoppen Sukkertoppen, Qeqqata
+  - 21, 331, Kuummiit, —, Sermersooq
+  - 22, 267, Kulusuk, Kap Dan, Sermersooq
+  - 23, 263, Alluitsup Paa, Sydprøven, Kujalleq
+  - 24, 258, Niaqornaarsuk, —, Qaasuitsup
+  - 25, 246, Tasiusaq, —, Qaasuitsup
+  - 26, 235, Saattut, —, Qaasuitsup
+  - 27, 231, Attu, —, Qaasuitsup
+  - 28, 211, Ikerasak, —, Qaasuitsup
+  - 29, 203, Qeqertarsuatsiaat, Fiskenæsset, Sermersooq
+  - 29, 203, Sermiligaaq, —, Sermersooq
+  - 31, 201, Nuussuaq, Kraulshavn, Qaasuitsup
+
+=== Table ID: 2-1279636-6 ===
+=== Table Title: List of countesses of Flanders ===
+Columns: Name, Father, Birth, Marriage, Became Countess, Ceased to be Countess, Death, Spouse
+  - Beatrice of Brabant, Henry II, Duke of Brabant ( Leuven ), 1225, November 1247, November 1247, 6 June 1251 husband's death, 11 November 1288, William II
+  - Matilda of Bethune, Robert VII, Lord of Bethune ( Bethune ), after 1230, 2 February 1246, 6 June 1251 husband's accession, 8 November 1264, 8 November 1264, Guy
+  - Isabelle, Marchioness of Namur, Henry V, Count of Luxembourg ( Luxembourg ), 1247, March or May 1264, March or May 1264, 25 September 1298, 25 September 1298, Guy
+  - Margaret I, Countess of Burgundy, Philip V of France ( Capet ), 1309, 22 July 1320, 17 September 1322 husband's accession, 26 August 1346 husband's death, 9 May 1382, Louis I
+  - Margaret of Brabant, Henry II, Duke of Brabant ( Leuven ), 9 February 1323, 6 June 1347, 6 June 1347, 1368, 1368, Louis II
+
+=== Table ID: 2-12796733-3 ===
+=== Table Title: Nicolas Colsaerts ===
+Columns: Tournament, Wins, Top-10, Events, Cuts made
+  - Masters Tournament, 0, 0, 1, 0
+  - U.S. Open, 0, 1, 3, 2
+  - The Open Championship, 0, 1, 3, 1
+  - PGA Championship, 0, 0, 2, 0
+  - Totals, 0, 2, 9, 3
+
+=== Table ID: 2-12797136-1 ===
+=== Table Title: Butterscotch (performer) ===
+Columns: Week, Theme, Song choice, Original artist, Result
+  - Audition, Chicago, " Love to Love You Baby ", Donna Summer, Advanced
+  - Vegas Verdicts, N/A, N/A, N/A, Advanced
+  - Top 20 Group 1, N/A, " Summertime ", Abbie Mitchell, Advanced
+  - Top 10, N/A, " It's Your Thing ", The Isley Brothers, Advanced
+  - Top 8, Heroes, " My Funny Valentine ", Mitzi Green, Advanced
+  - Top 4, Judges' Choice Contestant's Choice, " What's Going On " " Dance to the Music ", Marvin Gaye Sly & the Family Stone, N/A
+  - Finale, Duets, " Beautiful Girls ", Sean Kingston, 3rd Place
+
+=== Table ID: 2-12797374-1 ===
+=== Table Title: Individual Speedway European Championship ===
+Columns: Year, Venue, Winners, 2nd place, 3rd place
+  - 2001, Heusden Zolder, Bohumil Brhel (14 pts), Mariusz Staszewski (13 pts), Krzysztof Cegielski (12+3 pts)
+  - 2002, Rybnik, Magnus Zetterström (12+3 pts), Krzysztof Kasprzak (12+2 pts), Rafał Szombierski (11+3 pts)
+  - 2003, Slaný, Krzysztof Kasprzak (12+3 pts), Sławomir Drabik (12+2 pts), Magnus Zetterström (11 pts)
+  - 2004, Holsted, Matej Žagar (14+3 pts), Matej Ferjan (14+2 pts), Hans N. Andersen (12 pts)
+  - 2005, Lonigo, Jesper B. Jensen (14+3 pts), Aleš Dryml, Jr. (14+2 pts), Kai Laukkanen (12 pts)
+  - 2006, Miskolc, Krzysztof Jabłoński (13+3 pts), Grzegorz Walasek (13+2 pts), Christian Hefenbrock (12 pts)
+  - 2007, Wiener Neustadt, Jurica Pavlic (14 pts), Sebastian Ułamek (13 pts), Patrick Hougaard (11 pts)
+  - 2008, Lendava, Matej Žagar (14 pts), Sebastian Ułamek (10+3+3 pts), Mads Korneliussen (10+2+2+2)
+  - 2009, Tolyatti, Renat Gafurov (13+3 pts), Andriy Karpov (13+2 pts), Aleš Dryml, Jr. (13+1 pts)
+  - 2010, Tarnów, Sebastian Ułamek (15 pts), Aleš Dryml, Jr. (12 pts), Andrij Karpow (11+3 pts)
+  - 2011, Rivne, Grigory Laguta (14+3 pts), Tomasz Gapinski (14+2 pts), Aleš Dryml, Jr. (12 pts)
+  - Year, Venue, Winners, 2nd place, 3rd place
+
+=== Table ID: 2-1280090-4 ===
+=== Table Title: List of closed railway stations in Victoria ===
+Columns: Name, Line, Location, Closed, Current Status
+  - Mangalore, Shepparton line, Mangalore, Early 1980s, Demolished
+  - Tabilk, Shepparton line, Tabilk, Late 1980s, Demolished
+  - Wahring, Shepparton line, Wahring, Late 1970s, Demolished
+  - Arcadia, Shepparton line, Arcadia, Late 1970s, Demolished
+  - Toolamba, Shepparton line, Toolamba, Late 1970s, Demolished
+  - Longwood, Albury line, Longwood, 4 October 1981, Demolished
+  - Baddaginnie, Albury line, Baddaginnie, 5 July 1978, Demolished, goods platform still visible
+  - Glenrowan, Albury line, Glenrowan, 4 October 1981, Demolished, rebuilt 2001
+  - Barnawartha, Albury line, Barnawartha, Late 1970s, Intact
+
+=== Table ID: 2-12803263-1 ===
+=== Table Title: Nishi-Ōhira Domain ===
+Columns: Name, Tenure, Courtesy title, Court Rank, Revenues, Lineage
+  - Ōoka Tadasuke (大岡忠相), 1748–1751, Echizen-no-kami (越前守), Lower 5th (従五位下), 10,000 koku, 4th son of hatamoto Ōoka Tadataka
+  - Ōoka Tadayoshi (大岡忠宜), 1755–1766, Echizen-no-kami (越前守), Lower 5th (従五位下), 10,000 koku, 2nd son of Tadasuke
+  - Ōoka Tadatsune (大岡忠恒), 1766–1784, Echizen-no-kami (越前守), Lower 5th (従五位下), 10,000 koku, 2nd son of Tadayoshi
+  - Ōoka Tadatomo (大岡忠與), 1784–1786, Echizen-no-kami (越前守), Lower 5th (従五位下), 13,000 koku, 3rd son of Ogasawara Nagamichi
+  - Ōoka Tadayori (大岡忠移), 1786–1828, Echizen-no-kami (越前守), Lower 5th (従五位下), 10,000 koku, 3rd son of Tadatsune
+  - Ōoka Tadayoshi (2nd) (大岡忠愛), 1828–1857, Echizen-no-kami (越前守), Lower 5th (従五位下), 10,000 koku, son of Tadayori
+  - Ōoka Tadataka (大岡忠敬), 1857–1871, Echizen-no-kami (越前守), Lower 5th (従五位下), 10,000 koku, 5th son of Tadayori
+
+=== Table ID: 2-12803398-3 ===
+=== Table Title: Koromo Domain ===
+Columns: Name, Tenure, Courtesy title, Court Rank, revenues
+  - Naitō Masamitsu ( 内藤政苗 ? ), 1749–1766, Tamba-no-kami, Lower 5th (従五位下), 20,000 koku
+  - Naitō Satobumi ( 内藤学文 ? ), 1766–1794, Yamashiro-no-kami, Lower 5th (従五位下), 20,000 koku
+  - Naitō Masamichi ( 内藤政峻 ? ), 1794–1813, Yamashiro-no-kami, Lower 5th (従五位下), 20,000 koku
+  - Naitō Masanari ( 内藤政成 ? ), 1813–1830, Yamashiro-no-kami, Lower 5th (従五位下), 20,000 koku
+  - Naitō Masahiro ( 内藤政優 ? ), 1830–1851, Tamba-no-kami, Lower 5th (従五位下), 20,000 koku
+  - Naitō Masabumi ( 内藤政文 ? ), 1851–1858, Yamashiro-no-kami, Lower 5th (従五位下), 20,000 koku
+  - Naitō Masanari ( 内藤政成 ? ), 1858–1871, Tamba-no-kami, Lower 5th (従五位下), 20,000 koku
+
+=== Table ID: 2-12803561-1 ===
+=== Table Title: Appalachian balds ===
+Columns: Mountain, Elevation, Range, State(s), Surface
+  - Richland Balsam, 6,410 ft/1,950 m, Great Balsam Mtns., N.C., Grassy
+  - Black Balsam Knob, 6,214 ft/1,894 m, Great Balsam Mtns., N.C., Grassy
+  - Grassy Ridge Bald, 6,189 ft/1,886 m, Roan Highlands, N.C., Grassy
+  - Andrews Bald, 5,920 ft/1,804 m, Great Smoky Mtns., N.C., Grassy
+  - Round Bald, 5,826 ft/1,775 m, Roan Highlands, Tenn. / N.C., Grassy
+  - Jane Bald, 5,820 ft/1,773 m, Roan Highlands, Tenn. / N.C., Heath/Grassy
+  - Silers Bald, 5,607 ft/1,709 m, Great Smoky Mtns., Tenn. / N.C., Grassy/Young forest
+  - Hump Mountain, 5,587 ft/1,703 m, Roan Highlands, Tenn. / N.C., Grassy
+  - Buck Bald, 5,560 ft/1,609 m, Great Balsam Mtns., N.C., Grassy
+  - Huckleberry Knob, 5,560 ft/1,609 m, Unicoi Mtns., N.C., Grassy
+  - Whitetop Mountain, 5,540 ft/1,688 m, Grayson Highlands, Virginia, Grassy
+  - Big Bald, 5,516 ft/1,681 m, Bald Mtns., Tenn. / N.C., Grassy
+  - Thunderhead Mountain (middle summit), 5,485 ft/1,672 m, Great Smoky Mtns., Tenn. / N.C., Heath
+  - Hooper Bald, 5,429 ft/1,655 m, Unicoi Mtns., N.C., Grassy
+  - Yellow Mountain, 5,420 ft/1,652 m, Roan Highlands, Tenn. / N.C., Grassy
+  - Hemphill Bald, 5,400 ft/1,646 m, Great Smoky Mtns., N.C., Grassy
+  - Stratton Bald, 5,360 ft/1,634 m, Unicoi Mtns., N.C., Grassy
+  - Wayah Bald, 5,342 ft/1,628 m, Nantahala Mtns., N.C., Heath
+  - Tusquitee Bald, 5,240 ft/1,597 m, Nantahala Mtns., N.C., Grassy
+  - Maddron Bald, 5,200 ft/1,585 m, Great Smoky Mtns., Tennessee, Heath
+  - Siler Bald, 5,200 ft/1,585 m, Nantahala Mtns., N.C., Grassy
+  - Sandymush Bald, 5,152 ft/1,507 m, Central Blue Ridge Mtns., N.C., Grassy
+  - Cheoah Bald, 5,062 ft/1,543 m, Cheoah Mtns., N.C., Grassy
+  - Gregory Bald, 4,949 ft/1,508 m, Great Smoky Mtns., Tenn. / N.C., Grassy
+  - Spence Field, 4,920 ft/1,500 m, Great Smoky Mtns., Tenn. / N.C., Grassy/Young forest
+  - Brasstown Bald, 4,784 ft/1,458 m, Southern Blue Ridge Mtns., Georgia, Heath
+  - Ben Parton Lookout, 4,754/1,449 m, Great Smoky Mtns., Tennessee, Heath
+  - Parson Bald, 4,732 ft/1,442 m, Great Smoky Mtns., Tenn. / N.C., Grassy
+  - Rabun Bald, 4,696 ft/1,431 m, Southern Blue Ridge Mtns., Georgia, Heath
+  - Max Patch Mountain, 4,629 ft/ 1,411 m, Bald Mtns., N.C., Grassy
+  - Russell Field, 4,455 ft/1,358 m, Great Smoky Mtns., Tenn. / N.C., Grassy/Young forest
+  - Elk Garden, 4,450 ft/1,356 m, Grayson Highlands, Virginia, Grassy
+  - Beauty Spot, 4,437 ft/1,352 m, Unaka Mtns., Tenn. / N.C., Grassy
+  - Big Bald Mountain, 4,075 ft/1,242 m, Southern Blue Ridge Mtns., Georgia, Grassy
+
+=== Table ID: 2-12807904-1 ===
+=== Table Title: WRU Division Two East ===
+Columns: Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus, Losing bonus
+  - Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus, Losing bonus
+  - Ystrad Rhondda RFC, 22, 0, 4, 657, 233, 92, 26, 12, 3
+  - Penallta RFC, 22, 0, 4, 542, 295, 70, 26, 8, 3
+  - Rhydyfelin RFC, 22, 0, 8, 599, 322, 83, 30, 9, 6
+  - Ynysybwl RFC, 22, 2, 6, 553, 395, 68, 39, 9, 2
+  - Heol y Cyw RFC, 22, 0, 7, 442, 299, 53, 35, 6, 4
+  - Llantrisant RFC, 22, 1, 8, 480, 453, 44, 51, 5, 1
+  - Llantwit Fardre RFC, 22, 0, 14, 424, 489, 51, 62, 4, 4
+  - Bedlinog RFC, 22, 0, 14, 406, 529, 38, 58, 3, 4
+  - Abercynon RFC, 22, 1, 14, 383, 614, 40, 83, 3, 2
+  - Tylorstown RFC, 22, 0, 15, 302, 559, 35, 70, 3, 2
+  - Fleur De Lys RFC, 22, 0, 17, 308, 627, 29, 81, 2, 5
+  - Rhymney RFC, 22, 0, 19, 276, 557, 30, 72, 1, 5
+  - Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012
+
+=== Table ID: 2-12807904-2 ===
+=== Table Title: WRU Division Two East ===
+Columns: Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus, Losing bonus
+  - Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus, Losing bonus
+  - Mountain Ash RFC, 22, 0, 0, 791, 280, 103, 32, 15, 0
+  - Tredegar RFC, 22, 0, 3, 786, 361, 107, 39, 17, 2
+  - Llantrisant RFC, 22, 0, 9, 617, 520, 79, 71, 11, 2
+  - Rhydyfelin RFC, 22, 1, 8, 593, 489, 87, 61, 8, 2
+  - Penallta RFC, 22, 0, 11, 433, 407, 56, 49, 7, 4
+  - Tylorstown RFC, 22, 1, 11, 501, 517, 66, 63, 7, 5
+  - Fleur De Lys RFC, 22, 1, 12, 535, 575, 65, 70, 10, 5
+  - Llantwit Fardre RFC, 22, 1, 11, 464, 504, 60, 64, 3, 2
+  - Ynysybwl RFC, 22, 1, 12, 470, 564, 56, 70, 4, 4
+  - Brynmawr RFC, 22, 1, 13, 474, 560, 61, 71, 7, 5
+  - Penarth RFC, 22, 0, 17, 335, 556, 37, 74, 2, 4
+  - Caerphilly RFC, 22, 0, 22, 295, 961, 32, 145, 2, 2
+  - Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012
+
+=== Table ID: 2-12807904-5 ===
+=== Table Title: WRU Division Two East ===
+Columns: Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus
+  - Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus
+  - Ystrad Rhondda RFC, 22, 0, 3, 672, 280, 81, 34, 9
+  - Penallta RFC, 22, 0, 5, 499, 312, 73, 40, 10
+  - Mountain Ash RFC, 22, 0, 6, 486, 270, 60, 29, 8
+  - Tredegar RFC, 22, 0, 9, 521, 327, 69, 41, 10
+  - Builth Wells RFC, 22, 0, 9, 517, 297, 66, 37, 10
+  - Treherbert RFC, 22, 0, 8, 445, 406, 57, 45, 5
+  - Abercynon RFC, 22, 0, 10, 535, 476, 71, 64, 9
+  - Ynysybwl RFC, 22, 0, 12, 476, 389, 67, 47, 6
+  - Rhydyfelin RFC, 22, 0, 13, 385, 426, 51, 53, 5
+  - Newport HSOB RFC, 22, 0, 17, 380, 710, 53, 99, 5
+  - Llanishen RFC, 22, 0, 18, 300, 632, 35, 92, 3
+  - Pill Harriers RFC, 22, 0, 22, 208, 899, 33, 135, 1
+  - Correct as of 00:00 11 May 2008, Correct as of 00:00 11 May 2008, Correct as of 00:00 11 May 2008, Correct as of 00:00 11 May 2008, Correct as of 00:00 11 May 2008, Correct as of 00:00 11 May 2008, Correct as of 00:00 11 May 2008, Correct as of 00:00 11 May 2008, Correct as of 00:00 11 May 2008
+
+=== Table ID: 2-12815540-1 ===
+=== Table Title: List of tallest buildings in Kansas City, Missouri ===
+Columns: Rank, Address, Height feet / m, Floors, Year
+  - 1, 1200 Main Street, 624 / 197, 42, 1988
+  - 2, 1111 Main Street, 591 / 180, 38, 1986
+  - 3, 1330 Baltimore Street, 481 / 145, 36, 1931
+  - 4, 909 Walnut Street, 470 / 143, 32, 1932
+  - 5, 414 E. 12th Street, 445 / 136, 30, 1937
+  - 6, 1201 Walnut Street, 427 / 130, 30, 1991
+  - 7, 2345 McGee Street, 425 / 129, 40, 1980
+  - 8, 909 Main Street, 421 / 128, 30, 1965
+  - 9, 1100 Main Street, 404 / 123, 30, 1977
+  - 10, 324 E. 11th Street, 379 / 116, 28, 1929
+  - 11, 2345 Grand Avenue, 352 / 107.3, 28, 1977
+  - 12, 1100 Grand Avenue, 352 / 107, 26, 1931
+  - 13, 2555 Grand Avenue, 351 / 107, 26, 2003
+  - 14, 2510 Grand Avenue, 342 / 104.5, 32, 1976
+  - 15 =, 1301 Wyandotte Street, 299 / 91, 28, 1968
+  - 16 =, 1425 Oak Street, 298 / 91, 26, 1976
+  - 17, 925 Grand Avenue, 299 / 91, 21, 1921
+  - 18 =, 601 E. 12th Street, 295 / 90, 18, 1966
+  - 19 =, 415 E. 12th Street, 295 / 90, 22, 1934
+  - 20, 400 E. 9th Street, 290 / 88, 10, 2000
+  - 21, 106 W. 11th Street, 288 / 88, 20, 1974
+  - 22, 106 W. 11th Street, 285 / 87, 24, 1923
+  - 23, 298 W. 31st Street, 280 / 85, 20, 1963
+  - 24, 920 Main Street, 272 / 83, 20, 1969
+  - 25 =, 922 Walnut Street, 258 / 79, 20, 1906
+  - 26 =, 920 Main Street, 258 / 79, 20, 1985
+  - 27, 12 Wyandotte Street, 253 / 77 (est.), 18, 1986
+  - 28, 1 Memorial Drive (at Main Street), 250 / 76, 16, 2008
+  - 29, 106 W. 12th Street, 243 / 73, 20, 1930
+  - 30, 1125 Grand Boulevard, 241 / 73, 20, 1963
+  - 31, 1 H&R Block Way (Oak Street at E. 12th Street), 236 / 72, 17, 2006
+  - 32 & 33, 4500 Main Street, 236 / 72, 20, 1991 & 1994
+  - 34, Kansas City, Missouri 64106, 231/ 70.7, 17, 1930
+  - 35, 4445 Main Street, 229 / 70, 18, 1986
+  - 36, 4600 Madison Avenue, 225 / 69, 17, 1986
+  - 37, 128 W. 13th Street, 217/ 66.29, 14, 1921
+  - 38, 21 W. 10th Street, 208.5/ 63.5, 15, 1914
+  - 39, 213 East 11th Street, 206/62.79, 16, 1930
+  - 40, 928 Grand Boulevard, 200/60.96, 16, center> 1907
+
+=== Table ID: 2-12816291-1 ===
+=== Table Title: Largest urban areas of Norway ===
+Columns: Urban area, Population 1.1.2009, Population 1.1.2008, Population 1.1.2007, Population 1.1.2006, Population per square km
+  - Oslo, 876.391, 856.915, 839.423, 825.105, 3.009
+  - Bergen, 227.752, 223.593, 220.418, 218.032, 2.387
+  - Stavanger, 189.828, 185.913, 181.280, 177.337, 2.387
+  - Trondheim, 160.072, 156.794, 152.845, 150.049, 2.509
+  - Fredrikstad/Sarpsborg, 101.698, 100.458, 99.227, 98.152, 1.533
+  - Drammen, 96.563, 94.901, 93.006, 91.584, 1.915
+  - Porsgrunn/Skien, 86.923, 86.342, 85.812, 85.408, 1.493
+  - Kristiansand, 67.547, 66.532, 65.636, 64.930, 2.082
+  - Tromsø, 55.057, 54.070, 53.622, 53.042, 2.418
+  - Tønsberg, 47.465, 46.862, 46.091, 45.447, 1.518
+  - Ålesund, 46.471, 45.902, 45.299, 44.706, 1.533
+  - Haugesund, 42.850, 42.112, 41.183, 40.685, 1.792
+  - Moss, 41.725, 40.309, 40.217, 34.684, 1.864
+  - Sandefjord, 40.817, 40.596, 40.211, 39.849, 1.493
+  - Bodø, 36.482, 36.073, 35.618, 35.106, 2.419
+  - Arendal, 32.439, 32.103, 31.442, 31.182, 1.222
+  - Hamar, 30.015, 29.808, 29.479, 29.077, 1.656
+  - Larvik, 23.899, 23.577, 23.359, 23.164, 1.627
+  - Halden, 22.986, 22.688, 22.339, 22.184, 1.607
+  - Lillehammer, 20.097, 19.922, 19.638, 19.422, 1.545
+  - Harstad, 19.519, 19.470, 19.573, 19.528, 1.676
+  - Molde, 19.353, 19.217, 18.631, 18.579, 1.806
+  - Kongsberg, 18.809, 18.565, 18.136, 17.914, 1.448
+  - Gjøvik, 18.707, 18.424, 17.987, 17.897, 1.428
+  - Askøy, 18.326, 18.054, 17.754, 17.480, 1.202
+  - Horten, 18.211, 17.966, 17.940, 17.723, 2.099
+  - Mo i Rana, 17.894, 17.750, 17.830, 17.942, 1.391
+  - Kristiansund, 17.002, 16.854, 16.820, 16.829, 2.155
+  - Jessheim, 15.349, 14.632, 13.385, 13.038, 1.701
+  - Hønefoss, 14.292, 14.177, 13.930, 13.811, 1.380
+  - Narvik, 13 927, 13.958, 13.944, 13.950, 2.065
+  - Alta, 13.583, 13.344, 13.128, 12.530, 1.349
+  - Elverum, 13.541, 13.295, 13.051, 12.757, 1.088
+  - Askim, 13.137, 12.884, 12.696, 12.570, 1.654
+  - Ski, 12.876, 12.934, 12.687, 12.670, 1.957
+  - Drøbak, 12.420, 12.239, 11.853, 11.514, 1.764
+  - Nesoddtangen, 11.599, 11.420, 11.285, 11.083, 1.655
+  - Steinkjer, 11.538, 11.443, 11.338, 11.137, 1.327
+  - Leirvik, 11.424, 11.342, 11.237, 11.143, 1.341
+  - Vennesla, 11.409, 11.289, 11.057, 11.009, 1.331
+  - Kongsvinger, 11.360, 11.394, 11 181, 11.125, 1.358
+  - shalsen Stjørdal, 10.779, 10.638, 10.494, 10.227, 1.461
+  - Grimstad, 10.668, 10.454, 10.133, 9.973, 1.071
+  - Mandal, 10.494, 10.512, 10.372, 10.281, 1.553
+  - Egersund, 10.397, 10.226, 9.707, 9.528, 1.587
+
+=== Table ID: 2-12821159-11 ===
+=== Table Title: Martin Kaymer ===
+Columns: Tournament, Wins, Top-5, Top-10, Top-25, Events, Cuts made
+  - Masters Tournament, 0, 0, 0, 0, 6, 2
+  - U.S. Open, 0, 0, 1, 2, 6, 5
+  - The Open Championship, 0, 0, 1, 2, 6, 5
+  - PGA Championship, 1, 1, 2, 2, 6, 3
+  - Totals, 1, 1, 4, 6, 24, 15
+
+=== Table ID: 2-12821159-3 ===
+=== Table Title: Martin Kaymer ===
+Columns: Date, Tournament, Winning score, Margin of victory, Runner(s)-up
+  - 20 Jan 2008, Abu Dhabi Golf Championship, –15 (66-65-68-74=273), 4 strokes, Henrik Stenson , Lee Westwood
+  - 22 Jun 2008, BMW International Open, –15 (68-63-67-75=273), Playoff, Anders Hansen
+  - 5 Jul 2009, Open de France ALSTOM, –13 (62-72-69-68=271), Playoff, Lee Westwood
+  - 12 Jul 2009, Barclays Scottish Open, –15 (69-65-66-69=269), 2 strokes, Gonzalo Fernández-Castaño , Raphaël Jacquelin
+  - 24 Jan 2010, Abu Dhabi Golf Championship, –21 (67-67-67-66=267), 1 stroke, Ian Poulter
+  - 15 Aug 2010, PGA Championship, –11 (72-68-67-70=277), Playoff, Bubba Watson
+  - 12 Sep 2010, KLM Open, –14 (67-67-66-66=266), 4 strokes, Christian Nilsson , Fabrizio Zanotti
+  - 10 Oct 2010, Alfred Dunhill Links Championship, –17 (68-69-68-66=271), 3 strokes, Danny Willett
+  - 23 Jan 2011, Abu Dhabi HSBC Golf Championship, –24 (67-65-66-66=264), 8 strokes, Rory McIlroy
+  - 6 Nov 2011, WGC-HSBC Champions, –20 (69-68-68-63=268), 3 strokes, Fredrik Jacobson
+
+=== Table ID: 2-12821570-2 ===
+=== Table Title: Primera División de Fútbol Profesional Apertura 2007 ===
+Columns: Place, Team, Played, Draw, Lost, Goals Scored, Goals Conceded, Points
+  - 1., C.D. Chalatenango, 18, 4, 4, 29, 16, 34
+  - 2., C.D. FAS, 18, 3, 6, 27, 21, 30
+  - 3., A.D. Isidro Metapán, 18, 5, 5, 31, 24, 29
+  - 4., C.D. Luis Ángel Firpo, 18, 6, 5, 23, 17, 27
+  - 5., C.D. Vista Hermosa, 18, 3, 7, 24, 25, 27
+  - 6., C.D. Águila, 18, 4, 7, 23, 20, 25
+  - 7., Alianza F.C., 18, 6, 6, 26, 28, 24
+  - 8., Nejapa F.C., 18, 7, 6, 31, 34, 22
+  - 9., San Salvador F.C., 16, 6, 9, 20, 35, 15
+  - 10., Once Municipal, 18, 2, 12, 8, 22, 14
+
+=== Table ID: 2-12824897-3 ===
+=== Table Title: Capital punishment in Connecticut ===
+Columns: Name, Race, Current age, Age at offense, Years on death row, Location of offense
+  - Ashby, Lazale, Black, 29, 18, 5, Hartford
+  - Breton, Robert, White, 67, 41, 24, Waterbury
+  - Campbell, Jessie, Black, 34, 20, 6, Hartford
+  - Cobb, Sedrick, Black, 51, 27, 22, Waterbury
+  - Hayes, Steven, White, 50, 44, 3, Cheshire
+  - Komisarjevsky, Joshua, White, 33, 26, 2, Cheshire
+  - Peeler, Russell, Black, 42, 26, 6, Bridgeport
+  - Reynolds, Richard, Black, 45, 24, 18, Waterbury
+  - Rizzo, Todd, White, 35, 18, 14, Waterbury
+  - Webb, Daniel, Black, 51, 27, 22, Hartford
+
+=== Table ID: 2-12828723-1 ===
+=== Table Title: WRU Division Two West ===
+Columns: Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus, Losing bonus, Points
+  - Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus, Losing bonus, Points
+  - Glynneath RFC, 22, 0, 3, 706, 237, 100, 27, 15, 2, 93
+  - Kenfig Hill RFC, 22, 0, 3, 669, 301, 90, 33, 9, 3, 88
+  - Cwmllynfell RFC, 22, 2, 6, 643, 368, 89, 49, 10, 1, 71
+  - Loughor RFC, 22, 1, 9, 487, 412, 58, 42, 8, 4, 62
+  - Aberavon Quins RFC, 22, 0, 9, 432, 483, 54, 60, 6, 2, 60
+  - Skewen RFC, 22, 1, 9, 359, 320, 44, 35, 3, 5, 58
+  - Kidwelly RFC, 22, 1, 10, 419, 437, 50, 57, 6, 3, 55
+  - Builth Wells RFC, 22, 1, 11, 527, 374, 69, 38, 6, 6, 54
+  - Felinfoel RFC, 22, 0, 14, 319, 485, 39, 59, 2, 4, 38
+  - Crymych RFC, 22, 0, 16, 347, 548, 37, 74, 3, 2, 29
+  - Aberystwyth RFC, 22, 1, 18, 350, 607, 42, 83, 1, 8, 23
+  - Maesteg RFC, 22, 1, 20, 255, 941, 30, 145, 2, 2, 10
+  - Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012, Correct as of 26 May 2012
+
+=== Table ID: 2-12828723-5 ===
+=== Table Title: WRU Division Two West ===
+Columns: Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus
+  - Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus
+  - Felinfoel RFC, 22, 0, 0, 662, 266, 83, 32, 10
+  - Carmarthen Athletic RFC, 22, 1, 3, 606, 263, 81, 28, 11
+  - Loughor RFC, 22, 0, 6, 546, 365, 70, 41, 8
+  - Mumbles RFC, 22, 1, 8, 515, 416, 68, 51, 10
+  - Pencoed RFC, 22, 1, 8, 585, 329, 78, 33, 9
+  - Kidwelly RFC, 22, 0, 11, 474, 400, 54, 54, 7
+  - Cwmavon RFC, 22, 1, 10, 352, 364, 47, 46, 4
+  - Penclawdd RFC, 22, 0, 13, 394, 429, 47, 55, 4
+  - Gorseinon RFC, 22, 0, 14, 401, 437, 53, 56, 5
+  - Pontyberem RFC, 22, 0, 16, 289, 435, 35, 58, 2
+  - Tumble RFC, 22, 1, 20, 291, 721, 35, 102, 2
+  - Nantymoel RFC, 22, 1, 20, 160, 850, 22, 117, 0
+  - Correct as of 2008-05-27, Correct as of 2008-05-27, Correct as of 2008-05-27, Correct as of 2008-05-27, Correct as of 2008-05-27, Correct as of 2008-05-27, Correct as of 2008-05-27, Correct as of 2008-05-27, Correct as of 2008-05-27
+
+=== Table ID: 2-12828774-2 ===
+=== Table Title: 1965 Oakland Raiders season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 12, 1965, Kansas City Chiefs, W 37–10, 18,569
+  - 2, September 19, 1965, San Diego Chargers, L 17–6, 21,406
+  - 3, September 26, 1965, Houston Oilers, W 21–17, 18,116
+  - 4, October 3, 1965, at Buffalo Bills, L 17–12, 41,246
+  - 5, October 8, 1965, at Boston Patriots, W 24–10, 24,824
+  - 6, October 16, 1965, at New York Jets, T 24–24, 54,890
+  - 7, October 24, 1965, Boston Patriots, W 30–21, 20,585
+  - 8, October 31, 1965, at Kansas City Chiefs, L 14–7, 18,354
+  - 9, November 7, 1965, at Houston Oilers, W 33–21, 35,729
+  - 10, November 14, 1965, Buffalo Bills, L 17–14, 19,352
+  - 11, November 21, 1965, at Denver Broncos, W 28–20, 30,369
+  - 12, December 5, 1965, Denver Broncos, W 24–13, 19,023
+  - 13, December 12, 1965, New York Jets, W 24–14, 19,013
+  - 14, December 19, 1965, at San Diego Chargers, L 24–14, 26,056
+
+=== Table ID: 2-12828806-1 ===
+=== Table Title: 1966 Oakland Raiders season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 2, 1966, at Miami Dolphins, W 23–14, 26,776
+  - 2, September 10, 1966, at Houston Oilers, L 31–0, 31,763
+  - 3, September 18, 1966, Kansas City Chiefs, L 32–10, 50,746
+  - 4, September 25, 1966, San Diego Chargers, L 29–20, 37,183
+  - 6, October 9, 1966, Miami Dolphins, W 21–10, 30,787
+  - 7, October 16, 1966, at Kansas City Chiefs, W 34–13, 33,057
+  - 8, October 23, 1966, at New York Jets, W 24–21, 58,135
+  - 9, October 30, 1966, at Boston Patriots, L 24–21, 26,941
+  - 10, November 6, 1966, Houston Oilers, W 38–23, 34,102
+  - 11, November 13, 1966, San Diego Chargers, W 41–19, 26,230
+  - 12, November 20, 1966, at Denver Broncos, W 17–3, 26,703
+  - 13, November 24, 1966, Buffalo Bills, L 31–10, 36,781
+  - 14, December 3, 1966, New York Jets, T 28–28, 32,144
+  - 15, December 11, 1966, at Denver Broncos, W 28–10, 31,765
+
+=== Table ID: 2-12828957-1 ===
+=== Table Title: 1968 Oakland Raiders season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 15, 1968, at Buffalo Bills, W 48–6, 43,057
+  - 2, September 21, 1968, at Miami Dolphins, W 47–21, 30,021
+  - 3, September 29, 1968, at Houston Oilers, W 24–15, 46,098
+  - 4, October 6, 1968, Boston Patriots, W 41–10, 44,253
+  - 5, October 13, 1968, San Diego Chargers, L 23–14, 53,257
+  - 6, October 20, 1968, at Kansas City Chiefs, L 24–10, 50,015
+  - 7, October 27, 1968, Cincinnati Bengals, W 31–10, 37,083
+  - 8, November 3, 1968, Kansas City Chiefs, W 38–21, 53,357
+  - 9, November 10, 1968, at Denver Broncos, W 43–7, 50,002
+  - 10, November 17, 1968, New York Jets, W 43–32, 53,118
+  - 11, November 24, 1968, at Cincinnati Bengals, W 34–0, 27,116
+  - 12, November 28, 1968, Buffalo Bills, W 13–10, 39,883
+  - 13, December 8, 1968, Denver Broncos, W 33–27, 47,754
+  - 14, December 15, 1968, at San Diego Chargers, W 34–27, 40,698
+
+=== Table ID: 2-12829116-1 ===
+=== Table Title: Billy MacKinnon ===
+Columns: Date, Venue, Score, Result, Competition
+  - 4 March 1876, West of Scotland Cricket Ground , Glasgow, 1-0, 3-0, Friendly
+  - 25 March 1876, West of Scotland Cricket Ground , Glasgow, 3-0, 4-0, Friendly
+  - 2 March 1878, Hampden Park , Glasgow, 6-0, 7-2, Friendly
+  - 5 April 1879, Kennington Oval , London, 1-1, 4-5, Friendly
+  - 5 April 1879, Kennington Oval , London, 4-1, 4-5, Friendly
+
+=== Table ID: 2-12830268-5 ===
+=== Table Title: Rhinoceros Party ===
+Columns: Riding, Province, Candidate, Votes, Placement
+  - Ahuntsic, Quebec, Jean-Olivier Berthiaume, 299, 6/6
+  - Berthier—Maskinongé, Quebec, Martin Jubinville, 373, 6/6
+  - Chicoutimi—Le Fjord, Quebec, Marielle Couture, 340, 6/6
+  - Hochelaga, Quebec, Hugo Samson Veillette, 246, 6/8
+  - Honoré-Mercier, Quebec, Valery Chevrefils-Latulippe, 181, 6/7
+  - LaSalle—Émard, Quebec, Guillaume Berger-Richard, 208, 7/7
+  - Laurier—Sainte-Marie, Quebec, François Yo Gourd, 398, 6/9
+  - Outremont, Quebec, Tommy Gaudet, 160, 6/7
+  - Rosemont—La Petite-Patrie, Quebec, Jean-Patrick Berthiaume, 417, 6/7
+  - Sherbrooke, Quebec, Crédible Berlingot Landry, 233, 6/6
+  - Trois-Rivières, Quebec, Francis Arsenault, 256, 7/7
+  - Westmount—Ville-Marie, Quebec, Victoria Haliburton, 140, 6/7
+  - Peace River, Alberta, Donovan Eckstrom, 345, 6/6
+  - Cariboo—Prince George, British Columbia, Jordan Turner, 204, 7/7
+
+=== Table ID: 2-12837399-1 ===
+=== Table Title: Internet in the Czech Republic ===
+Columns: Company, Plan name, Technology, Maximum download speed/ kbps, Data limit/ GB, Monthly price incl. VAT/ CZK
+  - T-Mobile, Internet Basic, 3G, 512, 2/month, 474,81
+  - T-Mobile, Internet Standard, 3G, 512, 5/month, 831,81
+  - T-Mobile, Internet Premium, 3G, 1024, 10/month, 400
+  - Telefónica O2, Mobilní internet, CDMA 450 MHz OR GPRS / EDGE / UMTS /HSDPA, Wi-Fi, 3600, 10/month, 300, 500, 750, 1000
+  - Telefónica O2, Mobilní internet plus, CDMA 450 MHz, GPRS , EDGE , UMTS , HSDPA, Wi-Fi, 3600, none, 1000
+  - Vodafone, Připojení na stálo, GSM , GPRS , EDGE , 3G , HSDPA, HSUPA, Wi-Fi, 512, none, 525 (262,50 first 4 months)
+  - U:fon, U:fonův fofr internet, CDMA 450 MHz, 3G, 300-700, 2/week, 594 (297 first year)
+
+=== Table ID: 2-12837881-2 ===
+=== Table Title: Internet in Moldova ===
+Columns: Year, Number of Users, Penetration, Number of Broadband Subscribers, Broadband Penetration, Population, Data provided by
+  - 2000, ~47,372, 1.3%, no data, no data, ~3,644,070, ITU
+  - 2005, ~525,663, 14.6%, ~10,400, 0.28%, ~3,600,436, ITU
+  - 2010, ~1,151,000, 32.3%, ~269,100, 7.53%, ~3,563,695, ITU / ANRCETI
+  - 2011, ~1,352,600, 38.0%, ~355,100, 10.02%, ~3,559,500, ITU / ANRCETI
+  - 2012, ~1,543,700, 43.4%, ~417,200 (fixed) ~178,500 (mobile), 11.85% (fixed) 5.0% (mobile), ~3,559,500, ITU / ANRCETI
+
+=== Table ID: 2-12838395-3 ===
+=== Table Title: Mevlüt Erdinç ===
+Columns: Date, Venue, Score, Result, Competition
+  - 11 October 2008, Istanbul, Turkey, 2–1, 2–1, 2010 FIFA World Cup qualification
+  - 16 October 2012, Budapest , Hungary, 1–0, 1–3, 2014 FIFA World Cup qualification
+  - 14 November 2012, Istanbul, Turkey, 1–1, 1–1, Friendly
+  - 10 September 2013, Bucharest , Romania, 2–0, 2–0, 2014 FIFA World Cup qualification
+  - As of 10 September 2013, As of 10 September 2013, As of 10 September 2013, As of 10 September 2013, As of 10 September 2013
+
+=== Table ID: 2-12838913-7 ===
+=== Table Title: 2006–07 Blackpool F.C. season ===
+Columns: Name, League, FA Cup, League Cup, Other, Total
+  - Andy Morrell Category:Articles with hCards, 16, 3, 0, 1, 20
+  - Keigan Parker Category:Articles with hCards, 13, 1, 0, 2, 16
+  - Scott Vernon Category:Articles with hCards, 11, 1, 2, 0, 14
+  - Wes Hoolahan Category:Articles with hCards, 8, 1, 0, 1, 10
+  - Shaun Barker Category:Articles with hCards, 3, 1, 0, 2, 6
+  - Keith Southern Category:Articles with hCards, 5, 0, 0, 1, 6
+  - Ben Burgess Category:Articles with hCards, 2, 1, 0, 2, 5
+  - Robbie Williams Category:Articles with hCards, 4, 0, 0, 1, 5
+  - David Fox Category:Articles with hCards, 4, 0, 0, 0, 4
+  - Chris Brandon Category:Articles with hCards, 2, 0, 0, 0, 2
+  - Simon Gillett Category:Articles with hCards, 1, 0, 0, 1, 2
+  - Michael Jackson Category:Articles with hCards, 1, 1, 0, 0, 2
+  - Claus Bech Jørgensen Category:Articles with hCards, 2, 0, 0, 0, 2
+  - Ian Evatt Category:Articles with hCards, 0, 1, 0, 0, 1
+  - Adrian Forbes Category:Articles with hCards, 1, 0, 0, 0, 1
+  - Danny Graham Category:Articles with hCards, 1, 0, 0, 0, 1
+
+=== Table ID: 2-12843936-1 ===
+=== Table Title: Maher Al-Sayed ===
+Columns: Date, Venue, Score, Result, Competition
+  - August 18, 2007, New Delhi , India, 2-0, Won, Nehru Cup 2007
+  - August 21, 2007, New Delhi , India, 4-1, Won, Nehru Cup 2007
+  - August 25, 2007, New Delhi , India, 5-1, Won, Nehru Cup 2007
+  - October 8, 2007, Damascus , Syria, 3-0, Won, 2010 FIFA World Cup qualification
+  - January 14, 2008, Aleppo , Syria, 3-2, Won, 2011 AFC Asian Cup qualification
+  - July 5, 2011, Istanbul , Turkey, 3-1, Won, Friendly
+
+=== Table ID: 2-1284906-3 ===
+=== Table Title: 2001 in British music ===
+Columns: Position, Song Title, Artist, Highest Position, Sales
+  - 1, It Wasn't Me, Shaggy, 1, 1,180,700
+  - 2, Pure and Simple, Hear'Say, 1, 1,078,400
+  - 3, Can't Get You out of My Head, Kylie Minogue, 1, 1,037,235
+  - 4, Whole Again, Atomic Kitten, 1, 939,000
+  - 5, Hey Baby, DJ Ötzi, 1, 747,000
+  - 6, Uptown Girl, Westlife, 1, 745,000
+  - 7, Don't Stop Movin', S Club 7, 1, 710,000
+  - 8, Angel, Shaggy featuring Rayvon, 1, 585,000
+  - 9, Teenage Dirtbag, Wheatus, 2, 550,000
+  - 10, Because I Got High, Afroman, 1, 505,000
+  - 11, Do You Really Like It?, DJ Pied Piper and the Masters of Ceremonies, 1, 472,960
+  - 12, Clint Eastwood, Gorillaz, 4, 450,000
+  - 13, It's Raining Men, Geri Halliwell, 1, 421,760
+  - 14, Lady Marmalade, Christina Aguilera / Lil' Kim / Mýa / Pink, 1, 405,000
+  - 15, Eternal Flame, Atomic Kitten, 1, 379,000
+  - 16, Gotta Get thru This, Daniel Bedingfield, 1, 374,000
+  - 17, Mambo No. 5, Bob The Builder, 1, 368,000
+  - 18, What Would You Do?, City High, 3, 356,000
+  - 19, 21 Seconds, So Solid Crew, 1, 350,130
+  - 20, Eternity / Road To Mandalay, Robbie Williams, 1, 343,000
+  - 21, Have You Ever, S Club 7, 1, 341,000
+  - 22, Castles in the Sky, Ian Van Dahl, 3, 316,000
+  - 23, Queen of My Heart, Westlife, 1, 307,000
+  - 24, Out of Reach, Gabrielle, 4, 292,000
+  - 25, Touch Me, Rui Da Silva featuring Cassandra, 1, 291,440
+  - 26, Perfect Gentleman, Wyclef Jean, 4, 288,000
+  - 27, Rollin', Limp Bizkit, 1, 285,000
+  - 28, Follow Me, Uncle Kracker, 3, 283,000
+  - 29, Let's Dance, Five, 1, 275,000
+  - 30, Somethin' Stupid, Robbie Williams & Nicole Kidman, 1, 274,000
+  - 31, I'm like a Bird, Nelly Furtado, 5, 271,000
+  - 32, Smooth Criminal, Alien Ant Farm, 3, 269,000
+  - 33, Heaven Is a Halfpipe, OPM, 4, 265,000
+  - 34, Starlight, Supermen Lovers featuring Mani Hoffman, 2, 263,000
+  - 35, Survivor, Destiny's Child, 1, 260,500
+  - 36, Purple Pills, D-12, 2, 256,000
+  - 37, Chain Reaction / One for Sorrow, Steps, 2, 252,000
+  - 38, Butterfly, Crazy Town, 3, 251,000
+  - 39, Always Come Back to Your Love, Samantha Mumba, 3, 248,000
+  - 40, Another Chance, Roger Sanchez, 1, 246,140
+
+=== Table ID: 2-1284911-2 ===
+=== Table Title: James Bond music ===
+Columns: Film, Year, Score composer, U.K. peak position, U.S. peak position
+  - Dr. No ( soundtrack ), 1962, Monty Norman, —, —
+  - From Russia with Love ( soundtrack ), 1963, John Barry, —, —
+  - Goldfinger ( soundtrack ), 1964, John Barry, 21, 8
+  - Thunderball ( soundtrack ), 1965, John Barry, 35, 25
+  - You Only Live Twice ( soundtrack ), 1967, John Barry, 11, 44
+  - On Her Majesty's Secret Service ( soundtrack ), 1969, John Barry, —, —
+  - Diamonds Are Forever ( soundtrack ), 1971, John Barry, 38, 57
+  - Live and Let Die ( soundtrack ), 1973, George Martin, 7, 2
+  - The Man with the Golden Gun ( soundtrack ), 1974, John Barry, —, —
+  - The Spy Who Loved Me ( soundtrack ), 1977, Marvin Hamlisch, 7, 2
+  - Moonraker ( soundtrack ), 1979, John Barry, —, —
+  - For Your Eyes Only ( soundtrack ), 1981, Bill Conti, 8, 4
+  - Octopussy ( soundtrack ), 1983, John Barry, 75, 36
+  - A View to a Kill ( soundtrack ), 1985, John Barry, 2, 1
+  - The Living Daylights ( soundtrack ), 1987, John Barry, 5, —
+  - Licence to Kill ( soundtrack ), 1989, Michael Kamen, 6, —
+  - GoldenEye ( soundtrack ), 1995, Éric Serra, 10, —
+  - Tomorrow Never Dies ( soundtrack ), 1997, David Arnold, 12, —
+  - The World Is Not Enough ( soundtrack ), 1999, David Arnold, 11, —
+  - Die Another Day ( soundtrack ), 2002, David Arnold, 3, 8
+  - Casino Royale ( soundtrack ), 2006, David Arnold, 7, 79
+  - Quantum of Solace ( soundtrack ), 2008, David Arnold, 9, 81
+  - Skyfall ( soundtrack ), 2012, Thomas Newman, 2, 8
+
+=== Table ID: 2-12850203-1 ===
+=== Table Title: Nordex ===
+Columns: Parameter, N80 IEC1, N90 IEC1, N90 IEC2, N100 IEC 2, N100 IEC3, N117/2400 IEC3
+  - Rated Power (kW), 2,500, 2,500, 2,500, 2,500, 2,500, 2,400
+  - Cut-in wind speed (m/s), 3, 3, 3, 3, 3, 3
+  - Cut-out wind speed (m/s), 25, 25, 25, 25, 25, 20
+  - Rotor diameter (m), 80, 90, 90, 100, 100, 117
+  - Swept area (m²), 5,026, 6,362, 6,362, 7,823, 7,823, 10,751
+  - m² per MW, 2,010, 2,548, 2,548, 3,129, 3,129, 4,480
+  - Revolutions per minute, 10.8-18.9, 10.3-18.1, 9.6-16.8, 9.6-14.8, 9.6-14.8, 7.5-13.2
+  - Overspeed control, Pitch, Pitch, Pitch, Pitch, Pitch, Pitch
+  - Gearbox, yes, yes, yes, yes, yes, yes
+  - Generator, double-fed asynchronous generator, double-fed asynchronous generator, double-fed asynchronous generator, double-fed asynchronous generator, double-fed asynchronous generator, double-fed asynchronous generator
+  - Grid frequency, 50/60 Hertz, 50/60 Hertz, 50/60 Hertz, 50/60 Hertz, 50/60 Hertz, 50/60 Hertz
+  - Hub height (m), 60, 65/70/80, 80/100, 75/80/100, 80/100/140, 91/120/141
+
+=== Table ID: 2-12852046-1 ===
+=== Table Title: Ernie Tapai ===
+Columns: Date, Venue, Score, Result, Competition
+  - 8 July 1992, Hindmarsh Stadium , Adelaide , Australia, 1–0, 3–1, Friendly
+  - 27 October 1996, Olympic Stadium, Papeete , Tahiti, 0–1, 0–6, 1996 OFC Nations Cup
+  - 11 June 1997, Parramatta Stadium , Sydney , Australia, 8–0, 13–0, 1998 FIFA World Cup qualification
+  - 17 June 1997, Parramatta Stadium, Sydney, Australia, 4–0, 6–2, 1998 FIFA World Cup qualification
+  - 17 June 1997, Parramatta Stadium, Sydney, Australia, 5–0, 6–2, 1998 FIFA World Cup qualification
+  - 11 February 1998, Sydney Football Stadium , Sydney, Australia, 1–0, 1–0, Friendly
+
+=== Table ID: 2-12859623-2 ===
+=== Table Title: Leoš Friedl ===
+Columns: Date, Tournament, Surface, Partner, Opponents in final, Score
+  - 24 July 2000, San Marino, Clay, Tomáš Cibulec, Albert Portas Fernando Vicente, 6–4, 6–4
+  - 28 July 2002, Sopot , Poland, Clay, František Čermák, Jeff Coetzee Nathan Healey, 7–5, 7–5
+  - 13 April 2003, Casablanca , Morocco, Clay, František Čermák, Devin Bowen Ashley Fisher, 6–3, 7–5
+  - 25 July 2004, Kitzbühel , Austria, Clay, František Čermák, Lucas Arnold Ker Martín García, 6–3, 7–5
+  - 15 August 2004, Sopot , Poland, Clay, František Čermák, Martín García Sebastián Prieto, 2–6, 6–2, 6–3
+  - 13 February 2005, Buenos Aires , Argentina, Clay, František Čermák, José Acasuso Sebastián Prieto, 6–2, 7–5
+  - 20 February 2005, Costa Do Sauipe , Brazil, Clay, František Čermák, José Acasuso Ignacio González King, 6–4, 6–4
+  - 10 April 2005, Casablanca , Morocco, Clay, František Čermák, Martín García Luis Horna, 6–4, 6–3
+  - 1 May 2005, Estoril , Portugal, Clay, František Čermák, Juan Ignacio Chela Tommy Robredo, 6–3, 6–4
+  - 10 July 2005, Gstaad , Switzerland, Clay, František Čermák, Michael Kohlmann Rainer Schüttler, 7–6 (8–6) , 7–6 (13–11)
+  - 25 July 2004, Kitzbühel , Austria, Clay, Andrei Pavel, Christophe Rochus Olivier Rochus, 6–2, 6–7 (5–7) , 6–0
+  - 19 February 2006, Buenos Aires , Argentina, Clay, František Čermák, Vasilis Mazarakis Boris Pašanski, 6–1, 6–2
+  - 5 March 2006, Acapulco , Mexico, Clay, František Čermák, Potito Starace Filippo Volandri, 7–5, 6–2
+  - 6 August 2006, Sopot , Poland, Clay, František Čermák, Martín García Sebastián Prieto, 6–3, 7–5
+  - 22 July 2007, Stuttgart , Germany, Clay, František Čermák, Guillermo García López Fernando Verdasco, 6–4, 6–4
+  - 1 August 2010, Umag , Croatia, Clay, Filip Polášek, František Čermák Michal Mertiňák, 6–3, 7–6 (9–7)
+
+=== Table ID: 2-12868503-5 ===
+=== Table Title: List of Playboy Playmates of the Month ===
+Columns: January, February, March, April, June, July, August, September, October, November, December
+  - Peggy McIntaggart, Pamela Anderson, Deborah Driggs, Lisa Matthews, Bonnie Marino, Jacqueline Sheen, Melissa Evridge, Kerri Kendall, Brittany York, Lorraine Olivia, Morgan Fox
+  - Stacy Leigh Arthur, Cristy Thom, Julie Clarke, Christina Leardini, Saskia Linssen, Wendy Kaye, Corinna Harney, Samantha Dorman, Cheryl Bachman, Tonja Christensen, Wendy Hamilton
+  - Suzi Simpson, Tanya Beyer, Tylyn John, Cady Cantrell, Angela Melini, Amanda Hope, Ashley Allen, Morena Corwin, Tiffany Sloan, Stephanie Adams, Barbara Moore
+  - Echo Johnson, Jennifer LeRoy, Kimberly Donley, Nicole Wood, Alesha Oreskovich, Leisa Sheridan, Jennifer Lavoie, Carrie Westcott, Jenny McCarthy, Julianna Young, Arlene Baxter
+  - Anna-Marie Goddard, Julie Lynn Cialini, Neriah Davis, Becky DelosSantos, Elan Carter, Traci Adell, Maria Checa, Kelly Gallagher, Victoria Zdrok, Donna Perry, Elisa Bridges
+  - Melissa Holliday, Lisa Marie Scott, Stacy Sanches, Danelle Folta, Rhonda Adams, Heidi Mark, Rachel Jean Marteen, Donna D'Errico, Alicia Rickter, Holly Witt, Samantha Torres
+  - Victoria Fuller, Kona Carmack, Priscilla Taylor, Gillian Bonner, Karin Taylor, Angel Boris, Jessica Lee, Jennifer Allan, Nadine Chanz, Ulrika Ericsson, Victoria Silvstedt
+  - Jami Ferrell, Kimber West, Jennifer Miriam, Kelly Monaco, Carrie Stevens, Daphnée Lynn Duplaix, Kalin Olson, Nikki Schieler, Layla Roberts, Inga Drozdova, Karen McDougal
+  - Heather Kozar, Julia Schultz, Marliece Andrada, Holly Joan Hart, Maria Luisa Gil, Lisa Dergan, Angela Little, Vanessa Gleason, Laura Cover, Tiffany Taylor, Dahm triplets
+  - Jaime Bergman, Stacy Marie Fuson, Alexandria Karlsen, Natalia Sokolova, Kimberly Spicer, Jennifer Rovero, Rebecca Scott, Kristi Cline, Jodi Ann Paterson, Cara Wakelin, Brooke Richards
+
+=== Table ID: 2-12869529-1 ===
+=== Table Title: Pidie Jaya Regency ===
+Columns: Subdistrict ( kecamatan ), Capital, Land area (Km 2 ), Total area (Km 2 ), Percentage (%), Subdistrict divisions, Villages
+  - Bandar Dua, Ulee Glee, 176,26, 176,26, 14,99, 5, 45
+  - Bandar Baru, Leung Putu, 223,64, 281,24, 24,19, 8, 43
+  - Jangka Buya, Jangka Buya, 7,88, 29,64, 2,55, 2, 18
+  - Meurah Dua, Meurah Dua, 276,20, 292,20, 25,13, 3, 19
+  - Meureudu, Meureudu, 139,14, 156,74, 13,48, 7, 30
+  - Pante Raja, Pante Raja, 13,80, 40,04, 3,44, 2, 10
+  - Trienggadeng, Trienggadeng, 76,19, 128,00, 11,01, 5, 27
+  - Ulim, Ulim, 40,89, 60,73, 5,22, 5, 30
+
+=== Table ID: 2-12874689-10 ===
+=== Table Title: 2007–08 Reading F.C. season ===
+Columns: Name, Championship, FA Cup, League Cup, Total
+  - Dave Kitson, 10, 0, 0, 10
+  - Kevin Doyle, 6, 0, 0, 6
+  - James Harper, 6, 0, 0, 6
+  - Stephen Hunt, 4, 2, 0, 6
+  - André Bikey, 3, 0, 0, 3
+  - Shane Long, 3, 0, 0, 3
+  - Ívar Ingimarsson, 2, 0, 0, 2
+  - Nicky Shorey, 2, 0, 0, 2
+  - Leroy Lita, 1, 0, 1, 2
+  - Own Goal, 1, 0, 0, 1
+  - Marek Matějovský, 1, 0, 0, 1
+  - Liam Rosenior, 1, 0, 0, 1
+  - Kalifa Cissé, 1, 0, 0, 1
+  - Bobby Convey, 0, 0, 1, 1
+  - John Halls, 0, 0, 1, 1
+  - TOTALS, 41, 2, 3, 46
+
+=== Table ID: 2-12877449-8 ===
+=== Table Title: 2006–07 Reading F.C. season ===
+Columns: Name, Championship, FA Cup, League Cup, Total
+  - Leroy Lita, 7, 4, 3, 14
+  - Kevin Doyle, 13, 0, 0, 13
+  - Steve Sidwell, 4, 0, 0, 4
+  - Stephen Hunt, 4, 0, 0, 4
+  - Seol Ki-Hyeon, 4, 0, 0, 4
+  - s Own goal, 4, 0, 0, 4
+  - Brynjar Gunnarsson, 3, 1, 0, 4
+  - Dave Kitson, 2, 2, 0, 4
+  - Shane Long, 2, 1, 1, 4
+  - James Harper, 3, 0, 0, 3
+  - Ívar Ingimarsson, 2, 0, 0, 2
+  - Ulises de la Cruz, 1, 0, 0, 1
+  - John Oster, 1, 0, 0, 1
+  - Ibrahima Sonko, 1, 0, 0, 1
+  - Nicky Shorey, 1, 0, 0, 1
+  - André Bikey, 0, 1, 0, 1
+  - Sam Sodje, 0, 1, 0, 1
+  - Péter Máté, 0, 0, 1, 1
+  - TOTALS, 54, 9, 6, 69
+
+=== Table ID: 2-12886027-2 ===
+=== Table Title: Los Angeles Film Critics Association Award for Best Foreign Language Film ===
+Columns: Year, English title, Original title, Country, Director
+  - 1981, The Tin Drum, Die Blechtrommel, West Germany, Volker Schlöndorff
+  - 1982, Pixote, Pixote: A lei do mais fraco, Brazil, Hector Babenco
+  - 1983, Mad Max 2: The Road Warrior, Mad Max 2: The Road Warrior, Australia, George Miller
+  - 1984, Fanny and Alexander, Fanny och Alexander, Sweden, Ingmar Bergman
+  - 1984, The Fourth Man, De vierde man, Netherlands, Paul Verhoeven
+  - 1985, Ran, Ran, Japan/France, Akira Kurosawa
+  - 1985, The Official Story, La historia oficial, Argentina, Luis Puenzo
+  - 1986, Vagabond, Sans toit ni loi, France/UK, Agnès Varda
+  - 1987, Goodbye, Children, Au revoir, les enfants, France/West Germany, Louis Malle
+  - 1988, Wings of Desire, Der Himmel über Berlin, France/West Germany, Wim Wenders
+  - 1989, Distant Voices, Still Lives, Distant Voices, Still Lives, UK, Terence Davies
+  - 1989, Story of Women, Une affaire de femmes, France, Claude Chabrol
+
+=== Table ID: 2-12886030-2 ===
+=== Table Title: United New Democratic Party ===
+Columns: Region, Son Hak-gyu, Chung Dong-young, Lee Hae-chan, Total
+  - Ulsan and Jeju, 4,089(26.1%), 5,265(33.6%), 3,414(21.8%), 15,658
+  - Gangwon-do and North Chungcheong, 5,279(26.9%), 8,645(44.0%), 5,511(28.1%), 19,626
+  - Gwangju and South Jeolla, 19,906(35.68%), 26,065(46.71%), 9,826(17.61%), 55,797　
+  - Busan and South Gyeongsang, 8,577(28.01%), 11,150(36.42%), 10,890(35.57%), 30,617　
+  - Daejeon , South Chungcheong and North Jeolla, 9,467(16.12%), 42,026(71.56%), 7,236(12.32%), 58,729
+  - Incheon and Gyeonggi, 16,747(41.88%), 16,142(40.37%), 7,098(17.75%), 39,987
+  - Daegu and North Gyeongsang, 3,547(38.96%), 2,706(29.72%), 2,851(31.32%), 9,104
+  - Seoul, 13,631(32.14%), 20,977(49.46%), 7,802(18.40%), 42,410
+  - Mobile votes, 70,031(39.46%), 62,138(35.02%), 45,284(25.52%), 177,453
+  - Opinion polls, 17,525(35.34%), 21,850(44.06%), 10,216(20.60%), 49,591
+  - Total, 168,799(34.04%), 216,984(43.75%), 110,128(22.21%), 495,911
+
+=== Table ID: 2-12886178-5 ===
+=== Table Title: WRU Division Three East ===
+Columns: Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus
+  - Club, Played, Drawn, Lost, Points for, Points against, Tries for, Tries against, Try bonus
+  - Brynmawr RFC, 22, 0, 1, 650, 167, 90, 21, 12
+  - Abergavenny RFC, 22, 0, 3, 678, 255, 100, 31, 11
+  - Garndiffaith RFC, 22, 0, 7, 571, 470, 82, 60, 10
+  - Croesyceiliog RFC, 22, 1, 8, 515, 322, 76, 45, 10
+  - Blaina RFC, 22, 1, 9, 450, 363, 66, 44, 6
+  - Pontypool United RFC, 22, 0, 11, 500, 334, 60, 41, 6
+  - Cwmbran RFC, 22, 1, 11, 369, 344, 45, 45, 3
+  - Rhymney RFC, 22, 1, 12, 409, 450, 52, 63, 7
+  - Nelson RFC, 22, 0, 15, 416, 437, 59, 54, 3
+  - New Tredegar RFC, 22, 0, 16, 342, 542, 50, 77, 5
+  - Senghenydd RFC, 22, 1, 18, 293, 749, 35, 114, 1
+  - Pontllanfraith RFC, 22, 1, 18, 163, 923, 19, 139, 0
+  - Correct as of 00:00 27 May 2008, Correct as of 00:00 27 May 2008, Correct as of 00:00 27 May 2008, Correct as of 00:00 27 May 2008, Correct as of 00:00 27 May 2008, Correct as of 00:00 27 May 2008, Correct as of 00:00 27 May 2008, Correct as of 00:00 27 May 2008, Correct as of 00:00 27 May 2008
+
+=== Table ID: 2-12886178-6 ===
+=== Table Title: WRU Division Three East ===
+Columns: Club, Played, Drawn, Lost, Points for, Points against, Points
+  - Club, Played, Drawn, Lost, Points for, Points against, Points
+  - Penallta RFC, 22, 1, 2, 948, 200, 58
+  - Newport High School Old Boys RFC, 22, 1, 5, 636, 367, 49
+  - Cwmbran RFC, 22, 0, 7, 564, 301, 45
+  - Pontypool United RFC, 22, 2, 7, 406, 309, 41
+  - Brynmawr RFC, 22, 0, 10, 445, 396, 36
+  - Blaina RFC, 22, 2, 9, 514, 367, 35
+  - Rhymney RFC, 22, 1, 11, 397, 393, 31
+  - New Tredegar RFC, 22, 1, 12, 434, 573, 28
+  - Senghenydd RFC, 22, 2, 13, 397, 780, 23
+  - Pontllanfraith RFC, 22, 0, 15, 329, 508, 21
+  - Brynithel RFC, 22, 3, 14, 262, 396, 18
+  - Abercarn RFC, 22, 1, 20, 161, 903, 4
+  - Correct as of 2007-08-15, Correct as of 2007-08-15, Correct as of 2007-08-15, Correct as of 2007-08-15, Correct as of 2007-08-15, Correct as of 2007-08-15, Correct as of 2007-08-15
+
+=== Table ID: 2-12888640-1 ===
+=== Table Title: Pourvu qu'elles soient douces ===
+Columns: Date, Label, Region, Format, Catalog
+  - 12 September 1988, Polydor, France, 7" single, 887 847-7
+  - 12 September 1988, Polydor, France, 12" maxi, 887 847-1
+  - 12 September 1988, Polydor, France, CD maxi, 887 847-2
+  - 12 September 1988, Polydor, France, 7" single - Promo, 6863 365
+  - September 1990, Polydor, Germany, 7" single (+ Netherlands) 12" maxi, CD maxi, 887 847-7
+  - September 1990, Polydor, Germany, CD maxi, 887 847-2
+  - September 1990, Polydor, Canada, 7" single, POS 1022
+  - September 1990, Polydor, Canada, 12" maxi, 887 847-1
+  - September 1990, Polydor, Japan, 7" single - Promo, DDI-3033
+
+=== Table ID: 2-12889808-10 ===
+=== Table Title: 2005–06 Reading F.C. season ===
+Columns: Name, Championship, FA Cup, League Cup, Total
+  - Dave Kitson, 18, 0, 4, 22
+  - Kevin Doyle, 18, 1, 0, 19
+  - Leroy Lita, 11, 3, 1, 15
+  - Steve Sidwell, 10, 0, 0, 10
+  - James Harper, 7, 0, 0, 7
+  - Bobby Convey, 7, 0, 0, 7
+  - Glen Little, 5, 0, 0, 5
+  - Brynjar Gunnarsson, 4, 0, 0, 4
+  - s Own goal, 4, 0, 0, 4
+  - Shane Long, 3, 1, 0, 4
+  - Ibrahima Sonko, 3, 0, 0, 3
+  - Ívar Ingimarsson, 2, 0, 0, 2
+  - Nicky Shorey, 2, 0, 0, 2
+  - Stephen Hunt, 2, 0, 0, 2
+  - John Oster, 1, 0, 1, 2
+  - Graeme Murty, 1, 0, 0, 1
+  - John Halls, 1, 0, 0, 1
+  - TOTALS, 99, 6, 6, 111
+
+=== Table ID: 2-12890300-4 ===
+=== Table Title: Liberal Party of Canada candidates, 2008 Canadian federal election ===
+Columns: Riding, Candidate's Name, Gender, Residence, Occupation, Votes, Rank
+  - Acadie—Bathurst, Odette Robichaud, F, Inkerman Ferry, Stenographer, 9,850, 2nd
+  - Beauséjour, Dominic LeBlanc, M, Grande-Digue, Parliamentarian, 20,059, 1st
+  - Fredericton, David Innes, M, Fredericton, Engineer, 13,319, 2nd
+  - Fundy Royal, Mark Wright, M, Sussex, Sales Representative, 5,773, 3rd
+  - Madawaska—Restigouche, Jean-Claude D'Amours, M, Edmundston, Parliamentarian, 16,266, 1st
+  - Miramichi, Charles Hubbard, M, Red Bank, Parliamentarian, 10,590, 2nd
+  - Moncton—Riverview—Dieppe, Brian Murphy, M, Moncton, Lawyer, 17,797, 1st
+  - New Brunswick Southwest, Nancy MacIntosh, F, Hanwell, Political Advisor, 5,863, 2nd
+  - Saint John, Paul Zed, M, Rothesay, Lawyer, 13,285, 2nd
+  - Tobique—Mactaquac, Sally McGrath, F, Taymouth, High School Teacher, 6,773, 2nd
+
+=== Table ID: 2-12896657-1 ===
+=== Table Title: 1983 Race of Champions ===
+Columns: Driver, Entrant, Chassis, Engine, Tyres
+  - Keke Rosberg, TAG Williams Team, Williams FW08C, Ford Cosworth DFV 3.0 V8, G
+  - Danny Sullivan, Benetton Tyrrell Team, Tyrrell 011, Ford Cosworth DFV 3.0 V8, G
+  - Hector Rebaque, Fila Sport, Brabham BT52, BMW M12/13 1.5 S4 ( t/c ), M
+  - John Watson, Marlboro McLaren International, McLaren MP4/1C, Ford Cosworth DFV 3.0 V8, M
+  - Nigel Mansell, John Player Team Lotus, Lotus 93T, Renault EF1 1.5 V6 ( t/c ), P
+  - Jean-Louis Schlesser, RAM Automotive Team March, March-RAM 01, Ford Cosworth DFV 3.0 V8, P
+  - Raul Boesel, Equipe Ligier Gitanes, Ligier JS21, Ford Cosworth DFV 3.0 V8, M
+  - René Arnoux, Scuderia Ferrari SpA SEFAC, Ferrari 126C2B, Ferrari 126C Tipo 021/3 1.5 V6 ( t/c ), G
+  - Chico Serra, Arrows Racing Team, Arrows A6, Ford Cosworth DFV 3.0 V8, G
+  - Alan Jones, Arrows Racing Team, Arrows A6, Ford Cosworth DFV 3.0 V8, G
+  - Roberto Guerrero, Theodore, Theodore N183, Ford Cosworth DFV 3.0 V8, G
+  - Brian Henton, Theodore, Theodore N183, Ford Cosworth DFV 3.0 V8, G
+  - Stefan Johansson, Spirit Racing, Spirit 201C, Honda RA163-E 1.5 V6 ( t/c ), G
+
+=== Table ID: 2-12897608-1 ===
+=== Table Title: 2004 World Figure Skating Championships ===
+Columns: Rank, Nation, Gold, Silver, Bronze, Total
+  - 1, Russia, 3, 0, 0, 3
+  - 2, Japan, 1, 0, 0, 1
+  - 3, China, 0, 1, 1, 2
+  - 3, United States, 0, 1, 1, 2
+  - 5, Bulgaria, 0, 1, 0, 1
+  - 5, France, 0, 1, 0, 1
+  - 7, Germany, 0, 0, 2, 2
+
+=== Table ID: 2-12898083-1 ===
+=== Table Title: 2004 European Figure Skating Championships ===
+Columns: Rank, Nation, Gold, Silver, Bronze, Total
+  - 1, Russia, 2, 2, 2, 6
+  - 2, France, 1, 0, 0, 1
+  - 2, Hungary, 1, 0, 0, 1
+  - 4, Ukraine, 0, 1, 1, 2
+  - 5, Bulgaria, 0, 1, 0, 1
+  - 6, Poland, 0, 0, 1, 1
+
+=== Table ID: 2-1289860-2 ===
+=== Table Title: The Apprentice (U.S. season 3) ===
+Columns: Candidate, Background, Original Team, Hometown, Result
+  - Kendra Todd, Real Estate Broker, Magna, Boynton Beach, Florida, Hired by Trump (5-19-2005)
+  - Tana Goertz, Sales Executive, Net Worth, Des Moines, Iowa, Fired in the Season Finale (5-19-2005)
+  - Craig Williams, Shoeshine Business Owner, Net Worth, Conley, Georgia, 10 Fired in week 15 (5-5-2005)
+  - Alex Thomason, Attorney, Magna, Brewster, Washington, 10 Fired in week 14 (4-28-2005)
+  - Bren Olswanger, Prosecutor, Magna, Memphis, Tennessee, 10 Fired in week 13 (4-21-2005)
+  - Chris Shelton, Real Estate Investor, Net Worth, Las Vegas, Nevada, 10 Fired in week 12 (4-14-2005)
+  - Angie McKnight, Gym Franchise Owner, Net Worth, Lake Balboa, California, 10 Fired in week 11 (4-7-2005)
+  - Stephanie Myers, Supply Chain Consultant, Magna, San Diego, California, 10 Fired in week 10 (3-31-2005)
+  - Erin Elmore, Attorney, Magna, Philadelphia, Pennsylvania, 10 Fired in week 9 (3-24-2005)
+  - John Gafford, Technology Firm Owner, Net Worth, Tampa, Florida, 10 Fired in week 8 (3-10-2005)
+  - Audrey Evans, Real Estate Agent, Net Worth, Salt Lake City, Utah, 10 Fired in week 7 (3-3-2005)
+  - Tara Dowdell, Senior Governor Manager, Net Worth, New York, New York, 10 Fired in week 6 (2-24-2005)
+  - Michael Tarshi, Real Estate Developer, Magna, Boston, Massachusetts, 10 Fired in week 5 (2-17-2005)
+  - Kristen Kirchner, Real Estate Financier, Net Worth, Los Angeles, California, 10 Fired in week 4 (2-10-2005)
+  - Danny Kastner, Marketing Technology Firm Owner, Magna, Boston, Massachusetts, 10 Fired in week 3 (2-3-2005)
+  - Verna Felton, Business Manager, Magna, Seattle, Washington, 10 Quit in week 3 (2-3-2005)
+  - Brian McDowell, Real Estate Broker, Net Worth, Wildwood, New Jersey, 10 Fired in week 2 (1-27-2005)
+  - Todd Everett, Sales Manager, Magna, Carlsbad, California, 10 Fired in week 1 (1-20-2005)
+
+=== Table ID: 2-12899300-6 ===
+=== Table Title: Jason Dufner ===
+Columns: Tournament, Wins, Top-5, Top-25, Events, Cuts made
+  - Masters Tournament, 0, 0, 2, 3, 3
+  - U.S. Open, 0, 2, 2, 7, 5
+  - The Open Championship, 0, 0, 0, 4, 2
+  - PGA Championship, 1, 3, 3, 5, 4
+  - Totals, 1, 5, 7, 19, 14
+
+=== Table ID: 2-1290024-17 ===
+=== Table Title: Steam locomotives of Ireland ===
+Columns: Type, Fleet numbers, Quantity made, Manufacturer, Date made, GSWR Class, GSWR Nos., GSR Class, Inchicore Class, Withdrawn
+  - 0-6-0, WLR 5 to 7, 3, Limerick Works, 1888–93, 224, 224 to 226, —, —, 1905–1909
+  - 2-4-0, WLR 10, 22, 20, 23, 43, 44, 47, and 48, 8, Dübs & Co., 1889–94, 276, 263, 275, 273, 276, 290 to 293, 276, G3, 1907–1959
+  - 2-4-2T, WLR 13 and 14, 2, Vulcan Foundry, 1891, 266, 226 and 227, 267 491, F4 F5, 1933–1935
+  - 0-4-2T, WLR 3, 1, Limerick Works, 1892, 260, 260, —, —, 1912
+  - 0-6-0, WLR 45, 46, 49, and 50, 4, Dübs & Co., 1893–95, 233, 233 to 236, 235, J22, 1911–1951
+  - 0-4-4T, WLR 15, 1, Limerick Works, 1894, 268, 268, —, —, 1912
+  - 0-4-4T, WLR 51 and 52, 2, Kitson & Co., 1895, 294, 294 and 295, 295, E2, 1910–1954
+  - 4-4-2T, WLWR 16 to 18, and 21, 4, Kitson & Co., 1896–97, 269, 269 to 271, 274, 269, C5, 1949–1957
+  - 4-4-0, WLWR 53 to 55, 3, Kitson & Co., 1896–97, 296, 296 to 298, 296, D15, 1928–1949
+  - 0-6-0, WLWR 56 to 58, 3, Kitson & Co., 1897, 237, 237 to 239, 222, J25, 1934–1951
+  - 0-4-4T, WLWR 27, 1, Limerick Works, 1899, 279, 279, 279, E1, 1953
+  - 0-6-0, WLWR 2, 4, 11, 3, Kitson & Co., 1900, 222, 222,, 222, J25, 1929–1950
+
+=== Table ID: 2-1290024-19 ===
+=== Table Title: Steam locomotives of Ireland ===
+Columns: Type, Fleet numbers, Quantity made, Date made, GSR Class, Inchicore Class, GSR Nos., Withdrawn
+  - 2-2-2WT, DWWR 27 and 28, 2, 1869, —, —, —, 1887
+  - 2-2-2WT, DWWR 29 to 31, 34 to 36, 4, 40 and 27, 9, 1871–1887, —, —, —, 1902–23
+  - 0-4-2, DWWR 37 to 39, 3, 1876, —, —, —, 1923–25
+  - 2-4-0WT, DWWR 41, 1, 1882, —, —, —, 1925
+  - 2-4-0T, DWWR 42 to 44, 3, 1883, —, —, —, 1925
+  - 2-4-0T, DWWR 1, 2, 6, 7, 9 to 11, 28, 45 to 47, and 49, 12, 1885–96, 423, G1, 423–426, 1925–55
+  - 2-4-2T, 3, 1, 1898, 428, F2, 428, 1953
+  - 2-4-2T, 10, 11, 28, 45, 46, (5), (1900–10), 428, F2, 429–422, 1925–57
+  - 0-6-0, DWWR 50 and 51, 2, 1891, 447, J7, 447, 1925–30
+  - 4-4-2T, DWWR 52 to 54, 3, 1893, 458, C3, 458–460, 1953–1960
+
+=== Table ID: 2-1290024-7 ===
+=== Table Title: Steam locomotives of Ireland ===
+Columns: Class, Type, Fleet numbers, Quantity made, Manufacturer, Date made, 1958 CIÉ, 1958 UTA, Date withdrawn, Notes
+  - A, 0-6-0, 28, 31, 33, 79–83, 60–61, 64, 145–146, 149–150, 15, Beyer, Peacock & Co. (13) Dundalk Works (2), 1882–1891, 3, 0, 1937–1961, Several renumbered; three sold to SL&NCR
+  - BT, 4-4-0T, 2–8, 91–92, 97–100, 13, Beyer, Peacock & Co. (3) Dundalk Works (10), 1885–1893, —, —, 1910–1935, Several renumbered
+  - J, 4-4-0, 17–21, 45, 48, 115–119, 12, Beyer, Peacock & Co., 1885–1889, —, —, 1921–1934, 45/48 renumbered 15/16; two sold to SL&NCR
+  - JS, 4-2-2, 88–89, 2, Beyer, Peacock & Co., 1885, —, —, 1904, Named Victoria and Albert
+  - P, 4-4-0, 51–54, 72–73, 82–83, 8, Beyer, Peacock & Co., 1892–1895, 3, 0, 1950–1959, Rebuilt with superheaters as class Ps
+  - AL, 0-6-0, 29, 32, 36, 55–59, 151–153, 11, Beyer, Peacock & Co. (7) Dundalk Works (4), 1893–1896, 6, 2, 1957–1961, 151/152 renumbered 141/140
+  - JT, 2-4-2T, 90, 93–94, 95, 13–14, 6, Dundalk Works, 1895–1902, 1, 0, 1955–1963, 13/14 renumbered 91/92
+
+=== Table ID: 2-12912726-1 ===
+=== Table Title: 2007–08 Grand Prix of Figure Skating Final ===
+Columns: Rank, Nation, Gold, Silver, Bronze, Total
+  - 1, Germany, 1, 0, 0, 1
+  - 1, Russia, 1, 0, 0, 1
+  - 1, South Korea, 1, 0, 0, 1
+  - 1, Switzerland, 1, 0, 0, 1
+  - 5, Japan, 0, 2, 0, 2
+  - 6, China, 0, 1, 1, 2
+  - 6, United States, 0, 1, 1, 2
+  - 8, France, 0, 0, 1, 1
+  - 8, Italy, 0, 0, 1, 1
+
+=== Table ID: 2-12913985-6 ===
+=== Table Title: 1986 Masters Tournament ===
+Columns: Place, Player, Country, Score, To par
+  - 1, Greg Norman, Australia, 70-72-68=210, –6
+  - T2, Seve Ballesteros, Spain, 71-68-72=211, –5
+  - T2, Bernhard Langer, West Germany, 74-68-69=211, –5
+  - T2, Donnie Hammond, United States, 73-71-67=211, –5
+  - T2, Nick Price, Zimbabwe, 79-69-63=211, –5
+  - T6, Tsuneyuki Nakajima, Japan, 70-71-71=212, –4
+  - T6, Tom Kite, United States, 70-74-68=212, –4
+  - T6, Tom Watson, United States, 70-74-68=212, –4
+  - T9, David Edwards, United States, 71-71-72=214, –2
+  - T9, Gary Koch, United States, 69-74-71=214, –2
+  - T9, Sandy Lyle, Scotland, 76-70-68=214, –2
+  - T9, Mark McCumber, United States, 76-67-71=214, –2
+  - T9, Jack Nicklaus, United States, 74-71-69=214, –2
+  - T9, Corey Pavin, United States, 71-72-71=214, –2
+  - T9, Bob Tway, United States, 70-73-71=214, –2
+
+=== Table ID: 2-1291598-2 ===
+=== Table Title: List of best-selling music artists ===
+Columns: Artist, Country of origin, Period active, Release-year of first charted record, Genre, Claimed sales
+  - Mariah Carey, United States, 1988–present, 1990, R&B / Pop / Rock, 200 million 175 million
+  - Celine Dion, Canada, 1981–present, 1981, Pop, 200 million 175 million
+  - Whitney Houston, United States, 1977–2011, 1984, R&B / Pop, 200 million 170 million
+  - AC/DC, Australia, 1973–present, 1975, Hard rock / Heavy metal, 200 million 150 million
+  - Queen, United Kingdom, 1971–present, 1973, Rock, 200 million 150 million
+  - The Rolling Stones, United Kingdom, 1962–present, 1963, Rock / Blues rock, 200 million
+  - ABBA, Sweden, 1972–1982, 1972, Pop / Disco, 200 million 100 million
+
+=== Table ID: 2-12919633-1 ===
+=== Table Title: List of submissions to the 55th Academy Awards for Best Foreign Language Film ===
+Columns: Country, Film title used in nomination, Language, Original name, Director
+  - Algeria, Sandstorm, French, Vent de sable, Mohammed Lakhdar-Hamina
+  - Argentina, Last Days of the Victim, Spanish, Últimos días de la víctima, Adolfo Aristarain
+  - Belgium, Minuet, Dutch, Menuet, Lili Rademakers
+  - Bulgaria, Khan Asparoukh, Bulgarian, Хан Аспарух, Ludmil Staikov
+  - Canada, Wild Flowers, French, Les fleurs sauvages, Jean Pierre Lefebvre
+  - Czechoslovakia, The Assistant, Slovak, Pomocnik, Zoro Zahon
+  - Denmark, Tree of Knowledge, Danish, Kundskabens træ, Nils Malmros
+  - France, Clean Slate, French, Coup de Torchon, Bertrand Tavernier
+  - West Germany, Fitzcarraldo, German, Fitzcarraldo, Werner Herzog
+  - Greece, Angel, Greek, Ангел, Giorgos Katakouzinos
+  - Hungary, Time Stands Still, Hungarian, Megáll az idö, Péter Gothár
+  - Iceland, Inter Nos, Icelandic, Okkar á milli: Í hita og þunga dagsins, Hrafn Gunnlaugsson
+  - Israel, Hamsin, Hebrew, Arabic, חמסין, Daniel Wachsmann
+  - Italy, The Night of the Shooting Stars, Italian, La Notte di San Lorenzo, Paolo Taviani and Vittorio Taviani
+  - Japan, Onimasa, Japanese, 鬼龍院花子の生涯, Hideo Gosha
+  - Netherlands, The Cool Lakes of Death, Dutch, Van de koele meren des doods, Nouchka van Brakel
+  - Nicaragua, Alsino and the Condor, Spanish, Alsino y el cóndor, Miguel Littín
+  - Norway, Victoria L, Norwegian, Leve sitt liv, Petter Vennerød and Svend Wam
+  - Portugal, Francisca, Portuguese, Francisca, Manoel de Oliveira
+  - Spain, Begin the Beguine, Spanish, Volver a empezar, José Luis Garci
+  - Sweden, The Flight of the Eagle, Swedish, Ingenjör Andrées luftfärd, Jan Troell
+  - Switzerland, Yol, Turkish, Yol, Şerif Gören and Yılmaz Güney
+  - Taiwan, The Battle for the Republic of China, Chinese, 辛亥双十, Ding Shan Xi
+  - Soviet Union, Private Life, Russian, Частная жизнь, Yuli Raizman
+  - Yugoslavia, The Smell of Quinces, Bosnian, Miris dunja, Mirza Idrizović
+
+=== Table ID: 2-12922162-1 ===
+=== Table Title: Tianwan Nuclear Power Plant ===
+Columns: Unit, Reactor type, Net capacity, Gross capacity, Construction started, Electricity grid, Commercial operation, Shutdown
+  - Tianwan-1, VVER -1000/428 ( AES-91 ), 990 MW, 1,060 MW, 20 October 1999, 12 May 2006, 17 May 2007, —
+  - Tianwan-2, VVER-1000/428 (AES-91), 990 MW, 1,060 MW, 20 October 2000, 14 May 2007, 16 August 2007, —
+  - Tianwan-3, VVER-1000/428M (AES-91), 1,050 MW, 1,126 MW, 27 December 2012, 2018, —, —
+  - Tianwan-4, VVER-1000/428M (AES-91), 1,050 MW, 1,126 MW, 27 September 2013, 2018, —, —
+  - Tianwan-5, CNP-1000, 1,000 MW, 1,080 MW, —, —, —, —
+  - Tianwan-6, CNP-1000, 1,000 MW, 1,080 MW, —, —, —, —
+  - Tianwan-7, VVER-1200, 1,150 MW, 1,200 MW, —, —, —, —
+  - Tianwan-8, VVER-1200, 1,150 MW, 1,200 MW, —, —, —, —
+
+=== Table ID: 2-12922582-1 ===
+=== Table Title: Taz Douglas ===
+Columns: Round, Track, Race 1, Race 2, Race 3
+  - Round 1, Clipsal 500 Support, DNF, 8th, DNF
+  - Round 2, Barbagallo, 9th, 14th, 8th
+  - Round 3, Winton, DNF, 4th, DNF
+  - Round 4, Eastern Creek, 6th, 14th, 14th
+  - Round 5, QLD Raceway, DNF, 8th, 3rd
+  - Round 6, Sandown 500 Support, DNF, 9th, DNF
+  - Round 7, Symmons Plains, DNF, DNF, 10th
+  - Round 8, Phillip Island, 4th, DNF, DNF
+
+=== Table ID: 2-12922756-1 ===
+=== Table Title: U.S. Women's Amateur Public Links ===
+Columns: Year, Venue, Winner, Country, Score, Runner-up
+  - 2013, Jimmie Austin OU Golf Club, Lauren Diaz-Yi, United States, 10 & 9, Doris Chen
+  - 2012, Neshanic Valley Golf Course, Kyung Kim, United States, 4 & 2, Ashlan Ramsey
+  - 2011, Bandon Dunes Golf Resort, Brianna Do, United States Vietnam, 1 up, Marissa Dodd
+  - 2010, Notre Dame's Warren Golf Course, Emily Tubert, United States, 3 & 2, Lisa McCloskey
+  - 2009, Red Tail Golf Club, Jennifer Song, United States South Korea, 7 & 6, Kimberly Kim
+  - 2008, Erin Hills, Tiffany Joh, United States, 2 & 1, Jennifer Song
+  - 2007, Kearney Hill Golf Links, Mina Harigae, United States, 4 & 3, Stephany Fleet
+  - 2006, Walking Stick G.C., Tiffany Joh, United States, 6 & 5, Kimberly Kim
+  - 2005, Swope Memorial G.C., Eunjung Yi, South Korea, 37 holes, Tiffany Chudy
+  - 2004, Golden Horseshoe G.C. (Green Course), Yani Tseng, Taiwan, 1 up, Michelle Wie
+  - 2003, Ocean Hammock G.C., Michelle Wie, United States, 1 up, Virada Nirapathpongporn
+  - 2002, Sunriver Resort (Meadow Course), Annie Thurman, United States, 6 & 5, Hwanhee Lee
+  - 2001, Kemper Lakes G.C., Candie Kung, Taiwan, 2 up, Missy Farr-Kaye
+  - 2000, Legacy Golf Links, Catherine Cartwright, United States, 3 & 1, Russamee Gulyanamitta
+  - 1999, Santa Ana Golf Club, Jody Niemann, United States, 1 up, Sue Billek Nyhus
+  - 1998, Kapalua (Hawaii) Golf Club (Bay Course), Amy Spooner, United States, 2 & 1, Natalie Wong
+  - 1997, Center Square (Pa.) G.C., Jo Jo Robertson, United States, 3 & 2, Angie Yoon
+  - 1996, Spencer T. Olin Community G.C., Heather Graff, United States, 5 & 4;, Lauri Berles
+  - 1995, Hominy Hill G.C., Jo Jo Robertson, United States, 3 & 1, Elizabeth Drambour
+  - 1994, Tam O'Shanter G.C., Jill McGill, United States, 6 & 4, Heidi Voorhees
+  - 1993, Jackson Hole Golf & Tennis, Connie Masterson, United States, 1 up, Holly Reynolds
+  - 1992, Haggin Oaks G.C., Amy Fruhwirth, United States, 3 & 1, Sara Evens
+  - 1991, Birdwood G.C., Tracy Hanson, United States, 1 up, Carri Wood
+  - 1990, Hyland Hills G.C., Cathy Mockett, United States, 5 & 4, Barbara Blanchar
+  - 1989, Indian Canyon G.C., Pearl Sinn, United States, 2 & 1, Kelli Akers
+  - 1988, Page Belcher G.C., Pearl Sinn, United States, 2 & 1, Tami Jo Hemingsen
+  - 1987, Cog Hill G. & C.C. (No. 4 Course), Tracy Kerdyk, United States, 4 & 3, Pearl Sinn
+  - 1986, Sentry World G.C., Cindy Schreyer, United States, 3 & 2, Vicki Goetze
+  - 1985, Flanders Valley G.C., (Red and Blue nines), Danielle Ammaccapane, United States, 6 & 5, Kristie Kolacny
+  - 1984, Meadowbrook G.C., Heather Farr, United States, 3 & 2, Kristie Kolacny
+  - 1983, Ala Wai G.C., Kelli Antolock, United States, 2 & 1, Nancy Taylor
+  - 1982, Alvamar G.C., Nancy Taylor, United States, 2 & 1, Kerri Clark
+  - 1981, Emerald Valley G.C., Mary Enright, United States, 3 & 1, Lauri Merten
+  - 1980, Center Square G.C., Lori Castillo, United States, 2 & 1, Pam Miller
+  - 1979, Braemar G.C., Lori Castillo, United States, 2 up, Becky Pearson
+  - 1978, Myrtlewood G.C. (Palmetto Course), Kelly Fuiks, United States, 5 & 4, Diana Schwab
+  - 1977, Yahara Hills G.C., Kelly Fuiks, United States, 1 up, Kathy Williams
+
+=== Table ID: 2-12923427-5 ===
+=== Table Title: Uladzimir Ignatik ===
+Columns: Tournament, 2008, 2009, 2010, 2011, 2012
+  - Grand Slam tournaments, Grand Slam tournaments, Grand Slam tournaments, Grand Slam tournaments, Grand Slam tournaments, Grand Slam tournaments
+  - Australian Open, A, A, A, A, Q1
+  - French Open, Q2, A, Q1, Q1, A
+  - Wimbledon, A, A, A, Q2, A
+  - US Open, A, A, Q2, A, Q1
+  - Win–Loss, 0–0, 0–0, 0–0, 0–0, 0–0
+
+=== Table ID: 2-12935070-1 ===
+=== Table Title: 2007 Super Series ===
+Columns: Date, Local Time, Location, Score, Winner
+  - August 27, 19:00, Ufa Arena , Ufa, 4 - 2, Canada
+  - August 29, 19:00, Ufa Arena , Ufa, 3 - 0, Canada
+  - August 31, 19:00, Omsk Arena , Omsk, 6 - 2, Canada
+  - September 1, 17:00, Omsk Arena , Omsk, 4 - 2, Canada
+  - September 4, 19:00, MTS Centre , Winnipeg, 1 - 8, Canada
+  - September 5, 19:00, Credit Union Centre , Saskatoon, 1 - 4, Canada
+  - September 7, 20:00, Enmax Centrium , Red Deer, 4 - 4, Draw
+  - September 9, 17:00, General Motors Place , Vancouver, 1 - 6, Canada
+
+=== Table ID: 2-12935706-1 ===
+=== Table Title: Timea Bacsinszky ===
+Columns: Tournament, 2007, 2008, 2009, 2010, 2011
+  - Australian Open, A, 2R, A, 1R, 1R
+  - French Open, 2R, 2R, 2R, 2R, A
+  - Wimbledon, 1R, 2R, 2R, 1R, A
+  - US Open, 1R, 3R, 2R, 1R, A
+  - Year-End Championship, Year-End Championship, Year-End Championship, Year-End Championship, Year-End Championship, Year-End Championship
+  - WTA Tour Championships, A, A, A, A, A
+  - WTA Premier Mandatory tournaments, WTA Premier Mandatory tournaments, WTA Premier Mandatory tournaments, WTA Premier Mandatory tournaments, WTA Premier Mandatory tournaments, WTA Premier Mandatory tournaments
+  - Indian Wells, A, A, 2R, 1R, 2R
+  - Miami, A, 1R, A, 4R, 2R
+  - Madrid, Not Held, Not Held, A, LQ, A
+  - Beijing, No Tier I, No Tier I, A, QF, A
+  - WTA Premier 5 tournaments, WTA Premier 5 tournaments, WTA Premier 5 tournaments, WTA Premier 5 tournaments, WTA Premier 5 tournaments, WTA Premier 5 tournaments
+  - Dubai, A, LQ, A, 1R, 2R
+  - Rome, A, LQ, A, 2R, A
+  - Cincinnati, A, A, A, A, A
+  - Montreal/Toronto, A, A, A, 2R, A
+  - Tokyo, A, A, A, 1R, A
+
+=== Table ID: 2-12936515-3 ===
+=== Table Title: 1990–91 Blackpool F.C. season ===
+Columns: Name, League, Play-offs, FA Cup, League Cup, Total
+  - Paul Groves Category:Articles with hCards, 46, 3, 3, 2, 54
+  - Alan Wright Category:Articles with hCards, 45, 3, 3, 2, 53
+  - Steve McIlhargey Category:Articles with hCards, 44, 3, 3, 2, 52
+  - Tony Rodwell Category:Articles with hCards, 45, 3, 3, 1, 52
+  - Ian Gore Category:Articles with hCards, 41, 3, 3, 2, 49
+  - Phil Horner Category:Articles with hCards, 39, 3, 3, 0, 45
+  - Andy Garner Category:Articles with hCards, 36, 3, 3, 2, 44
+  - David Eyres Category:Articles with hCards, 36, 3, 1, 2, 42
+  - Mike Davies Category:Articles with hCards, 37, 3, 1, 0, 41
+  - Trevor Sinclair Category:Articles with hCards, 31, 2, 3, 2, 38
+  - Gary Briggs Category:Articles with hCards, 30, 2, 3, 2, 37
+  - Dave Bamber Category:Articles with hCards, 23, 1, 1, 0, 25
+  - Carl Richards Category:Articles with hCards, 22, 0, 2, 1, 25
+  - Chris Hedworth Category:Articles with hCards, 20, 0, 3, 0, 23
+  - Mark Taylor Category:Articles with hCards, 19, 3, 0, 1, 23
+  - Phil Stant Category:Articles with hCards, 12, 0, 0, 0, 12
+  - Dave Lancaster Category:Articles with hCards, 8, 0, 0, 2, 10
+  - Gary Brook Category:Articles with hCards, 4, 0, 0, 2, 6
+  - A. Smalley Category:Articles with hCards, 6, 0, 0, 0, 6
+  - Andy Gouck Category:Articles with hCards, 5, 0, 0, 0, 5
+  - Mark Bradshaw Category:Articles with hCards, 1, 0, 0, 2, 3
+  - Mark Wright Category:Articles with hCards, 3, 0, 0, 0, 3
+  - Fred Barber Category:Articles with hCards, 2, 0, 0, 0, 2
+  - Gordon Owen Category:Articles with hCards, 1, 0, 0, 0, 1
+  - Russell Coughlin Category:Articles with hCards, 0, 0, 0, 0, 0
+
+=== Table ID: 2-12936521-1 ===
+=== Table Title: New England Collegiate Conference ===
+Columns: Institution, Location, Nickname, Founded, Type, Enrollment, Joined
+  - Bay Path College †, Longmeadow, Massachusetts, Wildcats, 1897, Private, 1,501, 2008
+  - Becker College, Worcester, Massachusetts, Hawks, 1784, Private, 2,079, 2008
+  - Daniel Webster College, Nashua, New Hampshire, Eagles, 1965, Private, 722, 2008
+  - Elms College, Chicopee, Massachusetts, Blazers, 1899, Catholic, 1,013, 2008
+  - Lesley University, Cambridge, Massachusetts, Lynx, 1909, Private, 1,351, 2008
+  - Mitchell College, New London, Connecticut, Mariners, 1938, Private, 790, 2008
+  - Newbury College, Brookline, Massachusetts, Nighthawks, 1962, Private, 1,311, 2008
+  - Regis College, Weston, Massachusetts, Pride, 1927, Catholic, 1,411, 2011
+  - Southern Vermont College, Bennington, Vermont, Mountaineers, 1926, Private, 410, 2008
+  - Wheelock College, Boston, Massachusetts, Wildcats, 1888, Private, 1,086, 2008
+
+=== Table ID: 2-12936850-4 ===
+=== Table Title: United States Ambassador to Colombia ===
+Columns: Representative, Title, Presentation of Credentials, Termination of Mission, Appointed by
+  - Dabney H. Maury, Envoy Extraordinary and Minister Plenipotentiary, January 20, 1887, June 22, 1889, Grover Cleveland
+  - John T. Abbott, Envoy Extraordinary and Minister Plenipotentiary, June 22, 1889, July 17, 1893, Benjamin Harrison
+  - Luther F. McKinney, Envoy Extraordinary and Minister Plenipotentiary, July 17, 1893, December 6, 1896, Grover Cleveland
+  - Charles Burdett Hart, Envoy Extraordinary and Minister Plenipotentiary, July 19, 1897, March 19, 1903, William McKinley
+  - Arthur M. Beaupre, Envoy Extraordinary and Minister Plenipotentiary, April 13, 1903, December 19, 1903, Theodore Roosevelt
+  - William W. Russell, Envoy Extraordinary and Minister Plenipotentiary, December 9, 1904, May 24, 1905, Theodore Roosevelt
+  - John Barrett, Envoy Extraordinary and Minister Plenipotentiary, November 27, 1905, September 24, 1906, Theodore Roosevelt
+  - Thomas C. Dawson, Envoy Extraordinary and Minister Plenipotentiary, October 16, 1907, April 25, 1909, Theodore Roosevelt
+  - Elliott Northcott, Envoy Extraordinary and Minister Plenipotentiary, August 13, 1909, September 16, 1910, William H. Taft
+  - James T. DuBois, Envoy Extraordinary and Minister Plenipotentiary, November 18, 1911, March 1, 1913, William H. Taft
+  - Thaddeus Austin Thompson, Envoy Extraordinary and Minister Plenipotentiary, August 30, 1913, June 26, 1916, Woodrow Wilson
+  - Hoffman Philip, Envoy Extraordinary and Minister Plenipotentiary, February 22, 1919, May 29, 1922, Woodrow Wilson
+  - Samuel H. Piles, Envoy Extraordinary and Minister Plenipotentiary, May 29, 1922, September 17, 1928, Warren G. Harding
+  - Jefferson Caffery, Envoy Extraordinary and Minister Plenipotentiary, November 28, 1928, May 20, 1933, Calvin Coolidge
+  - Sheldon Whitehouse, Envoy Extraordinary and Minister Plenipotentiary, December 6, 1933, December 8, 1934, Franklin D. Roosevelt
+  - William Dawson, Envoy Extraordinary and Minister Plenipotentiary, May 6, 1935, November 16, 1937, Franklin D. Roosevelt
+  - Spruille Braden, Ambassador Extraordinary and Plenipotentiary, February 15, 1939, March 12, 1942, Franklin D. Roosevelt
+  - Arthur Bliss Lane, Ambassador Extraordinary and Plenipotentiary, April 30, 1942, October 18, 1944, Franklin D. Roosevelt
+  - John C. Wiley, Ambassador Extraordinary and Plenipotentiary, December 16, 1944, May 3, 1947, Franklin D. Roosevelt
+  - Willard L. Beaulac, Ambassador Extraordinary and Plenipotentiary, September 30, 1947, June 29, 1951, Harry S. Truman
+  - Capus M. Waynick, Ambassador Extraordinary and Plenipotentiary, August 23, 1951, September 21, 1953, Harry S. Truman
+  - Rudolf E. Schoenfeld, Ambassador Extraordinary and Plenipotentiary, January 28, 1954, January 26, 1955, Dwight D. Eisenhower
+  - Philip W. Bonsal, Ambassador Extraordinary and Plenipotentiary, April 1, 1955, April 24, 1957, Dwight D. Eisenhower
+  - John M. Cabot, Ambassador Extraordinary and Plenipotentiary, July 12, 1957, July 15, 1959, Dwight D. Eisenhower
+  - Dempster McIntosh, Ambassador Extraordinary and Plenipotentiary, July 30, 1959, January 6, 1961, Dwight D. Eisenhower
+  - Fulton Freeman, Ambassador Extraordinary and Plenipotentiary, June 15, 1961, March 14, 1964, John F. Kennedy
+  - Covey T. Oliver, Ambassador Extraordinary and Plenipotentiary, August 13, 1964, August 29, 1966, Lyndon B. Johnson
+  - Reynold E. Carlson, Ambassador Extraordinary and Plenipotentiary, October 6, 1966, June 2, 1969, Lyndon B. Johnson
+  - Jack Hood Vaughn, Ambassador Extraordinary and Plenipotentiary, June 9, 1969, June 25, 1970, Richard Nixon
+  - Leonard J. Saccio, Ambassador Extraordinary and Plenipotentiary, February 24, 1971, July 12, 1973, Richard Nixon
+  - Viron P. Vaky, Ambassador Extraordinary and Plenipotentiary, April 5, 1974, June 23, 1976, Richard Nixon
+  - Phillip V. Sanchez, Ambassador Extraordinary and Plenipotentiary, September 2, 1976, April 5, 1977, Gerald Ford
+  - Diego C. Asencio, Ambassador Extraordinary and Plenipotentiary, December 6, 1977, June 22, 1980, Jimmy Carter
+  - Thomas D. Boyatt, Ambassador Extraordinary and Plenipotentiary, December 3, 1980, April 14, 1983, Jimmy Carter
+  - Lewis Arthur Tambs, Ambassador Extraordinary and Plenipotentiary, May 2, 1983, February 15, 1985, Ronald Reagan
+  - Charles A. Gillespie, Jr., Ambassador Extraordinary and Plenipotentiary, August 28, 1985, September 19, 1988, Ronald Reagan
+  - Thomas Edmund McNamara, Ambassador Extraordinary and Plenipotentiary, October 4, 1988, August 14, 1991, Ronald Reagan
+  - Morris D. Busby, Ambassador Extraordinary and Plenipotentiary, September 18, 1991, July 5, 1994, George H. W. Bush
+  - Myles Robert Rene Frechette, Ambassador Extraordinary and Plenipotentiary, July 25, 1994, November 8, 1997, Bill Clinton
+  - Curtis W. Kamman, Ambassador Extraordinary and Plenipotentiary, March 19, 1998, August 15, 2000, Bill Clinton
+  - Anne W. Patterson, Ambassador Extraordinary and Plenipotentiary, August 24, 2000, June 11, 2003, Bill Clinton
+  - William B. Wood, Ambassador Extraordinary and Plenipotentiary, August 13, 2003, March 12, 2007, George W. Bush
+  - William Brownfield, Ambassador Extraordinary and Plenipotentiary, September 12, 2007, August 3, 2010, George W. Bush
+  - P. Michael McKinley, Ambassador Extraordinary and Plenipotentiary, August 3, 2010, Incumbent, Barack H. Obama
+
+=== Table ID: 2-12937257-12 ===
+=== Table Title: 1967 Los Angeles Dodgers season ===
+Columns: Round, Name, Position, School, Signed
+  - 1, Pat Brown, OF, University of Texas at Austin, No Yankees - 1969
+  - 2, Robert Bosson, 1B, Columbia University, No
+  - 3, Larry Burchart, RHP, Oklahoma State University, Yes
+  - 4, Raldolph Kohn, C, University of Georgia, Yes
+  - 5, Samuel Scheschuk, C, University of Texas at Austin, Yes
+  - 6, Jack Creel, RHP, Gulf Coast Community College, Yes
+  - 7, David Speas, 3B, San Diego Mesa College, Yes
+  - 8, Walter Adey, LHP, Hudson Valley Community College, Yes
+  - 9, Jom Keirns, OF, Central State University, No
+  - 10, Lucky Thompson, SS, University of California, San Diego, No Cardinals - 1968
+  - 11, Clarence Cleveland, OF, Chipola College, No Phillies - 1971
+  - 12, Larry Linville, OF, Arizona State University, No White Sox - 1968
+  - 13, Patrick O'Brien, LHP, University of Arizona, No
+  - 14, Bruce Wade, RHP, El Camino College, No
+  - 15, Richard Binder, LHP, University of Illinois at Urbana-Champaign, No
+  - 16, Douglas Brittele, RHP, Rutgers, the State University of New Jersey, No
+  - 17, Glenn Bisbing, 3B, Rider University, No Reds - 1968
+
+=== Table ID: 2-12937449-3 ===
+=== Table Title: Xuxa discography ===
+Columns: Year, Álbum, Charts, Sales, Certification
+  - 1990, Xuxa 1, No. 1 Latin Charts, 2,500,000, 1x Diamond
+  - 1991, Xuxa 2, No. 1 Latin Charts, 1,650,000, 2x Platinum
+  - 1992, Xuxa 3, No. 7 Latin Charts, 750,000, 2x Platinum
+  - 1993, Todos Sús Exitos, No. 1 Latin Charts, 1,500,000, 1x Diamond
+  - 1994, El Pequeño Mundo, No. 49 Latin, 300,000, 1x Platinum
+  - 1996, Xuxa Dance, No. 10 Latin Charts, 300,000, 1x Platinum
+  - 1999, El Mundo és de los Dos, No. 40 Latin Charts, 150,000, 1x Gold
+  - 2005, Solamente para Bajitos, –, 200,000, 1x Gold
+
+=== Table ID: 2-12937449-4 ===
+=== Table Title: Xuxa discography ===
+Columns: Year, Álbum, Charts, Sales, Certification
+  - 1988, Super Xuxa Contra o Baixo Astral, No. 1, 100,000, Gold
+  - 1990, Lua de Cristal, No. 3, 57,000, Sold in a few units
+  - 1999, Requebra, No. 8, 80.000, Golg
+  - 2000, Popstar, No. 14, 93,000, Distribution Preview Movie Preview
+  - 2001, Xuxa e os Duendes, No. 7, 376,000, 2x Platinum
+  - 2002, Xuxa e os Duendes 2 – No Caminho das Fadas, No. 4, 543,000, 2x Platinum
+  - 2005, Xuxinha e Guto contra os monstros do espaço, No. 18, 32,000, 1x Platinum
+
+=== Table ID: 2-12939799-1 ===
+=== Table Title: ECCO Tour Championship ===
+Columns: Year, Venue, Winner, Country, Score
+  - 2012, Stensballegaard Golf, Alessandro Tadini, Italy, 276 (−12)
+  - 2011, Lübker Golf Resort, Daniel Denison, England, 208 (−8)^
+  - 2010, Green Eagle GC, Andreas Hartø (amateur), Denmark, 284 (−8)
+  - 2009, Holstebro GK, José-Filipe Lima, Portugal, 211 (−5)^
+  - 2008, Kokkedal GK, Antti Ahokas, Finland, 271 (−17)
+  - 2007, Odense GK, Iain Pyman, England, 260 (−20)
+  - 2006, Odense GK, James Heath, England, 261 (−19)
+
+=== Table ID: 2-12946407-3 ===
+=== Table Title: Spain national under-16 football team ===
+Columns: Rank, Player, Club(s), Year(s), U-16 Caps
+  - 1, Ángel Cuéllar, Betis, 1987–1989, 26
+  - 2, Julio Iglesias, Barcelona, 1987–1989, 21
+  - 2, Álvaro Pérez, Athletic Bilbao, 1990–1992, 21
+  - 4, Curro Montoya, Hércules , Valencia, 1992–1993, 20
+  - 4, Diego Ribera, Valencia, 1992–1993, 20
+  - 6, Iker Casillas, Real Madrid, 1996–1998, 19
+  - 6, Enrique Medina, Manises, Valencia, 1990–1991, 19
+  - 6, Francisco Rufete, Atlético Benejúzar, Barcelona, 1992–1993, 19
+  - 6, Carlos Sierra 'Sandro', Tenerife , Real Madrid, 1990–1991, 19
+  - 10, Carlos Castro, Sevilla, 1990–1991, 18
+  - 10, Juan Carlos Gutiérrez, La Cruz Villanovense, Barcelona, 1990–1991, 18
+  - 10, Jero Miñarro, Lorca , Valencia, 1992–1994, 18
+  - 10, Líbero Parri, Valencia, 1998–1999, 18
+  - 10, Iván Pérez, Real Madrid, 1991–1992, 18
+
+=== Table ID: 2-12946777-1 ===
+=== Table Title: 2007 Formula Renault V6 Asia Championship ===
+Columns: Round, Location, Circuit, Date, Winning Driver, Winning Team
+  - 1, Sepang , Malaysia, Sepang International Circuit, May 5–6, Marchy Lee, Super Champ Racing
+  - 2, Sepang , Malaysia, Sepang International Circuit, May 5–6, Seth Ingham, CT Motorsport
+  - 3, Sepang , Malaysia, Sepang International Circuit, June 23–24, Armaan Ebrahim, Team TARADTM
+  - 4, Sepang , Malaysia, Sepang International Circuit, June 23–24, Armaan Ebrahim, Team TARADTM
+  - 5, Sentul , Indonesia, Sentul International Circuit, July 21–22, Aaron Lim, CT Motorsport
+  - 6, Sentul , Indonesia, Sentul International Circuit, July 21–22, Armaan Ebrahim, Team TARADTM
+  - 7, Chengdu , China, Chengdu Goldenport Circuit, September 15–16, James Winslow, Team Meritus
+  - 8, Chengdu , China, Chengdu Goldenport Circuit, September 15–16, James Winslow, Team Meritus
+  - 9, Kamitsue , Japan, Autopolis Circuit, October 13–14, James Winslow, Team Meritus
+  - 10, Kamitsue , Japan, Autopolis Circuit, October 13–14, Armaan Ebrahim, Team TARADTM
+  - 11, Zhuhai , China, Zhuhai International Circuit, November 3–4, Hiroki Yoshimoto, Team Meritus
+  - 12, Zhuhai , China, Zhuhai International Circuit, November 3–4, Armaan Ebrahim, Team TARADTM
+
+=== Table ID: 2-12949075-1 ===
+=== Table Title: List of submissions to the 42nd Academy Awards for Best Foreign Language Film ===
+Columns: Country, Film title used in nomination, Language, Original title, Director
+  - Algeria, Z, French, Z, Costa-Gavras
+  - Austria, Moss on the Stones, German, Moos auf den Steinen, Georg Lhotsky
+  - Belgium, Palaver, Dutch, Palaver, Emile Degelin
+  - Brazil, Antonio das Mortes, Portuguese, O Dragão da Maldade contra o Santo Guerreiro, Glauber Rocha
+  - Czechoslovakia, The Cremator, Czech, Spalovač mrtvol, Juraj Herz
+  - Denmark, Ballad of Carl-Henning, Danish, Balladen om Carl-Henning, Lene Grønlykke and Sven Grønlykke
+  - France, My Night at Maud's, French, Ma Nuit Chez Maud, Éric Rohmer
+  - West Germany, Hunting Scenes From Bavaria, German, Jagdszenen aus Niederbayern, Peter Fleischmann
+  - Greece, Girls in the Sun, Greek, Κοριτσια στον Ηλιο, Vasilis Georgiadis
+  - Hong Kong, The Arch, Chinese, 董夫人, Tang Shu Shuen
+  - Hungary, The Upthrown Stone, Hungarian, Feldobott kő, Sándor Sára
+  - India, Deiva Magan, Tamil, தெய்வ மகன், A. C. Tirulokchandar
+  - Israel, Siege/Matzor, Hebrew, מצור, Gilberto Tofano
+  - Italy, Fellini Satyricon, Italian, Fellini - Satyricon, Federico Fellini
+  - Japan, Kuragejima, Legends From a Southern Island, Japanese, 神々の深き欲望, Shōhei Imamura
+  - South Korea, The Old Craftsman of Jar, Korean, 독 짓는 늙은이, Choi Ha-won
+  - Netherlands, Monsieur Hawarden, Dutch, Monsieur Hawarden, Harry Kümel
+  - Peru, The Green Wall, Spanish, La Muralla Verde, Armando Robles Godoy
+  - Poland, Everything for Sale, Polish, Wszystko na sprzedaz, Andrzej Wajda
+  - Romania, A Woman for a Season, Romanian, Răutăciosul adolescent, Gheorghe Vitanidis
+  - Spain, La Celestina, Spanish, La Celestina, César Fernández Ardavín
+  - Sweden, Ådalen 31, Swedish, Ådalen '31, Bo Widerberg
+  - USSR, The Brothers Karamazov, Russian, Братья Карамазовы, Kirill Lavrov , Ivan Pyryev and Mikhail Ulyanov
+  - Yugoslavia, Battle of Neretva, Serbian, Bitka na Neretvi, Veljko Bulajić
+
+=== Table ID: 2-12950463-1 ===
+=== Table Title: Greifswald Nuclear Power Plant ===
+Columns: Unit, Type, Net Power, Total Power, Finish construction
+  - Greifswald - 1 (KGR 1), WWER-440/230, 408 MW, 440 MW, 17.12.1973
+  - Greifswald - 2 (KGR 2), WWER-440/230, 408 MW, 440 MW, 23.12.1974
+  - Greifswald - 3 (KGR 3), WWER-440/230, 408 MW, 440 MW, 24.10.1977
+  - Greifswald - 4 (KGR 4), WWER-440/230, 408 MW, 440 MW, 03.09.1979
+  - Greifswald - 5 (KGR 5), WWER-440/213, 408 MW, 440 MW, 24.04.1989
+  - Greifswald - 6 (KGR 6), WWER-440/213, 408 MW, 440 MW, Finished, never operated
+  - Greifswald - 7 (KGR 7), WWER-440/213, 408 MW, 440 MW, Canceled
+  - Greifswald - 8 (KGR 8), WWER-440/213, 408 MW, 440 MW, Canceled
+
+=== Table ID: 2-1295185-1 ===
+=== Table Title: Life as We Know It (TV series) ===
+Columns: Title, Directed by, Written by, Original air date, Prod. code
+  - "Pilot", Michael Engler, Jeff Judah & Gabe Sachs, October 7, 2004, 1.1
+  - "Pilot Junior", Michael Engler, Jeff Judah, Gabe Sachs & Donald Todd, October 14, 2004, 1.2
+  - "The Best Laid Plans", Michael Engler, Allison Adler, October 21, 2004, 1.3
+  - "Partly Cloudy, Chance of Sex", Michael Spiller, Donald Todd, October 28, 2004, 1.4
+  - "Secrets and Lies", Michael Spiller, Melissa Carter, November 4, 2004, 1.5
+  - "Natural Disasters", Rachel Talalay, Joel Madison, December 2, 2004, 1.6
+  - "With a Kiss, I Die", John Peters, Allison Adler, December 9, 2004, 1.7
+  - "Family Hard-ships", Rick Wallace, Adam Horowitz & Edward Kitsis, December 16, 2004, 1.8
+  - "A Little Problem", Michael Engler, Leila Gerstein, January 6, 2005, 1.9
+  - "Breaking Away", Rodman Flender, Jeff Judah & Gabe Sachs, January 13, 2005, 1.10
+  - "You Must be Trippin'", Paul Holahan, Luvh Rakhe, January 20, 2005, 1.11
+  - "Friends Don't Let Friends Drive Junk", Dan Lerner, Donald Todd, Unaired in the U.S., 1.12
+  - "Papa Wheelie", Adam Davidson, Joel Madison, Unaired in the U.S., 1.13
+
+=== Table ID: 2-12952355-1 ===
+=== Table Title: Gavin Coles ===
+Columns: Date, Tournament, Winning score, Margin of victory, Runner(s)-up
+  - 10 Mar 2002, Jacob's Creek Open Championship, –9 (71-69-67-72=279), 2 strokes, Bryce Molder
+  - 29 Feb 2004, New Zealand PGA Championship, –6 (70-72-72-68=282), 3 strokes, Bradley Hughes , Brendan Jones Bill Lunde
+  - 3 Sep 2006, Legend Financial Group Classic, –10 (67-71-68-68=274), 1 stroke, Bradley Hughes
+  - 30 Mar 2008, Chitimacha Louisiana Open, –12 (70-66-66-70=272), 1 strokes, Kyle Thompson
+  - 23 Oct 2011, Winn-Dixie Jacksonville Open, –6 (70-64-69-71=274), 1 stroke, Jonas Blixt
+

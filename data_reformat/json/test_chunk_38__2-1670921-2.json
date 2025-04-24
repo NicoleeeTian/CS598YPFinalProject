@@ -1,0 +1,117 @@
+{
+  "header": [
+    "Runs",
+    "Wicket",
+    "Batting partners",
+    "Batting team",
+    "Fielding team",
+    "Venue",
+    "Season"
+  ],
+  "page_title": "Partnership (cricket)",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "text",
+    "text",
+    "text",
+    "text"
+  ],
+  "page_id": 1670921,
+  "id": "2-1670921-2",
+  "section_title": "Top 10 Test partnerships (for any wicket)",
+  "rows": [
+    [
+      "624",
+      "3rd",
+      "Mahela Jayawardene and Kumar Sangakkara",
+      "Sri Lanka",
+      "South Africa",
+      "Colombo",
+      "2006"
+    ],
+    [
+      "576",
+      "2nd",
+      "Roshan Mahanama and Sanath Jayasuriya",
+      "Sri Lanka",
+      "India",
+      "Colombo",
+      "1997"
+    ],
+    [
+      "467",
+      "3rd",
+      "Andrew Jones and Martin Crowe",
+      "New Zealand",
+      "Sri Lanka",
+      "Wellington",
+      "1990/91"
+    ],
+    [
+      "451",
+      "2nd",
+      "Donald Bradman and W H Ponsford",
+      "Australia",
+      "England",
+      "Sydney",
+      "1934"
+    ],
+    [
+      "451",
+      "3rd",
+      "Mudassar Nazar and Javed Miandad",
+      "Pakistan",
+      "India",
+      "Hyderabad, Pakistan",
+      "1982/83"
+    ],
+    [
+      "446",
+      "2nd",
+      "Conrad Hunte and Gary Sobers",
+      "West Indies",
+      "Pakistan",
+      "The Oval",
+      "1957/58"
+    ],
+    [
+      "438",
+      "2nd",
+      "Marvan Atapattu and Kumar Sangakkara",
+      "Sri Lanka",
+      "Zimbabwe",
+      "Bulawayo",
+      "2004"
+    ],
+    [
+      "437",
+      "4th",
+      "Mahela Jayawardene and Thilan Samaraweera",
+      "Sri Lanka",
+      "Pakistan",
+      "Karachi",
+      "2008/09"
+    ],
+    [
+      "429*",
+      "3rd",
+      "Jacques Rudolph and Boeta Dippenaar",
+      "South Africa",
+      "Bangladesh",
+      "Chittagong",
+      "2003"
+    ],
+    [
+      "415",
+      "1st",
+      "Graeme Smith and Neil McKenzie",
+      "South Africa",
+      "Bangladesh",
+      "Chittagong",
+      "2008"
+    ]
+  ],
+  "caption": "Top 10 Test partnerships (for any wicket)"
+}

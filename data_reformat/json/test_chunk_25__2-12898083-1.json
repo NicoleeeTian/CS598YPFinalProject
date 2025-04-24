@@ -1,0 +1,73 @@
+{
+  "header": [
+    "Rank",
+    "Nation",
+    "Gold",
+    "Silver",
+    "Bronze",
+    "Total"
+  ],
+  "page_title": "2004 European Figure Skating Championships",
+  "types": [
+    "real",
+    "text",
+    "real",
+    "real",
+    "real",
+    "real"
+  ],
+  "page_id": 12898083,
+  "id": "2-12898083-1",
+  "section_title": "Medal table",
+  "rows": [
+    [
+      "1",
+      "Russia",
+      "2",
+      "2",
+      "2",
+      "6"
+    ],
+    [
+      "2",
+      "France",
+      "1",
+      "0",
+      "0",
+      "1"
+    ],
+    [
+      "2",
+      "Hungary",
+      "1",
+      "0",
+      "0",
+      "1"
+    ],
+    [
+      "4",
+      "Ukraine",
+      "0",
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "5",
+      "Bulgaria",
+      "0",
+      "1",
+      "0",
+      "1"
+    ],
+    [
+      "6",
+      "Poland",
+      "0",
+      "0",
+      "1",
+      "1"
+    ]
+  ],
+  "caption": "Medal table"
+}

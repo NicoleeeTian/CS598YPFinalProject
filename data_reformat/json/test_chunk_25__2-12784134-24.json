@@ -1,0 +1,121 @@
+{
+  "header": [
+    "Perfect stem",
+    "Future stem",
+    "Imperfect stem",
+    "Short stem",
+    "Meaning"
+  ],
+  "page_title": "Basque verbs",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "text",
+    "text"
+  ],
+  "page_id": 12784134,
+  "id": "2-12784134-24",
+  "section_title": "Compound tense stem forms",
+  "rows": [
+    [
+      "hartu",
+      "hartuko",
+      "hartzen",
+      "har",
+      "'take'"
+    ],
+    [
+      "garbitu",
+      "garbituko",
+      "garbitzen",
+      "garbi",
+      "'clean'"
+    ],
+    [
+      "kendu",
+      "kenduko",
+      "kentzen",
+      "ken",
+      "'take away, remove'"
+    ],
+    [
+      "poztu",
+      "poztuko",
+      "pozten",
+      "poz",
+      "'be/become happy'"
+    ],
+    [
+      "ibili",
+      "ibiliko",
+      "ibiltzen",
+      "ibil",
+      "'go about'"
+    ],
+    [
+      "ikusi",
+      "ikusiko",
+      "ikusten",
+      "ikus",
+      "'see'"
+    ],
+    [
+      "iritsi",
+      "iritsiko",
+      "iristen",
+      "irits",
+      "'arrive'"
+    ],
+    [
+      "ireki",
+      "irekiko",
+      "irekitzen",
+      "ireki",
+      "'open'"
+    ],
+    [
+      "bete",
+      "beteko",
+      "betetzen",
+      "bete",
+      "'fill'"
+    ],
+    [
+      "jo",
+      "joko",
+      "jotzen",
+      "jo",
+      "'strike'"
+    ],
+    [
+      "hil",
+      "hilko",
+      "hiltzen",
+      "hil",
+      "'die, kill'"
+    ],
+    [
+      "egin",
+      "egingo",
+      "egiten",
+      "egin",
+      "'make, do'"
+    ],
+    [
+      "eman",
+      "emango",
+      "ematen",
+      "eman",
+      "'give'"
+    ],
+    [
+      "esan",
+      "esango",
+      "esaten",
+      "esan",
+      "'say'"
+    ]
+  ],
+  "caption": "Compound tense stems (examples)"
+}

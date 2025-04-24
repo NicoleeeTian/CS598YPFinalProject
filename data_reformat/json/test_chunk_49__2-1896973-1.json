@@ -1,0 +1,58 @@
+{
+  "header": [
+    "Date",
+    "Time (CET)",
+    "Res.",
+    "Round",
+    "Attendance"
+  ],
+  "page_title": "RheinEnergieStadion",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "text",
+    "real"
+  ],
+  "page_id": 1896973,
+  "id": "2-1896973-1",
+  "section_title": "2006 FIFA World Cup",
+  "rows": [
+    [
+      "11 June 2006",
+      "21:00",
+      "0–1",
+      "Group D",
+      "45,000"
+    ],
+    [
+      "17 June 2006",
+      "17:00",
+      "0–2",
+      "Group E",
+      "45,000"
+    ],
+    [
+      "20 June 2006",
+      "18:00",
+      "2–2",
+      "Group B",
+      "45,000"
+    ],
+    [
+      "23 June 2006",
+      "20:00",
+      "0–2",
+      "Group G",
+      "45,000"
+    ],
+    [
+      "26 June 2006",
+      "21:00",
+      "0–0 (0–3p)",
+      "Round of 16",
+      "45,000"
+    ]
+  ],
+  "caption": "2006 FIFA World Cup"
+}

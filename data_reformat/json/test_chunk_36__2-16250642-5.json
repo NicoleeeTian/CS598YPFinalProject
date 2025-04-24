@@ -1,0 +1,65 @@
+{
+  "header": [
+    "Brigade",
+    "Type",
+    "Pumpers",
+    "Tankers",
+    "Cars"
+  ],
+  "page_title": "List of Country Fire Authority brigades",
+  "types": [
+    "text",
+    "text",
+    "real",
+    "real",
+    "real"
+  ],
+  "page_id": 16250642,
+  "id": "2-16250642-5",
+  "section_title": "Eureka Group",
+  "rows": [
+    [
+      "Ballarat (Volunteers) 1",
+      "Urban",
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "Ballarat City (Integrated) 1",
+      "Urban",
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "Buninyong (Volunteers) 1",
+      "Urban",
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "Sebastopol (Volunteers) 1",
+      "Urban",
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "Wendouree (Volunteers) 1",
+      "Urban",
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "Total",
+      "Group",
+      "6",
+      "5",
+      "5"
+    ]
+  ],
+  "caption": "Eureka Group"
+}

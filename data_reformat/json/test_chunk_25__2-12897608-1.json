@@ -1,0 +1,81 @@
+{
+  "header": [
+    "Rank",
+    "Nation",
+    "Gold",
+    "Silver",
+    "Bronze",
+    "Total"
+  ],
+  "page_title": "2004 World Figure Skating Championships",
+  "types": [
+    "real",
+    "text",
+    "real",
+    "real",
+    "real",
+    "real"
+  ],
+  "page_id": 12897608,
+  "id": "2-12897608-1",
+  "section_title": "Medal table",
+  "rows": [
+    [
+      "1",
+      "Russia",
+      "3",
+      "0",
+      "0",
+      "3"
+    ],
+    [
+      "2",
+      "Japan",
+      "1",
+      "0",
+      "0",
+      "1"
+    ],
+    [
+      "3",
+      "China",
+      "0",
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "3",
+      "United States",
+      "0",
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "5",
+      "Bulgaria",
+      "0",
+      "1",
+      "0",
+      "1"
+    ],
+    [
+      "5",
+      "France",
+      "0",
+      "1",
+      "0",
+      "1"
+    ],
+    [
+      "7",
+      "Germany",
+      "0",
+      "0",
+      "2",
+      "2"
+    ]
+  ],
+  "caption": "Medal table"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "1-27366772-3",
+  "header": [
+    "District",
+    "Armenian",
+    "Population (2001)",
+    "Area (km²)",
+    "Neighborhoods"
+  ],
+  "types": [
+    "text",
+    "text",
+    "real",
+    "text",
+    "text"
+  ],
+  "rows": [
+    [
+      "Avan",
+      "Ավան",
+      50400,
+      "8.37",
+      "Avan, Avan- Arinj , Aghi Hank"
+    ],
+    [
+      "Davtashen",
+      "Դավթաշեն",
+      50500,
+      "6.71",
+      "Davtashen blocks, Huysi Avan"
+    ],
+    [
+      "Kanaker-Zeytun",
+      "Քանաքեր-Զեյթուն",
+      102700,
+      "8.10",
+      "Kanaker , Nor Zeytun , Mounument"
+    ],
+    [
+      "Nork-Marash",
+      "Նորք-Մարաշ",
+      14600,
+      "4.60",
+      "Nork , Nor Marash"
+    ],
+    [
+      "Nor Nork",
+      "Նոր Նորք",
+      132100,
+      "14.47",
+      "Nor Nork, Bagrevand"
+    ]
+  ],
+  "name": "table_27366772_3"
+}

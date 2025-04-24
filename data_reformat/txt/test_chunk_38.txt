@@ -1,0 +1,2275 @@
+=== Table ID: 2-16653153-27 ===
+=== Table Title: 2008–09 NBL season ===
+Columns: Date, Home team, Score, Away team, Venue, Box Score, Report
+  - 26 January, Melbourne Tigers, 92-86, South Dragons, State Netball and Hockey Centre, box score, report
+  - 28 January, Sydney Spirit, 78-88, Perth Wildcats, State Sports Centre, box score, report
+  - 29 January, New Zealand Breakers, 94-101, South Dragons, North Shore Events Centre, box score, report
+  - 30 January, Wollongong Hawks, 104-113, Melbourne Tigers, WIN Entertainment Centre, box score, report
+  - 31 January, Adelaide 36ers, 107-92, Perth Wildcats, Distinctive Homes Dome, box score, report
+  - 31 January, Gold Coast Blaze, 139-119, Sydney Spirit, Gold Coast Convention Centre, box score, report
+  - 31 January, Townsville Crocodiles, 123-92, Cairns Taipans, Townsville Entertainment Centre, box score, report
+
+=== Table ID: 2-16654805-14 ===
+=== Table Title: 2008 Tour of the Basque Country ===
+Columns: Stage, Winner, General Classification, Points Classification, Mountains Classification, Metas Volantes Classification, Team Classification
+  - 1, Alberto Contador, Alberto Contador, Alberto Contador, Egoi Martínez, Iban Mayoz, Saunier Duval-Scott
+  - 2, Kim Kirchen, Alberto Contador, David Herrero, Egoi Martínez, Iban Mayoz, Lampre
+  - 3, David Herrero, Alberto Contador, David Herrero, Egoi Martínez, Iban Mayoz, Saunier Duval-Scott
+  - 4, Kim Kirchen, Alberto Contador, David Herrero, Egoi Martínez, Iban Mayoz, Saunier Duval-Scott
+  - 5, Damiano Cunego, Alberto Contador, David Herrero, Egoi Martínez, Iban Mayoz, Karpin-Galicia
+  - 6, Alberto Contador, Alberto Contador, Damiano Cunego, Egoi Martínez, Iban Mayoz, Rabobank
+
+=== Table ID: 2-166570-4 ===
+=== Table Title: List of tallest structures in the world ===
+Columns: Name, Pinnacle height planned, Year completion expected, Structure type, Country, Town
+  - Kingdom Tower, metres (ft), 2019, Skyscraper, Saudi Arabia, Jeddah
+  - Pingan International Finance Centre, metres (ft), 2015, Skyscraper, China, Shenzhen
+  - Wuhan Greenland Center, metres (ft), 2014, Skyscraper, China, Wuhan
+  - Shanghai Tower, metres (ft), 2014, Skyscraper, China, Shanghai
+  - Goldin Finance 117, metres (ft), 2015, Skyscraper, China, Tianjin
+  - Lotte World Tower, metres (ft), 2015, Skyscraper, South Korea, Seoul
+  - 1 World Trade Center, metres (ft), 2013, Skyscraper, United States, New York City
+  - Chow Tai Fook Centre, metres (ft), 2015, Skyscraper, China, Guangzhou
+  - China Zun, metres (ft), 2016, Skyscraper, China, Beijing
+  - Pentominium, metres (ft), 2014, Skyscraper, United Arab Emirates, Dubai
+  - Busan Lotte World Tower, metres (ft), 2016, Skyscraper, South Korea, Busan
+  - Federation Tower, metres (ft), 2013, Skyscraper, Russia, Moscow
+  - Tianjin R&F Guangdong Tower, metres (ft), 2015, Skyscraper, China, Tianjin
+
+=== Table ID: 2-1665961-2 ===
+=== Table Title: Meg Mallon ===
+Columns: Date, Tournament, Winning score, Margin of victory, Runner(s)-up
+  - Feb 4, 1991, Oldsmobile LPGA Classic, –12 (66-70-69-71=276), 2 strokes, Dana Lofland
+  - Jun 30, 1991, Mazda LPGA Championship, –10 (68-68-71-67=274), 1 stroke, Pat Bradley , Ayako Okamoto
+  - Jul 14, 1991, U.S. Women's Open, –1 (70-75-71-67=283), 2 strokes, Pat Bradley
+  - Oct 6, 1991, Daikyo World Championship, –3 (73-72-71=216), 5 strokes, Dottie Mochrie
+  - Mar 14, 1993, PING/Welch's Championship (Tucson), –16 (67-66-70-69=272), 1 stroke, Betsy King
+  - May 9, 1993, Sara Lee Classic, –11 (70-71-64=205), Playoff, Tina Tombs
+  - Feb 24, 1996, Cup Noodles Hawaiian Ladies Open, –4 (74-70-68=212), 1 stroke, Karrie Webb
+  - Apr 28, 1996, Sara Lee Classic, –6 (70-71-69=210), 2 strokes, Stephanie Farwig , Pamela Wright
+  - Aug 9, 1998, Star Bank LPGA Classic, –17 (64-66-68=199), Playoff, Dottie Pepper
+  - Jan 24, 1999, Naples LPGA Memorial, –16 (69-67-69-67=272), 1 stroke, Helen Alfredsson , Kelly Robbins
+  - May 16, 1999, Sara Lee Classic, –17 (66-65-68=199), 1 stroke, Annika Sörenstam , Kris Tschetter
+  - Jun 11, 2000, Wegmans Rochester International, –8 (74-67-72-67=280), 2 strokes, Wendy Doolan
+  - Aug 13, 2000, du Maurier Classic, –6 (73-68-72-69=282), 1 stroke, Rosie Jones
+  - Aug 18, 2002, Bank of Montreal Canadian Women's Open, –4 (71-71-69-73=284), 3 strokes, Michelle Ellis , Catriona Matthew Michele Redman
+  - Nov 23, 2003, ADT Championship, –7 (71-71-72-67=281), 1 stroke, Annika Sörenstam
+  - Jul 4, 2004, U.S. Women's Open, –10 (73-69-67-65=274), 2 strokes, Annika Sörenstam
+  - Jul 11, 2004, BMO Financial Group Canadian Women's Open, –18 (65-70-65-70=270), 4 strokes, Beth Daniel
+  - Aug 8, 2004, Jamie Farr Owens Corning Classic, –7 (66-69-74-68=277), 1 stroke, Se Ri Pak , Karen Stupples
+
+=== Table ID: 2-16660896-1 ===
+=== Table Title: 1959 New York Giants season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 26, 1959, at Los Angeles Rams, W 23–21, 71,297
+  - 2, October 4, 1959, at Philadelphia Eagles, L 49–21, 27,023
+  - 3, October 11, 1959, at Cleveland Browns, W 10–6, 65,534
+  - 4, October 18, 1959, Philadelphia Eagles, W 24–7, 68,783
+  - 5, October 25, 1959, at Pittsburgh Steelers, W 21–16, 33,596
+  - 6, November 1, 1959, Green Bay Packers, W 20–3, 68,837
+  - 7, November 8, 1959, Chicago Cardinals, W 9–3, 56,779
+  - 8, November 15, 1959, Pittsburgh Steelers, L 14–9, 66,786
+  - 9, November 22, 1959, at Chicago Cardinals (Bloomington, MN), W 30–20, 26,625
+  - 10, November 29, 1959, Washington Redskins, W 45–14, 60,982
+  - 11, December 6, 1959, Cleveland Browns, W 48–7, 68,436
+  - 12, December 13, 1959, at Washington Redskins, W 24–10, 26,198
+
+=== Table ID: 2-16660922-1 ===
+=== Table Title: 1960 New York Giants season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 25, 1960, at San Francisco 49ers, W 21–19, 44,598
+  - 2, October 2, 1960, at St. Louis Cardinals, W 35–14, 26,089
+  - 3, October 9, 1960, at Pittsburgh Steelers, W 19–17, 40,323
+  - 4, October 16, 1960, Washington Redskins, T 24–24, 60,625
+  - 5, Bye, Bye, Bye, Bye
+  - 6, October 30, 1960, St. Louis Cardinals, L 20–13, 58,516
+  - 7, November 6, 1960, at Cleveland Browns, W 17–13, 82,872
+  - 8, November 13, 1960, Pittsburgh Steelers, W 27–24, 63,321
+  - 9, November 20, 1960, Philadelphia Eagles, L 17–10, 63,571
+  - 10, November 27, 1960, at Philadelphia Eagles, L 31–23, 60,547
+  - 11, December 4, 1960, Dallas Cowboys, T 31–31, 55,033
+  - 12, December 11, 1960, at Washington Redskins, W 17–3, 14,077
+  - 13, December 18, 1960, Cleveland Browns, L 48–34, 56,517
+
+=== Table ID: 2-1666310-6 ===
+=== Table Title: List of tallest buildings and structures in Birmingham ===
+Columns: Name, Location, Years as tallest, Height metres / ft, Floors
+  - St Philip's Cathedral, Colmore Row, 1725–1777, 01.0 40 / 131, 03.0 N/A
+  - Church of SS Peter and Paul, Aston, 1777–1855, 02.0 57.9 / 190, 04.0 N/A
+  - St Martin in the Bull Ring, The Bull Ring, 1855–1908, 02.0 61 / 200, 04.0 N/A
+  - Joseph Chamberlain Memorial Clock Tower, University of Birmingham, 1908–1966, 02.0 110 / 360, 04.0 N/A
+  - BT Tower, Jewellery Quarter, 1966–Present, 02.0 152 / 498, 04.0 N/A
+
+=== Table ID: 2-16663506-1 ===
+=== Table Title: Spain women's national water polo team ===
+Columns: Name, Pos., Height, Weight, 2012 club
+  - Laura Ester Category:Articles with hCards, GK, m (), kg (lb), CN Sabadell
+  - Marta Bach Category:Articles with hCards, CB, m (), kg (lb), CN Mataro
+  - Anna Espar Category:Articles with hCards, D, m (), kg (lb), CN Sabadell
+  - Roser Tarragó Category:Articles with hCards, D, m (), kg (lb), CN Mataro
+  - Matilde Ortiz Category:Articles with hCards, CB, m (), kg (lb), CN Sabadell
+  - Jennifer Pareja Category:Articles with hCards, D, m (), kg (lb), CN Sabadell
+  - Lorena Miranda Category:Articles with hCards, CB, m (), kg (lb), CW Dos Hermanas
+  - Pilar Peña Carrasco Category:Articles with hCards, D, m (), kg (lb), CN Sabadell
+  - Andrea Blas Category:Articles with hCards, CF, m (), kg (lb), EW Zaragoza
+  - Ona Meseguer Category:Articles with hCards, D, m (), kg (lb), CN Sant Andreu
+  - Maica García Godoy Category:Articles with hCards, CF, m (), kg (lb), CN Sabadell
+  - Laura López Category:Articles with hCards, D, m (), kg (lb), CN Madrid Moscardo
+  - Ana Copado Category:Articles with hCards, GK, m (), kg (lb), CN Sant Andreu
+
+=== Table ID: 2-16669584-1 ===
+=== Table Title: San Antonio Spurs all-time roster ===
+Columns: Player, No.(s), Height in Ft., Position, Years with Spurs, School/Previous Club Team/Country
+  - Ahearn, Blake Blake Ahearn, 18, 6-2, Guard, 2008-09, Missouri State
+  - Alexander, Cory Cory Alexander, 1, 6-1, Guard, 1995-98, Virginia
+  - Anderson, Derek Derek Anderson, 1, 6-5, Guard, 2000-01, Kentucky
+  - Anderson, Greg Greg Anderson, 33, 6-10, Forward, 1987-89, 1996-97, Houston
+  - Anderson, James James Anderson, 11, 25, 6-6, Guard, 2010-13, Oklahoma State
+  - Anderson, Michael Michael Anderson, 10, 5-11, Guard, 1988-89, Drexel
+  - Anderson, Willie Willie Anderson, 40, 6-7, Guard/Forward, 1988-95, Georgia
+  - Averitt, Bird Bird Averitt, 10, 6-1, Guard, 1973-74, Pepperdine
+
+=== Table ID: 2-16669773-1 ===
+=== Table Title: Opinion polling by state for the United States presidential election, 2008 (Kansas) ===
+Columns: Poll Source, Sample Size, Margin of Error, Date, Democrat, Republican
+  - Survey USA, 516, 4.4, Mar 14-16, 2008, Hillary Clinton, John McCain
+  - Survey USA, 516, 4.4, Mar 14-16, 2008, Barack Obama, John McCain
+  - Survey USA, 514, 4.3, Feb 15-17, 2008, Hillary Clinton, John McCain
+  - Survey USA, 514, 4.4, Feb 15-17, 2008, Barack Obama, John McCain
+  - Survey USA, 512, 4.4, Jan 16-17, 2008, Hillary Clinton, Rudy Giuliani
+  - Survey USA, 512, 4.4, Jan 16-17, 2008, Hillary Clinton, Mike Huckabee
+  - Survey USA, 512, 4.4, Jan 16-17, 2008, Hillary Clinton, John McCain
+  - Survey USA, 512, 4.4, Jan 16-17, 2008, Hillary Clinton, Mitt Romney
+  - Survey USA, 512, 4.4, Jan 16-17, 2008, Barack Obama, Rudy Giuliani
+  - Survey USA, 512, 4.4, Jan 16-17, 2008, Barack Obama, Mike Huckabee
+  - Survey USA, 512, 4.4, Jan 16-17, 2008, Barack Obama, John McCain
+  - Survey USA, 512, 4.4, Jan 16-17, 2008, Barack Obama, Mitt Romney
+  - Survey USA, 529, 4.3, Dec 21, 2007, Hillary Clinton, Rudy Giuliani
+  - Rasmussen Report, 529, 4.3, Dec 4, 2007, Hillary Clinton, Rudy Giuliani
+  - Rasmussen Report, 529, 4.3, Dec 4, 2007, Hillary Clinton, John McCain
+  - Survey USA, 542, 4.3, Nov 9-11, 2007, Hillary Clinton, Rudy Giuliani
+  - Survey USA, 542, 4.3, Nov 9-11, 2007, Hillary Clinton, Mike Huckabee
+  - Survey USA, 542, 4.3, Nov 9-11, 2007, Hillary Clinton, John McCain
+  - Survey USA, 542, 4.3, Nov 9-11, 2007, Hillary Clinton, Mitt Romney
+  - Survey USA, 542, 4.3, Nov 9-11, 2007, Barack Obama, Rudy Giuliani
+  - Survey USA, 542, 4.3, Nov 9-11, 2007, Barack Obama, Mike Huckabee
+  - Survey USA, 542, 4.3, Nov 9-11, 2007, Barack Obama, John McCain
+  - Survey USA, 542, 4.3, Nov 9-11, 2007, Barack Obama, Mitt Romney
+  - Survey USA, 533, 4.3, Oct 12-14, 2007, Hillary Clinton, Rudy Giuliani
+  - Survey USA, 521, 4.4, Oct 12-14, 2007, Hillary Clinton, Mike Huckabee
+  - Survey USA, 519, 4.3, Oct 12-14, 2007, Hillary Clinton, John McCain
+  - Survey USA, 516, 4.4, Oct 12-14, 2007, Hillary Clinton, Ron Paul
+  - Survey USA, 526, 4.4, Oct 12-14, 2007, Hillary Clinton, Mitt Romney
+  - Survey USA, 531, 4.3, Oct 12-14, 2007, Hillary Clinton, Fred Thompson
+
+=== Table ID: 2-16675130-1 ===
+=== Table Title: Districts of Preston ===
+Columns: County Council division, Ward, Area forum, es Parish, Parliamentary constituency (from 2010)
+  - Preston Rural, 1. Preston Rural North, Rural, Barton, Wyre and Preston North
+  - Preston Rural, 1. Preston Rural North, Rural, Goosnargh, Wyre and Preston North
+  - Preston Rural, 1. Preston Rural North, Rural, Whittingham, Wyre and Preston North
+  - Preston Rural, 1. Preston Rural North, Rural, Woodplumpton, Wyre and Preston North
+  - Preston Rural, 2. Preston Rural East, Rural, Broughton, Wyre and Preston North
+  - Preston Rural, 2. Preston Rural East, Rural, Grimsargh, Wyre and Preston North
+  - Preston Rural, 2. Preston Rural East, Rural, Haighton, Wyre and Preston North
+  - Preston North, 3. Cadley, North ( Fulwood ), unparished area ( Preston ), Wyre and Preston North
+  - Preston North, 4. Greyfriars, North ( Fulwood ), unparished area ( Preston ), Wyre and Preston North
+  - Preston North East, 5. Garrison, North ( Fulwood ), unparished area ( Preston ), Wyre and Preston North
+  - Preston North East, 6. Sharoe Green, North ( Fulwood ), unparished area ( Preston ), Wyre and Preston North
+  - Preston Central North, 7. College, North ( Fulwood ), unparished area ( Preston ), Wyre and Preston North
+  - Preston Central North, 8. Deepdale, East, unparished area ( Preston ), Preston
+  - Preston Central North, 9. Moor Park, Central, unparished area ( Preston ), Preston
+  - Preston Central South, 10. St George's, Central, unparished area ( Preston ), Preston
+  - Preston Central South, 11. Tulketh, Central, unparished area ( Preston ), Preston
+  - Preston Central South, 12. University, Central, unparished area ( Preston ), Preston
+  - Preston City, 13. Riversway, Central, unparished area ( Preston ), Preston
+  - Preston City, 14. Town Centre, Central, unparished area ( Preston ), Preston
+  - Preston West, 15. Ingol, West, unparished area ( Preston ), Preston
+  - Preston West, 16. Lea, West, Lea, Fylde
+  - Preston North West, 17. Ashton, West, unparished area (Preston), Preston
+  - Preston North West, 18. Larches, West, unparished area (Preston), Preston
+  - Preston South East, 19. Fishwick, East, unparished area (Preston), Preston
+  - Preston South East, 20. St Matthew's, East, unparished area (Preston), Preston
+  - Preston East, 21. Brookfield, East, unparished area (Preston), Preston
+  - Preston East, 22. Ribbleton, East, unparished area (Preston), Preston
+
+=== Table ID: 2-16675572-1 ===
+=== Table Title: Genzebe Dibaba ===
+Columns: Year, Competition, Venue, Position, Notes
+  - 2007, World Cross Country Championships, Mombasa , Kenya, 5th, Junior race
+  - 2008, World Cross Country Championships, Edinburgh , Scotland, 1st, Junior race
+  - 2008, World Junior Championships in Athletics, Bydgoszcz , Poland, 2nd, 5000 m
+  - 2009, World Cross Country Championships, Amman , Jordan, 1st, Junior race
+  - 2009, Ethiopian Athletics Championships, Addis Ababa , Ethiopia, 1st, 5000 m
+  - 2009, African Junior Championships, Bambous , Mauritius, 1st, 5000 m
+  - 2009, World Championships, Berlin , Germany, 8th, 5000 m
+  - 2010, World Junior Championships, Moncton , Canada, 1st, 5000 m
+  - 2012, World Indoor Championships, Istanbul , Turkey, 1st, 1500 m
+
+=== Table ID: 2-16677874-1 ===
+=== Table Title: 1974 Buffalo Bills season ===
+Columns: Round, Pick #, Player, Position, College
+  - 1, 18, Reuben Gant, Tight end, Oklahoma State
+  - 2, 27, Doug Allen, Linebacker, Penn State
+  - 3, 70, Gary Marangi, Quarterback, Boston College
+  - 4, 95, Carlester Crumpler, Running back, East Carolina
+  - 5, 106, Gary Hayman, Wide receiver, Penn State
+  - 5, 122, Tim Guy, Tackle, Oregon
+  - 8, 203, Greg Hare, Quarterback, Ohio State
+  - 9, 226, Brian Doherty, Punter, Notre Dame
+  - 10, 241, Art Cameron, Tight end, Albany State
+  - 10, 249, Don Calhoun, Running back, Kansas State
+  - 11, 279, Rod Kirby, Linebacker, Pittsburgh
+  - 12, 303, Dave Means, Defensive end, Southeast Missouri State
+  - 13, 331, Ed Gatewood, Linebacker, Tennessee State
+  - 14, 339, Phil Lamm, Defensive back, North Carolina
+  - 14, 355, Phil Gurbada, Defensive back, Mayville
+  - 15, 382, Ken Williams, Linebacker, Southwestern Louisiana
+  - 16, 406, Sanford Qvale, Tackle, North Dakota State
+  - 17, 434, Sal Casola, Kicker, Cincinnati
+
+=== Table ID: 2-16677874-2 ===
+=== Table Title: 1974 Buffalo Bills season ===
+Columns: Game, Date, Opponent, Result, Bills points, Opponents, Bills first downs, Record, 'Attendance
+  - 1, Sept. 16, Oakland Raiders, Win, 21, 20, 22, 1–0, 80,020
+  - 2, Sept. 22, Miami Dolphins, Loss, 16, 24, 16, 1–1, 80,020
+  - 3, Sept. 29, New York Jets, Win, 16, 12, 17, 2–1, 76,978
+  - 4, Oct. 6, at Green Bay Packers, Win, 27, 7, 22, 3–1, 56,267
+  - 5, Oct. 13, at Baltimore Colts, Win, 27, 14, 15, 4–1, 40,626
+  - 6, Oct. 20, New England Patriots, Win, 30, 28, 19, 5–1, 78,935
+  - 7, Oct. 27, Chicago Bears, Win, 16, 6, 16, 6–1, 78,084
+  - 8, Nov. 3, at New England Patriots, Win, 29, 28, 22, 7–1, 61,279
+  - 9, Nov. 10, Houston Oilers, Loss, 9, 21, 16, 7–2, 79,144
+  - 10, Nov. 17, at Miami Dolphins, Loss, 28, 35, 16, 7–3, 69,313
+  - 11, Nov. 24, at Cleveland Browns, Win, 15, 10, 10, 8–3, 66,504
+  - 12, Dec. 1, Baltimore Colts, Win, 6, 0, 9, 9–3, 75,325
+  - 13, Dec. 8, at New York Jets, Loss, 10, 20, 12, 9–4, 61,091
+  - 14, Dec. 15, at Los Angeles Rams, Loss, 14, 19, 8, 9–5, 84,324
+
+=== Table ID: 2-16677972-2 ===
+=== Table Title: 1978 Philadelphia Eagles season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 3, 1978, Los Angeles Rams, L 16–14, 64,721
+  - 2, September 10, 1978, at Washington Redskins, L 35–30, 54,380
+  - 3, September 17, 1978, at New Orleans Saints, W 24–17, 49,242
+  - 4, September 24, 1978, Miami Dolphins, W 17–3, 62,998
+  - 5, October 1, 1978, at Baltimore Colts, W 17–14, 50,314
+  - 6, October 8, 1978, at New England Patriots, L 24–14, 61,016
+  - 7, October 15, 1978, Washington Redskins, W 17–10, 65,722
+  - 8, October 22, 1978, at Dallas Cowboys, L 14–7, 60,525
+  - 9, October 29, 1978, St. Louis Cardinals, L 16–10, 62,989
+  - 10, November 5, 1978, Green Bay Packers, W 10–3, 64,214
+  - 11, November 12, 1978, New York Jets, W 17–9, 60,249
+  - 12, November 19, 1978, at New York Giants, W 19–17, 70,318
+  - 13, November 26, 1978, at St. Louis Cardinals, W 14–10, 39,693
+  - 14, December 3, 1978, at Minnesota Vikings, L 28–27, 38,722
+  - 15, December 10, 1978, Dallas Cowboys, L 31–13, 64,667
+  - 16, December 17, 1978, New York Giants, W 20–3, 56,396
+
+=== Table ID: 2-16678064-9 ===
+=== Table Title: 1989 Philadelphia Eagles season ===
+Columns: Player, Games, Returns, Yards, Long, Yards per return
+  - Keith Byars, 16, 1, 27, 27, 27.0
+  - Mark Higgs, 15, 16, 293, 30, 18.3
+  - Dave Little, 16, 2, 14, 12, 7.0
+  - Heath Sherman, 15, 13, 222, 45, 17.1
+  - Gizmo Williams, 13, 14, 249, 28, 17.8
+
+=== Table ID: 2-16678098-2 ===
+=== Table Title: 1999 Philadelphia Eagles season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 12, 1999, Arizona Cardinals, L 25–24, 64,113
+  - 2, September 19, 1999, Tampa Bay Buccaneers, L 19–5, 64,285
+  - 3, September 26, 1999, at Buffalo Bills, L 26–0, 70,872
+  - 4, October 3, 1999, at New York Giants, L 16–15, 73,274
+  - 5, October 10, 1999, Dallas Cowboys, W 13–10, 66,669
+  - 6, October 17, 1999, at Chicago Bears, W 20–16, 66,944
+  - 7, October 24, 1999, at Miami Dolphins, L 16–13, 73,975
+  - 8, October 31, 1999, New York Giants, L 23–17, 66,481
+  - 9, November 7, 1999, at Carolina Panthers, L 33–7, 62,569
+  - 10, November 14, 1999, Washington Redskins, W 35–28, 66,591
+  - 11, November 21, 1999, Indianapolis Colts, L 44–17, 65,521
+  - 12, November 28, 1999, at Washington Redskins, L 20–17, 74,741
+  - 13, December 5, 1999, at Arizona Cardinals, L 21–17, 46,550
+  - 14, December 12, 1999, at Dallas Cowboys, L 20–10, 64,086
+  - 15, December 19, 1999, New England Patriots, W 24–9, 65,475
+  - 16, Bye, Bye, Bye, Bye
+  - 17, January 2, 2000, St. Louis Rams, W 38–31, 60,700
+
+=== Table ID: 2-16678524-2 ===
+=== Table Title: 1949 Philadelphia Eagles season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 22, 1949, at New York Bulldogs, W 7–0, 4,355
+  - 2, October 3, 1949, at Detroit Lions, W 22–14, 20,163
+  - 3, October 8, 1949, Chicago Cardinals, W 28–3, 33,716
+  - 4, October 16, 1949, at Chicago Bears, L 38–21, 47,248
+  - 5, October 23, 1949, Washington Redskins, W 49–14, 28,602
+  - 6, October 30, 1949, at Pittsburgh Steelers, W 38–7, 37,840
+  - 7, November 6, 1949, Los Angeles Rams, W 38–14, 38,230
+  - 8, November 13, 1949, at Washington Redskins, W 44–21, 31,170
+  - 9, November 20, 1949, New York Bulldogs, W 42–0, 22,165
+  - 10, November 27, 1949, Pittsburgh Steelers, W 34–17, 22,191
+  - 11, December 4, 1949, at New York Giants, W 24–3, 25,446
+  - 12, December 11, 1949, New York Giants, W 17–3, 21,022
+
+=== Table ID: 2-1667933-1 ===
+=== Table Title: Frontier Strip ===
+Columns: Year, Kansas, Nebraska, North Dakota, Oklahoma, South Dakota, Texas
+  - Year, Kansas, Nebraska, North Dakota, Oklahoma, South Dakota, Texas
+  - 1952, Eisenhower, Eisenhower, Eisenhower, Eisenhower, Eisenhower, Eisenhower
+  - 1956, Eisenhower, Eisenhower, Eisenhower, Eisenhower, Eisenhower, Eisenhower
+  - 1960, Nixon, Nixon, Nixon, Nixon, Nixon, Kennedy
+  - 1964, Johnson, Johnson, Johnson, Johnson, Johnson, Johnson
+  - 1968, Nixon, Nixon, Nixon, Nixon, Nixon, Humphrey
+  - 1972, Nixon, Nixon, Nixon, Nixon, Nixon, Nixon
+  - 1976, Ford, Ford, Ford, Ford, Ford, Carter
+  - 1980, Reagan, Reagan, Reagan, Reagan, Reagan, Reagan
+  - 1984, Reagan, Reagan, Reagan, Reagan, Reagan, Reagan
+  - 1988, Bush, Bush, Bush, Bush, Bush, Bush
+  - 1992, Bush, Bush, Bush, Bush, Bush, Bush
+  - 1996, Dole, Dole, Dole, Dole, Dole, Dole
+  - 2000, Bush, Bush, Bush, Bush, Bush, Bush
+  - 2004, Bush, Bush, Bush, Bush, Bush, Bush
+  - 2008, McCain, McCain, McCain, McCain, McCain, McCain
+  - 2012, Romney, Romney, Romney, Romney, Romney, Romney
+
+=== Table ID: 2-1667958-1 ===
+=== Table Title: Mint Royale ===
+Columns: Release date, Title, UK Singles Chart, Irish Singles Chart, Album, Format(s)
+  - 23 November 1998, "Deadbeat", —, —, On the Ropes, 12"
+  - 30 January 1999, "Tequila" by Terrorvision (remix), 2, —, —, CD / 7" / 12"
+  - 2 February 1999, "Rock and Roll Bar", 163, —, On the Ropes, CD / 12"
+  - 7 June 1999, "From Rusholme with Love", 117, —, On the Ropes, CD / 12"
+  - 27 September 1999, "Shake Me", 154, —, On the Ropes, CD / 12"
+  - 24 January 2000, "Don't Falter" (feat. Lauren Laverne ), 15, —, On the Ropes, CD / 12"
+  - 24 April 2000, "Take It Easy", 66, —, On the Ropes, CD / 12"
+  - 2001, "Show Me" (feat. Pos ), 79, —, —, CD / 12"
+  - 26 August 2002, "The Sexiest Man in Jamaica", 20, —, Dancehall Places, CD / 12"
+  - 27 January 2003, "Blue Song", 35, —, Dancehall Places, CD / 12"
+  - 21 July 2003, "I Don't Know"/"Dancehall Places", 137, —, Dancehall Places, CD / 12"
+  - 11 April 2005, "Wait for You", 123, —, See You in the Morning, 12"
+  - 22 August 2005, " Singin' in the Rain ", 20, —, See You in the Morning, CD / 12"
+  - 21 November 2005, "The Effect on Me", 219, —, See You in the Morning, CD / 12"
+  - 26 May 2008, "Singin' in the Rain" (re-entry), 1, 3, See You in the Morning, Digital / CD
+  - 10 May 2013, "GTFU" (EP), —, —, —, Digital
+
+=== Table ID: 2-16682501-1 ===
+=== Table Title: Leonard Patrick Komon ===
+Columns: Year, Competition, Venue, Position, Notes
+  - 2006, World Cross Country Championships, Fukuoka , Japan, 2nd, Junior race
+  - 2007, World Cross Country Championships, Mombasa , Kenya, 4th, Junior race
+  - 2008, World Cross Country Championships, Edinburgh , Scotland, 2nd, Senior race
+  - 2008, World Cross Country Championships, Edinburgh , Scotland, 1st, Team competition
+  - 2009, World Cross Country Championships, Amman , Jordan, 4th, Long race
+  - 2009, World Cross Country Championships, Amman , Jordan, 1st, Team
+  - 2010, World Cross Country Championships, Bydgoszcz , Poland, 4th, Senior race
+  - 2010, World Cross Country Championships, Bydgoszcz , Poland, 1st, Team
+
+=== Table ID: 2-16689-1 ===
+=== Table Title: Economy of Kuwait ===
+Columns: Year, Gross Domestic Product, US Dollar Exchange, Inflation Index (2000=100), Per Capita Income (as % of USA)
+  - 1980, 7,764, 0.27 Kuwaiti Dinars, 55, 171.08
+  - 1985, 6,450, 0.29 Kuwaiti Dinars, 68, 71.58
+  - 1990, 5,328, 0.29 Kuwaiti Dinars, 80, 37.00
+  - 1995, 8,114, 0.29 Kuwaiti Dinars, 92, 62.14
+  - 2000, 11,570, 0.30 Kuwaiti Dinars, 100, 48.92
+  - 2005, 21,783, 0.29 Kuwaiti Dinars, 108, 64.35
+
+=== Table ID: 2-16693989-9 ===
+=== Table Title: 1999 Asian Men's Volleyball Championship ===
+Columns: Date, Time, Score, Set 1, Set 2, Set 3, Total
+  - 02 Sep, 14:00, 1–3, 25–23, 22–25, 22–25, 97–103
+  - 02 Sep, 20:00, 3–0, 25–21, 25–12, 25–16, 75–49
+  - 03 Sep, 17:30, 3–1, 23–25, 25–18, 25–18, 98–81
+  - 03 Sep, 19:30, 3–0, 25–12, 25–15, 25–18, 75–45
+  - 04 Sep, 15:30, 1–3, 15–25, 19–25, 28–26, 85–101
+  - 04 Sep, 19:00, 0–3, 24–26, 21–25, 21–25, 66–76
+
+=== Table ID: 2-16697344-2 ===
+=== Table Title: European Volleyball Championship of the Small Countries Division ===
+Columns: Year, Host, Gold, Silver, Bronze
+  - 2001, Glasgow, Cyprus, Scotland, Luxembourg
+  - 2003, Andorra, Cyprus, Iceland, Scotland
+  - 2005, Luxembourg, Cyprus, Luxembourg, Faroe Islands
+  - 2007, Limassol (CYP), Cyprus, Andorra, Luxembourg
+  - 2009, Luxembourg, Cyprus, Luxembourg, Iceland
+  - 2011, Andorra, Cyprus, Luxembourg, Andorra
+
+=== Table ID: 2-16705865-4 ===
+=== Table Title: Drovers Run ===
+Columns: Actor, Role, Status, Number Of Episodes, Notes
+  - Sonia Todd, Meg Fountain Dodge, 2001 - 2006, 2007, 2008, 2009, 107 Episodes, Living in Darwin with Husband Terry.
+  - Jessica Napier, Becky Howard, 2001 - 2003, 70 Episodes, Moved to run a Farm with boyfriend Jake.
+  - Michala Banas, Kate Manfredi, 2004 - 2008, 117 Episodes, Moved to run a Youth Farm.
+  - Doris Younane, Moria Doyle, 2001 - 2003, 2005 - 2009, 85 Episodes, Living at Drovers Run.
+  - Gillian Alexy, Tayler Geddes, 2006 - 2009, 54 Episodes, At Uni in Adelaide .
+
+=== Table ID: 2-167091-1 ===
+=== Table Title: 2000 in film ===
+Columns: Rank, Title, Studio, Director(s), Worldwide gross
+  - 1., Mission: Impossible II, Paramount Pictures, John Woo, $546,388,105
+  - 2., Gladiator, DreamWorks, Ridley Scott, $457,640,427
+  - 3., Cast Away, 20th Century Fox, Robert Zemeckis, $429,632,142
+  - 4., What Women Want, Paramount Pictures, Nancy Meyers, $374,111,707
+  - 5., Dinosaur, Walt Disney Pictures, Ralph Zondag and Eric Leighton, $349,822,765
+  - 6., How the Grinch Stole Christmas, Universal Studios, Ron Howard, $345,141,403
+  - 7., Meet the Parents, Universal Studios, Jay Roach, $330,444,045
+  - 8., The Perfect Storm, Warner Bros., Wolfgang Petersen, $328,718,434
+  - 9., X-Men, 20th Century Fox, Bryan Singer, $296,339,527
+  - 10., What Lies Beneath, DreamWorks / 20th Century Fox, Robert Zemeckis, $291,420,351
+  - 11., Scary Movie, Dimension Films, Keenen Ivory Wayans, $278,019,771
+  - 12., Charlie's Angels, Columbia Pictures, McG, $264,105,545
+  - 13., Erin Brockovich, Universal Studios / Columbia Pictures, Steven Soderbergh, $256,271,286
+  - 14., Unbreakable, Touchstone Pictures / Blinding Edge, M. Night Shyamalan, $248,118,121
+  - 15., Gone in 60 Seconds, Buena Vista Pictures, Dominic Sena, $237,202,298
+  - 16., Chicken Run, DreamWorks / Aardman Animations, Peter Lord and Nick Park, $224,834,564
+  - 17., Vertical Limit, Columbia Pictures, Martin Campbell, $215,663,859
+  - 18., The Patriot, Columbia Pictures, Roland Emmerich, $215,294,342
+  - 19., Crouching Tiger, Hidden Dragon, Sony Pictures, Ang Lee, $213,525,736
+  - 20., Miss Congeniality, Warner Bros., Donald Petrie, $212,742,720
+
+=== Table ID: 2-1670921-2 ===
+=== Table Title: Partnership (cricket) ===
+Columns: Runs, Wicket, Batting partners, Batting team, Fielding team, Venue, Season
+  - 624, 3rd, Mahela Jayawardene and Kumar Sangakkara, Sri Lanka, South Africa, Colombo, 2006
+  - 576, 2nd, Roshan Mahanama and Sanath Jayasuriya, Sri Lanka, India, Colombo, 1997
+  - 467, 3rd, Andrew Jones and Martin Crowe, New Zealand, Sri Lanka, Wellington, 1990/91
+  - 451, 2nd, Donald Bradman and W H Ponsford, Australia, England, Sydney, 1934
+  - 451, 3rd, Mudassar Nazar and Javed Miandad, Pakistan, India, Hyderabad, Pakistan, 1982/83
+  - 446, 2nd, Conrad Hunte and Gary Sobers, West Indies, Pakistan, The Oval, 1957/58
+  - 438, 2nd, Marvan Atapattu and Kumar Sangakkara, Sri Lanka, Zimbabwe, Bulawayo, 2004
+  - 437, 4th, Mahela Jayawardene and Thilan Samaraweera, Sri Lanka, Pakistan, Karachi, 2008/09
+  - 429*, 3rd, Jacques Rudolph and Boeta Dippenaar, South Africa, Bangladesh, Chittagong, 2003
+  - 415, 1st, Graeme Smith and Neil McKenzie, South Africa, Bangladesh, Chittagong, 2008
+
+=== Table ID: 2-1670921-4 ===
+=== Table Title: Partnership (cricket) ===
+Columns: Wicket, Runs, Batting partners, Batting team, Fielding team, Venue, Date
+  - 1st, 286, Upul Tharanga and Sanath Jayasuriya, Sri Lanka, England, Leeds, 1 July 2006
+  - 2nd, 331, Sachin Tendulkar and Rahul Dravid, India, New Zealand, Hyderabad, 8 November 1999
+  - 3rd, 238, AB de Villiers and Hashim Amla, South Africa, Pakistan, Johannesburg, 17 March 2013
+  - 4th, 275*, Mohammad Azharuddin and Ajay Jadeja, India, Zimbabwe, Cuttack, 9 April 1998
+  - 5th, 223, Mohammad Azharuddin and Ajay Jadeja, India, Sri Lanka, Colombo RPS, 17 August 1997
+  - 6th, 218, Mahela Jayawardene and Mahendra Singh Dhoni, Asia XI, Africa XI, Chennai, 10 June 2007
+  - 7th, 130, Andy Flower and Heath Streak, Zimbabwe, England, Harare, 7 October 2001
+  - 8th, 138*, Justin Kemp and Andrew Hall, South Africa, India, Cape Town, 26 November 2006
+  - 9th, 132, Angelo Mathews and Lasith Malinga, Sri Lanka, Australia, MCG , Sydney, 3 November 2010
+  - 10th, 106*, Viv Richards and Michael Holding, West Indies, England, Manchester, 31 May 1984
+
+=== Table ID: 2-16710848-2 ===
+=== Table Title: 2000 Atlanta Falcons season ===
+Columns: Game, Date, Opponent, Result, Falcons points, Opponents, Record
+  - 1, July 29, at Indianapolis Colts, Win, 20, 13, 1-0
+  - 2, August 5, Dallas Cowboys at Tokyo, Japan, Win, 20, 9, 2-0
+  - 3, August 11, Cincinnati Bengals, Win, 31, 16, 3-0
+  - 4, August 18, San Diego Chargers, Loss, 14, 28, 3-1
+  - 5, August 24, at Jacksonville Jaguars, Win, 31, 20, 4-1
+
+=== Table ID: 2-16710948-1 ===
+=== Table Title: 1997 Atlanta Falcons season ===
+Columns: Round, Pick, Player, Position, School
+  - 1, 11, Michael Booker, Defensive Back, Nebraska
+  - 2, 32, Nathan Davis, Defensive End, Indiana
+  - 2, 41, Byron Hanspard, Running Back, Texas Tech
+  - 3, 70, O.J. Santiago, Tight End, Kent State
+  - 4, 100, Henri Crockett, Linebacker, Florida State
+  - 5, 133, Marcus Wimberly, Defensive Back, Miami
+  - 6, 180, Calvin Collins, Guard, Texas A&M
+  - 7, 204, Tony Graziani, Quarterback, Oregon
+  - 7, 222, Chris Bayne, Defensive Back, Fresno State
+
+=== Table ID: 2-16710956-1 ===
+=== Table Title: 1991 Atlanta Falcons season ===
+Columns: Round, Pick, Player, Position, School
+  - 1, 3, Bruce Pickens, Defensive Back, Nebraska
+  - 1, 13, Mike Pritchard, Wide Receiver, Colorado
+  - 2, 33, Brett Favre, Quarterback, Southern Mississippi
+  - 4, 87, Moe Gardner, Defensive Tackle, Illinois
+  - 5, 114, James Goode, Linebacker, Oklahoma
+  - 6, 145, Erric Pegram, Running Back, North Texas
+  - 7, 172, Brian K. Mitchell, Defensive Back, BYU
+  - 7, 186, Mark Tucker, Guard, USC
+  - 8, 199, Randy Austin, Tight End, UCLA
+  - 9, 226, Ernie Logan, Nose tackle, East Carolina
+  - 10, 256, Walter Sutton, Wide Receiver, Southwest Minnesota
+  - 11, 258, Pete Lucas, Tackle, Wisconsin–Stevens Point
+  - 11, 283, Joe Sims, Tackle, Nebraska
+  - 12, 310, Bob Christian, Running Back, Northwestern
+
+=== Table ID: 2-16710971-2 ===
+=== Table Title: 1978 Atlanta Falcons season ===
+Columns: Game, Date, Opponent, Result, Falcons points, Opponents, Record, Attendance
+  - 1, Sept. 3, Houston Oilers, Win, 20, 14, 1-0, 57,328
+  - 2, Sept. 10, at Los Angeles Rams, Loss, 0, 10, 1-1, 46,201
+  - 3, Sept. 17, Cleveland Browns, Loss, 16, 24, 1-2, 56,648
+  - 4, Sept. 24, at Tampa Bay Buccaneers, Loss, 9, 14, 1-3, 58,073
+  - 5, Oct. 1, New York Giants, Win, 23, 20, 2-3, 47,765
+  - 6, Oct. 8, at Pittsburgh Steelers, Loss, 7, 31, 2-4, 48,202
+  - 7, Oct. 15, Detroit Lions, Win, 14, 0, 3-4, 51,172
+  - 8, Oct. 22, at San Francisco 49ers, Win, 20, 17, 4-4, 44,235
+  - 9, Oct. 30, Los Angeles Rams, Win, 15, 7, 5-4, 57,250
+  - 10, Nov. 5, San Francisco 49ers, Win, 21, 10, 6-4, 55,468
+  - 11, Nov. 12, at New Orleans Saints, Win, 20, 17, 7-4, 70,323
+  - 12, Nov. 19, at Chicago Bears, Loss, 7, 13, 7-5, 46,022
+  - 13, Nov. 26, New Orleans Saints, Win, 20, 17, 8-5, 55,121
+  - 14, Dec. 3, at Cincinnati Bengals, Loss, 7, 37, 8-6, 25,336
+  - 15, Dec. 10, Washington Redskins, Win, 20, 17, 9-6, 54,176
+  - 16, Dec. 17, at St. Louis Cardinals, Loss, 21, 42, 9-7, 40,022
+
+=== Table ID: 2-16712710-1 ===
+=== Table Title: 1990 New Orleans Saints season ===
+Columns: Round, Pick, Player, Position, School
+  - 1, 14, Renaldo Turnbull, DE, West Virginia
+  - 2, 44, Vince Buck, DB, Central State
+  - 3, 71, Joel Smeenge, DE, Western Michigan
+  - 4, 98, DeMond Winston, LB, Vanderbilt
+  - 5, 125, Charles Arbuckle, TE, UCLA
+  - 6, 156, Mike Buck, QB, Maine
+  - 6, 158, James Williams, LB, Mississippi State
+  - 7, 183, Scott Hough, G, Maine
+  - 8, 207, Gerry Gdowski, QB, Nebraska
+  - 8, 210, Derrick Carr, DE, Bowling Green
+  - 9, 233, Broderick Graves, RB, Winston-Salem State
+  - 9, 236, Lonnie Brockman, LB, West Virginia
+  - 10, 260, Gary Cooper, WR, Clemson
+  - 10, 267, Ernest Spears, DB, USC
+  - 11, 287, Webbie Burnett, DT, Western Kentucky
+  - 12, 320, Chris Port, G, Duke
+
+=== Table ID: 2-16712710-2 ===
+=== Table Title: 1990 New Orleans Saints season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 10, 1990, San Francisco 49ers, L 13-12, 68,629
+  - 2, September 16, 1990, at Minnesota Vikings, L 32-3, 56,272
+  - 3, September 23, 1990, Phoenix Cardinals, W 28-7, 61,110
+  - 4, Bye, Bye, Bye, Bye
+  - 5, October 7, 1990, at Atlanta Falcons, L 28-27, 57,401
+  - 6, October 14, 1990, Cleveland Browns, W 25-20, 68,608
+  - 7, October 21, 1990, at Houston Oilers, L 23-10, 57,908
+  - 8, October 28, 1990, Detroit Lions, L 27-10, 64,368
+  - 9, November 4, 1990, at Cincinnati Bengals, W 21-7, 60,067
+  - 10, November 11, 1990, Tampa Bay Buccaneers, W 35-7, 67,865
+  - 11, November 18, 1990, at Washington Redskins, L 31-17, 52,573
+  - 12, November 25, 1990, Atlanta Falcons, W 10-7, 68,629
+  - 13, December 2, 1990, at Dallas Cowboys, L 17-13, 60,087
+  - 14, December 9, 1990, at Los Angeles Rams, W 24-20, 56,864
+  - 15, December 16, 1990, Pittsburgh Steelers, L 9-6, 68,582
+  - 16, December 23, 1990, at San Francisco 49ers, W 13-10, 60,112
+  - 17, December 31, 1990, Los Angeles Rams, W 20-17, 68,647
+
+=== Table ID: 2-16712720-2 ===
+=== Table Title: 1991 New Orleans Saints season ===
+Columns: Week, Date, Opponent, Result, Record, Attendance
+  - 1, September 1, 1991, Seattle Seahawks, W 27-24, 1-0, 68,492
+  - 2, September 8, 1991, at Kansas City Chiefs, W 17-10, 2-0, 74,816
+  - 3, September 15, 1991, Los Angeles Rams, W 24-7, 3-0, 68,583
+  - 4, September 22, 1991, Minnesota Vikings, W 26-0, 4-0, 68,591
+  - 5, September 29, 1991, at Atlanta Falcons, W 27-6, 5-0, 56,556
+  - 6, Bye, Bye, Bye, Bye, Bye
+  - 7, October 13, 1991, at Philadelphia Eagles, W 13-6, 6-0, 64,224
+  - 8, October 20, 1991, Tampa Bay Buccaneers, W 23-7, 7-0, 68,591
+  - 9, October 27, 1991, Chicago Bears, L 20-17, 7-1, 68,591
+  - 10, November 3, 1991, at Los Angeles Rams, W 24-17, 8-1, 58,713
+  - 11, November 10, 1991, San Francisco 49ers, W 10-3, 9-1, 68,591
+  - 12, November 17, 1991, at San Diego Chargers, L 24-21, 9-2, 48,420
+  - 13, November 24, 1991, Atlanta Falcons, L 23-20, 9-3, 68,591
+  - 14, December 1, 1991, at San Francisco 49ers, L 38-24, 9-4, 62,092
+  - 15, December 8, 1991, at Dallas Cowboys, L 23-14, 9-5, 64,530
+  - 16, December 16, 1991, Los Angeles Raiders, W 27-0, 10-5, 68,625
+  - 17, December 22, 1991, at Phoenix Cardinals, W 27-3, 11-5, 30,928
+
+=== Table ID: 2-16712751-1 ===
+=== Table Title: 1992 New Orleans Saints season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 6, 1992, at Philadelphia Eagles, L 15-13, 63,513
+  - 2, September 13, 1992, Chicago Bears, W 28-6, 68,591
+  - 3, September 20, 1992, at Atlanta Falcons, W 10-7, 67,328
+  - 4, September 27, 1992, San Francisco 49ers, L 16-10, 68,591
+  - 5, October 4, 1992, at Detroit Lions, W 13-7, 66,971
+  - 6, October 11, 1992, Los Angeles Rams, W 13-10, 68,591
+  - 7, October 18, 1992, at Phoenix Cardinals, W 30-21, 27,735
+  - 8, Bye, Bye, Bye, Bye
+  - 9, November 1, 1992, Tampa Bay Buccaneers, W 23-21, 68,591
+  - 10, November 8, 1992, at New England Patriots, W 31-14, 45,413
+  - 11, November 15, 1992, at San Francisco 49ers, L 21-20, 64,895
+  - 12, November 23, 1992, Washington Redskins, W 20-3, 68,591
+  - 13, November 29, 1992, Miami Dolphins, W 24-13, 68,591
+  - 14, December 3, 1992, Atlanta Falcons, W 22-14, 68,591
+  - 15, December 13, 1992, at Los Angeles Rams, W 37-14, 47,355
+  - 16, December 20, 1992, Buffalo Bills, L 20-16, 68,591
+  - 17, December 26, 1992, at New York Jets, W 20-0, 45,614
+
+=== Table ID: 2-16713178-1 ===
+=== Table Title: 1997 New Orleans Saints season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, August 31, 1997, at St. Louis Rams, L 38-24, 64,575
+  - 2, September 7, 1997, San Diego Chargers, L 20-6, 65,760
+  - 3, September 14, 1997, at San Francisco 49ers, L 33-7, 61,838
+  - 4, September 21, 1997, Detroit Lions, W 35-17, 50,016
+  - 5, September 28, 1997, at New York Giants, L 14-9, 68,891
+  - 6, October 5, 1997, at Chicago Bears, W 20-17, 58,865
+  - 7, October 12, 1997, Atlanta Falcons, L 23-17, 65,619
+  - 8, October 19, 1997, Carolina Panthers, L 13-0, 50,963
+  - 9, October 26, 1997, San Francisco 49ers, L 23-0, 60,443
+  - 10, Bye, Bye, Bye, Bye
+  - 11, November 9, 1997, at Oakland Raiders, W 13-10, 40,091
+  - 12, November 16, 1997, Seattle Seahawks, W 20-17, 50,493
+  - 13, November 23, 1997, at Atlanta Falcons, L 20-3, 48,620
+  - 14, November 30, 1997, at Carolina Panthers, W 16-13, 57,957
+  - 15, December 7, 1997, St. Louis Rams, L 34-27, 54,803
+  - 16, December 14, 1997, Arizona Cardinals, W 27-10, 45,517
+  - 17, December 21, 1997, at Kansas City Chiefs, L 25-13, 66,772
+
+=== Table ID: 2-16713759-18 ===
+=== Table Title: 2008 Savannah State Tigers football team ===
+Columns: Name, GP-GS, Effic, Att-Cmp-Int, Avg/G
+  - Curry, Kurvin, 10–5, 127.89, 117–215–6, 155.2
+  - Defilippis, A.J., 4–0, 436.00, 1–1–0, 10.0
+  - Hollinger, Deleon, 9–5, 440.67, 2–3–0, 6.1
+  - Kilcrease, JaCorey, 6–1, 78.35, 26–53–3, 36.2
+  - Williams, Derek, 11–0, 0.00, 0–1–0, 0.0
+  - Total, 11, 122.37, 146–273–9, 169.5
+  - Opponents, 11, 97.18, 140–279–23, 159.5
+
+=== Table ID: 2-16721744-1 ===
+=== Table Title: List of AMA Superbike champions ===
+Columns: Season, Champion, Motorcycle, Wins, Team
+  - 1976, Reg Pridmore, BMW, 2, Butler & Smith – BMW NA
+  - 1977, Reg Pridmore, Kawasaki, 1, Racecrafters
+  - 1978, Reg Pridmore, Kawasaki, 0, Vetter
+  - 1979, Wes Cooley, Suzuki, 0, Yoshimura
+  - 1980, Wes Cooley, Suzuki, 3, Yoshimura
+  - 1981, Eddie Lawson, Kawasaki, 4, Team Muzzy
+  - 1982, Eddie Lawson, Kawasaki, 5, Team Muzzy
+  - 1983, Wayne Rainey, Kawasaki, 6, Team Muzzy
+  - 1984, Fred Merkel, Honda, 10, American Honda
+  - 1985, Fred Merkel, Honda, 6, American Honda
+  - 1986, Fred Merkel, Honda, 2, American Honda
+  - 1987, Wayne Rainey, Honda, 3, American Honda
+  - 1988, Bubba Shobert, Honda, 3, Shobert
+  - 1989, Jamie James, Suzuki, 1, Yoshimura
+  - 1990, Doug Chandler, Kawasaki, 4, Team Muzzy
+  - 1991, Thomas Stevens, Yamaha, 1, Vance & Hines
+  - 1992, Scott Russell, Kawasaki, 3, Team Muzzy
+  - 1993, Doug Polen, Ducati, 6, Fast by Ferracci
+  - 1994, Troy Corser, Ducati, 3, Fast by Ferracci
+  - 1995, Miguel Duhamel, Honda, 6, Commonwealth Racing
+  - 1996, Doug Chandler, Kawasaki, 2, Team Muzzy
+  - 1997, Doug Chandler, Kawasaki, 1, Team Muzzy
+  - 1998, Ben Bostrom, Honda, 0, American Honda
+  - 1999, Mat Mladin, Suzuki, 1, Yoshimura
+  - 2000, Mat Mladin, Suzuki, 4, Yoshimura
+  - 2001, Mat Mladin, Suzuki, 4, Yoshimura
+  - 2002, Nicky Hayden, Honda, 9, American Honda
+  - 2003, Mat Mladin, Suzuki, 10, Yoshimura
+  - 2004, Mat Mladin, Suzuki, 8, Yoshimura
+  - 2005, Mat Mladin, Suzuki, 11, Yoshimura
+  - 2006, Ben Spies, Suzuki, 10, Yoshimura
+  - 2007, Ben Spies, Suzuki, 7, Yoshimura
+  - 2008, Ben Spies, Suzuki, 7, Yoshimura
+  - 2009, Mat Mladin, Suzuki, 10, Yoshimura
+  - 2010, Josh Hayes, Yamaha, 7, Graves Motorsports
+  - 2011, Josh Hayes, Yamaha, 3, Graves Motorsports
+  - 2012, Josh Hayes, Yamaha, 16, Graves Motorsports
+  - 2013, Josh Herrin, Yamaha, 4, Graves Motorsports
+
+=== Table ID: 2-167235-6 ===
+=== Table Title: List of Prime Ministers of Albania ===
+Columns: Name, Born-Died, Term start, Term end, Political Party
+  - Prime Ministers 1943 - 1944, Prime Ministers 1943 - 1944, Prime Ministers 1943 - 1944, Prime Ministers 1943 - 1944, Prime Ministers 1943 - 1944
+  - Mehdi Bej Frashëri (2nd time), 1872–1963, 24 October 1943, 3 November 1943, Balli Kombëtar
+  - Rexhep Bej Mitrovica, 1888–1967, 4 November 1943, 18 July 1944, Balli Kombëtar
+  - Fiqri Dine, ?–1960, 18 July 1944, 29 August 1944, Balli Kombëtar
+  - Ibrahim Bej Biçakçiu, 1905–1972, 29 August 1944, 28 November 1944, Balli Kombëtar
+
+=== Table ID: 2-16729071-1 ===
+=== Table Title: 1979 Denver Broncos season ===
+Columns: Week, Date, Opponent, Result, Game site, Record, Attendance
+  - 1, September 2, Cincinnati Bengals, W 10–0, Mile High Stadium, 1–0, 74,788
+  - 2, September 6, Los Angeles Rams, L 9–13, Mile High Stadium, 1–1, 74,884
+  - 3, September 16, at Atlanta Falcons, W 20–17 (OT), Atlanta-Fulton County Stadium, 2–1, 57,677
+  - 4, September 23, Seattle Seahawks, W 37–34, Mile High Stadium, 3–1, 74,879
+  - 5, September 30, at Oakland Raiders, L 3–27, Oakland-Alameda County Coliseum, 3–2, 52,632
+  - 6, October 7, San Diego Chargers, W 7–0, Mile High Stadium, 4–2, 74,997
+  - 7, October 14, at Kansas City Chiefs, W 24–10, Arrowhead Stadium, 5–2, 74,292
+  - 8, October 22, at Pittsburgh Steelers, L 7–42, Three Rivers Stadium, 5–3, 49,699
+  - 9, October 28, Kansas City Chiefs, W 20–3, Mile High Stadium, 6–3, 74,908
+  - 10, November 4, New Orleans Saints, W 10–3, Mile High Stadium, 7–3, 74,482
+  - 11, November 11, New England Patriots, W 45–10, Mile High Stadium, 8–3, 74,379
+  - 12, November 18, at San Francisco 49ers, W 38–28, Candlestick Park, 9–3, 42,910
+  - 13, November 25, Oakland Raiders, L 10–14, Mile High Stadium, 9–4, 74,186
+  - 14, December 2, at Buffalo Bills, W 19–16, Rich Stadium, 10–4, 37,886
+  - 15, December 8, at Seattle Seahawks, L 23–28, Kingdome, 10–5, 60,038
+  - 16, December 17, at San Diego Chargers, L 7–17, San Diego Stadium, 10–6, 51,906
+
+=== Table ID: 2-16729457-1 ===
+=== Table Title: Sidecarcross World Championship ===
+Columns: Country, 2010, 2011, 2012, 2013
+  - Netherlands, 10, 9, 9, 11
+  - United Kingdom, 8, 9, 7, 8
+  - Belgium, 9, 7, 6, 6
+  - Estonia, 6, 6, 7, 6
+  - Germany, 8, 6, 4, 5
+  - France, 5, 3, 3, 4
+  - Latvia, 3, 3, 3, 4
+  - Czech Republic, 2, 3, 3, 3
+  - Sweden, 3, 3, 3, 3
+  - Switzerland, 2, 1, 2, 3
+  - Austria, 1, 2, 0, 2
+  - Lituania, 3, 1, 2, 1
+  - Russia, 5, 6, 4, 0
+  - Ukraine, 2, 2, 1, 0
+  - Finland, 2, 1, 0, 0
+  - Belarus, 0, 1, 0, 0
+  - Denmark, 1, 0, 0, 0
+  - Moldova, 1, 0, 0, 0
+  - Overall, 72, 63, 54, 56
+
+=== Table ID: 2-1672976-4 ===
+=== Table Title: ACC–Big Ten Challenge ===
+Columns: Date, Time, ACC Team, Big Ten Team, Location, Television, Attendance, Winner, Challenge Leader
+  - Tue., Nov. 27, 7:15 pm, Virginia Tech, Iowa, Cassell Coliseum • Blacksburg, VA, ESPNU, 5,647, Virginia Tech (95-79), ACC (1-0)
+  - Tue., Nov. 27, 7:15 pm, Florida State, #21 Minnesota, Donald L. Tucker Center • Tallahassee, FL, ESPN2, 7,941, Minnesota (77-68), Tied (1-1)
+  - Tue., Nov. 27, 7:30 pm, #18 NC State, #3 Michigan, Crisler Arena • Ann Arbor, MI, ESPN, 12,693, Michigan (79-72), Big Ten (2-1)
+  - Tue., Nov. 27, 9:15 pm, Wake Forest, Nebraska, LJVM Coliseum • Winston-Salem, NC, ESPNU, 6,508, Nebraska (79-63), Big Ten (3-1)
+  - Tue., Nov. 27, 9:15 pm, Maryland, Northwestern, Welsh-Ryan Arena • Evanston, IL, ESPN2, 6,009, Maryland (77-57), Big Ten (3-2)
+  - Tue., Nov. 27, 9:30 pm, #14 North Carolina, #1 Indiana, Assembly Hall • Bloomington, IN, ESPN, 17,472, Indiana (83-59), Big Ten (4-2)
+  - Wed., Nov. 28, 7:00 pm, Virginia, Wisconsin, Kohl Center • Madison, WI, ESPN2, 16,690, Virginia (60-54), Big Ten (4-3)
+  - Wed., Nov. 28, 7:15 pm, Clemson, Purdue, Littlejohn Coliseum • Clemson, SC, ESPNU, 7,632, Purdue (73-61), Big Ten (5-3)
+  - Wed., Nov. 28, 7:30 pm, Miami, #13 Michigan State, BankUnited Center • Coral Gables, FL, ESPN, 5,791, Miami (67-59), Big Ten (5-4)
+  - Wed., Nov. 28, 9:00 pm, Georgia Tech, #22 Illinois, Assembly Hall • Champaign, IL, ESPN2, 12,224, Illinois (75-62), Big Ten (6-4)
+  - Wed., Nov. 28, 9:15 pm, Boston College, Penn State, Bryce Jordan Center • University Park, PA, ESPNU, 6,889, Boston College (73-61), Big Ten (6-5)
+  - Wed., Nov. 28, 9:30 pm, #2 Duke, #4 Ohio State, Cameron Indoor Stadium • Durham, NC, ESPN, 9,314, Duke (73-68), Tied (6-6)
+
+=== Table ID: 2-16729930-7 ===
+=== Table Title: List of Intel Atom microprocessors ===
+Columns: Model number, sSpec number, Frequency, GPU frequency, L2 cache, I/O bus, Memory, Voltage, Socket, Release date, Part number(s)
+  - Atom N435, SLC4C(A0), 1.33 GHz, 200 MHz, 512 KB, DMI, 1 × DDR2-667 1 × DDR3-800, 0.8–1.175V, FC-BGA 559, June 2011, AU80610007533AA
+  - Atom N450, SLBMG(A0), 1.67 GHz, 200 MHz, 512 KB, DMI, 1 × DDR2-667, 0.8–1.175V, FC-BGA 559, December 21, 2009, AU80610004653AA
+  - Atom N455, SLBX9(A0), 1.67 GHz, 200 MHz, 512 KB, DMI, 1 × DDR2-800 1 × DDR3-800, 0.8–1.175V, FC-BGA 559, June 1, 2010, AU80610006237AA
+  - Atom N470, SLBMF(A0), 1.83 GHz, 200 MHz, 512 KB, DMI, 1 × DDR2-667, 0.8–1.175V, FC-BGA 559, March 1, 2010, AU80610003495AA
+  - Atom N475, SLBX5(A0), 1.83 GHz, 200 MHz, 512 KB, DMI, 1 × DDR2-800 1 × DDR3-800, 0.8–1.175V, FC-BGA 559, June 1, 2010, AU80610006240AA
+
+=== Table ID: 2-167378-2 ===
+=== Table Title: Venus Williams ===
+Columns: Outcome, Year, Championship, Surface, Opponent, Rank, Round
+  - Win, 1997, Aegon International , Eastbourne, Great Britain, Grass, Wiltrud Probst, 89, Q-R32
+  - Win, 1997, Southern California Open , San Diego, USA, Hard, Martina Nejedly, 234, Q-R32
+  - Win, 2002, US Open , New York, USA, Hard, Mirjana Lucic-Baroni, 214, R128 (first round)
+  - Win, 2004, Olympic Games , Athens, Greece, Hard, Maja Matevzic, 263, R32 (second round)
+  - Win, 2005, Istanbul Cup , Turkey, Clay, Marta Marrero, 117, R16 (second round)
+
+=== Table ID: 2-16741821-7 ===
+=== Table Title: Gastão Elias ===
+Columns: Tournament, 2006, 2007, 2008, 2009, 2010, 2011, 2012
+  - Grand Slam Tournaments, Grand Slam Tournaments, Grand Slam Tournaments, Grand Slam Tournaments, Grand Slam Tournaments, Grand Slam Tournaments, Grand Slam Tournaments, Grand Slam Tournaments
+  - Australian Open, A, A, A, A, A, A, A
+  - French Open, A, A, A, A, A, A, Q1
+  - Wimbledon, A, A, A, A, A, A, Q1
+  - US Open, A, A, A, A, A, Q2, Q1
+  - SR, 0 / 0, 0 / 0, 0 / 0, 0 / 0, 0 / 0, 0 / 0, 0 / 0
+  - Win–Loss, 0–0, 0–0, 0–0, 0–0, 0–0, 0–0, 0–0
+  - ATP World Tour Masters 1000, ATP World Tour Masters 1000, ATP World Tour Masters 1000, ATP World Tour Masters 1000, ATP World Tour Masters 1000, ATP World Tour Masters 1000, ATP World Tour Masters 1000, ATP World Tour Masters 1000
+  - Indian Wells, A, A, A, A, A, A, Q1
+  - Miami, A, A, Q1, A, A, Q1, Q1
+  - Madrid, A, A, A, A, A, A, A
+  - SR, 0 / 0, 0 / 0, 0 / 0, 0 / 0, 0 / 0, 0 / 0, 0 / 0
+  - Career Statistics, Career Statistics, Career Statistics, Career Statistics, Career Statistics, Career Statistics, Career Statistics, Career Statistics
+  - ATP Tournaments Played, 1, 0, 1, 0, 0, 1, 1
+  - ATP Finals Reached, 0, 0, 0, 0, 0, 0, 0
+  - ATP Tournaments Won, 0, 0, 0, 0, 0, 0, 0
+  - Statistics by surface, Statistics by surface, Statistics by surface, Statistics by surface, Statistics by surface, Statistics by surface, Statistics by surface, Statistics by surface
+  - Hard Win–Loss, 0–0, 0–1, 0–1, 0–0, 0–0, 0–0, 0–0
+  - Clay Win–Loss, 0–1, 0–0, 0–2, 0–0, 0–0, 0–1, 0–1
+  - Grass Win–Loss, 0–0, 0–0, 0–0, 0–0, 0–0, 0–0, 0–0
+  - Carpet Win–Loss, 0–0, 1–0, 0–0, 0–0, 0–0, 0–0, 0–0
+  - Overall Win–Loss, 0–1, 1–1, 0–3, 0–0, 0–0, 0–1, 0–1
+  - Win (%), 0%, 50%, 0%, 0%, 0%, 0%, 0%
+  - Year-End Ranking, 936, 638, 578, 770, 603, 172, 144
+
+=== Table ID: 2-16742756-4 ===
+=== Table Title: Rich Communication Services ===
+Columns: Company Name, Product Name, Hardware Model, Accreditation type, Accreditation level, Accreditation status
+  - Sony Mobile Communications, XPERIA RCSe Client, XPERIA T, XPERIA J, Full, joyn Hot Fixes, Approved (awarded 15.11.12)
+  - WIT Software, WIT Mobile Communicator for Android, Android Smartphone, Full, joyn Hot Fixes, Approved (awarded 15.11.12)
+  - LG Electronics, LG RCS-e Client, LG-P760, Full, joyn Hot Fixes, Approved (awarded 19.11.12)
+  - Nokia Corporation, Nokia Windows Phone RCS-e Client, Lumia 920, Lumia 820, Lumia 620, Full, joyn Hot Fixes, Approved (awarded 05.12.12)
+  - Samsung Electronics Co Ltd, Samsung RCSe client, GT-I9300, Full, joyn Hot Fixes, Approved (awarded 18.12.12)
+  - HTC Corporation, HTC One, Z520e, Full, joyn Hot Fixes, Approved (awarded 21.12.12)
+  - Neusoft Mobile Solutions Oy, Silta RCS-e client for Android, Android Smartphone, Full, joyn Hot Fixes, Approved (awarded 27.02.13)
+  - Summit Tech Communications, Summit RCS-e Client, Android Smartphone, Full, joyn Hot Fixes, Approved (awarded 13.03.13)
+  - Samsung Electronics Co Ltd, Galaxy S2, GT-I9100, Provisional, joyn, Approved (valid until 06.04.13)
+  - Nokia Corporation, Nokia RCS-e Client, Nokia 700, Provisional, joyn, Approved (valid until 03.05.13)
+  - Summit Tech Communications, Summit RCS-e Client, Apple iPhone, Provisional, joyn, Approved (valid until 03.07.13)
+  - WIT Software, WIT Mobile Communicator for iPhone, Apple iPhone, Full, joyn Hot Fixes, Approved (awarded 17.05.13)
+  - Deutsche Telekom AG, Telekom Joyn Client for Android Devices, Android Smartphone, Provisional, joyn, Approved (valid until 10.09.13)
+  - Huawei Technologies Co.Ltd., Huawei RCS-e client, U8815 Asura, Provisional, joyn, Approved (valid until 16.10.13)
+  - Summit Tech Multimedia Communications Inc., MetroPCS RCS joyn client, Android Smartphone, Provisional, joyn, Approved (valid until 29.11.13)
+
+=== Table ID: 2-16744357-35 ===
+=== Table Title: 2007–08 Copa Federación de España ===
+Columns: Team 1, Agg., Team 2, 1st leg, 2nd leg
+  - Real Madrid C, 3–0, Daimiel, 1–0, 2–0
+  - Sestao, 0–6, Lemona, 0–3, 0–3
+  - Coruxo, 4–5, Ourense, 3–2, 1–3
+  - Racing B, 6–4, Zalla, 6–1, 0–3
+  - Utebo, 3–4, Espanyol B, 3–1, 0–3
+  - Noja, 1–1 ( p ), Amorebieta, 0–1, 1–0
+  - Mirandés, 2–3, ADF Logroñés, 0–3, 2–0
+  - Haro, 5–4, Oberena, 2–2, 3–2
+  - Las Zocas, 2–5, Ferriolense, 2–0, 0–5
+  - Real Zaragoza B, 2–4, Reus, 1–3, 1–1
+  - Mazarrón, 4–4( a ), Lorca, 1–1, 3–3
+  - Tuilla, 3–1, Laguna, 2–0, 1–1
+  - Linares, 7–4, Pinatar, 2–1, 5–3
+  - La Nucía, 2–3, Marbella, 0–1, 2–2
+  - Alcalá, 2–3, SS Reyes, 2–1, 0–2
+  - Jerez, 0–1, Don Benito, 0–0, 0–1
+
+=== Table ID: 2-16744357-36 ===
+=== Table Title: 2007–08 Copa Federación de España ===
+Columns: Team 1, Agg., Team 2, 1st leg, 2nd leg
+  - Racing B, 2–3, Noja, 2–1, 0–2
+  - Espanyol B, 13–0, ADF Logroñés, 2–0, 11–0
+  - Real Madrid C, 1–2, SS Reyes, 1–0, 0–2
+  - Reus, 3–0, Haro, 3–0, 0–0
+  - Ferriolense, 2–5, Ourense, 2–1, 0–4
+  - Tuilla, 1–0, Lemona, 0–0, 1–0
+  - Marbella, 1–0, Don Benito, 1–0, 0–0
+  - Linares, 3–5, Mazarrón, 1–1, 2–4
+
+=== Table ID: 2-16744545-2 ===
+=== Table Title: Asian Youth Volleyball Championship ===
+Columns: Rank, Gold, Silver, Bronze, Total
+  - 1, 6, 1, 0, 7
+  - 2, 1, 3, 1, 5
+  - 3, 1, 1, 2, 4
+  - 4, 1, 0, 1, 2
+  - 5, 0, 2, 2, 4
+  - 7, 0, 0, 1, 1
+  - Total, 9, 9, 9, 27
+
+=== Table ID: 2-167446-1 ===
+=== Table Title: German auxiliary cruiser Atlantis ===
+Columns: Name, Type, Nationality, Date, Displacement
+  - Scientist, Freighter, United Kingdom, 3 May 1940, 6,200 t
+  - Tirrana, Freighter, Norway, 10 June 1940, 7,230 t
+  - City of Baghdad, Freighter, United Kingdom, 11 July 1940, 7,505 t
+  - Kemmndine, Passenger liner, United Kingdom, 13 July 1940, 7,770 t
+  - Talleyrand, Motor vessel, Norway, 2 August 1940, 6,730 t
+  - King City, Freighter, United Kingdom, 24 August 1940, 4,745 t
+  - Athelking, Tanker, United Kingdom, 9 September 1940, 9,550 t
+  - Benarty, Freighter, United Kingdom, 10 September 1940, 5,800 t
+  - Commissaire Ramel, Passenger liner, France, 20 September 1940, 10,060 t
+  - Durmitor, Freighter, Kingdom of Yugoslavia, 22 October 1940, 5,620 t
+  - Teddy, Tanker, Norway, 9 November 1940, 6,750 t
+  - Ole Jacob, Tanker, Norway, 10 November 1940, 8,305 t
+  - Automedon, Freighter, United Kingdom, 11 November 1940, 7,530 t
+  - Mandasor, Freighter, United Kingdom, 24 January 1941, 5,145 t
+  - Speybank, Freighter, United Kingdom, 31 January 1941, 5,150 t
+  - Ketty Brøvig, Freighter, Norway, 2 February 1941, 7,300 t
+  - Zamzam, Passenger liner, Egypt, 17 April 1941, 8,300 t
+  - Rabaul, Freighter, United Kingdom, 14 May 1941, 6,810 t
+  - Trafalgar, Freighter, United Kingdom, 24 May 1941, 4,530 t
+  - Tottenham, Freighter, United Kingdom, 17 June 1941, 4,760 t
+  - Balzac, Freighter, United Kingdom, 23 June 1941, 5,375 t
+  - Silvaplana, Motor vessel, Norway, 10 September 1941, 4,790 t
+  - Total:, Total:, Total:, Total:, 145,960 t
+
+=== Table ID: 2-16744814-2 ===
+=== Table Title: Asian Junior Volleyball Championship ===
+Columns: Rank, Gold, Silver, Bronze, Total
+  - 1, 6, 2, 1, 9
+  - 2, 4, 2, 2, 8
+  - 3, 3, 5, 2, 10
+  - 4, 3, 3, 5, 11
+  - 5, 0, 2, 3, 5
+  - 6, 0, 1, 1, 2
+  - 7, 0, 1, 0, 1
+  - 8, 0, 0, 1, 1
+  - Total, 16, 16, 16, 48
+
+=== Table ID: 2-16750938-1 ===
+=== Table Title: All You Need Is Love (Nat Sakdatorn album) ===
+Columns: Title, Lyricist(s), Composer(s), Arranger(s), Length
+  - "รักได้อีก", Chestha Yarosake (Rap: Nat Sakdatorn), Yarosake, Banana Boat, 3:57
+  - "คำสามคำ", Areeya Peerapongdecha, Sakdatorn, Jitrakorn Mongkoltham, 4:38
+  - "แกะไม่ออก", Yarosake, Banana Boat, Banana Boat, 4:04
+  - "คนมีความรัก", Yarosake, Yarosake, Banana Boat, 4:25
+  - "The Way To Your Heart", Sakdatorn, Sakdatorn, Banana Boat, 3:53
+  - "เพลง(ไม่)พิเศษ", Banana Boat, Banana Boat, Banana Boat, 3:53
+
+=== Table ID: 2-16751596-2 ===
+=== Table Title: Opinion polling for the United States Senate elections, 2008 ===
+Columns: Poll Source, Dates administered, Democrat: Dick Durbin, Republican: Steve Sauerberg, Lead Margin
+  - Rasmussen Reports, October 13, 2008, 62%, 31%, 31
+  - St. Louis Post Dispatch/ Research 2000, September 15-September 18, 2008, 56%, 35%, 21
+  - Rasmussen Reports, September 17, 2008, 59%, 35%, 24
+  - Rasmussen Reports, August 12, 2008, 61%, 33%, 28
+  - Southern Outreach, July 12, 2008, 52%, 35%, 17
+  - Rasmussen Reports, July 8, 2008, 63%, 28%, 34
+
+=== Table ID: 2-16754880-1 ===
+=== Table Title: Real Colorado Foxes ===
+Columns: Year, Division, League, Regular Season, Playoffs, Open Cup
+  - 2009, 4, USL PDL, 3rd, Heartland, Division Final, Did not qualify
+  - 2010, 4, USL PDL, 3rd, Heartland, Did not qualify, Did not qualify
+  - 2011, 4, USL PDL, 3rd, Heartland, Did not qualify, 2nd Round
+  - 2012, 4, USL PDL, 2nd, Heartland, Conference Semifinal, 1st Round
+  - 2013, 4, USL PDL, 2nd, Heartland, Conference Semifinal, 1st Round
+
+=== Table ID: 2-1676073-11 ===
+=== Table Title: Welsh Premier Division ===
+Columns: Club, Played, Drawn, Lost, Points for, Points against, Points difference, Points
+  - Club, Played, Drawn, Lost, Points for, Points against, Points difference, Points
+  - Neath RFC, 26, 2, 7, 704, 473, +231, 53
+  - Ebbw Vale RFC, 26, 3, 7, 557, 503, +54, 51
+  - Newport RFC, 26, 2, 8, 619, 480, +139, 50
+  - Pontypridd RFC, 26, 1, 9, 543, 504, +39, 49
+  - Llanelli RFC, 26, 2, 12, 629, 509, +120, 38
+  - Glamorgan Wanderers RFC, 26, 2, 12, 577, 602, -25, 38
+  - Aberavon RFC, 26, 2, 12, 603, 615, -12, 38
+  - Cardiff RFC, 26, 1, 13, 601, 580, +21, 37
+  - Swansea RFC, 26, 0, 14, 487, 611, -124, 36
+  - Bedwas RFC, 26, 1, 14, 446, 524, -78, 34
+  - Bridgend Ravens, 26, 0, 15, 461, 508, -47, 33
+  - Maesteg RFC, 26, 0, 16, 531, 596, -65, 30
+  - Cross Keys RFC, 26, 2, 15, 485, 528, -43, 29
+  - Llandovery RFC, 26, 0, 19, 482, 692, -210, 21
+  - Correct as of 2007-04-18, Correct as of 2007-04-18, Correct as of 2007-04-18, Correct as of 2007-04-18, Correct as of 2007-04-18, Correct as of 2007-04-18, Correct as of 2007-04-18, Correct as of 2007-04-18
+
+=== Table ID: 2-1676073-14 ===
+=== Table Title: Welsh Premier Division ===
+Columns: Club, Played, Drawn, Lost, Points for, Points against, Points difference, Points
+  - Club, Played, Drawn, Lost, Points for, Points against, Points difference, Points
+  - Newport RFC, 30, 1, 2, 1054, 550, +504, 82
+  - Neath RFC, 30, 1, 6, 947, 557, +390, 70
+  - Pontypridd RFC, 30, 2, 8, 820, 641, +179, 62
+  - Aberavon RFC, 30, 0, 13, 774, 627, +147, 51
+  - Carmarthen Quins RFC, 30, 1, 13, 674, 629, +45, 49
+  - Swansea RFC, 30, 0, 14, 853, 710, +143, 48
+  - Bridgend Ravens, 30, 1, 15, 757, 767, -10, 43
+  - Cross Keys RFC, 30, 0, 17, 753, 777, -24, 39
+  - Bedwas RFC, 30, 2, 16, 644, 797, -153, 38
+  - Caerphilly RFC, 30, 1, 18, 658, 918, -260, 34
+  - Pontypool RFC, 30, 0, 18, 543, 698, -155, 34
+  - Cardiff RFC, 30, 0, 19, 649, 797, -148, 33
+  - Newbridge RFC, 30, 3, 17, 585, 803, -218, 33
+  - Llanelli RFC, 30, 2, 18, 701, 765, -64, 32
+  - Llandovery RFC, 30, 2, 18, 681, 787, -106, 32
+  - Ebbw Vale RFC, 30, 1, 19, 554, 822, -268, 31
+  - Correct as of 2004-06-10, Correct as of 2004-06-10, Correct as of 2004-06-10, Correct as of 2004-06-10, Correct as of 2004-06-10, Correct as of 2004-06-10, Correct as of 2004-06-10, Correct as of 2004-06-10
+
+=== Table ID: 2-16763649-1 ===
+=== Table Title: World Sculling Championship ===
+Columns: YEAR, DATE, CHAMPION, BEAT, TIME, COURSE
+  - 1831, Sep 9th, Charles Campbell, John Williams, NTT, Thames (Westminster to Hammersmith)
+  - 1838, Nov 1st, Charles Campbell, Robert Coombes, 42mins, Thames (Westminster to Putney)
+  - 1846, Aug 19th, Robert Coombes, Charles Campbell, 26mins 15secs, Thames (Putney to Mortlake)
+  - 1847, Sep 19th, Robert Coombes, Robert Newell, 23 mins 46 sec, Thames (Putney to Mortlake)
+  - 1851, May 7, Robert Coombes, Thomas J MacKinney, 27 mins 30 secs, Thames (Putney to Mortlake)
+  - 1852, May 24, Tom Cole, Robert Coombes, 25 mins 15 secs, Thames (Putney to Mortlake)
+  - 1852, Oct 14th, Tom Cole, Robert Coombes, 23 mins 35 secs, Thames (Putney to Mortlake)
+  - 1854, Nov 20th, James Messenger, Tom Cole, 24 mins 45 secs, Thames (Putney to Mortlake)
+  - 1857, May 12, Harry Kelley (GBR), James Messenger, 24 mins 30 secs, Thames (Putney to Mortlake)
+  - 1859, Sep 20th, Robert Chambers (GBR), Harry Kelley (GBR), 25 mins 25 sec, Thames (Putney to Mortlake)
+  - 1860, Sep 18th, Robert Chambers (GBR), Tom White (GBR), 23 mins 25 sec, Thames (Putney to Mortlake)
+  - 1863, Apr 14th, Robert Chambers (GBR), George W Everson (GBR), 25 mins 27 sec, Thames (Putney to Mortlake)
+  - 1863, Jun 16th, Robert Chambers (GBR), Richard A W Green (AUS), 25 mins 35 secs, Thames (Putney to Mortlake)
+  - 1865, Aug 8th, Harry Kelley (GBR), Robert Chambers (GBR), 23 mins 23 secs, Thames (Putney to Mortlake)
+  - 1866, Jul 4th, Harry Kelley (GBR), James Hammill (USA), 32 mins 45 secs, Tyne
+  - 1866, Nov 22nd, Robert Chambers (GBR), Joseph Sadler (GBR), 25 mins 4 secs, Thames (Putney to Mortlake)
+  - 1868, May 6, Harry Kelley (GBR), Robert Chambers (GBR), 31mins 47 secs, Tyne
+  - 1868, Nov 17th, James Renforth (GBR), Harry Kelley (GBR), 23 mins 15secs, Thames (Putney to Mortlake)
+  - 1874, Apr 16th, Joseph Sadler (GBR), Robert Bagnall (GBR), 24 mins 15 secs, Thames (Putney to Mortlake)
+  - 1875, Nov 15th, Joseph Sadler (GBR), Robert W Boyd (GBR), 28 mins 5 secs, Thames (Putney to Mortlake)
+  - 1876, Jun 27th, Edward Trickett (AUS), Joseph Sadler (GBR), 24 mins 35 secs, Thames (Putney to Mortlake)
+  - 1877, Jun 30th, Edward Trickett (AUS), Michael Rush (rower) (AUS), 23 mins 27secs, Parramatta, Sydney
+  - 1879, Aug 29th, Edward Trickett (AUS), Elias C. Laycock (AUS), 23 mins 29 secs, Parramatta, Sydney
+  - 1880, Nov 15th, Edward Hanlan (CAN), Edward Trickett (AUS), 26 mins 12 secs, Thames (Putney to Mortlake)
+  - 1881, Feb 14th, Edward Hanlan (CAN), Elias C. Laycock (AUS), 25 mins 49 secs, Thames (Putney to Mortlake)
+  - 1882, Apr 3rd, Edward Hanlan (CAN), Robert W Boyd (GBR), 21 mins 25 secs, Tyne
+  - 1882, May 1, Edward Hanlan (CAN), Edward Trickett (AUS), 28 mins, Thames (Putney to Mortlake)
+  - 1883, May 30, Edward Hanlan (CAN), John A Kennedy (USA), 19 min 4 sec, Point of Pines, Boston USA
+  - 1883, July 18, Edward Hanlan (CAN), Wallace Ross (CAN), 27 min 57.5 secs, Odensberg, New York, USA
+  - 1884, May 22, Edward Hanlan (CAN), Elias C. Laycock (AUS), 22 mins 46 secs, Nepean, Sydney
+  - 1884, Aug 16th, Bill Beach (AUS), Edward Hanlan (Can), 20 mins 28 secs, Parramatta, Sydney
+  - 1885, Feb 28th, Bill Beach (AUS), Thomas Clifford (AUS), 26 mins 1 sec, Parramatta, Sydney
+  - 1885, Mar 28th, Bill Beach (AUS), Edward Hanlan (Can), 22 mins 51 secs, Parramatta, Sydney
+  - 1885, Dec 18th, Bill Beach (AUS), Neil Matterson (AUS), 24 mins 11 sec, Parramatta, Sydney
+  - 1886, Sep 18th, Bill Beach (AUS), Jake Gaudaur Snr. (CAN), 22 mins 29 sec, Thames (Putney to Mortlake)
+  - 1886, Sep 25th, Bill Beach (AUS), Wallace Ross (CAN), 23 min 5 sec, Thames (Putney to Mortlake)
+  - 1887, Nov 26th, Bill Beach (AUS), Edward Hanlan (Can), 19 mins 25 sec, Nepean, Sydney
+  - 1888, Feb 11th, Peter Kemp (AUS), Thomas Clifford (AUS), 23 mins 27secs, Parramatta, Sydney
+  - 1888, May 5, Peter Kemp (AUS), Edward Hanlan (Can), 21 mins 36 sec, Parramatta, Sydney
+  - 1888, Sep 28th, Peter Kemp (AUS), Edward Hanlan (Can), 21 mins 25 secs, Parramatta, Sydney
+  - 1888, Oct 27th, Henry Ernest Searle (AUS), Peter Kemp (AUS), 22 mins 44 secs, Parramatta, Sydney
+  - 1889, Sep 9th, Henry Ernest Searle (AUS), William Joseph O'Connor (CAN), 22 mins 42 sec, Thames (Putney to Mortlake)
+  - 1890, Apr 25th, Peter Kemp (AUS), Neil Matterson (AUS), 21 mins 13 sec, Parramatta, Sydney
+  - 1890, May 15, Peter Kemp (AUS), John McLean (AUS), 21 mins 45 sec, Parramatta, Sydney
+  - 1890, Dec 15th, John McLean (AUS), Peter Kemp (AUS), 22 mins 13 secs, Parramatta, Sydney
+  - 1891, Apr 28th, Jim Stanbury * (AUS), John McLean (AUS), 22 mins 15 secs, Parramatta, Sydney
+  - 1891, Jul 7th, Jim Stanbury * (AUS), John McLean (AUS), 18 mins 25 secs, Parramatta, Sydney (short Course)
+  - 1892, May 2, Jim Stanbury * (AUS), Tom Sullivan (NZL), 17 mins 26 secs, Parramatta, Sydney (short Course)
+  - 1896, Jul 13th, Jim Stanbury * (AUS), Charles R. Harding (GBR), 21 mins 51 secs, Thames (Putney to Mortlake)
+  - 1896, Sep 7th, Jake Gaudaur Snr. (CAN), Jim Stanbury (AUS), 23 mins 1 sec, Thames (Putney to Mortlake)
+  - 1898, Jly 4th, Jake Gaudaur Snr. (CAN), Robert Johnston (CAN), 20 mins 25 sec, Vancouver Harbour
+  - 1901, Sep 7th, George Towns (AUS), Jake Gaudaur Snr. (CAN), 20 mins 30 sec, Lake of the Woods, Ontario
+  - 1904, Jul 30th, George Towns (AUS), Richard Tresidder (AUS), 21 mins 28 sec, Parramatta, Sydney
+  - 1905, Jul 22nd, Jim Stanbury * (AUS), George Towns (AUS), 19 mins 4 sec, Parramatta, Sydney
+  - 1906, Jul 28th, George Towns (AUS), Jim Stanbury (AUS), 19 mins 53 sec, Parramatta, Sydney
+  - 1907, Mar 2nd, George Towns (AUS), Edward Durnan (CAN), 22 mins 27 secs, Nepean, Sydney
+  - 1907, Aug 3rd, William Webb (NZL), Charles Towns (AUS), 20 mins 35 secs, Parramatta, Sydney
+  - 1908, Feb 25th, William Webb (NZL), Richard Tresidder (AUS), 20 mins 28 secs, Wanganui, New Zealand
+  - 1908, Dec 15th, Richard Arnst (NZL), William Webb (NZL), 19 mins 51 secs, Wanganui, New Zealand
+  - 1909, Jun 21st, Richard Arnst (NZL), William Webb (NZL), 18 mins 15 secs, Wanganui, New Zealand
+  - 1910, Apr 4th, Richard Arnst (NZL), George Whelch (NZL), 21 mins 51 secs, Akaroa Harbour, New Zealand
+  - 1910, Aug 18th, Richard Arnst (NZL), Ernest Barry (GBR), 20 mins 14 secs, Zambezi River, Northern Rhodesia
+  - 1911, Jul 29th, Richard Arnst (NZL), Harry Pearce (AUS), 19 mins 46 secs, Parramatta, Sydney
+  - 1912, Jul 29th, Ernest Barry (GBR), Richard Arnst (NZL), 23 mins 8 secs, Thames (Putney to Mortlake)
+  - 1912, Oct 14th, Ernest Barry (GBR), Edward Durnan (CAN), 22 mins 31 secs, Thames (Putney to Mortlake)
+  - 1913, Jul 21st, Ernest Barry (GBR), Harry Pearce (AUS), 24 mins 9 secs, Thames (Putney to Mortlake)
+  - 1914, Sep 7th, Ernest Barry (GBR), Jim Paddon (AUS), 21 mins 28 sec, Thames (Putney to Mortlake)
+  - 1919, Oct 27th, Alf Felton (AUS), Ernest Barry (GBR), 25 mins 40 secs, Thames (Putney to Mortlake)
+  - 1920, Aug 31st, Ernest Barry (GBR), Alf Felton (AUS), 24 mins 32 sec, Parramatta, Sydney
+  - 1921, Jun 11th, Richard Arnst (NZL), Pat Hannan (NZL), 22 mins 34 sec, Wairau, New Zealand
+  - 1922, Jan 5th, Darcy Hadfield (NZL), Richard Arnst (NZL), 19 mins 46 secs, Wanganui, New Zealand
+  - 1922, Apr 18th, Jim Paddon (AUS), Darcy Hadfield (NZL), 19 mins 19 secs, Wanganui, New Zealand
+  - 1923, Jul 21st, Jim Paddon (AUS), Darcy Hadfield (NZL), 19 mins 46 secs, Richmond
+  - 1924, Aug 12th, Jim Paddon (AUS), Alf Felton (AUS), 17 mins 55 secs, Brisbane
+  - 1924, Sep 20th, Jim Paddon (AUS), Major Goodsell (AUS), 17 mins 7 secs, Richmond
+  - 1925, Mar 21st, Major Goodsell (AUS), Bill McDevitt (AUS), 22 mins 20 secs, Clarence
+  - 1925, Jun 27th, Major Goodsell (AUS), Pat Hannan (NZL), 21 mins 31 secs, Parramatta, Sydney
+  - 1925, Nov 7th, Major Goodsell (AUS), Jim Paddon (AUS), 22 mins 50 secs, Parramatta, Sydney
+  - 1926, May 3, Major Goodsell (AUS), Tom Saul (AUS), 23 mins 11 sec, Parramatta, Sydney
+  - 1927, Sep 5th, Major Goodsell (AUS), Bert Barry (GBR), 24 mins 13 secs, Burrand Inlet, Vancouver
+  - 1927, Dec 6th, Bert Barry (GBR), Major Goodsell (AUS), 21 mins 40 secs, Burrand Inlet, Vancouver
+  - 1930, May 31, Ted Phelps (GBR), Bert Barry (GBR), 22 mins 45 secs, Thames (Putney to Mortlake)
+  - 1930, Oct 11th, Ted Phelps (GBR), Bert Barry (GBR), 22 mins 48 secs, Thames (Putney to Mortlake)
+  - 1932, Sep 5th, Ted Phelps (GBR), Major Goodsell (USA), 17 mins 2 secs, Long Beach, California
+  - 1933, Sep 1st, Henry "Bobby" Pearce (CAN), Ted Phelps (GBR), 19 mins 26 secs, Lake Ontario,
+  - 1934, Sep 5th, Henry "Bobby" Pearce (CAN), W G Miller (USA), 19 mins 52 secs, Toronto
+  - 1938, Sep 9th, Henry "Bobby" Pearce (CAN), Evans Paddon (AUS), 20 mins 35 secs, Tornoto
+  - 1948, Nov 20th, Evans Paddon (AUS), Max Fisher (AUS), 17 mins 20 secs, Parramatta, Sydney
+  - 1949, May 7, George Cook (AUS), Evans Paddon (AUS), 15mins 09 secs, Evans River
+  - 1950, April 22, Evans Paddon (AUS), George Cook (AUS), 21mins 58 secs, Evans River
+  - 1952, April 5, Jim Saul (AUS), Evans Paddon (AUS), 20 min 33 secs, Richmond River
+  - 1952, Sept 13th, Evans Paddon (AUS), Jim Saul (AUS), 21 min 50 secs, Richmond River
+  - 1953, June 13, Evans Fischer (AUS), Evans Paddon (AUS), 20 min 55 secs, Richmond River
+  - 1954, Aug 7th, Evans Fischer (AUS), Evans Paddon (AUS), 20min 57 secs, Clarence River
+  - 1957, May 25, Evans Fischer (AUS), Evans Paddon (AUS), 20min 46 secs, Clarence River
+
+=== Table ID: 2-167638-1 ===
+=== Table Title: Carrefour ===
+Columns: Country, First store, Hypermarkets, Supermarkets, Hard Discounters, Cash & Carry
+  - India, 2010, 5, –, –, 1 2
+  - China, 1995, 223, –, –, –
+  - Indonesia, 1998, 70, 15, –, –
+  - Bahrain, 2008, 1, –, –, –
+  - Japan, 2000, 7, –, –, –
+  - Jordan, 2006, 1, 3, –, –
+  - Kuwait, 2007, 2, –, –, –
+  - Lebanon, 2013, 1, –, –, –
+  - Malaysia, 1994, 26, 5, –, –
+  - Oman, 2000, 4, –, –, –
+  - Pakistan, 2009, 2, –, –, –
+  - Iran, 2009, 2, –, –, –
+  - Iraq, 2012, 1, –, –, –
+  - Qatar, 2000, 3, 1, –, –
+  - Saudi Arabia, 2004, 11, 1, –, –
+  - Syria, 2009, 1, –, –, –
+  - Taiwan, 1989, 70, –, –, –
+  - Thailand, 1996-2011, 0, 0, 0, 0
+  - United Arab Emirates, 1995, 11, 2, –, –
+
+=== Table ID: 2-16764781-2 ===
+=== Table Title: 1968 Cincinnati Bengals season ===
+Columns: Week, Date, Opponent, Result, Venue, Attendance, Record
+  - 1, August 3, 1968, vs. Kansas City Chiefs, 38–14 L, Nippert Stadium, 21,682, 0–1
+  - 2, August 10, 1968, at Denver Broncos, 15–13 L, Denver University Stadium, 13,841, 0–2
+  - 3, August 17, 1968, vs. Buffalo Bills, 10–6 L, Nippert Stadium, 20,111, 0–3
+  - 4, August 25, 1968, Pittsburgh Steelers, 19–3 W, N/A, 11,500, 1–3
+  - 5, August 30, 1968, New York Jets, 13–9 W, N/A, 24,358, 2–3
+
+=== Table ID: 2-1676941-1 ===
+=== Table Title: Patty Fendick ===
+Columns: Outcome, Year, Championship, Surface, Partner, Opponents in final, Score in final
+  - Runner-up, 1988, US Open, Hard, Jill Hetherington, Gigi Fernández Robin White, 6–4, 6–1
+  - Runner-up, 1989, Australian Open, Hard, Jill Hetherington, Martina Navrátilová Pam Shriver, 3-6, 6-3, 6-2
+  - Runner-up, 1990, Australian Open, Hard, Mary Joe Fernandez, Jana Novotná Helena Suková, 7–6(5), 7–6(6)
+  - Winner, 1991, Australian Open, Hard, Mary Joe Fernandez, Gigi Fernández Jana Novotná, 7–6(4), 6–1
+  - Runner-up, 1994, Australian Open, Hard, Meredith McGrath, Gigi Fernández Natalia Zvereva, 6–3, 4–6, 6–4
+
+=== Table ID: 2-16771461-1 ===
+=== Table Title: Isidoro Díaz ===
+Columns: Goal, Date, Venue, Score, Result, Competition
+  - 1., March 19, 1960, San José , Costa Rica, 3–0, Win, 1960 Panamerican Cup
+  - 2., June 26, 1960, Mexico City , Mexico, 3–1, Win, Friendly
+  - 3., November 13, 1960, Mexico City, Mexico, 3–0, Win, 1962 FIFA World Cup qualification
+  - 4., June 7, 1962, Viña del Mar , Chile, 3–1, Win, 1962 FIFA World Cup
+  - 5., March 28, 1963, Santa Ana , El Salvador, 8–0, Win, 1963 CONCACAF Championship
+  - 6., March 28, 1963, Santa Ana, El Salvador, 8–0, Win, 1963 CONCACAF Championship
+  - 7., February 28, 1965, San Pedro Sula , Honduras, 1–0, Win, 1966 FIFA World Cup qualification
+  - 8., March 12, 1965, Mexico City, Mexico, 2–0, Win, 1966 FIFA World Cup qualification
+  - 9., March 28, 1965, Guatemala City , Guatemala, 2–0, Win, 1965 CONCACAF Championship
+  - 10., May 7, 1965, Mexico City, Mexico, 8–0, Win, 1966 FIFA World Cup qualification
+  - 11., May 7, 1965, Mexico City, Mexico, 8–0, Win, 1966 FIFA World Cup qualification
+  - 12., May 7, 1965, Mexico City, Mexico, 8–0, Win, 1966 FIFA World Cup qualification
+  - 13., October 6, 1968, Puebla , Mexico, 1–1, Draw, Friendly
+  - 14., October 31, 1968, Rio de Janeiro , Brazil, 2–1, Win, Friendly
+  - 15., February 15, 1970, Mexico City, Mexico, 1–1, Draw, Friendly
+  - 16., April 22, 1970, Mexico City, Mexico, 1–1, Draw, Friendly
+  - 17., April 29, 1970, León , Mexico, 4–2, Win, Friendly
+
+=== Table ID: 2-16772687-10 ===
+=== Table Title: Seattle SuperSonics all-time roster ===
+Columns: Player, Nationality, Jersey Number(s), Position, Years, From
+  - Wardell Jackson Category:Articles with hCards, United States, 30, SF, 1974–1975, Ohio State
+  - Jerome James Category:Articles with hCards, United States, 33, 13, C, 2002 – 2005, Florida A&M
+  - Avery Johnson Category:Articles with hCards, United States, 15, PG, 1989 – 1990, Southern
+  - Clay Johnson Category:Articles with hCards, United States, 34, SG, 1983–1984, Missouri
+  - Clemon Johnson Category:Articles with hCards, United States, 45, Center / PF, 1987 – 1988, Florida A&M
+  - * Dennis Johnson Category:Articles with hCards, United States, 24, PG, 1977 – 1980, Pepperdine
+  - Eddie Johnson Category:Articles with hCards, United States, 22, 8, SF, 1991 – 1993, Illinois
+  - Edward Johnson Category:Articles with hCards, United States, 15, SG, 1987, Auburn
+  - Ervin Johnson Category:Articles with hCards, United States, 50, C, 1994 – 1996, New Orleans
+  - John Johnson Category:Articles with hCards, United States, 27, SF, 1978 – 1982, Iowa
+  - Steve Johnson Category:Articles with hCards, United States, 33, PF / C, 1990, Oregon State
+  - Vinnie Johnson Category:Articles with hCards, United States, 15, SG, 1980 – 1981, Baylor
+
+=== Table ID: 2-16772687-21 ===
+=== Table Title: Seattle SuperSonics all-time roster ===
+Columns: Player, Nationality, Jersey Number(s), Position, Years, From
+  - Wally Walker Category:Articles with hCards, United States, 42, SF, 1977 – 1982, Virginia
+  - Earl Watson Category:Articles with hCards, United States, 25, PG, 2002 2006 – 2008, UCLA
+  - Slick Watts Category:Articles with hCards, United States, 13, PG, 1973 – 1978, Xavier (Louisiana)
+  - Nick Weatherspoon Category:Articles with hCards, United States, 12, SF, 1976–1977, Illinois
+  - Marvin Webster Category:Articles with hCards, United States, 40, C, 1977–1978, Morgan State
+  - Bob Weiss Category:Articles with hCards, United States, 12, PG, 1967–1968, Pennsylvania State
+  - Paul Westphal Category:Articles with hCards, United States, 44, SG, 1980–1981, USC
+  - Delonte West Category:Articles with hCards, United States, 2, SG / PG, 2007–2008, Saint Joseph's
+  - Rudy White Category:Articles with hCards, United States, 10, SG, 1980–1981, Arizona State
+  - Chris Wilcox Category:Articles with hCards, United States, 54, PF / C, 2006 – 2008, Maryland
+  - * Lenny Wilkens Category:Articles with hCards, United States, 19, PG, 1969 – 1972, Providence
+  - Bob Wilkerson Category:Articles with hCards, United States, 33, SF / SG, 1976–1977, Indiana
+  - Damien Wilkins Category:Articles with hCards, United States, 12, 21, SF / SG, 2004 – 2008, Georgia
+  - Mike Wilks Category:Articles with hCards, United States, 29, PG, 2006 – 2007 2008, Rice
+  - Aaron Williams Category:Articles with hCards, United States, 15, PF / C, 1997 – 1999, Xavier
+  - ^ Gus Williams Category:Articles with hCards, United States, 1, PG, 1977 – 1984, USC
+  - Kevin Williams Category:Articles with hCards, United States, 30, PG, 1986 – 1988, St. John's
+  - Milt Williams Category:Articles with hCards, United States, 12, SG, 1973–1974, St. John's
+  - Shammond Williams Category:Articles with hCards, United States, 1, PG / SG, 1999 – 2002, North Carolina
+  - George Wilson Category:Articles with hCards, United States, 15, C, 1967–1968, Cincinnati
+  - Lee Winfield Category:Articles with hCards, United States, 11, PG, 1969 – 1973, North Texas
+  - David Wingate Category:Articles with hCards, United States, 25, SG / SF, 1995 – 1998, Georgetown
+  - Dontonio Wingfield Category:Articles with hCards, United States, 34, SF / PF, 1994–1995, Cincinnati
+  - Willie Wise Category:Articles with hCards, United States, 42, SF, 1977, Drake
+  - Rubén Wolkowyski Category:Articles with hCards, Argentina, 45, C, 2000–2001, Estudiantes de Olavarría
+  - Al Wood Category:Articles with hCards, United States, 4, SF / SG, 1983 – 1986, North Carolina
+  - Joby Wright Category:Articles with hCards, United States, 14, 20, SF / SG, 1972–1973, Indiana
+
+=== Table ID: 2-16772687-3 ===
+=== Table Title: Seattle SuperSonics all-time roster ===
+Columns: Player, Nationality, Jersey Number(s), Position, Years
+  - James Bailey Category:Articles with hCards, United States, 20, PF / Center, 1979 – 1981
+  - Vin Baker Category:Articles with hCards, United States, 42, PF, 1997 – 2002
+  - Greg Ballard Category:Articles with hCards, United States, 42, PF, 1988–1989
+  - Mike Bantom Category:Articles with hCards, United States, 40, PF / C, 1975 – 1977
+  - Norton Barnhill Category:Articles with hCards, United States, 10, G, 1976–1977
+  - Dana Barros Category:Articles with hCards, United States, 3, 11, PG, 1989 – 1993
+  - Brent Barry Category:Articles with hCards, United States, 31, SG, 1999 – 2004
+  - Drew Barry Category:Articles with hCards, United States, 12, SG, 1999
+  - Butch Beard Category:Articles with hCards, United States, 21, SG, 1972–1973
+  - Benoit Benjamin Category:Articles with hCards, United States, 00, C, 1990 – 1993
+  - Tom Black Category:Articles with hCards, United States, 12, C, 1970–1971
+  - Cory Blackwell Category:Articles with hCards, United States, 30, SF, 1984–1985
+  - Calvin Booth Category:Articles with hCards, United States, 52, C, 2001 – 2004
+  - Bob Boozer Category:Articles with hCards, United States, 20, PF, 1969–1970
+  - Lazaro Borrell Category:Articles with hCards, Cuba, 11, PF, 1999–2000
+  - Charles Bradley Category:Articles with hCards, United States, 30, SG, 1983
+  - Frank Brickowski Category:Articles with hCards, United States, 33, 34, PF / C, 1984 – 1986 1995–1996
+  - John Brisker Category:Articles with hCards, United States, 40, 42, SF - SG, 1972 – 1975
+  - ^ Fred Brown Category:Articles with hCards, United States, 32, PG / SG, 1971 – 1984
+  - Tony Brown Category:Articles with hCards, United States, 21, SF - SG, 1992
+  - Rick Brunson Category:Articles with hCards, United States, 5, PG, 2005–2006
+  - Tommy Burleson Category:Articles with hCards, United States, 16, C, 1974 – 1977
+
+=== Table ID: 2-16772687-4 ===
+=== Table Title: Seattle SuperSonics all-time roster ===
+Columns: Player, Nationality, Jersey Number(s), Position, Years, From
+  - Michael Cage Category:Articles with hCards, United States, 44, C / PF, 1988 – 1994, San Diego Aztecs
+  - Elden Campbell Category:Articles with hCards, United States, 41, C, 2003, Clemson
+  - Al Carlson Category:Articles with hCards, United States, 35, C, 1975–1976, Oregon
+  - Bill Cartwright Category:Articles with hCards, United States, 24, C, 1994–1995, San Francisco
+  - Tom Chambers Category:Articles with hCards, United States, 24, C / PF, 1983 – 1988, Utah
+  - Mike Champion Category:Articles with hCards, United States, 41, PF, 1988–1989, Gonzaga
+  - Archie Clark Category:Articles with hCards, United States, 21, PG, 1974–1975, Minnesota
+  - Mateen Cleaves Category:Articles with hCards, United States, 24, PG, 2004 – 2006, Michigan State
+  - Barry Clemens Category:Articles with hCards, United States, 43, PF, 1969 – 1972, Ohio Wesleyan
+  - Nick Collison Category:Articles with hCards, United States, 4, PF, 2004 – 2008, Kansas
+  - Marty Conlon Category:Articles with hCards, Ireland, 24, PF / C, 1991–1992, Providence
+  - Joe Cooper Category:Articles with hCards, United States, 53, PF / C, 1985, Colorado
+  - Dave Corzine Category:Articles with hCards, United States, 42, C, 1990–1991, DePaul
+  - James Cotton Category:Articles with hCards, United States, 4, SG, 1997 – 1999, Long Beach State
+  - Pete Cross Category:Articles with hCards, United States, 41, PF / C, 1970 – 1972 1972–1973, San Francisco
+  - John Crotty Category:Articles with hCards, United States, 22, PG, 1999, Virginia
+  - Terry Cummings Category:Articles with hCards, United States, 34, PF / C, 1997, DePaul
+
+=== Table ID: 2-16774316-1 ===
+=== Table Title: Thomas Dufour ===
+Columns: Season, Skip, Third, Second, Lead
+  - 1989-90, Jan Henri Ducroz, Spencer Mugnier, Sylvain Ducroz, Thomas Dufour
+  - 1990-91, Jan Henri Ducroz, Spencer Mugnier, Sylvain Ducroz, Thomas Dufour
+  - 1991-92, Jan Henri Ducroz, Spencer Mugnier, Sylvain Ducroz, Thomas Dufour
+  - 1992-93, Spencer Mugnier, Thomas Dufour, Sylvain Ducroz, Philippe Caux
+  - 1993-94, Spencer Mugnier, Thomas Dufour, Sylvain Ducroz, Philippe Caux
+  - 1995-96, Jan Henri Ducroz, Spencer Mugnier, Daniel Cosetto, Thomas Dufour
+  - 2004-05, Thomas Dufour, Lionel Roux, Philippe Caux, Tony Angiboust
+  - 2005-06, Thomas Dufour, Philippe Caux, Tony Angiboust, Julien Charlet
+  - 2006-07, Thomas Dufour, Tony Angiboust, Jan Henri Ducroz, Richard Ducroz
+  - 2007-09, Thomas Dufour, Tony Angiboust, Jan Henri Ducroz, Richard Ducroz
+  - 2008-09, Thomas Dufour, Tony Angiboust, Richard Ducroz (Lead for most of the season), Jan Henri Ducroz (Second for most of the season)
+  - 2009-10, Thomas Dufour, Tony Angiboust, Jan Henri Ducroz, Richard Ducroz
+  - 2010-11, Thomas Dufour, Tony Angiboust (fourth), Lionel Roux, Wilfrid Coulot
+
+=== Table ID: 2-16778485-2 ===
+=== Table Title: 1996 Baltimore Ravens season ===
+Columns: Week, Date, Opponent, Result, Record, Time
+  - 1, September 1, 1996, Oakland Raiders, W 19–14, 1–0–0, 1:00PM
+  - 2, September 8, 1996, at Pittsburgh Steelers, L 31–17, 1–1–0, 1:00PM
+  - 3, September 15, 1996, at Houston Oilers, L 29–13, 1–2–0, 1:00PM
+  - 4, Bye, Bye, Bye, Bye, Bye
+  - 5, September 29, 1996, New Orleans Saints, W 17–10, 2–2–0, 1:00PM
+  - 6, October 6, 1996, New England Patriots, L 46–38, 2–3–0, 1:00PM
+  - 7, October 13, 1996, at Indianapolis Colts, L 26–21, 2–4–0, 8:00PM
+  - 8, October 20, 1996, at Denver Broncos, L 45–34, 2–5–0, 4:00PM
+  - 9, October 27, 1996, St. Louis Rams, W 37–31 OT, 3–5–0, 1:00PM
+  - 10, November 3, 1996, Cincinnati Bengals, L 24–21, 3–6–0, 1:00PM
+  - 11, November 10, 1996, at Jacksonville Jaguars, L 30–27, 3–7–0, 4:00PM
+  - 12, November 17, 1996, at San Francisco 49ers, L 38–20, 3–8–0, 4:00PM
+  - 13, November 24, 1996, Jacksonville Jaguars, L 28–25 OT, 3–9–0, 1:00PM
+  - 14, December 1, 1996, Pittsburgh Steelers, W 31–17, 4–9–0, 1:00PM
+  - 15, December 8, 1996, at Cincinnati Bengals, L 21–14, 4–10–0, 1:00PM
+  - 16, December 15, 1996, at Carolina Panthers, L 27–16, 4–11–0, 1:00PM
+  - 17, December 22, 1996, Houston Oilers, L 24–21, 4–12–0, 1:00PM
+
+=== Table ID: 2-16778576-3 ===
+=== Table Title: 1995 Jacksonville Jaguars season ===
+Columns: Week, Date, Opponent, Result, Stadium, Record, Attendance
+  - 1, September 3, Houston Oilers, L 10–3, Jacksonville Municipal Stadium, 0–1, 72,363
+  - 2, September 10, at Cincinnati Bengals, L 24–17, Riverfront Stadium, 0–2, 48,318
+  - 3, September 17, at New York Jets, L 27–10, Giants Stadium, 0–3, 49,970
+  - 4, September 24, Green Bay Packers, L 24–14, Jacksonville Municipal Stadium, 0–4, 66,744
+  - 5, October 1, at Houston Oilers, W 17–16, Houston Astrodome, 1–4, 36,346
+  - 6, October 8, Pittsburgh Steelers, W 20–16, Jacksonville Municipal Stadium, 2–4, 72,042
+  - 7, October 15, Chicago Bears, L 30–27, Jacksonville Municipal Stadium, 2–5, 72,020
+  - 8, October 22, at Cleveland Browns, W 23–15, Cleveland Stadium, 3–5, 64,405
+  - 9, October 29, at Pittsburgh Steelers, L 24–7, Three Rivers Stadium, 3–6, 54,516
+  - 10, Bye, Bye, Bye, Bye, Bye, Bye
+  - 11, November 12, Seattle Seahawks, L 47–30, Jacksonville Municipal Stadium, 3–7, 71,290
+  - 12, November 19, at Tampa Bay Buccaneers, L 17–16, Tampa Stadium, 3–8, 71,629
+  - 13, November 26, Cincinnati Bengals, L 17–13, Jacksonville Municipal Stadium, 3–9, 68,249
+  - 14, December 3, at Denver Broncos, L 31–23, Mile High Stadium, 3–10, 72,231
+  - 15, December 10, Indianapolis Colts, L 41–31, Jacksonville Municipal Stadium, 3–11, 66,099
+  - 16, December 17, at Detroit Lions, L 44–0, Pontiac Silverdome, 3–12, 70,204
+  - 17, December 24, Cleveland Browns, W 24–21, Jacksonville Municipal Stadium, 4–12, 66,007
+
+=== Table ID: 2-16779163-1 ===
+=== Table Title: 2002 Tennis Masters Series ===
+Columns: Tournament, Surface, Week, Winner, Finalist, Semifinalists
+  - Indian Wells, Hard, March 11, Lleyton Hewitt (1) 6–1, 6–2, Tim Henman (9), Pete Sampras (10) Todd Martin (WC)
+  - Miami, Hard, March 18, Andre Agassi (9) 6–3, 6–3, 3–6, 6–4, Roger Federer (12), Lleyton Hewitt (1) Marcelo Ríos (31)
+  - Monte Carlo, Clay, April 15, Juan Carlos Ferrero (2) 7–5, 6–3, 6–4, Carlos Moyá, Tim Henman (4) Sébastien Grosjean (7)
+  - Rome, Clay, May 6, Andre Agassi (9) 6–3, 6–3, 6–0, Tommy Haas (7), Andy Roddick (13) Jiří Novák (14)
+  - Hamburg, Clay, May 13, Roger Federer (11) 6–1, 6–3, 6–4, Marat Safin (6), Tommy Robredo Max Mirnyi
+  - Canada (Toronto), Hard, July 29, Guillermo Cañas 6–4, 7–5, Andy Roddick (22), Jiří Novák (14) Tommy Haas (3)
+  - Cincinnati, Hard, August 5, Carlos Moyá (16) 7–5, 7–6(5), Lleyton Hewitt (1), Fernando González Juan Carlos Ferrero (8)
+  - Madrid, Hard (i), October 14, Andre Agassi (2) w/o, Jiří Novák (11), Fabrice Santoro (Q) Sébastien Grosjean (7)
+  - Paris, Hard (i), October 28, Marat Safin (3) 7–6(4), 6–0, 6–4, Lleyton Hewitt (1), Paradorn Srichaphan Carlos Moyá (10)
+  - Shanghai ( TMC ), Hard (i), November 12, Lleyton Hewitt 7–5, 7–5, 2–6, 2–6, 6–4, Juan Carlos Ferrero, Carlos Moyá Roger Federer
+
+=== Table ID: 2-16779952-1 ===
+=== Table Title: 1999 ATP Super 9 ===
+Columns: Tournament, Surface, Week, Winner and score, Finalist, Semifinalists
+  - Indian Wells, Hard, March 8, Mark Philippoussis 5-7, 6-4, 6-4, 4-6, 6-2, Carlos Moyá, Chris Woodruff Gustavo Kuerten
+  - Key Biscane, Hard, March 18, Richard Krajicek 4-6, 6-1, 6-2, 7-5, Sébastien Grosjean, Francisco Clavet Thomas Enqvist
+  - Monte Carlo, Clay, April 19, Gustavo Kuerten 6-4, 2-1 ret., Marcelo Ríos, Jérôme Golmard Félix Mantilla
+  - Hamburg, Clay, May 3, Marcelo Ríos 6-7(5), 7-5, 5-7, 7-6(5), 6-2, Mariano Zabaleta, Nicolás Lapentti Carlos Moyá
+  - Rome, Clay, May 10, Gustavo Kuerten 6-4, 7-5, 7-6(6), Patrick Rafter, Àlex Corretja Félix Mantilla
+  - Montréal, Hard, August 2, Thomas Johansson 1-6, 6-3, 6-3, Yevgeny Kafelnikov, Nicolas Kiefer Andre Agassi
+  - Cincinnati, Hard, August 9, Pete Sampras 7-6(7), 6-3, Patrick Rafter, Andre Agassi Yevgeny Kafelnikov
+  - Stuttgart, Hard (i), October 25, Thomas Enqvist 6-1, 6-4, 5-7, 7-5, Richard Krajicek, Andre Agassi Greg Rusedski
+  - Paris, Carpet (i), November 1, Andre Agassi 7-6(1), 6-2, 4-6, 6-4, Marat Safin, Nicolás Lapentti Michael Chang
+
+=== Table ID: 2-16779997-1 ===
+=== Table Title: 1999 Jacksonville Jaguars season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 12, 1999, San Francisco 49ers, W 41–3, 68,678
+  - 2, September 19, 1999, at Carolina Panthers, W 22–20, 64,261
+  - 3, September 26, 1999, Tennessee Titans, L 20–19, 61,502
+  - 4, October 3, 1999, at Pittsburgh Steelers, W 17–3, 57,308
+  - 5, October 11, 1999, at New York Jets, W 16–6, 78,216
+  - 6, October 17, 1999, Cleveland Browns, W 24–7, 62,047
+  - 7, Bye, Bye, Bye, Bye
+  - 8, October 31, 1999, at Cincinnati Bengals, W 41–10, 49,138
+  - 9, November 7, 1999, at Atlanta Falcons, W 30–7, 68,466
+  - 10, November 14, 1999, Baltimore Ravens, W 6–3, 67,391
+  - 11, November 21, 1999, New Orleans Saints, W 41–23, 69,772
+  - 12, November 28, 1999, at Baltimore Ravens, W 30–23, 68,428
+  - 13, December 2, 1999, Pittsburgh Steelers, W 20–6, 68,806
+  - 14, December 13, 1999, Denver Broncos, W 27–24, 71,357
+  - 15, December 19, 1999, at Cleveland Browns, W 24–14, 72,038
+  - 16, December 26, 1999, at Tennessee Titans, L 41–14, 66,641
+  - 17, January 2, 2000, Cincinnati Bengals, W 24–7, 70,532
+
+=== Table ID: 2-16780110-1 ===
+=== Table Title: 1998 Jacksonville Jaguars season ===
+Columns: Week, Date, Opponent, Result, Attendance
+  - 1, September 6, 1998, at Chicago Bears, W 24–23, 55,614
+  - 2, September 13, 1998, Kansas City Chiefs, W 21–16, 69,821
+  - 3, September 20, 1998, Baltimore Ravens, W 24–10, 67,069
+  - 4, September 27, 1998, at Tennessee Oilers, W 27–22, 34,656
+  - 5, Bye, Bye, Bye, Bye
+  - 6, October 12, 1998, Miami Dolphins, W 28–21, 74,051
+  - 7, October 18, 1998, at Buffalo Bills, L 17–16, 77,635
+  - 8, October 25, 1998, at Denver Broncos, L 37–24, 75,217
+  - 9, November 1, 1998, at Baltimore Ravens, W 45–19, 68,915
+  - 10, November 8, 1998, Cincinnati Bengals, W 24–11, 67,040
+  - 11, November 15, 1998, Tampa Bay Buccaneers, W 29–24, 72,974
+  - 12, November 22, 1998, at Pittsburgh Steelers, L 30–15, 59,124
+  - 13, November 29, 1998, at Cincinnati Bengals, W 34–17, 55,432
+  - 14, December 6, 1998, Detroit Lions, W 37–22, 70,717
+  - 15, December 13, 1998, Tennessee Oilers, L 16–13, 65,657
+  - 16, December 20, 1998, at Minnesota Vikings, L 50–10, 64,363
+  - 17, December 28, 1998, Pittsburgh Steelers, W 21–3, 74,143
+
+=== Table ID: 2-16780573-1 ===
+=== Table Title: 2003 Tennis Masters Series ===
+Columns: Tournament, Surface, Week, Winner, Finalist, Semifinalists
+  - Indian Wells, Hard, March 10, Lleyton Hewitt (1) 6–1, 6–1, Gustavo Kuerten, Vincent Spadea (Q) Rainer Schüttler (15)
+  - Miami, Hard, March 17, Andre Agassi (2) 6–3, 6–3, Carlos Moyá (5), Paradorn Srichaphan (13) Albert Costa (9)
+  - Monte Carlo, Clay, April 14, Juan Carlos Ferrero (1) 6–2, 6–2, Guillermo Coria, Vincent Spadea Carlos Moyá (2)
+  - Rome, Clay, May 5, Felix Mantilla 7–5, 6–2, 7–6(8), Roger Federer (4), Yevgeny Kafelnikov Juan Carlos Ferrero (2)
+  - Hamburg, Clay, May 12, Guillermo Coria (12) * 6–3, 6–4, 6–4, Agustín Calleri, David Nalbandian (8) Gastón Gaudio
+  - Canada (Montréal), Hard, August 4, Andy Roddick (6) 6–1, 6–3, David Nalbandian, Rainer Schüttler (8) Roger Federer (3)
+  - Cincinnati, Hard, August 11, Andy Roddick (7) 4–6, 7–6(3), 7–6(4), Mardy Fish, Max Mirnyi Rainer Schüttler (8)
+  - Madrid, Hard (i), October 13, Juan Carlos Ferrero (1) 6–3, 6–4, 6–3, Nicolas Massú, Roger Federer (3) Younes El Aynaoui (15)
+  - Paris, Carpet (i), October 27, Tim Henman 6–2, 7–6(6), 7–6(2), Andrei Pavel, Jiří Novák (14) Andy Roddick (2)
+  - Houston ( TMC ), Hard, November 8, Roger Federer 6–3, 6–0, 6–4, Andre Agassi, Rainer Schüttler Andy Roddick
+
+=== Table ID: 2-16785772-4 ===
+=== Table Title: 1930–31 Philadelphia Quakers season ===
+Columns: Date, Visitor, Score, Home, Decision, Attendance, Record, Points
+  - January 1, Philadelphia, 3 – 10, Chicago, Cude, 7,000, 1–16–1, 3
+  - January 3, Ottawa, 5 – 4, Philadelphia, Cude, 3,500, 1–17–1, 3
+  - January 4, Philadelphia, 0 – 5, NY Americans, Cude, 7,000, 1–18–1, 3
+  - January 8, Chicago, 4 – 0, Philadelphia, Cude, n/a, 1–19–1, 3
+  - January 10, MTL Maroons, 3 – 4, Philadelphia, Miller, 3,000, 2–19–1, 5
+  - January 13, MTL Canadiens, 2 – 1, Philadelphia, Forbes, 3,500, 2–20–1, 5
+  - January 17, Detroit, 5 – 2, Philadelphia, Forbes, 2,500, 2–21–1, 5
+  - January 20, Philadelphia, 2 – 5, Detroit, Cude, 6,000, 2–22–1, 5
+  - January 22, Philadelphia, 2 – 5, Chicago, Cude, 6,500, 2–23–1, 5
+  - January 24, Boston, 4 – 2, Philadelphia, Cude, 3,500, 2–24–1, 5
+  - January 27, Philadelphia, 3 – 3, Boston, Cude, n/a, 2–24–2, 6
+  - January 29, Philadelphia, 1 – 7, MTL Canadiens, Cude, 10,000, 2–25–2, 6
+  - January 31, Philadelphia, 2 – 3, Toronto, Cude, 7,000, 2–26–2, 6
+
+=== Table ID: 2-16785772-5 ===
+=== Table Title: 1930–31 Philadelphia Quakers season ===
+Columns: Date, Visitor, Score, Home, Decision, Attendance, Record, Points
+  - February 5, Philadelphia, 1 – 6, Chicago, Cude, 8,000, 2–27–2, 6
+  - February 10, NY Rangers, 3 – 1, Philadelphia, Cude, n/a, 2–28–2, 6
+  - February 14, NY Americans, 1 – 1, Philadelphia, Cude, 3,000, 2–28–3, 7
+  - February 17, Philadelphia, 2 – 0, Detroit, Cude, 5,000, 3–28–3, 9
+  - February 22, Philadelphia, 1 – 6, NY Rangers, Cude, 8,000, 3–29–3, 9
+  - February 24, Boston, 5 – 1, Philadelphia, Cude, 2,000, 3–30–3, 9
+  - February 28, Philadelphia, 1 – 4, MTL Maroons, Cude, 9,500, 3–31–3, 9
+
+=== Table ID: 2-16792161-2 ===
+=== Table Title: Vice President of Syria ===
+Columns: Name (Birth–death), Took office, Left office, Political party, Note(s)
+  - Name (Birth–death), Took office, Left office, Political party, Note(s)
+  - Maamun al-Kuzbari (1914–1998), 25 February 1952, 28 February 1954, Arab Liberation Movement, —
+  - United Arab Republic (1958–1961), United Arab Republic (1958–1961), United Arab Republic (1958–1961), United Arab Republic (1958–1961), United Arab Republic (1958–1961)
+  - Sabri al-Asali (1903–1976), 7 March 1958, 7 October 1958, National Party, —
+  - Akram al-Hawrani (1912–1996), 7 March 1958, 19 September 1960, Ba'ath Party ( Syria Region ), —
+  - Abdel Latif Boghdadi (1917–1999), 7 March 1958, 29 September 1961, National Union, —
+  - Abdel Hakim Amer (1919–1967), 7 March 1958, 29 September 1961, National Union, —
+  - Nur al-Din Kahala (born 1910), 20 September 1960, 29 September 1961, National Union, —
+  - Abdel Hamid al-Sarraj (born 1925), 16 August 1961, 29 September 1961, National Union, —
+  - Kamal el-Din Hussein (1921–1999), 16 August 1961, 29 September 1961, National Union, —
+  - Zakaria Mohieddin (1918–2012), 16 August 1961, 29 September 1961, National Union, —
+  - Hussein el-Shafei (1918–2005), 16 August 1961, 29 September 1961, National Union, —
+  - Syrian Arab Republic (1961–present), Syrian Arab Republic (1961–present), Syrian Arab Republic (1961–present), Syrian Arab Republic (1961–present), Syrian Arab Republic (1961–present)
+  - Muhammad Umran (1922–1972), 9 March 1963, 23 February 1966, Ba'ath Party ( Syria Region ), —
+  - Mahmoud al-Ayyubi (born 1932), 22 February 1971, 1974, Syrian Ba'ath Party ( Syria Region ), —
+  - Rifaat al-Assad (born 1937), 11 March 1984, 8 February 1998, Syrian Ba'ath Party ( Syria Region ), —
+  - Abdul Halim Khaddam (born 1932), 11 March 1984, 6 June 2005, Syrian Ba'ath Party ( Syria Region ), —
+  - Zuhair Masharqa (1938–2007), 11 March 1984, 21 February 2006, Syrian Ba'ath Party ( Syria Region ), —
+  - Farouk al-Sharaa (born 1938), 21 February 2006, Incumbent, Syrian Ba'ath Party ( Syria Region ), —
+  - Najah al-Attar (born 1933), 23 March 2006, Incumbent, Syrian Ba'ath Party ( Syria Region ), —
+
+=== Table ID: 2-16792781-1 ===
+=== Table Title: List of sporting venues with a highest attendance of 100,000 or more ===
+Columns: Rank, Venue name, Highest attendance, Location, Current seating capacity
+  - 1, Indianapolis Motor Speedway, 400,000, Speedway , Indiana , United States, 257,325
+  - 2, Circuit de la Sarthe, 235,000, Le Mans , France, 100,000
+  - 3, Tokyo Racecourse, 223,000, Tokyo , Japan, 13,750
+  - 4, Nürburgring-Nordschleife, 220,000, Nürburg , Germany, 220,000
+  - 5, Texas Motor Speedway, 212,585, Fort Worth , Texas , United States, 138,122
+  - 7, Aintree Racecourse, 200,000-300,000, Aintree , England, 75,000
+  - 8, Badminton Park, 200,000, Badminton , England, 200,000
+  - 8, Shanghai International Circuit, 200,000, Shanghai , China, 200,000
+  - 11, Estádio do Maracanã, 199,854, Rio de Janeiro , Brazil, 78,838
+  - 12, Hampden Park, 183,724, Glasgow , Scotland, 52,103
+  - 13, Talladega Superspeedway, 175,000, Talladega , Alabama , United States, 175,000
+  - 14, Daytona International Speedway, 167,785, Daytona Beach , Florida , United States, 167,785
+  - 15, Charlotte Motor Speedway, 167,000, Concord , North Carolina , United States, 167,000
+  - 16, Nakayama Racecourse, 165,676, Chiba , Japan, 15,944
+  - 17, Bristol Motor Speedway, 165,000, Bristol , Tennessee , United States, 165,000
+  - 18, Churchill Downs, 164,858, Louisville , Kentucky , United States, 51,000
+  - 19, Las Vegas Motor Speedway, 156,000, Las Vegas , Nevada , United States, 142,000
+  - 20, Suzuka Circuit, 155,000, Suzuka , Japan, 155,000
+  - 20, Istanbul Park, 155,000, Istanbul , Turkey, 155,000
+  - 22, Rungnado May Day Stadium, 150,000, Pyongyang , North Korea, 150,000
+  - 22, Südschleife, 150,000, Nürburg, Germany, 150,000
+  - 22, Belmont Park, 150,000, Elmont , New York , United States, 33,000
+  - 25, Holmenkollbakken, 143,000, Oslo , Norway, 50,000
+  - 26, Circuit de Catalunya, 140,000, Montmeló , Spain, 140,000
+  - 26, Fuji Speedway, 140,000, Oyama , Japan, 140,000
+  - 28, Ibrox Stadium, 139,940, Glasgow, Scotland, 51,082
+  - 29, Hanshin Racecourse, 139,877, Hyogo , Japan, 12,603
+  - 30, Estádio do Morumbi, 138,032, São Paulo , Brazil, 66,795
+  - 31, Michigan International Speedway, 137,243, Brooklyn , Michigan , United States, 137,243
+  - 32, Autodromo Nazionale Monza, 137,000, Monza , Italy, 137,000
+  - 33, Korea International Circuit, 135,000, Yeongam , South Korea, 135,000
+  - 33, Dover International Speedway, 135,000, Dover , Delaware , United States, 135,000
+  - 35, Mineirão, 132,834, Belo Horizonte , Brazil, 62,547
+  - 36, Flemington Racecourse, 130,000, Melbourne , Australia, 130,000
+  - 36, Sepang International Circuit, 130,000, Sepang , Malaysia, 130,000
+  - 38, Azadi Stadium, 128,000, Tehran , Iran, 90,000
+  - 39, Strahov Stadium, 150,000, Prague , Czech Republic, 250,000
+  - 40, Silverstone Circuit, 125,000, Silverstone , England, 125,000
+  - 40, San Siro, 125,000, Milan , Italy, 82,955
+  - 40, Atlanta Motor Speedway, 125,000, Hampton , Georgia , United States, 125,000
+  - 43, Melbourne Cricket Ground, 121,696, Melbourne, Australia, 100,000
+  - 44, Cairo International Stadium, 120,480, Cairo , Egypt, 74,100
+  - 45, Crystal Palace National Sports Centre, 120,028, London , England, 24,000
+  - 46, Salt Lake Stadium, 120,000, Kolkata , India, 120,000
+  - 46, Buddh International Circuit, 120,000, Greater Noida , India, 120,000
+  - 46, Eden Gardens, 120,000, Kolkata, India, 88,000
+  - 46, Kyoto Racecourse, 120,000, Kyoto , Japan, 28,000
+  - 46, Camp Nou, 120,000, Barcelona , Spain, 98,722
+  - 46, Santiago Bernabéu Stadium, 120,000, Madrid , Spain, 80,400
+  - 46, Hockenheimring, 120,000, Hockenheim , Germany, 120,000
+  - 46, EuroSpeedway Lausitz, 120,000, Oberspreewald-Lausitz , Germany, 120,000
+  - 46, Circuit de Valencia, 120,000, Cheste , Spain, 120,000
+  - 46, Pimlico Race Course, 120,000, Baltimore , Maryland , United States, 43,000
+  - 46, Mangueirão, 120,000, Belém , Brazil, 45,007
+  - 46, Silesian Stadium, 120,000, Chorzów , Poland, 47,246
+  - 46, Circuit de Nevers Magny-Cours, 120,000, Magny-Cours , France, 120,000
+  - 46, Hungaroring, 120,000, Mogyoród , Hungary, 120,000
+  - 46, Epsom Downs Racecourse, 120,000, Epsom , England, 10,875
+  - 61, Autódromo José Carlos Pace, 119,000, São Paulo, Brazil, 119,000
+  - 62, Castelão, 118,496, Fortaleza , Brazil, 64,846
+  - 62, Circuit of the Americas, 117,429, Austin , Texas , United States, 120,000
+  - 63, Los Angeles Memorial Coliseum, 115,300, Los Angeles , California , United States, 92,000
+  - 64, Michigan Stadium, 115,109, Ann Arbor , Michigan, United States, 109,901
+  - 65, Estadio Presidente Juan Domingo Perón, 115,000, Buenos Aires , Argentina, 51,389
+  - 66, Stadium Australia, 114,714, Sydney , Australia, 83,500
+  - 67, Estadio Azteca, 114,465, Mexico City , Mexico, 105,000
+  - 68, Salpausselkä, 114,082, Lahti , Finland, 80,000
+  - 69, Soldier Field, 112,912, Chicago , Illinois , United States, 61,000
+  - 70, Richmond International Raceway, 112,029, Richmond , Virginia , United States, 112,029
+  - 71, Beaver Stadium, 110,753, State College , Pennsylvania , United States, 107,282
+  - 72, Berlin Olympic Stadium, 110,000, Berlin , Germany, 74,228
+  - 72, Stadion Crvena Zvezda, 110,000, Belgrade , Serbia, 55,000
+  - 72, Estádio Fonte Nova, 110,000, Salvador , Brazil, 50,000
+  - 72, National Stadium, Bukit Jalil, 110,000, Kuala Lumpur , Malaysia, 100,000
+  - 72, Boris Paichadze Stadium, 110,000, Tbilisi , Georgia, 55,000
+  - 72, Yadegar-e-Emam Stadium, 110,000, Tabriz , Iran, 70,000
+  - 78, Neyland Stadium, 109,061, Knoxville , Tennessee, United States, 100,011
+  - 79, Cowboys Stadium, 108,713, Arlington , Texas, United States, 80,000
+  - 80, Kentucky Speedway, 107,000, Sparta , Kentucky , United States, 107,000
+  - 81, Rose Bowl, 106,869, Pasadena , California, United States, 92,542
+  - 82, Estádio Beira-Rio, 106,554, Porto Alegre , Brazil, 51,300
+  - 83, Ohio Stadium, 106,033, Columbus , Ohio , United States, 102,329
+  - 84, New Hampshire Motor Speedway, 105,491, Loudon , New Hampshire , United States, 93,521
+  - 85, Stadium Puskás Ferenc, 104,000, Budapest , Hungary, 68,976
+  - 85, Murrayfield Stadium, 104,000, Edinburgh , Scotland, 67,800
+  - 87, Luzhniki Stadium, 103,000, Moscow , Russia, 84,745
+  - 87, Gottlieb-Daimler-Stadion, 103,000, Stuttgart , Germany, 58,000
+  - 89, Odsal Stadium, 102,569, Bradford , England, 27,491
+  - 90, Infineon Raceway, 102,000, Sonoma , California, United States, 102,000
+  - 90, Olimpiysky National Sports Complex, 102,000, Kiev , Ukraine, 83,450
+  - 90, Stade 5 Juillet 1962, 102,000, Algiers , Algeria, 66,000
+  - 93, Bryant–Denny Stadium, 101,821, Tuscaloosa , Alabama, United States, 101,821
+  - 94, Darrell K Royal-Texas Memorial Stadium, 101,437, Austin , Texas, United States, 100,119
+  - 95, Bung Karno Stadium, 100,800, Jakarta , Indonesia, 88,083
+  - 96, Seoul Olympic Stadium, 100,000, Seoul , South Korea, 69,950
+  - 97, Estadio Centenario, 100,000, Montevideo , Uruguay, 76,000
+  - 97, Jawaharlal Nehru Stadium, 100,000, Delhi , India, 78,000
+  - 97, Ellis Park Stadium, 100,000, Johannesburg , South Africa, 62,567
+  - 97, Circuit Bugatti, 100,000, Le Mans , France, 100,000
+  - 97, TT Circuit Assen, 100,000, Assen , Netherlands, 100,000
+  - 97, Circuit Gilles Villeneuve, 100,000, Montreal , Quebec , Canada, 100,000
+  - 97, Hipódromo de San Isidro, 100,000, San Isidro , Argentina, 100,000
+  - 97, Hohe Warte Stadium, 100,000, Vienna , Austria, 4,600
+  - 97, Autódromo Hermanos Rodríguez, 100,000, Mexico City, Mexico, 100,000
+  - 97, Stade des Martyrs, 100,000, Kinshasa , DR Congo, 80,000
+  - 97, Goodwood Circuit, 100,000, Chichester , England, 100,000
+
+=== Table ID: 2-16799784-2 ===
+=== Table Title: List of geological features on Venus ===
+Columns: Name, Latitude, Longitude, Diameter (km), Year named
+  - Adrasthea Tesserae, 30.0N, 55.0E, 750.0, 1997
+  - Ananke Tessera, 53.3N, 137.0E, 1,060.0, 1985
+  - Athena Tessera, 35.0N, 175.0E, 1,800.0, 1997
+  - Atropos Tessera, 71.5N, 304.0E, 469.0, 1985
+  - Bathkol Tessera, 61.0N, 200.0E, 1,485.0, 1997
+  - Chimon-mana Tessera, 3.0S, 270.0E, 1,500.0, 1997
+  - Clidna Tessera, 42.0S, 29.0E, 500.0, 1997
+  - Clotho Tessera, 56.4N, 334.9E, 289.0, 1985
+  - Cocomama Tessera, 62.0S, 23.0E, 1,600.0, 1997
+  - Dekla Tessera, 57.4N, 71.8E, 1,363.0, 1985
+  - Dolya Tessera, 8.0S, 296.0E, 1,100.0, 1997
+  - Dou-Mu Tesserae, 60.0S, 244.0E, 400.0, 1997
+  - Fortuna Tessera, 69.9N, 45.1E, 2,801.0, 1985
+  - Gbadu Tessera, 1.0S, 38.0E, 700.0, 1997
+  - Gegute Tessera, 17.0N, 121.0E, 1,600.0, 1997
+  - Giltine Tesserae, 39.0S, 250.0E, 300.0, 1997
+  - Haasttse-baad Tessera, 6.0N, 127.0E, 2,600.0, 1997
+  - Hikuleo Tesserae, 42.0S, 54.0E, 1,400.0, 1997
+  - Humai Tessera, 53.0S, 250.0E, 350.0, 1997
+  - Husbishag Tesserae, 28.0S, 101.0E, 1,100.0, 1997
+  - Itzpapalotl Tessera, 75.7N, 317.6E, 380.0, 1985
+  - Kruchina Tesserae, 36.0N, 27.0E, 1,000.0, 1997
+  - Kutue Tessera, 39.5N, 108.8E, 653.0, 1985
+  - Lachesis Tessera, 44.4N, 300.1E, 664.0, 1985
+  - Lahevhev Tesserae, 29.0N, 189.0E, 1,300.0, 1997
+  - Laima Tessera, 55.0N, 48.5E, 971.0, 1985
+  - Lhamo Tessera, 51.0S, 15.0E, 800.0, 1997
+  - Likho Tesserae, 40.0N, 134.0E, 1,200.0, 1997
+  - Mafdet Tessera, 9.2N, 38.5E, 370.0, 2003
+  - Mago-Halmi Tesserae, 70.0N, 157.0E, 400.0, 1997
+  - Magu Tessera, 52.0S, 305.0E, 300.0, 1997
+  - Mamitu Tesserae, 22.0N, 44.0E, 900.0, 1997
+  - Manatum Tessera, 4.0S, 64.0E, 3,800.0, 1997
+  - Manzan-Gurme Tesserae, 39.0N, 359.5E, 1,354.0, 1985
+  - Meni Tessera, 48.1N, 77.9E, 454.0, 1985
+  - Meskhent Tessera, 65.8N, 103.1E, 1,056.0, 1985
+  - Minu-Anni Tessera, 20.0S, 30.0E, 1,300.0, 1997
+  - Moira Tessera, 58.7N, 310.5E, 361.0, 1985
+  - Nedolya Tesserae, 5.0N, 294.0E, 1,200.0, 1997
+  - Nemesis Tesserae, 40.0N, 181.0E, 355.0, 1985
+  - Norna Tesserae, 50.0S, 263.0E, 700.0, 1997
+  - Nortia Tesserae, 49.0S, 160.0E, 650.0, 1997
+  - Nuahine Tessera, 9.0S, 157.0E, 1,000.0, 1997
+  - Oddibjord Tessera, 82.0N, 85.0E, 900.0, 1997
+  - Pasom-mana Tesserae, 33.0S, 49.0E, 1,200.0, 1997
+  - Salus Tessera, 1.5S, 48.5E, 850.0, 1997
+  - Senectus Tesserae, 50.0N, 292.0E, 1,400.0, 1997
+  - Shait Tessera, 54.0S, 173.5E, 220.0, 1997
+  - Shimti Tessera, 31.9N, 97.7E, 1,275.0, 1985
+  - Snotra Tesserae, 24.0N, 134.0E, 1,000.0, 1997
+  - Sopdet Tesserae, 45.0S, 243.0E, 500.0, 1997
+  - Sudenitsa Tesserae, 33.0N, 270.0E, 4,200.0, 1997
+  - Sudice Tessera, 37.0S, 112.0E, 500.0, 1997
+  - Tellus Tessera, 42.6N, 76.8E, 2,329.0, 1982
+  - Tushita Tesserae, 42.0S, 54.0E, 1,400.0, 2000
+  - Tyche Tessera, 44.0S, 14.5E, 575.0, 1997
+  - Urd Tessera, 40.0S, 174.5E, 250.0, 1997
+  - Ustrecha Tesserae, 43.0S, 265.0E, 450.0, 1997
+  - Vako-nana Tesserae, 27.0N, 40.0E, 1,200.0, 1997
+  - Verpeja Tesserae, 58.0S, 160.0E, 600.0, 1997
+  - Virilis Tesserae, 56.1N, 239.7E, 782.0, 1985
+  - Xi Wang-mu Tessera, 30.0S, 62.0E, 1,300.0, 1997
+  - Yuki-Onne Tessera, 39.0N, 261.0E, 1,200.0, 1997
+  - Zirka Tessera, 33.0N, 300.0E, 450.0, 1997
+
+=== Table ID: 2-16801125-2 ===
+=== Table Title: Yugoslavian motorcycle Grand Prix ===
+Columns: Year, Track, 50 cc, 125 cc, Report
+  - 1983, Rijeka, Stefan Dörflinger, Bruno Kneubühler, Report
+  - 1982, Rijeka, Eugenio Lazzarini, Eugenio Lazzarini, Report
+  - 1981, Rijeka, Ricardo Tormo, Loris Reggiani, Report
+  - 1980, Rijeka, Ricardo Tormo, Guy Bertin, Report
+  - 1979, Rijeka, Eugenio Lazzarini, Angel Nieto, Report
+  - 1978, Rijeka, Ricardo Tormo, Angel Nieto, Report
+  - 1977, Opatija, Angel Nieto, Pier Paolo Bianchi, Report
+  - 1976, Opatija, Ulrich Graf, Pier Paolo Bianchi, Report
+  - 1975, Opatija, Angel Nieto, Dieter Braun, Report
+  - 1974, Opatija, Henk van Kessel, Kent Andersson, Report
+  - 1973, Opatija, Jan de Vries, Kent Andersson, Report
+  - 1972, Opatija, Jan Bruins, Kent Andersson, Report
+  - 1970, Opatija, Angel Nieto, Dieter Braun, Report
+  - 1969, Opatija, Paul Lodewijkx, Dieter Braun, Report
+
+=== Table ID: 2-16802194-1 ===
+=== Table Title: List of records in the National Youth Competition (rugby league) ===
+Columns: Margin, Score, Winning Team, Losing Team, Venue, Date
+  - 78, 78-0, Penrith Panthers, Gold Coast Titans, CUA Stadium, 25 August 2012 (Round 25)
+  - 68, 78-10, Cronulla Sharks, Manly Sea Eagles, Toyota Park, 19 March 2012 (Round 3)
+  - 62, 62-0, Brisbane Broncos, Manly Sea Eagles, Suncorp Stadium, 4 September 2011 (Round 25)
+  - 56, 62-6, New Zealand Warriors, South Sydney Rabbitohs, Mount Smart Stadium, 22 May 2011 (Round 11)
+  - 52, 62-10, Melbourne Storm, Newcastle Knights, Energy Australia Stadium, 20 March 2010 (Round 2)
+  - 52, 56-4, Newcastle Knights, Cronulla Sharks, Toyota Park, 19 July 2008 (round 19)
+  - 52, 52-0, Canterbury-Bankstown Bulldogs, Manly Sea Eagles, Brookvale Oval, 21 August 2011 (round 24)
+
+=== Table ID: 2-16802194-2 ===
+=== Table Title: List of records in the National Youth Competition (rugby league) ===
+Columns: Total, Score, Winning Team, Losing Team, Venue, Date
+  - 96, 64-32, Penrith Panthers, Newcastle Knights, CUA Stadium, 5 June 2010 (Round 13)
+  - 88, 78-10, Cronulla Sharks, Manly Sea Eagles, Toyota Park, 19 March 2012 (Round 23)
+  - 88, 56-32, Tigers, Sydney Roosters, Sydney Football Stadium, 9 August 2009 (round 22)
+  - 88, 52-36, Bulldogs, Canberra Raiders, Canberra Stadium, 26 April 2009 (round 7)
+  - 82, 56-26, Bulldogs, Sydney Roosters, Sydney Football Stadium, 27 June 2008 (round 16)
+  - 81, 43-38, New Zealand Warriors, Bulldogs, ANZ Stadium, 19 July 2008 (round 19)
+  - 80, 56-24, Gold Coast Titans, Sydney Roosters, Sydney Football Stadium, 11 July 2008 (round 18)
+
+=== Table ID: 2-16806986-4 ===
+=== Table Title: Beat the Star ===
+Columns: Country, Title, Network, Games, Date aired
+  - Australia, Beat the Star, Seven Network, Unknown, 7 September 2010
+  - Bulgaria, Разбий Иван и Андрей Razbi Ivan i Andrei, Nova Television, Unknown, 26 September 2011
+  - Croatia, Pobijedi Šolu, RTL Televizija, 15, 20 February 2009
+  - France, Qui peut battre Benjamin Castaldi?, TF1, 13, 29 November 2008
+  - Germany, Schlag den Raab, ProSieben, 15, 23 September 2006
+  - Georgia, დაამარცხე ვარსკვლავი Daamartskhe Varskvlavi, Rustavi 2, Unknown, 14 June 2010
+  - Norway, Hvem kan slå Ylvis Hvem kan slå Aamodt & Kjus, TV Norge, Unknown, 2009, 2010
+  - Serbia, Izađi na crtu, Prva, Unknown, 25 September 2011
+  - Sweden, Vem kan slå Filip och Fredrik?, Kanal 5, 15, 9 September 2008
+  - The Netherlands, Beat De Mol, Veronica TV, Unknown, Unknown
+
+=== Table ID: 2-16808224-1 ===
+=== Table Title: 2008–09 Eredivisie ===
+Columns: Club, Location, Manager, Kit maker, Shirt sponsor
+  - ADO Den Haag, The Hague, Raymond Atteveld, Hummel, Fit For Free
+  - Ajax, Amsterdam, John van 't Schip, Adidas, Aegon
+  - AZ, Alkmaar, Louis van Gaal, Canterbury of New Zealand, DSB Bank
+  - Feyenoord, Rotterdam, Leon Vlemmings, Kappa, Fortis
+  - De Graafschap, Doetinchem, Darije Kalezić, kwd, Centric
+  - FC Groningen, Groningen, Ron Jans, Klupp, Noord Lease
+  - SC Heerenveen, Heerenveen, Trond Sollied, Jako, Univé
+  - Heracles Almelo, Almelo, Gert Heerkes, Jako, Koninklijke Ten Cate
+  - NAC Breda, Breda, Robert Maaskant, Klupp, Sunweb
+  - N.E.C., Nijmegen, Mario Been, Nike, Curaçao
+  - PSV, Eindhoven, Dwight Lodeweges, Nike, Philips
+  - Roda JC, Kerkrade, / Harm van Veldhoven, Diadora, Aevitae
+  - Sparta Rotterdam, Rotterdam, Foeke Booy, Patrick, Graydon
+  - FC Twente, Enschede, Steve McClaren, Diadora, Arke
+  - FC Utrecht, Utrecht, Ton du Chatinier, Puma, Phanos
+  - Vitesse, Arnhem, Theo Bos, Legea, AFAB
+  - FC Volendam, Volendam, Frans Adelaar, Jako, Café Bar
+  - Willem II, Tilburg, Alfons Groenendijk, Masita, Destil
+
+=== Table ID: 2-1680926-1 ===
+=== Table Title: List of LGBT sportspeople ===
+Columns: Name, Lifetime, Nationality, Sport, Notes
+  - Graham Ackerman, b. 1983, American, Gymnastics, G
+  - Nicola Adams, b. 1982, English, Boxing, B
+  - Marilyn Agliotti, b. 1979, Dutch, Field hockey, L
+  - Jenny Allard, b. ?, American, Softball, L
+  - Kye Allums, b. 1989, American, Basketball, T
+  - John Amaechi, b. 1970, English, Basketball, G
+  - Eric Anderson, b. 1968, American, Coach, G
+  - Nadine Angerer, b. 1978, German, Football, B
+  - Alyson Annan, b. 1973, Australian, Field hockey, L
+  - Judith Arndt, b. 1976, German, Cycling, L
+  - Mianne Bagger, b. 1966, Danish, Golf, T
+  - Clare Balding, b. 1971, English, Jockey, L
+  - Jim Barnett, 1924–2004, American, Wrestling, G
+  - Betty Baxter, b. 1952, Canadian, Volleyball, L
+  - Billy Bean, b. 1964, American, Baseball, G
+  - Shelley Beattie, 1967–2008, American, Bodybuilding, L
+  - Kajsa Bergqvist, b.1976, Swedish, Track and field, B
+  - Thomas Berling, b. 1979, Norwegian, Football, G
+  - Mark Bingham, 1970–2001, American, Rugby, G
+  - John Blankenstein, 1949–2006, Dutch, Football, G
+  - Sabine Braun, b. 1965, German, Track and field, L
+  - Belle Brockhoff, b. 1993, Australian, Snowboard, L
+  - Steve Buckley, b. 1956, American, Journalist, G
+  - Anastasia Bucsis, b. 1989, Canadian, Speed Skating, L
+  - Brendan Burke, 1988–2010, American, Ice hockey, G
+  - Glenn Burke, 1952–1995, American, Baseball, G
+  - Balian Buschbaum, b. 1980, German, Track and field, T
+  - Ivan Bussens, 1960–2007, English, Water polo, G
+  - Jeffrey Buttle, b. 1982, Canadian, Figure skating, G
+  - Latasha Byears, b. 1973, American, Basketball, L
+  - J. P. Calderon, b. 1975, American, Volleyball, G
+  - Liz Carmouche, b. 1984, American, Mixed martial arts, L
+  - Betty Carstairs, 1900–1993, English, Power boat racing, L
+  - Parinya Charoenphol, b. 1981, Thai, Boxing, T
+  - Jason Collins, b. 1978, American, Basketball, G
+  - Natalie Cook, b. 1975, Australian, Beach volleyball, L
+  - Roberta Cowell, b. 1918, British, Motor Racing, T
+  - Gottfried von Cramm, 1909–1976, German, Tennis, B
+  - Toller Cranston, b. 1949, Canadian, Figure skating, B
+  - Orlando Cruz, b. 1981, Puerto-Rican, Boxing, G
+  - John Curry, 1949–1994, English, Figure skating, G
+  - Donal Óg Cusack, b. 1977, Irish, Hurling, G
+  - Steven Davies, b. 1986, English, Cricket, G
+  - Wade Davis, b. 1977, American, American football, G
+  - Carlien Dirkse van den Heuvel, b. 1987, Dutch, Field hockey, L
+  - Michael Dos Santos, b. 1983, Brazilian, Volleyball, G
+  - Robert Dover, b. 1956, American, Equestrian, G
+  - Nancy Drolet, b. 1973, Canadian, Hockey, L
+  - Michelle Duff, b. 1939, Canadian, Motorcycle racing, T
+  - Michelle Dumaresq, b. ?, Canadian, Mountain biking, T
+  - Imke Duplitzer, b. 1975, German, Fencing, L
+  - Justin Fashanu, 1961–1998, English, Football, G
+  - Freda du Faur, 1882–1935, Australian, Mountaineering, L
+  - Gigi Fernández, b. 1964, Puerto-Rican, Tennis, L
+  - Amini Fonua, b. 1989, Tongan/New Zealand, Swimming, G
+  - Fallon Fox, b. 1975/76, American, Mixed martial arts, T
+  - Edward Gal, b. 1970, Dutch, Equestrian, G
+  - Rudy Galindo, b. 1969, American, Figure skating, G
+  - Vicky Galindo, b. 1983, American, Softball, B
+  - Ed Gallagher, 1958–2005, American, American football, G
+  - Melanie Garside-Wight, b. 1979, English, Football, L
+  - Terry Garvin, ?-1998, Canadian, Wrestling, G
+  - Jane Geddes, b. 1960, American, Golf, L
+  - Alan Gendreau, b. 1989, American, American football, G
+  - Jessie Godderz, b. 1980, American, Bodybuilding, G
+  - Bobby Goldsmith, 1946–1983, Australian, Swimming, G
+  - Andrew Goldstein, b. 1983, American, Lacrosse, G
+  - LZ Granderson, b. ?, American, Journalist, G
+  - Brittney Griner, b. 1990, American, Basketball, L
+  - Emile Griffith, b. 1938, American, Boxing, B
+  - Joan Guetschow, b. 1966, American, Biathlon, L
+  - Peter Häggström, b. 1976, Swedish, Track and field, G
+  - Matthew Hall, b. 1970, Canadian, Figure skating, G
+  - Gro Hammerseng, b. 1980, Norwegian, Handball, L
+  - Kyle Hawkins, b. 1970, American, Lacrosse, G
+  - Kwame Harris, b. 1982, American, American football, G
+  - Bruce Hayes, b. 1963, American, Swimming, G
+  - Sandra Haynie, b. 1943, American, Golf, L
+  - Mathew Helm, b. 1980, Australian, Diving, G
+  - Isabell Herlovsen, b. 1988, Norwegian, Football, L
+  - Edel Therese Høiseth, b. 1966, Norwegian, Speed skating, L
+  - Ursula Holl, b. 1982, German, Football, L
+  - Erika Holst, b. 1979, Swedish, Ice hockey, L
+  - Mia Hundvin, b. 1977, Norwegian, Handball, B
+  - Anton Hysén, b. 1990, Swedish, Football, G
+  - Helen Jacobs, 1908–1997, American, Tennis, L
+  - Angela James, b. 1964, Canadian, Hockey, L
+  - Patrick Jeffrey, b. 1965, American, Diving, G
+  - Dorte Dalum Jensen, b. 1978, Danish, Football, L
+  - Barbara Jezeršek, b. 1986, Slovenian, Cross-country skiing, L
+  - Gus Johnston, b. 1979, Australian, Field hockey, G
+  - Rosie Jones, b. 1959, American, Golf, L
+  - Steffi Jones, b. 1972, American-German, Football, L
+  - Orlando Jordan, b. 1974, American, Wrestling, B
+  - Natasha Kai, b. 1983, American, Football, L
+  - Chris Kanyon, 1970–2010, American, Wrestling, G
+  - Dane The Fame, b.?, Latin American / Puertorican, Wrestling, G
+  - Peter Karlsson, 1966–1995, Swedish, Ice hockey, G
+  - Johan Kenkhuis, b. 1980, Dutch, Swimming, G
+  - Sanne van Kerkhof, b. 1987, Dutch, Short track speed skating, L
+  - Billie Jean King, b. 1943, American, Tennis, L
+  - Ilana Kloss, b. 1956, American, Tennis, L
+  - Dominik Koll, b. 1984, Austrian, Swimming, G
+  - David Kopay, b. 1942, American, American football, G
+  - Daniel Kowalski, b. 1975, Australian, Swimming, G
+  - Andreas Krieger, b. 1966, German, Track and field, T
+  - Kim Lammers, b. 1981, Dutch, Field hockey, L
+  - Jessica Landström, b. 1984, Swedish, Football, L
+  - Lauren Lappin, b. 1984, American, Softball, L
+  - Mark Leduc, 1962–2009, Canadian, Boxing, G
+  - Hedvig Lindahl, b. 1983, Swedish, Football, L
+  - Ylva Lindberg, b. 1976, Swedish, Ice hockey, L
+  - Lori Lindsey, b. 1980, American, Football, L
+  - Greg Louganis, b. 1960, American, Diving, G
+  - Hana Mandlíková, b. 1962, Czech, Tennis, L
+  - Christy Martin, b. 1968, American, Boxing, L
+  - Amélie Mauresmo, b. 1979, French, Tennis, L
+  - Robert McCall, 1958–1991, Canadian, Figure skating, G
+  - Ray McDonald, 1944–1993, American, American football, G
+  - Lindsy McLean, b. ?, American, American football, G
+  - Linda Medalen, b. 1965, Norwegian, Football, L
+  - Harriet Metcalf, b. 1958, American, Rowing, L
+  - Hans Peter Minderhoud, b. 1973, Dutch, Equestrian, G
+  - Matthew Mitcham, b. 1988, Australian, Diving, G
+  - Chris Morgan, b. 1973, English, Powerlifting, G
+  - Jim Morris, b. 1935, American, Bodybuilding, G
+  - Martina Navratilova, b. 1956, Czech-American, Tennis, L
+  - Ondrej Nepela, 1951–1989, Slovakian, Figure skating, G
+  - Robert Newton, b. 1981, English, Track and field, G
+  - Bente Nordby, b. 1974, Norwegian, Football, L
+  - Scott Norton, b. 1982, American, Bowling, G
+  - Diana Nyad, b. 1949, American, Swimming, L
+  - Katja Nyberg, b. 1979, Swedish, Handball, L
+  - Graeme Obree, b. 1965, Scottish, Cycling, G
+  - Ryan O'Meara, b. 1984, American, Ice dancing, G
+  - Brian Orser, b. 1961, Canadian, Figure skating, G
+  - Nigel Owens, b. 1971, Welsh, Rugby, G
+  - Dave Pallone, b. 1951, American, Baseball, G
+  - Bob Paris, b. 1959, American, Bodybuilding, G
+  - Sandy Parker, b. 1952, Canadian, Wrestling, L
+  - Lily Parr, 1905–1978, English, Football, L
+  - Anja Pärson, b. 1981, Swedish, Downhill Skiing, L
+  - Pat Patterson, b. 1941, Canadian, Wrestling, G
+  - Maartje Paumen, b. 1985, Dutch, Field hockey, L
+  - Lee Pearson, b. 1974, English, Equestrian, G
+  - Otto Peltzer, 1900–1970, German, Track and field, G
+  - Mike Penner, 1957–2009, American, Journalist, T
+  - Beate Peters, b. 1959, German, Track and field, L
+  - David Pichler, b. 1968, American, Diving, G
+  - Aslie Pitter, b. 1960, English, Football, G
+  - Brian Pockar, 1959–1992, Canadian, Figure skating, G
+  - Hope Powell, b. 1966, English, Football, L
+  - Megan Rapinoe, b. 1985, American, Football, L
+  - Lisa Raymond, b. 1973, American, Tennis, L
+  - Stephen Rhodes, b. 1984, American, Race driving, G
+  - Renée Richards, b. 1934, American, Tennis, T
+  - Ian Roberts, b. 1965, Australian, Rugby league, G
+  - Ronald Robertson, 1937–2000, American, Figure skating, G
+  - Petra Rossner, b. 1966, German, Cycling, L
+  - Olivier Rouyer, b. 1955, French, Football, G
+  - Robbie Rogers, b. 1987, American, Football, G
+  - Matthew Rush, b. 1972, American, Bodybuilding, G
+  - Jaiyah Saelua, b. 1988, Samoan, Football, T
+  - Victoria Sandell Svensson, b. 1977, Swedish, Football, L
+  - Erik Schinegger, b. 1948, Austrian, Downhill Skiing, T
+  - Patty Sheehan, b. 1956, American, Golf, L
+  - Will Sheridan, b. 1985, American, Basketball, G
+  - Eudy Simelane, 1977–2008, South African, Football, L
+  - Roy Simmons, b. 1956, American, American football, G
+  - Brian Sims, b. 1978, American, American football, G
+  - Blake Skjellerup, b. 1985, New Zealander, Short track speed skating, G
+  - Vibeke Skofterud, b. 1980, Norwegian, Cross country skiing, B
+  - Jerry Smith, 1943–1986, American, American football, B
+  - Judy Sowinski, 1940–2011, American, Roller derby, L
+  - Muffin Spencer-Devlin, b. 1953, American, Golf, L
+  - Helen Stephens, 1918 - 1994, American, Track and field, L
+  - Rennae Stubbs, b. 1971, Australian, Tennis, L
+  - Pia Sundhage, b. 1960, Swedish, Football, L
+  - Sheryl Swoopes, b. 1971, American, Basketball, B
+  - Stacy Sykora, b. 1977, American, Volleyball, L
+  - Blyth Tait, b. 1961, New Zealander, Equestrian, G
+  - David Testo, b. 1981, American, Football, G
+  - Ina-Yoko Teutenberg, b. 1974, German, Cyclist, L
+  - Mark Tewksbury, b. 1968, Canadian, Swimming, G
+  - Carole Thate, b. 1971, Dutch, Field hockey, L
+  - Gareth Thomas, b. 1974, Welsh, Rugby, G
+  - Bill Tilden, 1893–1953, American, Tennis, G
+  - Ted Tinling, 1910–1990, English, Tennis, G
+  - Esera Tuaolo, b. 1968, American, American football, G
+  - Marcus Urban, b. 1971, German, Football, G
+  - Sarah Vaillancourt, b. 1985, Canadian, Ice hockey, L
+  - Michele Van Gorp, b. 1977, American, Basketball, L
+  - Dan Veatch, b. 1965, American, Swimming, G
+  - Mike Verschuur, b. 1987, Dutch, Automobile racing, G
+  - Lisa-Marie Vizaniari, b. 1971, Australian, Track and field; Boxing, L
+  - Tom Waddell, 1937–1987, American, Decathlon; Creator of the Gay Games ., G
+  - Louisa Wall, b. 1972, New Zealander, Rugby, L
+  - Ji Wallace, b. 1977, Australian, Gymnastics, G
+  - Sarah Walsh, b. 1983, Australian, Football, L
+  - Jeffrey Wammes, b. 1987, Dutch, Gymnastics, G
+  - Ann Wauters, b. 1980, Belgian, Basketball, L
+  - Johnny Weir, b. 1984, American, Figure skating, G
+  - Rick Welts, b. 1953, American, Basketball executive, G
+  - Peter Wherrett, 1936–2009, Australian, Automobile racing, T
+  - Diane Whipple, 1968–2001, American, Lacrosse, L
+  - Sue Wicks, b. 1966, American, Basketball, L
+  - Marieke Wijsman, b. 1975, Dutch, Speed skating, L
+  - David Wilson, b. ?, Canadian, Figure skating, G
+  - Chris Witty, b. 1975, American, Speed Skating, L
+  - Andrea Worrall, b. 1977, Welsh, Football, L
+  - Ireen Wüst, b. 1986, Dutch, Speed skating, B
+  - Alissa Wykes, b. ?, American, American football, L
+  - Darren Young, b. 1983, American, Wrestling, G
+  - Cyd Zeigler, Jr., b. 1973, American, Journalist, G
+  - Sharnee Zoll-Norman, b. 1986, American, Basketball, L
+
+=== Table ID: 2-1681535-1 ===
+=== Table Title: List of Doctor Who audio releases ===
+Columns: Story #, Title, Doctor, Narrator, Format, release date
+  - 016, The Daleks, 1 First Doctor, Graham, David David Graham, 7", 1966-04-01 April 1966
+  - 078, Genesis of the Daleks, 4 Fourth Doctor, Baker, Tom Tom Baker, LP, 1979-10-01 October 1979
+  - 034, The Macra Terror, 2 Second Doctor, Baker, Colin Colin Baker, 2- Cassette, 1992-07-06 6 July 1992
+  - 036, The Evil of the Daleks, 2 Second Doctor, Baker, Tom Tom Baker, 2-Cassette, 1992-07-06 6 July 1992
+  - 037, The Tomb of the Cybermen, 2 Second Doctor, Pertwee, Jon Jon Pertwee, 2-cassette, 1993-07-07 7 June 1993
+  - 030, The Power of the Daleks, 2 Second Doctor, Baker, Tom Tom Baker, 2-cassette, 1993-08-02 2 August 1993
+  - 042, Fury from the Deep, 2 Second Doctor, Baker, Tom Tom Baker, 2-cassette, 1993-10-04 4 October 1993
+  - 022, The Massacre of St Bartholomew's Eve, 1 First Doctor, Purves, Peter Peter Purves, 2-cassette 2-CD, 1999-08-02 2 August 1999
+  - 041, The Web of Fear, 2 Second Doctor, Hines, Frazer Frazer Hines, 3-CD, 2000-03-06 6 March 2000
+  - 018, Galaxy 4, 1 First Doctor, Purves, Peter Peter Purves, 2-CD, 2000-06-05 5 June 2000
+  - 031, The Highlanders, 2 Second Doctor, Hines, Frazer Frazer Hines, 2-CD, 2000-08-07 7 August 2000
+  - 034, The Macra Terror, 2 Second Doctor, Baker, Colin Colin Baker, 2-CD, 2000-08-07 7 August 2000
+  - 020, The Myth Makers, 1 First Doctor, Purves, Peter Peter Purves, 2-CD, 2001-01-08 8 January 2001
+  - 033, The Moonbase, 2 Second Doctor, Hines, Frazer Frazer Hines, 2-CD, 2001-04-02 2 April 2001
+  - 024, The Celestial Toymaker, 1 First Doctor, Purves, Peter Peter Purves, 2-CD, 2001-04-02 2 April 2001
+  - 038, The Abominable Snowmen, 2 Second Doctor, Hines, Frazer Frazer Hines, 2-CD, 2001-07-02 2 July 2001
+  - 019 021, The Daleks' Master Plan, 1 First Doctor, Purves, Peter Peter Purves, 5-CD, 2001-10-22 22 October 2001
+  - 035, The Faceless Ones, 2 Second Doctor, Hines, Frazer Frazer Hines, 2-CD, 2002-02-04 4 February 2002
+  - 028, The Smugglers, 1 First Doctor, Wills, Anneke Anneke Wills, 2-CD, 2002-05-06 6 May 2002
+  - 040, The Enemy of the World, 2 Second Doctor, Hines, Frazer Frazer Hines, 2-CD, 2002-08-05 5 August 2002
+  - 026, The Savages, 1 First Doctor, Purves, Peter Peter Purves, 2-CD, 2002-11-11 11 November 2002
+  - 049, The Space Pirates, 2 Second Doctor, Hines, Frazer Frazer Hines, 2-CD, 2003-02-03 3 February 2003
+  - 004, Marco Polo, 1 First Doctor, Russell, William William Russell, 3-CD, 2003-11-03 3 November 2003
+  - 030, The Power of the Daleks, 2 Second Doctor, Wills, Anneke Anneke Wills, 2-CD, 2003-11-03 3 November 2003
+  - 036, The Evil of the Daleks, 2 Second Doctor, Hines, Frazer Frazer Hines, 3-CD, 2003-11-03 3 November 2003
+  - 042, Fury from the Deep, 2 Second Doctor, Hines, Frazer Frazer Hines, 2-CD, 2004-02-02 2 February 2004
+  - 043, The Wheel in Space, 2 Second Doctor, Padbury, Wendy Wendy Padbury, 2-CD, 2004-05-03 3 May 2004
+  - 029, The Tenth Planet, 1 First Doctor, Wills, Anneke Anneke Wills, 2-CD, 2004-11-01 1 November 2004
+  - 046, The Invasion, 2 Second Doctor, Hines, Frazer Frazer Hines, 3-CD, 2004-11-01 1 November 2004
+  - 032, The Underwater Menace, 2 Second Doctor, Wills, Anneke Anneke Wills, 2-CD, 2005-02-07 7 February 2005
+  - 014, The Crusade, 1 First Doctor, Russell, William William Russell, 2-CD, 2005-05-02 2 May 2005
+  - 039, The Ice Warriors, 2 Second Doctor, Hines, Frazer Frazer Hines, 2-CD, 2005-08-01 1 August 2005
+  - 008, The Reign of Terror, 1 First Doctor, Ford, Carole Ann Carole Ann Ford, 2-CD, 2006-02-06 6 February 2006
+  - 037, The Tomb of the Cybermen, 2 Second Doctor, Hines, Frazer Frazer Hines, 2-CD, 2006-05-01 1 May 2006
+  - 023, The Ark, 1 First Doctor, Purves, Peter Peter Purves, 2-CD, 2006-08-07 7 August 2006
+  - 052, Doctor Who and the Silurians, 3 Third Doctor, John, Caroline Caroline John, 3-CD, 2006-11-06 6 November 2006
+  - 062, The Sea Devils, 3 Third Doctor, Manning, Katy Katy Manning, 2-CD, 2006-11-06 6 November 2006
+  - 130, Warriors of the Deep, 5 Fifth Doctor, Fielding, Janet Janet Fielding, 2-CD, 2006-11-06 6 November 2006
+  - 025, The Gunfighters, 1 First Doctor, Purves, Peter Peter Purves, 2-CD, 2007-02-05 5 February 2007
+  - 044, The Dominators, 2 Second Doctor, Padbury, Wendy Wendy Padbury, 2-CD, 2007-05-07 7 May 2007
+  - 027, The War Machines, 1 First Doctor, Wills, Anneke Anneke Wills, 2-CD, 2007-08-06 6 August 2007
+  - 061, The Curse of Peladon, 3 Third Doctor, Manning, Katy Katy Manning, 2-CD, 2007-11-05 5 November 2007
+  - 073, The Monster of Peladon, 3 Third Doctor, Sladen, Elisabeth Elisabeth Sladen, 2-CD, 2008-03-03 3 March 2008
+  - 012, The Romans, 1 First Doctor, Russell, William William Russell, 2-CD, 2008-05-22 22 May 2008
+  - 007, The Sensorites, 1 First Doctor, Russell, William William Russell, 2-CD, 2008-07-10 10 July 2008
+  - 047, The Krotons, 2 Second Doctor, Hines, Frazer Frazer Hines, 2-CD, 2008-11-13 13 November 2008
+  - 056, The Mind of Evil, 3 Third Doctor, Franklin, Richard Richard Franklin, 2-CD, 2009-02-12 12 February 2009
+  - 015, The Space Museum, 1 First Doctor, O'Brien, Maureen Maureen O'Brien, 2-CD, 2009-05-07 7 May 2009
+  - 053, The Ambassadors of Death, 3 Third Doctor, John, Caroline Caroline John, 3-CD, 2009-08-06 6 August 2009
+  - 019, " Mission to the Unknown ", 1 First Doctor, Purves, Peter Peter Purves, CD, 2010-01 2010
+  - 034, The Macra Terror, 2 Second Doctor, Wills, Anneke Anneke Wills, 2-CD, 2012-02-02 2 February 2012
+  - 092, Horror of Fang Rock, 4 Fourth Doctor, Jameson, Louise Louise Jameson, 2-CD, 2012-09-06 6 September 2012
+  - 099, The Pirate Planet, 4 Fourth Doctor, Leeson, John John Leeson, 2-CD, 2012-10-04 4 October 2012
+  - 104, Destiny of the Daleks, 4 Fourth Doctor, Ward, Lalla Lalla Ward, 2-CD, 2012-11-05 5 November 2012
+  - 105, City of Death, 4 Fourth Doctor, Ward, Lalla Lalla Ward, 2-CD, 2012-12-06 6 December 2012
+  - 013, The Web Planet, 1 First Doctor, TBA, CD, 2014-02-06 6 February 2014
+
+=== Table ID: 2-1681535-2 ===
+=== Table Title: List of Doctor Who audio releases ===
+Columns: Title, Writer, Doctor, Format, Company, release date
+  - Doctor Who and the Pescatons, Pemberton, Victor Victor Pemberton, 04 Fourth Doctor, LP Cassette, Decca, 1976-07-01 July 1976
+  - Slipback, Saward, Eric Eric Saward, 06 Sixth Doctor, Cassette, BBC Audio, 1988-11-07 7 November 1988
+  - The Paradise of Death, Letts, Barry Barry Letts, 03 Third Doctor, Cassette, BBC Audio, 1993-11-07 7 November 1993
+  - The Ghosts of N-Space, Letts, Barry Barry Letts, 03 Third Doctor, Cassette, BBC Audio, 1996-02-09 19 February 1996
+  - Exploration Earth, Venebles, Bernard Bernard Venables, 04 Fourth Doctor, CD, BBC Audio, 2001-07-02 2 July 2001
+  - Death Comes to Time, Meek, Colin Colin Meek, 07 Seventh Doctor, 3-CD, BBC Audio, 2002-10-28 28 October 2002
+  - Real Time, Russell, Gary Gary Russell, 06 Sixth Doctor, 2-CD, Big Finish, 2002-12-12 12 December 2002
+  - Shada, Adams, Douglas Douglas Adams, 08 Eighth Doctor, 2-CD, Big Finish, 2003-12-01 December 2003
+  - The Stuff of Nightmares, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2009-09-03 3 September 2009
+  - The Dead Shoes, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2009-10-08 8 October 2009
+  - The Circus Of Doom, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2009-11-05 11 November 2009
+  - A Sting in the Tale, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2009-12-03 2 December 2009
+  - Hive of Horror, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2009-12-03 2 December 2009
+  - The Relics of Time, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2010-09-02 2 September 2010
+  - The Demon of Paris, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2010-10-07 7 October 2010
+  - A Shard of Ice, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2010-11-04 4 November 2010
+  - Starfall, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2010-12-02 2 December 2010
+  - Sepulchre, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2010-12-02 2 December 2010
+  - Tsar Wars, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2011-09-08 8 September 2011
+  - The Broken Crown, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2011-10-06 6 October 2011
+  - Aladdin Time, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2011-11-03 3 November 2011
+  - The Hexford Invasion, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2011-12-01 December 2011
+  - Survivors in Space, Magrs, Paul Paul Magrs, 04 Fourth Doctor, CD, BBC Audio, 2011-12-01 December 2011
+
+=== Table ID: 2-16815824-1 ===
+=== Table Title: 2008–09 UCI Track Cycling World Cup Classics ===
+Columns: Rank, Team, Round1, Round2, Round3, Round4, Round5, Total Points
+  - 1, Germany, 92, 56, 62, 52, 74, 336
+  - 2, Netherlands, 41, 60, 17, 72, 99, 289
+  - 3, Great Britain, 133, 36, 15, 32, 57, 273
+  - 4, France, 24, 25, 65, 64, 71, 249
+  - 5, Spain, 49, 66, 78, 17, 31, 241
+  - 6, China, 41, 38, 23, 108, 31, 241
+  - 7, Team Toshiba, 12, 98, 38, 29, 35, 212
+  - 8, Russia, 45, 55, 51, 37, 11, 199
+  - 9, Ukraine, 51, 67, 22, 30, 24, 194
+  - 10, Cofidis, 25, 26, 51, 26, 44, 172
+
+=== Table ID: 2-16816376-1 ===
+=== Table Title: Algerian Super Cup ===
+Columns: Year, Winners, Score, Runners-up, Venue
+  - 1991, RC Kouba, 3 – 1, USM Alger, Stade 5 Juillet , Algiers
+  - 1992, JS Kabylie, 2 – 2 (pen: 4–2), MC Oran, Stade 5 Juillet , Algiers
+  - 1994, US Chaouia, 1 – 0, JS Kabylie, Stade 5 Juillet , Algiers
+  - 1995, CR Belouizdad, 1 – 0, JS Kabylie, Stade 5 Juillet , Algiers
+  - 2006, MC Alger, 2 – 1, JS Kabylie, Stade 5 Juillet , Algiers
+  - 2007, MC Alger, 4 – 0, ES Sétif, Stade 5 Juillet , Algiers
+  - 2013, ES Sétif, –, USM Alger, Stade Mohamed Hamlaoui , Constantine
+
+=== Table ID: 2-1682026-6 ===
+=== Table Title: Forbes Global 2000 ===
+Columns: Rank, Company, Headquarters, Industry, Sales (billion $), Profits (billion $), Assets (billion $), Market Value (billion $)
+  - 01, HSBC, UK, Banking, 146.1, 19.1, 2,349.0, 180.8
+  - 02, General Electric, USA, Conglomerate, 172.7, 22.2, 795.3, 330.9
+  - 03, Bank of America, USA, Banking, 119.2, 15.0, 1,715.8, 176.5
+  - 04, JPMorgan Chase, USA, Banking, 116.4, 15.4, 1,562.2, 136.9
+  - 05, ExxonMobil, USA, Oil and gas, 358.6, 40.6, 242.1, 465.5
+  - 06, Royal Dutch Shell, Netherlands, Oil and gas, 355.8, 31.3, 266.2, 221.1
+  - 07, BP, UK, Oil and gas, 281.0, 20.6, 236.1, 204.9
+  - 08, Toyota, Japan, Automotive, 203.8, 14.0, 276.4, 175.1
+  - 09, ING Group, Netherlands, Insurance / banking, 197.9, 12.7, 1,932.2, 75.8
+  - 10, Berkshire Hathaway, USA, Diversified Financials, 118.3, 13.2, 273.2, 216.7
+  - 10, The Royal Bank of Scotland, UK, Banking, 108.5, 14.6, 3,807.5, 76.6
+  - 12, AT&T Inc., USA, Telecommunications, 118.9, 12.0, 275.6, 210.2
+  - 13, BNP Paribas, France, Banking, 116.2, 10.7, 2,494.4, 81.9
+  - 14, Allianz, Germany, Insurance, 139.1, 10.9, 1,547.5, 80.3
+  - 15, Total S.A., France, Oil and gas, 199.7, 19.2, 165.8, 181.8
+  - 16, Walmart, USA, Retailing, 378.8, 12.7, 163.4, 198.6
+  - 17, Chevron, USA, Oil and gas, 204.0, 18.7, 148.8, 180.0
+  - 18, American International Group, USA, Insurance, 110.1, 6.2, 1,060.5, 118.2
+  - 19, Gazprom, Russia, Oil and gas, 81.8, 23.3, 201.7, 306.8
+  - 20, AXA, France, Insurance, 151.7, 7.8, 1,064.7, 70.3
+
+=== Table ID: 2-1682026-8 ===
+=== Table Title: Forbes Global 2000 ===
+Columns: Rank, Company, Headquarters, Industry, Sales (billion $), Profits (billion $), Assets (billion $), Market Value (billion $)
+  - 1., Citigroup, USA, Banking, 120.32, 24.64, 1,494.04, 230.93
+  - 2., General Electric, USA, Conglomerate, 149.70, 16.35, 673.30, 348.45
+  - 3., Bank of America, USA, Banking, 85.39, 16.47, 1,291.80, 184.17
+  - 4., American International Group, USA, Insurance, 106.98, 11.90, 843.40, 172.24
+  - 5., HSBC, UK, Banking, 76.38, 12.36, 1,274.22, 193.32
+  - 6., ExxonMobil, USA, Oil & Gas, 328.21, 36.13, 208.34, 362.53
+  - 7., Royal Dutch Shell, Netherlands, Oil & Gas, 306.73, 25.31, 216.95, 203.52
+  - 8., BP, UK, Oil & Gas, 249.47, 22.63, 206.91, 225.93
+  - 9., JPMorgan Chase, USA, Banking, 79.90, 8.48, 1,198.94, 144.13
+  - 10., UBS, Switzerland, Diversified Financials, 78.25, 10.65, 1,519.40, 105.69
+
+=== Table ID: 2-16823208-3 ===
+=== Table Title: Iraqi parliamentary election, 2010 ===
+Columns: Candidate, Party, Election List, Governorate, Votes
+  - Nouri al-Maliki, Islamic Da'awa Party, State of Law Coalition, Baghdad, 622,961
+  - Ayad Allawi, Iraqi National Accord, al-Iraqiyya, Baghdad, 407,537
+  - Usama al-Nujayfi, al-Hadba, al-Iraqiyya, Ninawa, 274,741
+  - Tariq al-Hashemi, Renewal List, al-Iraqiyya, Baghdad, 200,963
+  - Ibrahim al-Jaafari, National Reform Trend, National Iraqi Alliance, Baghdad, 101,053
+  - Nawshirwan Mustafa, Gorran Movement, Gorran List, Silemani, 93,196
+  - Rafi al-Issawi, National Future Gathering, al-Iraqiyya, al-Anbar, 83,145
+  - Baqir Jabr al-Zubeidi, Islamic Supreme Council of Iraq, National Iraqi Alliance, Baghdad, 68,822
+  - Khalid Shwani, Patriotic Union of Kurdistan, Kurdistani List, Kerkuk, 68,522
+  - Arshad al-Salihi, Iraqi Turkmen Front, al-Iraqiyya, Kerkuk, 59,732
+  - Ali Bapir, Islamic Group of Kurdistan, IGK List, Hewler, 50,116
+
+=== Table ID: 2-168274-1 ===
+=== Table Title: CAC 40 ===
+Columns: Company, ICB Sector, Ticker symbol, Index weighting (%) at 17 January 2013, Market cap. at April 2013 (€)
+  - Accor, hotels, AC, 0.65, 6.02
+  - Air Liquide, commodity chemicals, AI, 4.08, 29.49
+  - Alstom, industrial machinery, ALO, 0.96, 9.40
+  - ArcelorMittal, steel, MT, 1.69, 15.4
+  - AXA, full line insurance, CS, 3.40, 31.45
+  - BNP Paribas, banks, BNP, 6.24, 48.78
+  - Bouygues, heavy construction, EN, 0.60, 6.57
+  - Capgemini, computer services, CAP, 0.70, 5.56
+  - Carrefour, food retailers and wholesalers, CA, 1.54, 14.67
+  - Crédit Agricole, banks, ACA, 1.02, 15.65
+  - EADS, aerospace, EAD, 1.89, 31.82
+  - EDF, electricity, EDF, 0.57, 28.78
+  - Essilor, medical supplies, EI, 2.05, 17.74
+  - Gemalto, cyber security, GTO, 0.76, 5.86
+  - GDF Suez, gas distribution, GSZ, 2.84, 37.22
+  - Groupe Danone, food products, BN, 4.07, 34.37
+  - L'Oréal, personal products, OR, 3.65, 73.48
+  - Lafarge, building materials and fixtures, LG, 1.25, 13.83
+  - Legrand, electrical components and equipment, LR, 1.14, 8.74
+  - LVMH, clothing and accessories, MC, 5.02, 65.95
+  - Michelin, tires, ML, 1.85, 11.56
+  - Orange, telecommunications, ORA, 2.27, 20.44
+  - Pernod Ricard, distillers and vintners, RI, 2.52, 25.04
+  - PPR, broadline retailers, PP, 1.64, 20.85
+  - Publicis, media agencies, PUB, 1.19, 11.15
+  - Renault, automobiles, RNO, 1.10, 14.67
+  - Safran, aerospace and defence, SAF, 1.08, 14.37
+  - Saint-Gobain, building materials and fixtures, SGO, 1.78, 14.57
+  - Sanofi, pharmaceuticals, SAN, 12.19, 102.87
+  - Schneider Electric, electrical components and equipment, SU, 4.04, 33.14
+  - Société Générale, banks, GLE, 3.04, 19.82
+  - Solvay, chemicals, SOLB, 0.94, 8.54
+  - STMicroelectronics, semiconductors, STM, 0.54, 5.25
+  - Technip, oil equipment and services, TEC, 1.18, 9.24
+  - Total, integrated oil and gas, FP, 11.96, 86.94
+  - Unibail-Rodamco, real estate investment trusts, UL, 2.31, 16.80
+  - Vallourec, industrial machinery, VK, 0.58, 4.56
+  - Veolia Environnement, water, VIE, 0.44, 5.01
+  - Vinci, heavy construction, DG, 2.42, 20.34
+  - Vivendi, broadcasting and entertainment, VIV, 2.77, 21.32
+
+=== Table ID: 2-16834484-1 ===
+=== Table Title: 1898–99 Rangers F.C. season ===
+Columns: Date, Opponent, Venue, Result, Attendance
+  - 20 August 1898, Partick Thistle, H, 6–2, 7,000
+  - 27 August 1898, St. Mirren, A, 3–1, ||A.Smith, Hamilton, McPherson
+  - 3 September 1898, Heart of Midlothian, A, 3–2, 17,500
+  - 10 September 1898, Third Lanark, H, 4–1, 18,000
+  - 19 September 1898, St. Bernard's, A, 2–0, 8,000
+  - 24 September 1898, Celtic, A, 4–0, 45,000
+  - 26 September 1898, Third Lanark, A, 3–2, 14,000
+  - 1 October 1898, Heart of Midlothian, H, 3–1, 25,000
+  - 8 October 1898, Dundee, A, 2–1, 7,500
+  - 5 November 1898, Partick Thistle, A, 5–0, 5,000
+  - 19 November 1898, Hibernian, A, 4–3, 10,000
+  - 26 November 1898, Clyde, H, 8–0, 4,000
+  - 3 December 1898, St. Bernard's, H, 5–2, 3,000
+  - 17 December 1898, Dundee, H, 7–0, 3,000
+  - 24 December 1898, Hibernian, H, 10–0, 7,000
+  - 31 December 1898, St. Mirren, H, 3–2, 5,000
+  - 2 January 1899, Celtic, H, 4–1, 30,000
+  - 7 January 1899, Clyde, A, 3–0, 4,000
+
+=== Table ID: 2-16834924-1 ===
+=== Table Title: Brooklyn Nets all-time roster ===
+Columns: Player, Nationality, Position, Years in New Jersey, School/Club Team
+  - Hassan Adams Category:Articles with hCards, United States, Guard, 2006-2007, Arizona
+  - Rafael Addison Category:Articles with hCards, United States, Forward/Guard, 1991-1993, Syracuse
+  - Maurice Ager Category:Articles with hCards, United States, Guard, 2007-2009, Michigan State
+  - Rafer Alston Category:Articles with hCards, United States, Guard, 2010, Fresno State
+  - Cadillac Anderson Category:Articles with hCards, United States, Forward/Center, 1991, Houston
+  - Kenny Anderson Category:Articles with hCards, United States, Guard, 1991-1996, Georgia Tech
+  - Ron Anderson Category:Articles with hCards, United States, Forward-Guard, 1993, Fresno State
+  - Nate Archibald Category:Articles with hCards, United States, Guard, 1976-1977, UTEP
+  - Brandon Armstrong Category:Articles with hCards, United States, Guard, 2001-2004, Pepperdine
+  - Darrell Armstrong Category:Articles with hCards, United States, Guard, 2008, Fayetteville State
+  - Vincent Askew Category:Articles with hCards, United States, Guard-Forward, 1996, Memphis
+  - Bird Averitt Category:Articles with hCards, United States, Guard, 1977, Pepperdine
+
+=== Table ID: 2-1683930-3 ===
+=== Table Title: Christianity in India ===
+Columns: Religion, Scheduled Caste, Scheduled Tribe, Other Backward Class, Forward caste
+  - Buddhism, 89.50%, 7.40%, 0.4%, 2.7%
+  - Sikhism, 30.70%, 0.90%, 22.4%, 46.1%
+  - Hinduism, 22.20%, 9.10%, 42.8%, 26%
+  - Christianity, 9.00%, 32.80%, 24.8%, 33.3%
+  - Islam, 0.80%, 0.50%, 39.2%, 59.5%
+
+=== Table ID: 2-16840834-9 ===
+=== Table Title: Australian cricket team in 2008 ===
+Columns: Player, Wkts, Runs, Econ, Ovrs
+  - Brett Lee, 18, 427, 3.21, 132.4
+  - Stuart Clark, 13, 251, 2.28, 110.0
+  - Mitchell Johnson, 10, 347, 3.31, 104.5
+  - Stuart MacGill, 5, 325, 4.27, 76.0
+  - Michael Clarke, 4, 77, 1.92, 40.0
+  - Beau Casson, 3, 129, 4.03, 32.0
+  - Andrew Symonds, 1, 73, 2.02, 36.0
+  - Michael Hussey, 0, 14, 2.33, 6.0
+
+=== Table ID: 2-16849531-2 ===
+=== Table Title: CCDC113 ===
+Columns: Species, Species common name, NCBI Accession Number (mRNA/Protein), Length (bp/aa), Protein Identity
+  - Homo sapiens, Human, NM_014157.3 / NP_054876.2, 5304bp/377aa, 100%
+  - Pan troglodytes, Chimpanzee, XM_523504.4/ / XP_523504.2, 5269bp/377aa, 99%
+  - Mus musculus, Mouse, NM_172914.2 / NP_766502.1, 1271bp/377aa, 78%
+  - Felis catus, Cat, XM_003998086.1 / 410983617, 1252bp/323aa, 69%
+  - Xenopus (Silurona) tropicalis, Western Clawed Frog, XM_002931657.1 / 301604136, 1395bp/441aa, 43%
+  - Danio rerio, Zebrafish, NM_001006061.1 / NP_001006061.1, 1154bp/358aa, 38%
+
+=== Table ID: 2-1686203-3 ===
+=== Table Title: Daniele De Rossi ===
+Columns: Date, Venue, Score, Result, Competition
+  - 4 September 2004, Stadio Renzo Barbera , Palermo , Italy, 1 – 1, 2 – 1, 2006 FIFA World Cup qualification
+  - 13 October 2004, Stadio Ennio Tardini , Parma , Italy, 2 – 0, 4 – 3, 2006 FIFA World Cup qualification
+  - 1 March 2006, Stadio Artemio Franchi , Florence , Italy, 3 – 0, 4 – 1, Friendly match
+  - 11 October 2006, Boris Paichadze Stadium , Tbilisi , Georgia, 0 – 1, 1 – 3, UEFA Euro 2008 qualifying
+  - 17 June 2008, Letzigrund , Zürich , Switzerland, 0 – 2, 0 – 2, UEFA Euro 2008
+  - 10 September 2008, Stadio Friuli , Udine , Italy, 1 – 0, 2 – 0, 2010 FIFA World Cup qualification
+  - 10 September 2008, Stadio Friuli , Udine , Italy, 2 – 0, 2 – 0, 2010 FIFA World Cup qualification
+  - 15 June 2009, Loftus Versfeld Stadium , Pretoria , South Africa, 1 – 2, 1 – 3, 2009 FIFA Confederations Cup
+  - 14 June 2010, Cape Town Stadium , Cape Town , South Africa, 1 – 1, 1 – 1, 2010 FIFA World Cup
+  - 7 September 2010, Stadio Artemio Franchi , Florence , Italy, 2 – 0, 5 – 0, UEFA Euro 2012 qualifying
+  - 15 August 2012, Stade de Suisse Wankdorf , Bern , Switzerland, 1 – 0, 1 – 2, Friendly match
+  - 12 October 2012, Hrazdan Stadium , Yerevan , Armenia, 1 – 2, 1 – 3, 2014 FIFA World Cup qualification
+  - 16 October 2012, Stadio Giuseppe Meazza , Milan, Italy, 2 – 0, 3 – 1, 2014 FIFA World Cup qualification
+  - 21 March 2013, Stade de Genève , Genève , Switzerland, 1 – 2, 2 – 2, Friendly match
+  - 19 June 2013, Arena Pernambuco , Recife , Brazil, 1 – 2, 4 – 3, 2013 FIFA Confederations Cup
+  - As of 19 June 2013., As of 19 June 2013., As of 19 June 2013., As of 19 June 2013., As of 19 June 2013.
+
+=== Table ID: 2-16864968-3 ===
+=== Table Title: 2008–09 Toronto Maple Leafs season ===
+Columns: Game, Date, Opponent, Score, Location, Attendance, Record, Points
+  - 1, October 9, 2008, @ Detroit Red Wings, 3–2, Joe Louis Arena, 20,066, 1–0–0, 2
+  - 2, October 11, 2008, Montreal Canadiens, 1–6, Air Canada Centre, 19,370, 1–1–0, 2
+  - 3, October 13, 2008, St. Louis Blues, 4–5 (SO), Air Canada Centre, 19,045, 1–1–1, 3
+  - 4, October 17, 2008, @ New York Rangers, 0–1 (SO), Madison Square Garden, 18,200, 1–1–2, 4
+  - 5, October 18, 2008, @ Pittsburgh Penguins, 1–4, Mellon Arena, 17,033, 1–2–2, 4
+  - 6, October 21, 2008, Anaheim Ducks, 2–3 (SO), Air Canada Centre, 19,222, 1–2–3, 5
+  - 7, October 23, 2008, @ Boston Bruins, 4–2, TD Banknorth Garden, 12,274, 2–2–3, 7
+  - 8, October 25, 2008, Ottawa Senators, 3–2, Air Canada Centre, 19,232, 3–2–3, 9
+  - 9, October 28, 2008, Tampa Bay Lightning, 2–3, Air Canada Centre, 19,348, 3–3–3, 9
+  - 10, October 29, 2008, @ New Jersey Devils, 6–5 (SO), Prudential Center, 14,119, 4–3–3, 11
+
+=== Table ID: 2-16864968-4 ===
+=== Table Title: 2008–09 Toronto Maple Leafs season ===
+Columns: Game, Date, Opponent, Score, Location, Attendance, Record, Points
+  - 11, November 1, 2008, New York Rangers, 5–2, Air Canada Centre, 19,179, 5–3–3, 13
+  - 12, November 2, 2008, @ Carolina Hurricanes, 4–6, RBC Center, 15,635, 5–4–3, 13
+  - 13, November 4, 2008, Carolina Hurricanes, 4–5 (OT), Air Canada Centre, 19,266, 5–4–4, 14
+  - 14, November 6, 2008, @ Boston Bruins, 2–5, TD Banknorth Garden, 15,391, 5–5–4, 14
+  - 15, November 8, 2008 †, Montreal Canadiens, 6–3, Air Canada Centre, 19,512, 6–5–4, 16
+  - 16, November 11, 2008, @ Calgary Flames, 3–4, Pengrowth Saddledome, 19,289, 6–6–4, 16
+  - 17, November 13, 2008, @ Edmonton Oilers, 5–2, Rexall Place, 16,839, 7–6–4, 18
+  - 18, November 15, 2008, @ Vancouver Canucks, 2–4, General Motors Place, 18,630, 7–7–4, 18
+  - 19, November 17, 2008, Boston Bruins, 2–3, Air Canada Centre, 19,410, 7–8–4, 18
+  - 20, November 22, 2008, Chicago Blackhawks, 4–5 (OT), Air Canada Centre, 19,474, 7–8–5, 19
+  - 21, November 25, 2008, Atlanta Thrashers, 3–6, Air Canada Centre, 19,297, 7–9–5, 19
+  - 22, November 27, 2008, @ Ottawa Senators, 1–2 (SO), Scotiabank Place, 19,703, 7–9–6, 20
+  - 23, November 29, 2008, Philadelphia Flyers, 4–2, Air Canada Centre, 19,387, 8–9–6, 22
+
+=== Table ID: 2-16864968-5 ===
+=== Table Title: 2008–09 Toronto Maple Leafs season ===
+Columns: Game, Date, Opponent, Score, Location, Attendance, Record, Points
+  - 24, December 1, 2008, @ Los Angeles Kings, 3–1, Staples Center, 15,052, 9–9–6, 24
+  - 25, December 2, 2008, @ San Jose Sharks, 2–5, HP Pavilion at San Jose, 17,496, 9–10–6, 24
+  - 26, December 4, 2008, @ Phoenix Coyotes, 3–6, Jobing.com Arena, 13,777, 9–11–6, 24
+  - 27, December 6, 2008, Washington Capitals, 1–2, Air Canada Centre, 19,416, 9–12–6, 24
+  - 28, December 8, 2008, New York Islanders, 4–2, Air Canada Centre, 19,309, 10–12–6, 26
+  - 29, December 12, 2008, @ Buffalo Sabres, 2–1, HSBC Arena, 18,211, 11–12–6, 28
+  - 30, December 16, 2008, New Jersey Devils, 3–2 (SO), Air Canada Centre, 19,315, 12–12–6, 30
+  - 31, December 18, 2008, @ Boston Bruins, 5–8, TD Banknorth Garden, 17,565, 12–13–6, 30
+  - 32, December 20, 2008, @ Pittsburgh Penguins, 7–3, Mellon Arena, 17,053, 13–13–6, 32
+  - 33, December 22, 2008, @ Atlanta Thrashers, 6–2, Philips Arena, 16,413, 14–13–6, 34
+  - 34, December 23, 2008, Dallas Stars, 2–8, Air Canada Centre, 19,269, 14–14–6, 34
+  - 35, December 26, 2008, @ New York Islanders, 1–4, Nassau Veterans Memorial Coliseum, 15,173, 14–15–6, 34
+  - 36, December 28, 2008, @ Washington Capitals, 1–4, Verizon Center, 18,277, 14–16–6, 34
+  - 37, December 30, 2008, Atlanta Thrashers, 4–3 (OT), Air Canada Centre, 19,260, 15–16–6, 36
+
+=== Table ID: 2-16864968-6 ===
+=== Table Title: 2008–09 Toronto Maple Leafs season ===
+Columns: Game, Date, Opponent, Score, Location, Attendance, Record, Points
+  - 38, January 1, 2009, Buffalo Sabres, 1–4, Air Canada Centre, 19,176, 15–17–6, 36
+  - 39, January 3, 2009, Ottawa Senators, 3–1, Air Canada Centre, 19,406, 16–17–6, 38
+  - 40, January 6, 2009, Florida Panthers, 2–4, Air Canada Centre, 19,197, 16–18–6, 38
+  - 41, January 8, 2009, @ Montreal Canadiens, 2–6, Bell Centre, 21,273, 16–19–6, 38
+  - 42, January 10, 2009, @ Philadelphia Flyers, 1–4, Wachovia Center, 19,787, 16–20–6, 38
+  - 43, January 13, 2009, Nashville Predators, 0–2, Air Canada Centre, 19,223, 16–21–6, 38
+  - 44, January 15, 2009, @ Carolina Hurricanes, 6–4, RBC Center, 18,037, 17–21–6, 40
+  - 45, January 16, 2009, @ Atlanta Thrashers, 3–4 (OT), Philips Arena, 15,619, 17–21–7, 41
+  - 46, January 19, 2009, Carolina Hurricanes, 0–2, Air Canada Centre, 19,018, 17–22–7, 41
+  - 47, January 21, 2009, Boston Bruins, 3–4 (SO), Air Canada Centre, 19,258, 17–22–8, 42
+  - 48, January 27, 2009, @ Minnesota Wild, 1–6, Xcel Energy Center, 18,568, 17–23–8, 42
+  - 49, January 29, 2009, @ Colorado Avalanche, 7–4, Pepsi Center, 15,216, 18–23–8, 44
+  - 50, January 31, 2009, Pittsburgh Penguins, 5–4, Air Canada Centre, 19,570, 19–23–8, 46
+
+=== Table ID: 2-16864968-8 ===
+=== Table Title: 2008–09 Toronto Maple Leafs season ===
+Columns: Game, Date, Opponent, Score, Location, Attendance, Record, Points
+  - 64, March 3, 2009, New Jersey Devils, 2–3 (OT), Air Canada Centre, 19,389, 25–26–13, 63
+  - 65, March 5, 2009, @ Washington Capitals, 2–1, Verizon Center, 18,277, 26–26–13, 65
+  - 66, March 7, 2009, Edmonton Oilers, 1–4, Air Canada Centre, 19,364, 26–27–13, 65
+  - 67, March 9, 2009, @ Ottawa Senators, 1–2, Scotiabank Place, 18,898, 26–28–13, 65
+  - 68, March 10, 2009, New York Islanders, 3–2 (OT), Air Canada Centre, 19,041, 27–28–13, 67
+  - 69, March 12, 2009, Tampa Bay Lightning, 1–4, Air Canada Centre, 19,209, 27–29–13, 67
+  - 70, March 14, 2009, Calgary Flames, 8–6, Air Canada Centre, 19,356, 28–29–13, 69
+  - 71, March 17, 2009, @ Tampa Bay Lightning, 4–3 (SO), St. Pete Times Forum, 18,793, 29–29–13, 71
+  - 72, March 19, 2009, @ Florida Panthers, 1–3, BankAtlantic Center, 15,467, 29–30–13, 71
+  - 73, March 21, 2009, @ Montreal Canadiens, 5–2, Bell Centre, 21,273, 30–30–13, 73
+  - 74, March 24, 2009, Washington Capitals, 3–2 (SO), Air Canada Centre, 19,362, 31–30–13, 75
+  - 75, March 27, 2009, @ Buffalo Sabres, 3–5, HSBC Arena, 18,620, 31–31–13, 75
+  - 76, March 28, 2009, Boston Bruins, 5–7, Air Canada Centre, 19,360, 31–32–13, 75
+
+=== Table ID: 2-16864968-9 ===
+=== Table Title: 2008–09 Toronto Maple Leafs season ===
+Columns: Game, Date, Opponent, Score, Location, Attendance, Record, Points
+  - 77, April 1, 2009, Philadelphia Flyers, 3–2, Air Canada Centre, 19,340, 32–32–13, 77
+  - 78, April 3, 2009, @ Philadelphia Flyers, 5–8, Wachovia Center, 19,727, 32–33–13, 77
+  - 79, April 4, 2009, Montreal Canadiens, 2–6, Air Canada Centre, 19,516, 32–34–13, 77
+  - 80, April 7, 2009, @ New Jersey Devils, 4–1, Prudential Center, 15,046, 33–34–13, 79
+  - 81, April 8, 2009, Buffalo Sabres, 1–3, Air Canada Centre, 19,516, 33–35–13, 79
+  - 82, April 11, 2009, Ottawa Senators, 5–2, Air Canada Centre, 19,370, 34–35–13, 81
+

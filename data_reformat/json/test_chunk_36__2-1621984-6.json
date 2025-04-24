@@ -1,0 +1,65 @@
+{
+  "header": [
+    "Tournament",
+    "Wins",
+    "Top-10",
+    "Top-25",
+    "Events",
+    "Cuts made"
+  ],
+  "page_title": "Paul Casey",
+  "types": [
+    "text",
+    "real",
+    "real",
+    "real",
+    "real",
+    "real"
+  ],
+  "page_id": 1621984,
+  "id": "2-1621984-6",
+  "section_title": "Summary",
+  "rows": [
+    [
+      "Masters Tournament",
+      "0",
+      "2",
+      "4",
+      "8",
+      "5"
+    ],
+    [
+      "U.S. Open",
+      "0",
+      "1",
+      "2",
+      "10",
+      "5"
+    ],
+    [
+      "The Open Championship",
+      "0",
+      "2",
+      "3",
+      "11",
+      "7"
+    ],
+    [
+      "PGA Championship",
+      "0",
+      "0",
+      "2",
+      "11",
+      "7"
+    ],
+    [
+      "Totals",
+      "0",
+      "5",
+      "11",
+      "40",
+      "24"
+    ]
+  ],
+  "caption": "Summary"
+}

@@ -1,0 +1,72 @@
+{
+  "header": [
+    "Rank",
+    "Gold",
+    "Silver",
+    "Bronze",
+    "Total"
+  ],
+  "page_title": "Asian Youth Volleyball Championship",
+  "types": [
+    "text",
+    "real",
+    "real",
+    "real",
+    "real"
+  ],
+  "page_id": 16744545,
+  "id": "2-16744545-2",
+  "section_title": "Medal table",
+  "rows": [
+    [
+      "1",
+      "6",
+      "1",
+      "0",
+      "7"
+    ],
+    [
+      "2",
+      "1",
+      "3",
+      "1",
+      "5"
+    ],
+    [
+      "3",
+      "1",
+      "1",
+      "2",
+      "4"
+    ],
+    [
+      "4",
+      "1",
+      "0",
+      "1",
+      "2"
+    ],
+    [
+      "5",
+      "0",
+      "2",
+      "2",
+      "4"
+    ],
+    [
+      "7",
+      "0",
+      "0",
+      "1",
+      "1"
+    ],
+    [
+      "Total",
+      "9",
+      "9",
+      "9",
+      "27"
+    ]
+  ],
+  "caption": "Medal table"
+}

@@ -1,0 +1,58 @@
+{
+  "header": [
+    "Rank",
+    "Name",
+    "Team",
+    "Games",
+    "Rebounds"
+  ],
+  "page_title": "2007–08 ACB season",
+  "types": [
+    "real",
+    "text",
+    "text",
+    "real",
+    "real"
+  ],
+  "page_id": 16362719,
+  "id": "2-16362719-3",
+  "section_title": "Rebounds",
+  "rows": [
+    [
+      "1.",
+      "Marc Gasol",
+      "Akasvayu Girona",
+      "37",
+      "311"
+    ],
+    [
+      "2.",
+      "Frédéric Weis",
+      "Iurbentia Bilbao",
+      "30",
+      "212"
+    ],
+    [
+      "3.",
+      "Felipe Reyes",
+      "Real Madrid",
+      "31",
+      "211"
+    ],
+    [
+      "4.",
+      "Pete Mickeal",
+      "TAU Cerámica",
+      "32",
+      "197"
+    ],
+    [
+      "5.",
+      "Chris Moss",
+      "Vive Menorca",
+      "34",
+      "209"
+    ]
+  ],
+  "caption": "Rebounds"
+}

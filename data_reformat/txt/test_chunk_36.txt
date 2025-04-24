@@ -1,0 +1,2170 @@
+=== Table ID: 2-16147528-4 ===
+=== Table Title: 2005 Masters Tournament ===
+Columns: Place, Player, Country, Score, To par
+  - 1, Chris DiMarco, United States, 67, –5
+  - T2, Luke Donald, England, 68, –4
+  - T2, Vijay Singh, Fiji, 68, –4
+  - T5, Stuart Appleby, Australia, 69, –3
+  - T5, Mark Hensby, Australia, 69, –3
+  - T7, Phil Mickelson, United States, 70, –2
+  - T7, Ryan Palmer, United States, 70, –2
+  - T9, Thomas Bjørn, Denmark, 71, –1
+  - T9, Retief Goosen, South Africa, 71, –1
+  - T9, Thomas Levet, France, 71, –1
+  - T9, Ryan Moore (a), United States, 71, –1
+  - T9, Chris Riley, United States, 71, –1
+  - T9, Adam Scott, Australia, 71, –1
+
+=== Table ID: 2-16147528-6 ===
+=== Table Title: 2005 Masters Tournament ===
+Columns: Place, Player, Country, To par, Hole
+  - 1, Chris DiMarco, United States, –13, 9
+  - 2, Tiger Woods, United States, –9, 9
+  - 3, Thomas Bjørn, Denmark, –8, 9
+  - T4, Mark Hensby, Australia, –4, 9
+  - T4, Vijay Singh, Fiji, –4, 10
+  - T4, Rod Pampling, Australia, –4, 12
+
+=== Table ID: 2-16152986-3 ===
+=== Table Title: Eden Hazard ===
+Columns: Date, Venue, Score, Result, Competition
+  - 7 October 2011, King Baudouin Stadium , Brussels, Belgium, 2–0, 4–1, Euro 2012 qualifier
+  - 25 May 2012, King Baudouin Stadium, Brussels, Belgium, 2–1, 2–2, Friendly
+  - 6 February 2013, Jan Breydel Stadium , Bruges, Belgium, 1–0, 2–1, Friendly
+  - 22 March 2013, Philip II Arena , Skopje, Macedonia, 2–0, 2–0, 2014 World Cup qualifier
+  - 26 March 2013, King Baudouin Stadium, Brussels, Belgium, 1–0, 1–0, 2014 World Cup qualifier
+  - Correct as of 26 March 2013., Correct as of 26 March 2013., Correct as of 26 March 2013., Correct as of 26 March 2013., Correct as of 26 March 2013.
+
+=== Table ID: 2-16162581-1 ===
+=== Table Title: Mind monkey ===
+Columns: Date (CE), Text, Simplified characters, Traditional characters, Pinyin, Wade-Giles, Literal meaning
+  - c. 406, Weimojiesuoshuojing, 心如猿猴, 心如猨猴, xīn rú yuánhóu, hsin ju yuan-hou, "mind like a monkey"
+  - c. 540, Mengyu chanhui shi, 爱马 … 心猿, 愛馬 … 心猿, àimǎ … xīnyuán, ai-ma … hsin-yüan, "love-horse … mind-monkey"
+  - 657, Daci'ensi sanzang fashizhuan, 情猿 … 意马, 情猿 … 意馬, qíngyuán … yìmǎ, ch'ing-yüan … i-ma, '"feelings-monkey … will-horse"
+  - c. 840, Zengti Du yinju, 心猿 … 意马, 心猿 … 意馬, xīnyuán … yìmǎ, hsin-yüan … i-ma, "mind-monkey … will-horse"
+  - 947, Bianwen weimojiejing, 心猿意马, 心猿意馬, xīnyuányìmǎ, hsin-yüan-i-ma, "mind-monkey will-horse"
+  - c. 1180, Shuixuanshi, 意马心猿, 意馬心猿, yìmǎxīnyuán, i-ma-hsin-yüan, "will-horse mind-monkey"
+
+=== Table ID: 2-1616581-1 ===
+=== Table Title: Luc Alphand ===
+Columns: Season, Overall, Slalom, Super G, Downhill, Combined
+  - 1988, 61, —, 16, 37, —
+  - 1989, 40, —, 10, —, —
+  - 1990, 80, —, 21, —, —
+  - 1991, 35, —, 10, 17, —
+  - 1992, 53, —, 19, 25, —
+  - 1993, 59, —, 20, 40, 23
+  - 1994, 27, —, 17, 14, —
+  - 1995, 8, —, 14, 1, 11
+  - 1996, 4, —, 4, 1, —
+  - 1997, 1, —, 1, 1, —
+
+=== Table ID: 2-16168849-1 ===
+=== Table Title: North State Conference ===
+Columns: Institution, Location, Founded, Type, Enrollment, Nickname, Joined, Left, Current Conference
+  - Anderson University, Anderson, South Carolina, 1911, Private, 2,907, Trojans, 1998, 2010, SAC
+  - Appalachian State University, Boone, North Carolina, 1899, Public, 17,589, Mountaineers, 1930, 1967, SoCon ( Sun Belt in 2014) (NCAA Division I)
+  - Catawba College, Salisbury, North Carolina, 1851, Private, 1,300, Indians, 1930, 1989, SAC
+  - Coker College, Hartsville, South Carolina, 1908, Private, 1,200, Cobras, 1991, 2013, SAC
+  - East Carolina University, Greenville, North Carolina, 1907, Public, 27,386, Pirates, 1947, 1962, C-USA ( The American in 2014) (NCAA Division I)
+  - Elon University, Elon, North Carolina, 1889, Private, 6,720, Phoenix, 1930, 1989, SoCon ( CAA in 2014) (NCAA Division I)
+  - Guilford College, Greensboro, North Carolina, 1837, Private, 2,706, Quakers, 1930, 1988, ODAC (NCAA Division III)
+  - High Point University, High Point, North Carolina, 1924, Private, 4,519, Panthers, 1930, 1997, Big South (NCAA Division I)
+  - Lenoir–Rhyne University, Hickory, North Carolina, 1891, Private, 1,983, Bears, 1930, 1985, 1974, 1989, SAC
+  - Longwood University, Farmville, Virginia, 1839, Public, 4,800, Lancers, 1995, 2003, Big South (NCAA Division I)
+  - Mars Hill College, Mars Hill, North Carolina, 1856, Private, 1,370, Lions, 1973, 1975, SAC
+  - Newberry College, Newberry, South Carolina, 1856, Private, 949, Wolves, 1961, 1972, SAC
+  - University of North Carolina at Pembroke, Pembroke, North Carolina, 1887, Public, 6,433, Braves, 1976, 1992, Peach Belt (PBC)
+  - Presbyterian College, Clinton, South Carolina, 1880, Private, 1,300, Blue Hose, 1965, 1972, Big South (NCAA Division I)
+  - Queens University of Charlotte, Charlotte, North Carolina, 1857, Private, 2,386, Royals, 1995, 2013, SAC
+  - St. Andrews University, Laurinburg, North Carolina, 1958, Private, 600, Knights, 1988, 2012, AAC (NAIA)
+  - Western Carolina University, Cullowhee, North Carolina, 1889, Public, 9,608, Catamounts, 1933, 1976, SoCon (NCAA Division I)
+  - Wingate University, Wingate, North Carolina, 1896, Private, 2,700, Bulldogs, 1979, 1989, SAC
+
+=== Table ID: 2-16176416-4 ===
+=== Table Title: Race and ethnicity in Brazil ===
+Columns: Category, Frequency, White, Brown, Black, Amerindian, Yellow, Total
+  - vermelha (Red), 0.02%, 58,97, 8,22, 0,00, 21,56, 11,24, 100,00
+  - cafusa, 0.01%, 6,02, 65,14, 22,82, 6,02, 0,00, 100,00
+  - caboverde (Capeverdian), 0.02%, 0,00, 48,72, 23,08, 28,21, 0,00, 100,00
+  - cabocla, 0.02%, 3,60, 49,37, 10,43, 36,60, 0,00, 100,00
+  - bugre (Indian), 0.00%, 12,50, 37,50, 0,00, 50,00, 0,00, 100,00
+  - amarela (Yellow), 1.11%, 3,27, 0,98, 0,24, 0,15, 95,36, 100,00
+  - indígena (Indigenous), 0.13%, 0,44, 2,12, 0,00, 96,13, 1,30, 100,00
+
+=== Table ID: 2-1617662-2 ===
+=== Table Title: Sara McMann ===
+Columns: Res., Record, Opponent, Method, Event, Round, Time, Location
+  - Win, 7-0, Sheila Gaff, TKO (punches), UFC 159, 1, 4:06, Newark, New Jersey , United States
+  - Win, 6-0, Shayna Baszler, Decision (unanimous), Invicta FC 2: Baszler vs. McMann, 3, 5:00, Kansas City, Kansas , United States
+  - Win, 5-0, Hitomi Akano, Decision (unanimous), ProElite 3: Da Spyder vs. Minowaman, 3, 5:00, Honolulu, Hawaii , United States
+  - Win, 4-0, Raquel Pa'aluhi, Submission (americana), ProElite 1: Arlovski vs. Lopez, 3, 2:53, Honolulu, Hawaii , United States
+  - Win, 3-0, Tonya Evinger, Decision (unanimous), Titan Fighting Championships 19, 3, 5:00, Kansas City, Kansas , United States
+  - Win, 2-0, Julie Malenfant, Submission (punches), BlackEye Promotions 4, 1, 0:32, Fletcher, North Carolina , United States
+  - Win, 1-0, Christina Marks, Submission (rear-naked choke), Universal Cage Combat: Revolution, 1, 1:41, Lawrenceburg, Indiana , United States
+
+=== Table ID: 2-16176685-5 ===
+=== Table Title: 2007–08 LEB season ===
+Columns: Rank, Name, Team, Games, Points
+  - 1., Lucas Victoriano, CAI Zaragoza, 34, 196
+  - 2., Jorge Jiménez, Aguas de Valencia, 33, 154
+  - 3., Diego Ciorciari, Melilla Baloncesto, 34, 152
+  - 3., Xavier Puyada, CB Alcúdia, 34, 152
+  - 5., Stéphane Dumas, Alicante Costa Blanca, 36, 157
+
+=== Table ID: 2-16181680-2 ===
+=== Table Title: 2008 IAAF World Indoor Championships – Men's 60 metres ===
+Columns: Heat, Lane, Name, Country, Mark
+  - 1, 6, Dwain Chambers, United Kingdom, 6.69
+  - 1, 2, Isaac Uche, Nigeria, 6.74
+  - 1, 1, Ihor Bodrov, Ukraine, 6.76
+  - 1, 5, Amr Ibrahim Mostafa Seoud, Egypt, 6.78 NR
+  - 1, 3, Gibrilla Pato Bangura, Sierra Leone, 6.89
+  - 1, 7, Khalil Al-Hanahneh, Jordan, 7.14
+  - 1, 8, Aisea Tohi, Tonga, 7.24 PB
+  - 1, 4, Reginaldo Micha Ndong, Equatorial Guinea, 7.72 PB
+  - 2, 5, Leroy Dixon, United States, 6.64
+  - 2, 3, Francis Obikwelu, Portugal, 6.70
+  - 2, 2, Fabio Cerutti, Italy, 6.73
+  - 2, 7, Kael Becerra, Chile, 6.75
+  - 2, 8, Danny D'Souza, Seychelles, 7.02 NR
+  - 2, 4, Moudjib Toyb, Comoros, 7.03
+  - 2, 6, Michael Alicto, Guam, 7.27 PB
+  - 2, 1, Federico Gorrieri, San Marino, 7.49 SB
+  - 3, 3, Kim Collins, Saint Kitts and Nevis, 6.70
+  - 3, 5, Andrey Yepishin, Russia, 6.76
+  - 3, 8, José Varlos Moreira, Brazil, 6.79
+  - 3, 2, Seth Amoo, Ghana, 6.88
+  - 3, 1, Seng Song Poh, Singapore, 6.93 SB
+  - 3, 6, Sébastien Gattuso, Monaco, 6.94 NR
+  - 3, 7, Taufik Rahmadi, Indonesia, 6.97 PB
+  - 3, 4, Tavita Solomona, Samoa, 7.35 PB
+  - 4, 7, Simone Collio, Italy, 6.71
+  - 4, 1, Martial Mbandjock, France, 6.72
+  - 4, 8, Dmytro Hlushchenko, Ukraine, 6.77
+  - 4, 2, Adrian Durant, United States Virgin Islands, 6.78
+  - 4, 5, Omar Jouma Bilal Al-Salfa, United Arab Emirates, 6.88
+  - 4, 3, Jack Howard, Federated States of Micronesia, 7.13 SB
+  - 4, 4, Abraham Kepsen, Vanuatu, 7.44 PB
+  - 4, 6, Kermeliss Olonghot, Republic of the Congo, DNS
+  - 5, 7, Olusoji Fasuba, Nigeria, 6.64
+  - 5, 8, Brendan Christian, Antigua and Barbuda, 6.67
+  - 5, 2, Henry Vizcaino, Cuba, 6.70
+  - 5, 5, Chun Wai Leung, Hong Kong, 6.97
+  - 5, 4, Idrissa Sanou, Burkina Faso, 7.03
+  - 5, 3, Aleksandr Abrahamyan, Armenia, 7.38 PB
+  - 5, 6, Dylab Menzies, Norfolk Island, 7.42 SB
+  - 6, 5, Simeon Williamson, United Kingdom, 6.69
+  - 6, 2, Marius Broening, Germany, 6.74
+  - 6, 1, Maarten Heisen, Netherlands, 6.77
+  - 6, 4, Ramil Guliyev, Azerbaijan, 6.84
+  - 6, 6, Darren Gilford, Malta, 6.99 SB
+  - 6, 7, Hin Fong Pao, Macau, 7.07 SB
+  - 6, 3, Rabangaki Nawai, Kiribati, 7.26 PB
+  - 6, 8, Leon Mengloi, Palau, 7.51 PB
+  - 7, 4, Yhann Plummer, Jamaica, 6.64 PB
+  - 7, 8, Vicente de Lima, Brazil, 6.71
+  - 7, 5, Alex Trembach, Israel, 6.93
+  - 7, 2, Adrian Ferreira, Paraguay, 7.19 PB
+  - 7, 3, Kilakone Siphonexay, Laos, 7.41 PB
+  - 7, 7, Daniel Bailey, Antigua and Barbuda, DSQ
+  - 7, 6, Ben Youssef Meité, Ivory Coast, DNS
+  - 7, 1, Sompote Suwannarangsri, Thailand, DNS
+  - 8, 8, Michael Rodgers, United States, 6.62
+  - 8, 6, Ángel David Rodríguez, Spain, 6.69
+  - 8, 5, Rolando Palacios, Honduras, 6.83
+  - 8, 4, Jared Lewis, Saint Vincent and the Grenadines, 6.89
+  - 8, 2, Lerone Clarke, Jamaica, 6.89
+  - 8, 3, Francis Manioru, Solomon Islands, 7.22 SB
+  - 8, 7, Shahriful Bahrin Zainal, Brunei, 7.44 NR
+
+=== Table ID: 2-16181798-1 ===
+=== Table Title: List of magazines by circulation ===
+Columns: Rank, Name, Circulation per issue, Number of languages, Frequency, Publisher
+  - 1, The Watchtower, 45,944,000, 212, Monthly, Watchtower Bible and Tract Society
+  - 2, Awake!, 44,748,000, 99, Monthly, Watchtower Bible and Tract Society
+  - 3, AARP The Magazine, 23,721,626, 1, Semi-monthly, AARP
+  - 4, AARP Bulletin, 23,574,328, 1, Semi-monthly, AARP
+  - 5, ADAC Motorwelt, 13,643,161, 1, Monthly, ADAC
+  - 6, Game Informer, 8,100,000, 1, Monthly, Gamestop Corp.
+  - 7, Better Homes and Gardens, 7,600,000, 1, Monthly, Meredith Corporation
+  - 8, AutoPrimeurs, 6,010,904, 1, Monthly, Topline Publishing
+  - 9, TV Magazine, 5,854,629, 1, Monthly, Groupe Le Figaro
+  - 10, Reader's Digest, 5,500,000, 21, Monthly, The Reader's Digest Association
+  - 11, National Geographic, 5,000,000, 36, Monthly, National Geographic Society
+  - 12, Good Housekeeping, 4,300,000, 1, Monthly, Hearst Corporation
+  - 13, Family Circle, 3,800,000, 1, Monthly, Meredith Corporation
+  - 14, People, 3,500,000, 1, Weekly, Time Inc.
+  - 15, Version Fémina, 3,392,403, 1, Weekly, Hachette Filipacchi Médias
+
+=== Table ID: 2-1618297-2 ===
+=== Table Title: Somali Airlines ===
+Columns: Location, Aircraft, Tail number, Aircraft damage, Fatalities
+  - Mogadishu, Viscount 700, 6O-AAJ, W/O, 5/30
+  - Bosaso, Douglas C-47A, 6O-SAC, W/O, 0/11
+  - Balad, F-27-600RF, 6O-SAY, W/O, 50/50
+  - Nairobi, Boeing 707-320B, 6O-SBT, W/O, 0/70
+  - Hargeisa, F-27-600RF, 6O-SAZ, W/O, 30/30
+
+=== Table ID: 2-1618358-1 ===
+=== Table Title: Stamp duty in the United Kingdom ===
+Columns: Year, Stamp duty reserve tax, Standard Stamp Duty, Standard Duties Total Revenue (in €million), over Total Tax Revenue (in %), over GDP (in %)
+  - 1995-96, n.a., n/a, 1,810, 0.59, 0.20
+  - 1996-97, n.a., n/a, 1,966, 0.60, 0.20
+  - 1997-98, n.a., n/a, 3,033, 0.73, 0.25
+  - 1998-99, n.a., n/a, 3,696, 0.79, 0.28
+  - 1999-00, n.a., n/a, 5,617, 1.10, 0.40
+  - 2000-01, n.a., n/a, 7,383, 1.26, 0.46
+  - 2001-02, 4,218, 367, 4,586, 0.77, 0.28
+  - 2002-03, 3,669, 455, 4,124, 0.69, 0.24
+  - 2003-04, 3,280, 418, 3,698, 0.65, 0.22
+  - 2004-05, 3,454, 548, 4,001, 0.64, 0.23
+  - 2005-06, 4,105, 961, 5,067, 0.77, 0.28
+  - 2006-07, 4,767, 745, 5,511, 0.77, 0.28
+  - 2007-08, 5,372, 716, 6,091, 0.82, 0.30
+  - 2008-09, 3,673, 349, 4,022, n/a, 0.22
+
+=== Table ID: 2-16184576-1 ===
+=== Table Title: David Adams (tennis) ===
+Columns: Outcome, Date, Tournament, Surface, Partner, Opponent in the final, Score in the final
+  - Winner, 1992, Munich , Germany, Clay, Menno Oosting, Carl Limberger Tomáš Anzari, 3–6, 7–5, 6–3
+  - Runner-up, 1992, French Open , Paris, Clay, Andrei Olhovskiy, Jakob Hlasek Marc Rosset, 6–7, 7–6, 5–7
+  - Runner-up, 1992, Moscow , Russia, Carpet, Andrei Olhovskiy, Marius Barnard John-Laffnie de Jager, 4–6, 6–3, 6–7
+  - Runner-up, 1993, Rotterdam , Netherlands, Carpet, Andrei Olhovskiy, Henrik Holm Anders Järryd, 4–6, 6–7
+  - Winner, 1993, Copenhagen , Denmark, Carpet, Andrei Olhovskiy, Martin Damm Daniel Vacek, 6–3, 3–6, 6–3
+  - Winner, 1993, Estoril , Portugal, Clay, Andrei Olhovskiy, Menno Oosting Udo Riglewski, 6–3, 7–5
+  - Runner-up, 1993, Rosmalen , Netherlands, Grass, Andrei Olhovskiy, Patrick McEnroe Jonathan Stark, 6–7, 6–1, 4–6
+  - Runner-up, 1993, Bordeaux , France, Hard, Andrei Olhovskiy, Pablo Albano Javier Frana, 6–7, 6–4, 3–6
+  - Runner-up, 1993, Bolzano , Italy, Carpet, Andrei Olhovskiy, Hendrik Jan Davids Piet Norval, 3–6, 2–6
+  - Runner-up, 1994, Adelaide , Australia, Hard, Byron Black, Andrew Kratzmann Mark Kratzmann, 4–6, 3–6
+  - Winner, 1994, Stuttgart Indoor , Germany, Carpet, Andrei Olhovskiy, Grant Connell Patrick Galbraith, 6–7, 6–4, 7–6
+  - Winner, 1994, Casablanca , Morocco, Clay, Menno Oosting, Cristian Brandi Federico Mordegan, 6–3, 6–4
+  - Runner-up, 1994, Osaka , Japan, Hard, Andrei Olhovskiy, Martin Damm Sandon Stolle, 4–6, 4–6
+  - Runner-up, 1994, Hilversum , Netherlands, Clay, Andrei Olhovskiy, Daniel Orsanic Jan Siemerink, 4–6, 2–6
+  - Winner, 1994, Kitzbühel , Austria, Clay, Andrei Olhovskiy, Sergio Casal Emilio Sánchez, 6–7, 6–3, 7–5
+  - Runner-up, 1994, Beijing , China, Carpet, Andrei Olhovskiy, Tommy Ho Kent Kinnear, 6–7, 3–6
+  - Runner-up, 1994, Moscow , Russia, Carpet, Andrei Olhovskiy, Jacco Eltingh Paul Haarhuis, W/O
+  - Winner, 1995, Jakarta , Indonesia, Hard, Andrei Olhovskiy, Ronald Agénor Shuzo Matsuoka, 7–5, 6–3
+  - Winner, 1995, Marseille , France, Carpet, Andrei Olhovskiy, Jean-Philippe Fleurian Rodolphe Gilbert, 6–1, 6–4
+  - Winner, 1996, Rotterdam , Netherlands, Carpet, Marius Barnard, Hendrik Jan Davids Cyril Suk, 6–3, 5–7, 7–6
+  - Runner-up, 1996, Sankt Pölten , Austria, Clay, Menno Oosting, Ctislav Doseděl Pavel Vízner, 7–6, 4–6, 3–6
+  - Runner-up, 1996, Kitzbühel , Austria, Clay, Menno Oosting, Libor Pimek Byron Talbot, 6–7, 3–6
+  - Runner-up, 1996, Bucharest , Romania, Clay, Menno Oosting, David Ekerot Jeff Tarango, 6–7, 6–7
+  - Runner-up, 1996, Basel , Switzerland, Hard (i), Menno Oosting, Yevgeny Kafelnikov Daniel Vacek, 3–6, 4–6
+  - Winner, 1997, Antwerp , Belgium, Hard (i), Olivier Delaître, Sandon Stolle Cyril Suk, 3–6, 6–2, 6–1
+  - Runner-up, 1997, Milan , Italy, Carpet, Andrei Olhovskiy, Pablo Albano Peter Nyborg, 4–6, 6–7
+  - Runner-up, 1997, Halle , Germany, Grass, Marius Barnard, Karsten Braasch Michael Stich, 6–7, 3–6
+  - Runner-up, 1997, Moscow , Russia, Carpet, Fabrice Santoro, Martin Damm Cyril Suk, 4–6, 3–6
+  - Runner-up, 1998, Hamburg , Germany, Clay, Brett Steven, Donald Johnson Francisco Montana, 2–6, 5–7
+  - Runner-up, 1998, Sankt Pölten , Austria, Clay, Wayne Black, Jim Grabb David Macpherson, 4–6, 4–6
+  - Runner-up, 1998, Vienna , Austria, Carpet, John-Laffnie de Jager, Yevgeny Kafelnikov Daniel Vacek, 5–7, 3–6
+  - Runner-up, 1998, Ostrava , Czech Republic, Carpet, Pavel Vízner, Nicolas Kiefer David Prinosil, 4–6, 3–6
+  - Runner-up, 1999, Marseille , France, Hard (i), Pavel Vízner, Max Mirnyi Andrei Olhovskiy, 5–7, 6–7 (7–9)
+  - Runner-up, 1999, Dubai , UAE, Hard, John-Laffnie de Jager, Wayne Black Sandon Stolle, 6–4, 1–6, 4–6
+  - Winner, 1999, Rotterdam , Netherlands, Carpet, John-Laffnie de Jager, Neil Broad Peter Tramacchi, 6–7, 6–3, 6–4
+  - Runner-up, 1999, Rome , Italy, Clay, John-Laffnie de Jager, Ellis Ferreira Rick Leach, 7–6, 1–6, 2–6
+  - Winner, 1999, Båstad , Sweden, Clay, Jeff Tarango, Nicklas Kulti Mikael Tillström, 7–6 (8–6) , 6–4
+  - Runner-up, 1999, Washington, D.C. , U.S., Hard, John-Laffnie de Jager, Justin Gimelstob Sébastien Lareau, 5–7, 7–6 (7–2) , 3–6
+  - Winner, 1999, Bournemouth , England, Clay, Jeff Tarango, Michael Kohlmann Nicklas Kulti, 6–3, 6–7 (5–7) , 7–6 (7–5)
+  - Runner-up, 1999, Toulouse , France, Hard (i), John-Laffnie de Jager, Olivier Delaître Jeff Tarango, 6–3, 6–7 (2–7) , 4–6
+  - Runner-up, 1999, Stuttgart Indoor , Germany, Hard (i), John-Laffnie de Jager, Jonas Björkman Byron Black, 7–6 (8–6) , 6–7 (2–7) , 0–6
+  - Winner, 2000, Rotterdam , Netherlands, Hard (i), John-Laffnie de Jager, Tim Henman Yevgeny Kafelnikov, 5–7, 6–2, 6–3
+  - Winner, 2000, London, England, Hard (i), John-Laffnie de Jager, Jan-Michael Gambill Scott Humphries, 6–3, 6–7 (7–9) , 7–6 (13–11)
+  - Runner-up, 2000, Estoril , Portugal, Clay, Joshua Eagle, Donald Johnson Piet Norval, 4–6, 5–7
+  - Winner, 2000, Munich , Germany, Clay, John-Laffnie de Jager, Max Mirnyi Nenad Zimonjić, 6–4, 6–4
+  - Runner-up, 2001, Auckland , New Zealand, Hard, Martín García, Marius Barnard Jim Thomas, 6–7 (10–12) , 4–6
+  - Runner-up, 2001, Acapulco , Mexico, Clay, Martín García, Donald Johnson Gustavo Kuerten, 3–6, 6–7 (5–7)
+  - Runner-up, 2002, Delray Beach , U.S., Hard, Ben Ellwood, Martin Damm Cyril Suk, 4–6, 7–6 (7–5) , [5–10]
+  - Runner-up, 2002, Stuttgart , Germany, Clay, Gastón Etlis, Joshua Eagle David Rikl, 3–6, 4–6
+  - Winner, 2002, Tashkent , Uzbekistan, Hard, Robbie Koenig, Raemon Sluiter Martin Verkerk, 6–2, 7–5
+  - Winner, 2002, St. Petersburg , Russia, Hard (i), Jared Palmer, Irakli Labadze Marat Safin, 7–6 (10–8) , 6–3
+  - Winner, 2003, Auckland , New Zealand, Hard, Robbie Koenig, Tomáš Cibulec Leoš Friedl, 7–6 (7–5) , 3–6, 6–3
+
+=== Table ID: 2-1618600-4 ===
+=== Table Title: List of grenade launchers ===
+Columns: Name/ designation, Year of intro, Country of origin, Primary cartridge, Type
+  - M1 Bazooka, 1942, United States, 60mm, Recoilless
+  - M2GC, 1948, Sweden, 84mm, Recoilless
+  - Northover Projector, 1940, United Kingdom, 63.5mm, Recoilless
+  - Panzerfaust, 1943, Germany, 150mm, Recoilless
+  - PIAT, 1942, United Kingdom, 86mm, Spigot mortar
+  - Rifleman's Assault Weapon, 1977, United States, 140mm, Close support rocket
+  - RPG-2, 1949, Soviet Union, 40mm, Reusable
+  - RPG-7, 1961, Soviet Union, 40mm, Reusable
+  - RPG-16, 1970, Soviet Union, 58.3mm, Reusable
+  - RPG-18, 1972, Soviet Union, 64mm, Disposable
+  - RPG-22, 1985, Soviet Union, 72.5mm, Disposable
+  - RPG-26, 1985, Soviet Union, 72.5mm, Disposable
+  - RPG-27, 1989, Soviet Union, 105mm, Disposable
+  - RPG-28, 2007, Russia, 125mm, Disposable
+  - RPG-29, 1989, Soviet Union, 40mm, Reusable
+  - RPG-30, 2008, Russia, 105mm, Disposable
+  - RPG-32, 1961, Russia, 40mm, Reusable
+  - RPG-76, 1985, Poland, 68mm, Disposable
+  - Type 69 RPG, 1969, China, 40mm, Reusable
+  - Yasin, 2004, Palestine, 40mm, Reusable
+
+=== Table ID: 2-16186036-1 ===
+=== Table Title: Pavel Složil ===
+Columns: Outcome, Date, Tournament, Surface, Partner, Opponents in the final, Score in the final
+  - Runner-up, 1978, Kitzbühel , Austria, Clay, Pavel Hutka, Mike Fishbach Chris Lewis, 7–6, 4–6, 3–6
+  - Runner-up, 1978, Madrid , Spain, Clay, Tomáš Šmíd, Wojtek Fibak Jan Kodeš, 7–6, 1–6, 2–6
+  - Runner-up, 1979, Nice , France, Clay, Tomáš Šmíd, Peter McNamara Paul McNamee, 1–6, 6–3, 2–6
+  - Runner-up, 1979, Florence , Italy, Clay, Ivan Lendl, Paolo Bertolucci Adriano Panatta, 4–6, 3–6
+  - Runner-up, 1979, Stuttgart Outdoor , Germany, Clay, Wojtek Fibak, Colin Dowdeswell Frew McMillan, 4–6, 2–6, 6–2, 4–6
+  - Runner-up, 1979, Cologne , Germany, Hard (i), Heinz Günthardt, Gene Mayer Stan Smith, 3–6, 4–6
+  - Runner-up, 1980, Vienna , Austria, Clay, Tomáš Šmíd, Gianni Ocleppo Christophe Roger-Vasselin, DEF
+  - Runner-up, 1980, Barcelona , Spain, Clay, Balázs Taróczy, Steve Denton Ivan Lendl, 2–6, 7–6, 3–6
+  - Runner-up, 1980, Vienna , Austria, Hard (i), Heinz Günthardt, Robert Lutz Stan Smith, 1–6, 2–6
+  - Runner-up, 1981, Linz , Austria, Hard (i), Brad Drewett, Anders Järryd Hans Simonsson, 4–6, 6–7
+  - Runner-up, 1981, Nice , France, Clay, Chris Lewis, Yannick Noah Pascal Portes, 6–4, 3–6, 4–6
+  - Runner-up, 1981, Monte Carlo , Monaco, Clay, Tomáš Šmíd, Heinz Günthardt Balázs Taróczy, 3–6, 3–6
+  - Winner, 1981, Florence , Italy, Clay, Raúl Ramírez, Paolo Bertolucci Adriano Panatta, 6–3, 3–6, 6–3
+  - Winner, 1981, Boston , U.S., Clay, Raúl Ramírez, Hans Gildemeister Andrés Gómez, 6–4, 7–6
+  - Runner-up, 1981, Washington, D.C. , U.S., Clay, Ferdi Taygan, Raúl Ramírez Van Winitsky, 7–5, 6–7, 6–7
+  - Runner-up, 1981, North Conway , U.S., Clay, Ferdi Taygan, Heinz Günthardt Peter McNamara, 5–7, 4–6
+  - Runner-up, 1981, Geneva , Switzerland, Clay, Tomáš Šmíd, Heinz Günthardt Balázs Taróczy, 4–6, 6–3, 2–6
+  - Runner-up, 1981, Basel , Switzerland, Hard (i), Markus Günthardt, José Luis Clerc Ilie Năstase, 6–7, 7–6, 6–7
+  - Winner, 1982, Genova WCT , Italy, Carpet, Tomáš Šmíd, Mike Cahill Buster Mottram, 6–7, 7–5, 6–3
+  - Winner, 1982, Brussels , Belgium, Hard (i), Sherwood Stewart, Tracy Delatte Chris Dunk, 6–4, 6–7, 7–5
+  - Winner, 1982, Madrid , Spain, Clay, Tomáš Šmíd, Heinz Günthardt Balázs Taróczy, 6–1, 3–6, 9–7
+  - Winner, 1982, Hamburg , Germany, Clay, Tomáš Šmíd, Anders Järryd Hans Simonsson, 6–4, 6–3
+  - Runner-up, 1982, Kitzbühel , Austria, Clay, Rod Frawley, Mark Edmondson Kim Warwick, 6–4, 4–6, 3–6
+  - Runner-up, 1982, Cap d'Agde WCT , France, Clay, Tomáš Šmíd, Andy Andrews Drew Gitlin, 2–6, 4–6
+  - Winner, 1982, Geneva , Switzerland, Clay, Tomáš Šmíd, Carl Limberger Mike Myburg, 6–4, 6–0
+  - Runner-up, 1982, Basel , Switzerland, Hard (i), Fritz Buehning, Henri Leconte Yannick Noah, 2–6, 2–6
+  - Winner, 1982, Vienna , Austria, Carpet, Henri Leconte, Mark Dickson Terry Moor, 6–1, 7–6
+  - Winner, 1982, Dortmund WCT , Germany, Carpet, Tomáš Šmíd, Mike Cahill Francisco González, 6–2, 6–7, 6–1
+  - Winner, 1982, Toulouse , France, Hard (i), Tomáš Šmíd, Jean-Louis Haillet Yannick Noah, 6–4, 6–4
+  - Winner, 1983, Richmond WCT , U.S., Carpet, Tomáš Šmíd, Fritz Buehning Brian Teacher, 6–2, 6–4
+  - Winner, 1983, Delray Beach WCT , U.S., Clay, Tomáš Šmíd, Anand Amritraj Johan Kriek, 7–6, 6–4
+  - Runner-up, 1983, Rotterdam , Netherlands, Hard (i), Peter Fleming, Fritz Buehning Tom Gullikson, 6–7, 6–4, 6–7
+  - Winner, 1983, Milan , Italy, Carpet, Tomáš Šmíd, Fritz Buehning Peter Fleming, 6–2, 5–7, 6–4
+  - Runner-up, 1983, Lisbon , Portugal, Clay, Ferdi Taygan, Carlos Kirmayr Cassio Motta, 5–7, 4–6
+  - Winner, 1983, Madrid , Spain, Clay, Heinz Günthardt, Markus Günthardt Zoltan Kuharszky, 6–3, 6–3
+  - Winner, 1983, Munich , Germany, Clay, Chris Lewis, Anders Järryd Tomáš Šmíd, 6–4, 6–2
+  - Winner, 1983, Gstaad , Switzerland, Clay, Tomáš Šmíd, Colin Dowdeswell Wojtek Fibak, 6–7, 6–4, 6–2
+  - Runner-up, 1983, Stuttgart Outdoor , Germany, Clay, Tomáš Šmíd, Anand Amritraj Mike Bauer, 6–4, 3–6, 2–6
+  - Winner, 1983, Kitzbühel , Austria, Clay, Wojtek Fibak, Colin Dowdeswell Zoltan Kuharszky, 7–5, 6–2
+  - Winner, 1983, Basel , Switzerland, Hard (i), Tomáš Šmíd, Stefan Edberg Florin Segărceanu, 6–1, 3–6, 7–6
+  - Winner, 1983, Toulouse , France, Hard (i), Heinz Günthardt, Bernard Mitton Butch Walts, 5–7, 7–5, 6–4
+  - Winner, 1984, Masters Doubles WCT , London, Carpet, Tomáš Šmíd, Anders Järryd Hans Simonsson, 1–6, 6–3, 3–6, 6–1, 6–3
+  - Winner, 1984, Milan , Italy, Carpet, Tomáš Šmíd, Kevin Curren Steve Denton, 6–4, 6–3
+  - Runner-up, 1984, French Open, Paris, Clay, Tomáš Šmíd, Henri Leconte Yannick Noah, 4–6, 6–2, 6–3, 3–6, 2–6
+  - Winner, 1984, Washington, D.C. , U.S., Clay, Ferdi Taygan, Drew Gitlin Blaine Willenborg, 7–6, 6–1
+  - Winner, 1984, Bordeaux , France, Clay, Blaine Willenborg, Loïc Courteau Guy Forget, 6–1, 6–4
+  - Winner, 1984, Barcelona , Spain, Clay, Tomáš Šmíd, Martín Jaite Víctor Pecci, 6–2, 6–0
+  - Winner, 1984, Basel , Switzerland, Hard (i), Tomáš Šmíd, Stefan Edberg Tim Wilkison, 7–6, 6–2
+  - Runner-up, 1984, Wembley , England, Carpet, Tomáš Šmíd, Andrés Gómez Ivan Lendl, 2–6, 2–6
+  - Winner, 1984, Treviso , Italy, Clay, Tim Wilkison, Jan Gunnarsson Sherwood Stewart, 6–2, 6–3
+  - Runner-up, 1984, Toulouse , France, Hard (i), Tim Wilkison, Jan Gunnarsson Michael Mortensen, 4–6, 2–6
+  - Runner-up, 1984, Masters , New York, Carpet, Tomáš Šmíd, Peter Fleming John McEnroe, 2–6, 2–6
+  - Winner, 1985, Memphis , U.S., Carpet, Tomáš Šmíd, Kevin Curren Steve Denton, 1–6, 6–3, 6–4
+  - Winner, 1985, Rotterdam , Netherlands, Carpet, Tomáš Šmíd, Vitas Gerulaitis Paul McNamee, 6–4, 6–4
+  - Winner, 1985, Monte Carlo , Monaco, Clay, Tomáš Šmíd, Shlomo Glickstein Shahar Perkiss, 6–2, 6–3
+  - Winner, 1985, Nice , France, Clay, Claudio Panatta, Loïc Courteau Guy Forget, 3–6, 6–3, 8–6
+  - Runner-up, 1985, Indianapolis , U.S., Clay, Kim Warwick, Ken Flach Robert Seguso, 4–6, 4–6
+  - Runner-up, 1985, Toulouse , France, Hard (i), Tomáš Šmíd, Ricardo Acuña Jakob Hlasek, 6–3, 2–6, 7–9
+  - Winner, 1986, Nice , France, Clay, Jakob Hlasek, Gary Donnelly Colin Dowdeswell, 6–3, 4–6, 11–9
+  - Winner, 1986, Saint Vincent , Italy, Clay, Libor Pimek, Bud Cox Michael Fancutt, 6–3, 6–3
+  - Runner-up, 1986, Toulouse , France, Hard (i), Jakob Hlasek, Miloslav Mečíř Tomáš Šmíd, 2–6, 6–3, 4–6
+
+=== Table ID: 2-1618788-2 ===
+=== Table Title: Rob Austin ===
+Columns: Year, Entrant, Chassis, Engine, Points
+  - 2000, Carlin Motorsport, Dallara F398, Honda, 0
+  - 2001, Alain Menu Racing, Dallara F301, Renault Sodemo, 8
+  - 2002, Menu Motorsport, Dallara F302, Opel Spiess, 94
+  - 2003, Menu F3 Motorsport, Dallara F303, Opel Spiess, 110
+  - 2004, Menu F3 Motorsport, Dallara F304, Opel, 32
+
+=== Table ID: 2-16188254-6 ===
+=== Table Title: 1994–95 Cleveland Cavaliers season ===
+Columns: Date, Visitor, Score, Home, Leading scorer, Attendance, Record
+  - February 1, Cleveland, 82-101, Indiana, Hot Rod Williams , 14 points, Market Square Arena 13,972, 26-17
+  - February 2, Cleveland, 83-85, Detroit, Terrell Brandon , 15 points, The Palace of Auburn Hills 13,286, 26-18
+  - February 4, Indiana, 73-82, Cleveland, Hot Rod Williams , 19 points, Gund Arena 20,562, 27-18
+  - February 7, Philadelphia, 84-90, Cleveland, 2 way tie, 16 points, Gund Arena 20,130, 28-18
+  - February 8, Cleveland, 67-75, Boston, Terrell Brandon , 19 points, Boston Garden 14,890, 28-19
+  - February 15, Orlando, 99-100, Cleveland, Terrell Brandon , 31 points, Gund Arena 20,562, 29-19
+  - February 16, Cleveland, 106-85, Milwaukee, Chris Mills , 23 points, Bradley Center 13,498, 30-19
+  - February 18, Cleveland, 82-75, New Jersey, Chris Mills , 23 points, Brendan Byrne Arena 15,652, 31-19
+  - February 20, Miami, 103-96, Cleveland, Hot Rod Williams , 20 points, Gund Arena 20,562, 31-20
+  - February 21, Cleveland, 99-91, New York, Danny Ferry , 20 points, Madison Square Garden 19,763, 32-20
+  - February 25, New Jersey, 102-105, Cleveland, Danny Ferry , 24 points, Gund Arena 20,562, 33-20
+  - February 27, Cleveland, 78-86, Houston, Terrell Brandon , 26 points, The Summit 14,253, 33-21
+  - February 28, Cleveland, 83-100, San Antonio, Terrell Brandon , 17 points, Alamodome 15,546, 33-22
+
+=== Table ID: 2-1618840-1 ===
+=== Table Title: Fabio Babini ===
+Columns: Year, Team, Co-Drivers, Class, Laps, Pos., Class Pos.
+  - 2000, Haberthur Racing, Gabrio Rosa Michele Ligonnet, GT, 310, DNF, DNF
+  - 2001, Seikel Motorsport, Gabrio Rosa Luca Drudi, GT, 283, 6th, 1st
+  - 2003, JMB Racing, David Terrien Fabrizio de Simone, GT, 273, 25th, 7th
+  - 2006, BMS Scuderia Italia, Fabrizio Gollin Christian Pescatori, GT1, 3, DNF, DNF
+  - 2007, Aston Martin Racing BMS, Jamie Davies Matteo Malucelli, GT1, 336, 11th, 6th
+  - 2008, BMS Scuderia Italia, Matteo Malucelli Paolo Ruberti, GT2, 318, 22nd, 2nd
+  - 2009, BMS Scuderia Italia, Matteo Malucelli Paolo Ruberti, GT2, 327, 19th, 2nd
+
+=== Table ID: 2-16190274-2 ===
+=== Table Title: 2008 Eastern Creek round of the V8 Supercar Championship ===
+Columns: Name, Team, Laps, Time/Retired, Grid, Points
+  - Garth Tander, Holden Racing Team, 31, 50:19.8503, 1, 100
+  - Will Davison, Jim Beam Racing, 31, + 6.4s, 6, 92
+  - Jamie Whincup, Team Vodafone, 31, + 7.2s, 4, 86
+  - Rick Kelly, HSV Dealer Team, 31, + 9.4s, 3, 80
+  - James Courtney, Stone Brothers Racing, 31, + 10.9s, 7, 74
+  - Mark Skaife, Holden Racing Team, 31, + 14.0s, 2, 68
+  - Craig Lowndes, Team Vodafone, 31, + 14.6s, 11, 64
+  - Lee Holdsworth, Garry Rogers Motorsport, 31, + 15.8s, 8, 60
+  - Greg Murphy, Tasman Motorsport, 31, + 19.3s, 13, 56
+  - Mark Winterbottom, Ford Performance Racing, 31, + 19.6s, 15, 52
+  - Russell Ingall, Supercheap Auto Racing, 31, + 37.3s, 22, 48
+  - Jason Richards, Tasman Motorsport, 31, + 38.6s, 12, 46
+  - Todd Kelly, Jack Daniel's Racing, 31, + 41.8s, 18, 44
+  - Fabian Coulthard, Glenfords Racing, 31, + 44.9s, 14, 42
+  - Cameron McConville, Brad Jones Racing, 31, + 47.2s, 5, 40
+  - Paul Dumbrell, HSV Dealer Team, 31, + 36.5s, 9, 38
+  - Shane Van Gisbergen, Stone Brothers Racing, 31, + 47.5s, 10, 36
+  - Paul Morris, Team Sirromet Wines, 31, + 40.2s, 25, 34
+  - Shane Price, Jack Daniel's Racing, 31, + 48.5s, 20, 32
+  - Jason Bright, Britek Motorsport, 31, + 50.2s, 17, 30
+  - Steven Johnson, Jim Beam Racing, 31, + 50.3s, 16, 28
+  - Andrew Jones, Brad Jones Racing, 31, + 52.8s, 21, 26
+  - Tony D'Alberto, Rod Nash Racing, 31, + 53.8s, 24, 24
+  - Andrew Thompson, Paul Weel Racing, 31, + 72.4s, 26, 22
+  - Michael Caruso, Garry Rogers Motorsport, 31, + 88.7s, 23, 20
+  - Marcus Marshall, Britek Motorsport, 30, + 1 lap, 28, 18
+  - Steven Richards, Ford Performance Racing, 30, + 1 lap, 19, 16
+  - Chris Pither, Team Kiwi Racing, 30, + 1 lap, 27, 14
+
+=== Table ID: 2-16193070-1 ===
+=== Table Title: List of golfers with most Asian Tour wins ===
+Columns: Rank, Player, Lifespan, Country, Wins, Winning span
+  - 1, Thaworn Wiratchant, 1966–, Thailand, 16, 1996–2013
+  - 2, Thongchai Jaidee, 1969–, Thailand, 13, 2000–2010
+  - 3, Jyoti Randhawa, 1972–, India, 8, 1998–2009
+  - T4, Arjun Atwal, 1973–, India, 7, 1999–2008
+  - T4, Kang Wook-soon, 1966–, South Korea, 7, 1996–2001
+  - T4, Charlie Wi, 1972–, South Korea, 7, 1996–2006
+  - T4, Prayad Marksaeng, 1966–, Thailand, 7, 1996–2013
+  - T8, K. J. Choi *, 1970–, South Korea, 6, 1999–2012
+  - T8, Jeev Milkha Singh, 1971–, India, 6, 1995–2008
+  - T8, Miguel Ángel Jiménez ^, 1964–, Spain, 6, 2004–2012
+  - T8, Lin Wen-tang, 1974–, Taiwan, 6, 2006–2013
+  - T12, Boonchu Ruangkit, 1956–, Thailand, 5, 1995–2004
+  - T12, Scott Hend, 1973–, Australia, 5, 2008–2013
+  - T12, Lin Keng-chi, 1966–, Taiwan, 5, 1995–2003
+  - T12, Lu Wen-teh, 1963–, Taiwan, 5, 1998–2008
+  - T12, Gerry Norquist, 1962–, United States, 5, 1995–1999
+  - T12, Thammanoon Srirot, 1969–, Thailand, 5, 1996–2004
+
+=== Table ID: 2-16195179-2 ===
+=== Table Title: 2008 IAAF World Indoor Championships – Men's 800 metres ===
+Columns: Heat, Lane, Name, Country, Mark
+  - 1, 6, Dmitriy Bogdanov, Russia, 1:48.38
+  - 1, 2, Fabiano Peçanha, Brazil, 1:49.03 PB
+  - 1, 4, Abdoulaye Wagne, Senegal, 1:49.07 PB
+  - 1, 5, Jozef Repcik, Slovakia, 1:49.15
+  - 1, 3, Michael Blackwood, Jamaica, 1:52.69
+  - 2, 3, Yusuf Saad Kamel, Bahrain, 1:48.71
+  - 2, 5, Abraham Chepkirwok, Uganda, 1:48.80
+  - 2, 6, Dmitrijs Milkevics, Latvia, 1:49.10
+  - 2, 4, Mattias Claesson, Sweden, 1:49.12
+  - 2, 2, Fadrique Iglesias, Bolivia, 1:50.55
+  - 3, 6, Mbulaeni Mulaudzi, South Africa, 1:50.86
+  - 3, 3, Manuel Olmedo, Spain, 1:51.07
+  - 3, 4, Jakub Holuša, Czech Republic, 1:51.09
+  - 3, 5, Damien Moss, United Kingdom, 1:51.39
+  - 3, 2, Eduard Villanueva, Venezuela, 1:51.83
+  - 4, 5, Nick Symmonds, United States, 1:49.30
+  - 4, 4, Lukas Rifeser, Italy, 1:49.51
+  - 4, 1, Moise Joseph, Haiti, 1:49.70 SB
+  - 4, 3, Aldwyn Sappleton, Jamaica, 1:51.24
+  - 4, 6, Richard Kiplagat, Kenya, DSQ
+  - 4, 2, Lamine Bangoura, Guinea, DNF
+  - 5, 4, Robert Lathouwers, Netherlands, 1:49.32
+  - 5, 5, Khadevis Robinson, United States, 1:49.33
+  - 5, 3, Amine Laalou, Morocco, 1:49.41
+  - 5, 6, Yuriy Koldin, Russia, 1:49.60
+  - 5, 2, Deon Bascom, Guyana, 1:55.88
+  - 5, 1, Florian Hilti, Liechtenstein, 1:59.91 SB
+  - 6, 1, Abubaker Kaki Khamis, Sudan, 1:47.80
+  - 6, 6, Eugenio Barrios, Spain, 1:48.70
+  - 6, 3, Richard Hill, United Kingdom, 1:49.06
+  - 6, 4, Ehsan Mohajer Shojaei, Iran, 1:49.14
+  - 6, 2, Dávid Takács, Hungary, 1:49.79 SB
+
+=== Table ID: 2-16196238-3 ===
+=== Table Title: 2008 IAAF World Indoor Championships – Women's 400 metres ===
+Columns: Heat, Lane, Name, Country, Mark
+  - 1, 5, Olesya Zykina, Russia, 51.75
+  - 1, 3, Antonina Yefremova, Ukraine, 51.79 PB
+  - 1, 6, Moushaumi Robinson, United States, 51.85 PB
+  - 1, 1, Racheal Nachula, Zambia, 53.30 NR
+  - 1, 2, Makelesi Batimala, Fiji, 54.23
+  - 1, 4, Christy Ekpukhon Ihunaeqbo, Nigeria, DNS
+  - 2, 6, Natalya Nazarova, Russia, 51.62
+  - 2, 3, Shareese Woods, United States, 51.87 PB
+  - 2, 4, Angela Morosanu, Romania, 52.83 SB
+  - 2, 2, Zuzana Hejnová, Czech Republic, 53.16
+  - 2, 5, Amantle Montsho, Botswana, 53.21
+  - 2, 1, Nataliya Pyhyda, Ukraine, 53.33
+
+=== Table ID: 2-16197487-1 ===
+=== Table Title: 1999–2000 FA Cup ===
+Columns: Round, Date, Matches, Clubs, New entries this round, Prize money
+  - Preliminary Round, 21 August 1999, 166, 558 → 392, 161: 227th–387th, £1,000
+  - First Round Qualifying, 4 September 1999, 116, 392 → 276, 66: 161st–226th, £2,250
+  - Second Round Qualifying, 18 September 1999, 80, 276 → 196, 44: 117th–160th, £3,750
+  - Third Round Qualifying, 2 October 1999, 40, 196 → 156, none, £5,000
+  - Fourth Round Qualifying, 16 October 1999, 32, 156 → 124, 24: 93rd–116th, £10,000
+  - First Round Proper, 30 October 1999, 40, 124 → 84, 48: 45th–92nd, £16,000
+  - Second Round Proper, 19 October 1999, 20, 84 → 64, none, £24,000
+  - Third Round Proper, 10 December 1999, 32, 64 → 32, 43: 2nd–44th, £40,000
+  - Fourth Round Proper, 8 January 2000, 16, 32 → 16, none, £60,000
+  - Fifth Round Proper, 29 January 2000, 8, 16 → 8, none, £120,000
+  - Sixth Round Proper, 19 February 2000, 4, 8 → 4, none, £300,000
+  - Semi Finals, 2 April 2000, 2, 4 → 2, none, £900,000
+  - Final, 20 May 2000, 1, 2 → 1, none, £1,000,000
+
+=== Table ID: 2-16198456-2 ===
+=== Table Title: 1997–98 FA Cup ===
+Columns: Tie no, Home team, Score, Away team, Attendance
+  - 1, Blackpool, 4–3, Blyth Spartans, 15 November 1997
+  - 2, Chester City, 2–1, Winsford United, 15 November 1997
+  - 3, Chesterfield, 1–0, Northwich Victoria, 15 November 1997
+  - 4, Darlington, 1–1, Solihull Borough, 15 November 1997
+  - Replay, Solihull Borough, 3–3, Darlington, 26 November 1997
+  - Darlington won 4–2 on penalties, Darlington won 4–2 on penalties, Darlington won 4–2 on penalties, Darlington won 4–2 on penalties, Darlington won 4–2 on penalties
+  - 5, Bournemouth, 3–0, Heybridge Swifts, 15 November 1997
+  - 6, Barnet, 1–2, Watford, 15 November 1997
+  - 7, Bristol City, 1–0, Millwall, 15 November 1997
+  - 8, Preston North End, 3–2, Doncaster Rovers, 15 November 1997
+  - 9, Rochdale, 0–2, Wrexham, 15 November 1997
+  - 10, Walsall, 2–0, Lincoln United, 15 November 1997
+  - 11, Woking, 0–2, Southend United, 15 November 1997
+  - 12, Notts County, 2–0, Colwyn Bay, 16 November 1997
+  - 13, Lincoln City, 1–1, Gainsborough Trinity, 15 November 1997
+  - Replay, Lincoln City, 3–2, Gainsborough Trinity, 25 November 1997
+  - 14, Luton Town, 0–1, Torquay United, 15 November 1997
+  - 15, Shrewsbury Town, 1–1, Grimsby Town, 15 November 1997
+  - Replay, Grimsby Town, 4–0, Shrewsbury Town, 25 November 1997
+  - 16, Wycombe Wanderers, 2–2, Basingstoke Town, 15 November 1997
+  - Replay, Basingstoke Town, 2–2, Wycombe Wanderers, 25 November 1997
+  - Basingstoke Town won 5–4 on penalties, Basingstoke Town won 5–4 on penalties, Basingstoke Town won 5–4 on penalties, Basingstoke Town won 5–4 on penalties, Basingstoke Town won 5–4 on penalties
+  - 17, Brentford, 2–2, Colchester United, 15 November 1997
+  - Replay, Colchester United, 0–0, Brentford, 25 November 1997
+  - Colchester United won 4–2 on penalties, Colchester United won 4–2 on penalties, Colchester United won 4–2 on penalties, Colchester United won 4–2 on penalties, Colchester United won 4–2 on penalties
+  - 18, Bristol Rovers, 2–2, Gillingham, 14 November 1997
+  - Replay, Gillingham, 0–2, Bristol Rovers, 25 November 1997
+  - 19, King's Lynn, 1–0, Bromsgrove Rovers, 15 November 1997
+  - 20, Plymouth Argyle, 0–0, Cambridge United, 15 November 1997
+  - Replay, Cambridge United, 3–2, Plymouth Argyle, 25 November 1997
+  - 21, Hull City, 0–2, Hednesford Town, 15 November 1997
+  - 22, Carlisle United, 0–1, Wigan Athletic, 15 November 1997
+  - 23, Oldham Athletic, 1–1, Mansfield Town, 15 November 1997
+  - Replay, Mansfield Town, 0–1, Oldham Athletic, 25 November 1997
+  - 24, Exeter City, 1–1, Northampton Town, 15 November 1997
+  - Replay, Northampton Town, 2–1, Exeter City, 25 November 1997
+  - 25, Scunthorpe United, 2–1, Scarborough, 15 November 1997
+  - 26, Margate, 1–2, Fulham, 16 November 1997
+  - 27, Cheltenham Town, 2–1, Tiverton Town, 15 November 1997
+  - 28, Southport, 0–4, York City, 15 November 1997
+  - 29, Morecambe, 1–1, Emley, 15 November 1997
+  - Replay, Emley, 3–3, Morecambe, 25 November 1997
+  - Emley won 3–1 on penalties, Emley won 3–1 on penalties, Emley won 3–1 on penalties, Emley won 3–1 on penalties, Emley won 3–1 on penalties
+  - 30, Carshalton Athletic, 0–0, Stevenage Borough, 15 November 1997
+  - Replay, Stevenage Borough, 5–0, Carshalton Athletic, 24 November 1997
+  - 31, Hereford United, 2–1, Brighton & Hove Albion, 15 November 1997
+  - 32, Rotherham United, 3–3, Burnley, 15 November 1997
+  - Replay, Burnley, 0–3, Rotherham United, 25 November 1997
+  - 33, Hayes, 0–1, Boreham Wood, 15 November 1997
+  - 34, Hendon, 2–2, Leyton Orient, 15 November 1997
+  - Replay, Leyton Orient, 0–1, Hendon, 25 November 1997
+  - 35, Ilkeston Town, 2–1, Boston United, 15 November 1997
+  - 36, Slough Town, 1–1, Cardiff City, 15 November 1997
+  - Replay, Cardiff City, 3–2, Slough Town, 25 November 1997
+  - 37, Swansea City, 1–4, Peterborough United, 14 November 1997
+  - 38, Farnborough Town, 0–1, Dagenham & Redbridge, 15 November 1997
+  - 39, Hartlepool United, 2–4, Macclesfield Town, 15 November 1997
+  - 40, Billericay Town, 2–3, Wisbech Town, 15 November 1997
+
+=== Table ID: 2-16198456-4 ===
+=== Table Title: 1997–98 FA Cup ===
+Columns: Tie no, Home team, Score, Away team, Date
+  - 1, Darlington, 0–4, Wolverhampton Wanderers, 14 January 1998
+  - 2, Bournemouth, 0–1, Huddersfield Town, 13 January 1998
+  - 3, Liverpool, 1–3, Coventry City, 3 January 1998
+  - 4, Preston North End, 1–2, Stockport County, 3 January 1998
+  - 5, Watford, 1–1, Sheffield Wednesday, 3 January 1998
+  - Replay, Sheffield Wednesday, 0–0, Watford, 14 January 1998
+  - Sheffield Wednesday won 5–3 on penalties, Sheffield Wednesday won 5–3 on penalties, Sheffield Wednesday won 5–3 on penalties, Sheffield Wednesday won 5–3 on penalties, Sheffield Wednesday won 5–3 on penalties
+  - 6, Leicester City, 4–0, Northampton Town, 3 January 1998
+  - 7, Blackburn Rovers, 4–2, Wigan Athletic, 3 January 1998
+  - 8, Grimsby Town, 3–0, Norwich City, 3 January 1998
+  - 9, Crewe Alexandra, 1–2, Birmingham City, 3 January 1998
+  - 10, West Bromwich Albion, 3–1, Stoke City, 13 January 1998
+  - 11, Derby County, 2–0, Southampton, 3 January 1998
+  - 12, Everton, 0–1, Newcastle United, 4 January 1998
+  - 13, Swindon Town, 1–2, Stevenage Borough, 3 January 1998
+  - 14, Sheffield United, 1–1, Bury, 3 January 1998
+  - Replay, Bury, 1–2, Sheffield United, 13 January 1998
+  - 15, Tottenham Hotspur, 3–1, Fulham, 5 January 1998
+  - 16, Manchester City, 2–0, Bradford City, 3 January 1998
+  - 17, Queens Park Rangers, 2–2, Middlesbrough, 3 January 1998
+  - Replay, Middlesbrough, 2–0, Queens Park Rangers, 13 January 1998
+  - 18, Barnsley, 1–0, Bolton Wanderers, 3 January 1998
+  - 19, Bristol Rovers, 1–1, Ipswich Town, 3 January 1998
+  - Replay, Ipswich Town, 1–0, Bristol Rovers, 13 January 1998
+  - 20, Portsmouth, 2–2, Aston Villa, 3 January 1998
+  - Replay, Aston Villa, 1–0, Portsmouth, 14 January 1998
+  - 21, West Ham United, 2–1, Emley, 3 January 1998
+  - 22, Crystal Palace, 2–0, Scunthorpe United, 3 January 1998
+  - 23, Chelsea, 3–5, Manchester United, 4 January 1998
+  - 24, Wimbledon, 0–0, Wrexham, 4 January 1998
+  - Replay, Wrexham, 2–3, Wimbledon, 13 January 1998
+  - 25, Cardiff City, 1–0, Oldham Athletic, 3 January 1998
+  - 26, Charlton Athletic, 4–1, Nottingham Forest, 3 January 1998
+  - 27, Arsenal, 0–0, Port Vale, 3 January 1998
+  - Replay, Port Vale, 1–1, Arsenal, 14 January 1998
+  - Arsenal won 4–3 on penalties, Arsenal won 4–3 on penalties, Arsenal won 4–3 on penalties, Arsenal won 4–3 on penalties, Arsenal won 4–3 on penalties
+  - 28, Cheltenham Town, 1–1, Reading, 13 January 1998
+  - Replay, Reading, 2–1, Cheltenham Town, 20 January 1998
+  - 29, Leeds United, 4–0, Oxford United, 3 January 1998
+  - 30, Hereford United, 0–3, Tranmere Rovers, 13 January 1998
+  - 31, Rotherham United, 1–5, Sunderland, 3 January 1998
+  - 32, Peterborough United, 0–2, Walsall, 13 January 1998
+
+=== Table ID: 2-16201038-1 ===
+=== Table Title: Missouri Tigers men's basketball ===
+Columns: Coach, Years, Seasons, Record, Winning %
+  - Frank Haith, 2011–Present, 2, 52-14, 0.788
+  - Mike Anderson, 2006-11, 5, 111-57, 0.661
+  - Melvin Watkins *, 2005–06, 1, 2–5, 0.286
+  - Quin Snyder, 1999–2005, 6, 126–91, 0.580
+  - Norm Stewart, 1967–99, 32, 634–333, 0.656
+  - Bob Vanatta, 1962–67, 5, 42–80, 0.344
+  - Wilbur Stalcup, 1946–62, 16, 195–179, 0.521
+  - George Edwards, 1926–46, 20, 181–172, 0.513
+  - George Bond, 1922–26, 4, 34–38, 0.472
+  - Craig Ruby, 1920–22, 2, 33–2, 0.933
+  - Walter Meanwell, 1917–18, 1919–20, 2, 34–2, 0.944
+  - John Miller, 1916–17, 1918–19, 2, 26–7, 0.788
+  - Eugene Van Gent, 1914–16, 2, 21–9, 0.700
+  - Osmond F. Field, 1911–14, 3, 22–27, 0.449
+  - Chester Brewer, 1910–11, 1, 5–7, 0.417
+  - Guy Lowman, 1908–10, 2, 19–15, 0.559
+  - A. M. Ebright, 1907–08, 1, 8–10, 0.444
+  - Isadore Anderson, 1906–07, 1, 10–6, 0.625
+
+=== Table ID: 2-16201038-3 ===
+=== Table Title: Missouri Tigers men's basketball ===
+Columns: Missouri vs., Overall Record, at Columbia, at Opponent's Venue, at Neutral Site, Last 5 Meetings, Last 10 Meetings, Current Streak, During Time in Big 12
+  - Baylor, MU, 16-10, MU, 10-2, BU, 6-4, Tied, 2-2, MU, 4-1, MU, 7-3, W 4, MU, 13-6
+  - Iowa State, MU, 149-84, MU, 84-21, ISU, 56-49, MU, 16-5, MU, 5-0, MU, 9-1, W 9, MU, 20-14
+  - Kansas, KU, 173-95, KU, 65-57, KU, 89-31, KU, 19-7, KU, 4-1, KU, 8-2, L 1, KU, 25-10
+  - Kansas State, KSU, 118-117, MU, 64-41, KSU, 60-44, KSU, 15-8, KSU, 4-1, KSU, 6-4, L 3, MU, 18-15
+  - Oklahoma, OU, 112-97, MU, 62-31, OU, 65-21, OU, 16-14, MU, 4-1, MU, 7-3, W 3, OU, 13-11
+  - Oklahoma State, MU, 77-41, MU, 45-7, OSU, 29-21, MU, 10-5, MU, 3-2, MU, 7-3, W 2, MU, 11-9
+  - Texas, MU, 14-12, MU, 7-4, UT, 6-4, MU, 3-2, MU, 4-1, MU, 6-4, W 3, UT, 11-9
+  - Texas A&M, MU, 14-11, MU, 6-3, TAMU, 7-4, MU, 4-1, MU, 3-2, TAMU, 7-3, W 1, Tied, 10-10
+  - Texas Tech, MU, 15-8, MU, 8-2, TTU, 6-3, MU, 4-0, MU, 5-0, MU, 8-2, W 7, MU, 13-7
+  - *As of March 14, 2013, *As of March 14, 2013, *As of March 14, 2013, *As of March 14, 2013, *As of March 14, 2013, *As of March 14, 2013, *As of March 14, 2013, *As of March 14, 2013, *As of March 14, 2013
+
+=== Table ID: 2-1620220-3 ===
+=== Table Title: No Sleep 'til Hammersmith ===
+Columns: Date, Region, Label, Catalogue, Format
+  - 27 June 1981, UK, Bronze, BRON 535, vinyl
+  - 27 June 1981, UK, Bronze, BRONG 535, gold vinyl
+  - 1990, UK, Castle, CLACD 179, CD
+  - 1996, UK, Essential, ESMCD313, CD
+  - 1996, North America, Dojo, DOJO 3035-2, CD
+  - 2001, UK, Sanctuary, SMEDD 043, 2CD
+
+=== Table ID: 2-1620260-1 ===
+=== Table Title: African Commission on Human and Peoples' Rights ===
+Columns: Name, Country of Origin, Position, Elected, Term
+  - Catherine Dupe Atoki, Nigeria, Chairperson, 2007, 2013
+  - Reine Alapini-Gansou, Benin, Member, 2005, 2011
+  - Prof. Pacifique Manirakiza, Burundi, Member, 2011, 2017
+  - Med Kaggwa, Uganda, Member, 2011, 2017
+  - Faith Pansy Tlakula, South Africa, Member, 2005, 2011
+  - Zainabo Sylvie Kayitesi, Rwanda, Vice Chairperson, 2007, 2009
+  - Soyata Maiga, Mali, Member, 2007, 2013
+  - Yeung Kam John Yeung Sik Yuen, Mauritius, Member, 2007, 2013
+  - Lucy Asuagbor, Cameroon, Member, 2010, 2013
+  - Mohamed Khalfallah, Tunisia, Member, 2009, 2015
+  - Maya Sahli Fadel, Algeria, Member, 2011, 2017
+
+=== Table ID: 2-16210649-4 ===
+=== Table Title: 2008–09 Central Coast Mariners season ===
+Columns: Name, Pre-Season, A-League, Finals, Total
+  - Matt Simon, 0, 11, 0, 11
+  - Mile Jedinak, 0, 0 6, 0, 0 6
+  - Sasho Petrovski, 0, 0 6, 0, 0 6
+  - Dylan Macallister, 0, 0 4, 0, 0 4
+  - Nik Mrdja, 0, 0 2, 1, 0 3
+  - Adrian Caceres, 0, 0 2, 0, 0 2
+  - John Hutchinson, 0, 0 2, 0, 0 2
+  - Matthew Osman, 0, 0 1, 0, 0 1
+  - Andre Gumprecht, 0, 0 1, 0, 0 1
+
+=== Table ID: 2-16212450-1 ===
+=== Table Title: 2008 British motorcycle Grand Prix ===
+Columns: Rider, Manufacturer, Laps, Time, Grid
+  - Casey Stoner, Ducati, 30, 44:44.982, 1
+  - Valentino Rossi, Yamaha, 30, +5.789, 2
+  - Dani Pedrosa, Honda, 30, +8.347, 9
+  - Colin Edwards, Yamaha, 30, +12.678, 5
+  - Andrea Dovizioso, Honda, 30, +14.801, 6
+  - Jorge Lorenzo, Yamaha, 30, +15.690, 17
+  - Nicky Hayden, Honda, 30, +18.196, 4
+  - Chris Vermeulen, Suzuki, 30, +21.666, 3
+  - Shinya Nakano, Honda, 30, +29.354, 10
+  - Anthony West, Kawasaki, 30, +41.030, 7
+  - Toni Elias, Ducati, 30, +44.426, 18
+  - Randy de Puniet, Honda, 30, +46.199, 14
+  - Sylvain Guintoli, Ducati, 30, +48.731, 12
+  - Ben Spies, Suzuki, 30, +49.591, 8
+  - Alex de Angelis, Honda, 30, +1:22.186, 13
+  - Marco Melandri, Ducati, 30, +1:30.021, 15
+  - James Toseland, Yamaha, 29, +1 Lap, 16
+  - John Hopkins, Kawasaki, 16, Retirement, 11
+
+=== Table ID: 2-16218722-2 ===
+=== Table Title: 1995 African Cup of Champions Clubs ===
+Columns: Team 1, Agg., Team 2, 1st leg, 2nd leg
+  - Real Banjul, 0–6, Mbilinga FC, 0–2, 0–4 1
+  - BCC Lions, 1–2, Orlando Pirates, 1–1, 0–1
+  - ASEC Abidjan, 4–2, Simba SC, 2–1, 2–1
+  - Goldfields Obuasi, 1–0, Stade Malien, 1–0, 0–0
+  - Espérance, 4–0, Fire Brigade SC, 2–0, 2–0
+  - Ismaili, 8–1, JS Saint-Pierroise, 5–0, 3–1
+  - Dynamos, 4–3, US Chaouia, 1–1, 3–2
+  - Express FC, 3–1, Aigle Nkongsamba, 3–0, 0–1
+
+=== Table ID: 2-1621984-6 ===
+=== Table Title: Paul Casey ===
+Columns: Tournament, Wins, Top-10, Top-25, Events, Cuts made
+  - Masters Tournament, 0, 2, 4, 8, 5
+  - U.S. Open, 0, 1, 2, 10, 5
+  - The Open Championship, 0, 2, 3, 11, 7
+  - PGA Championship, 0, 0, 2, 11, 7
+  - Totals, 0, 5, 11, 40, 24
+
+=== Table ID: 2-16221280-1 ===
+=== Table Title: List of the tallest statues in the United States ===
+Columns: Statue, Location, Height m, Height ft, Completed, Material
+  - Statue of Liberty (Liberty Enlightening the World), Liberty Island , New York, 46 m, 151ft, 1886, cast copper on metal armature
+  - Our Lady of the Rockies, Butte, Montana, 27 m, 88.6ft, 1985, cast concrete
+  - National Monument to the Forefathers, Plymouth, Massachusetts, 25 m, 81ft, 1907, solid granite
+  - Golden Driller, Tulsa, Oklahoma, 23 m, 75ft, 1953, cast concrete and plaster,
+  - Dallas Zoo 's giraffe statue, Dallas, Texas, 20.5 m, 67.6ft, 1997, bronze and plexiglass
+  - "Tribute to Courage" ( Sam Houston statue), Huntsville, Texas, 20.5 m, 67ft, 1994, cast concrete
+  - Christ of the Ozarks, Eureka Springs, Arkansas, 20 m, 65.5ft, 1966, cast concrete
+  - Vulcan statue, Birmingham, Alabama, 17.1 m, 56ft, 1904, cast iron
+  - Jolly Green Giant statue, Blue Earth, Minnesota, 16.8 m, 55ft, 1979, fiberglass
+  - Lux Mundi, Monroe , Ohio, 15.8m, 52ft, 2012, Polymer composite , steel
+  - Black Hawk Statue, Lowden State Park near Oregon, Illinois, 14.6 m, 48ft, 1911, concrete
+  - The Keeper of the Plains, Wichita, Kansas, 13.4 m, 44ft, 1974, Cor-Ten steel
+  - Athena Parthenos, Nashville, Tennessee, 12.8 m, 42ft, 1990, composite of gypsum cement and fiberglass
+  - Vision of Peace (Indian God of Peace), St. Paul, Minnesota, 11.58 m, 38ft, 1936, Mexican onyx
+  - Victory or "Miss Indiana", Indianapolis, Indiana, 11.58 m, 38ft, 1893, bronze
+  - William Penn, Philadelphia, Pennsylvania, 11.3 m, 37ft, 1894, bronze
+  - Iron Man, Chisholm, Minnesota, 11 m, 36ft, 1987, iron ore
+
+=== Table ID: 2-16222274-5 ===
+=== Table Title: 1994–95 FA Cup ===
+Columns: Tie no, Home team, Score, Away team, Attendance
+  - 1, Bristol City, 0–1, Everton, 29 January 1995
+  - 2, Burnley, 0–0, Liverpool, 20,551
+  - Replay, Liverpool, 1–0, Burnley, 32,109
+  - 3, Watford, 1–0, Swindon Town, 28 January 1995
+  - 4, Nottingham Forest, 1–2, Crystal Palace, 28 January 1995
+  - 5, Sheffield Wednesday, 0–0, Wolverhampton Wanderers, 30 January 1995
+  - Replay, Wolverhampton Wanderers, 1–1, Sheffield Wednesday, 8 February 1995
+  - Wolverhampton Wanderers won 4–3 on penalties, Wolverhampton Wanderers won 4–3 on penalties, Wolverhampton Wanderers won 4–3 on penalties, Wolverhampton Wanderers won 4–3 on penalties, Wolverhampton Wanderers won 4–3 on penalties
+  - 6, Sunderland, 1–4, Tottenham Hotspur, 29 January 1995
+  - 7, Luton Town, 1–1, Southampton, 28 January 1995
+  - Replay, Southampton, 6–0, Luton Town, 8 February 1995
+  - 8, Tranmere Rovers, 0–2, Wimbledon, 29 January 1995
+  - 9, Newcastle United, 3–0, Swansea City, 28 January 1995
+  - 10, Manchester City, 1–0, Aston Villa, 28 January 1995
+  - 11, Queens Park Rangers, 1–0, West Ham United, 28 January 1995
+  - 12, Coventry City, 0–0, Norwich City, 28 January 1995
+  - Replay, Norwich City, 3–1, Coventry City, 8 February 1995
+  - 13, Portsmouth, 0–1, Leicester City, 28 January 1995
+  - 14, Manchester United, 5–2, Wrexham, 28 January 1995
+  - 15, Millwall, 0–0, Chelsea, 28 January 1995
+  - Replay, Chelsea, 1–1, Millwall, 8 February 1995
+  - Millwall won 5–4 on penalties, Millwall won 5–4 on penalties, Millwall won 5–4 on penalties, Millwall won 5–4 on penalties, Millwall won 5–4 on penalties
+  - 16, Leeds United, 3–2, Oldham Athletic, 28 January 1995
+
+=== Table ID: 2-16224775-39 ===
+=== Table Title: History of A.E.K. Athens F.C. ===
+Columns: 1997–98, 1998–99, 1999–00, 2000–01, 2001–02, 2002–03, 2003–04, 2004–05, 2005–06, 2006–07, 2007–08, 2008–09, 2009–10, 2010–11, 2011–12, 2012–13
+  - Atmatsidis, Atmatsidis, Atmatsidis, Atmatsidis, Atmatsidis, Atmatsidis, Michailidis, Michailidis, Sorrentino, Kafes, Kafes, Kafes, Kafes, Kafes, Kafes, Dimi
+  - Machairidis, Lakis, Dellas, Dellas, Marica, Borbokis, Borbokis, —, —, —, Edson Ratinho, Edson Ratinho, Araujo, Patsatzoglou, Kontoes, Kontoes
+  - Kasapis, Markos, Petric, Feruzem, Feruzem, —, Petkov, Malbaša, Malbaša, —, Arruabarrena, —, Hersi, Nasuti, Helgason, Yago
+  - Doboş, —, —, Donchev, Gamarra, —, —, Alves, —, Moras, Geraldo, Geraldo, Geraldo, Manolas, Manolas, —
+  - Kostenoglou, Babunski, Kostenoglou, Kostenoglou, Kostenoglou, Kostenoglou, Kostenoglou, Kostenoglou, Cirillo, Cirillo, Dellas, Majstorović, Majstorović, Dellas, Dellas, —
+  - Vlachos, Kostenoglou, Markos, Zagorakis, Zagorakis, Zagorakis, Zagorakis, Maistrellis, Alexopoulos, Alexopoulos, Alexopoulos, Alexopoulos, Alexopoulos, Mateos, Cala, Cordero
+  - Maladenis, Maladenis, Maladenis, Maladenis, Maladenis, Maladenis, Maladenis, Soares, Soares, Kyriakidis, Pappas, Juanfran, —, Roger, Roger, Katsikokeris
+  - Savevski, Savevski, Savevski, Savevski, —, Kreek, Kreek, Rusev, Sapanis, —, Nsaliwa, Nsaliwa, —, Jahić, Beleck, Katidis
+  - Koutoulas, Zouboulis, Bjeković, Kostis, Mielcarski, Solakis, Okkas, Petkov, Komvolidis, Delibašić, Kapetanos, Edinho, Leonardo, Leonardo, Leonardo, Tsitas
+  - Kostis, Iliev Wreh, Ćirić, Tsiartas, Tsiartas, Tsiartas, Tsiartas, Konstantinidis, Kone, Kone, Rivaldo, Rivaldo Djebbour, Djebbour, Djebbour, José Carlos, Roger
+  - Nikolaidis, Nikolaidis, Nikolaidis, Nikolaidis, Nikolaidis, Nikolaidis, —, Kampantais, Venhlynskyi, Manduca, Manduca, Manduca, Manduca, Míchel, Sialmas, Pavlis
+
+=== Table ID: 2-16225725-4 ===
+=== Table Title: Farmer Wants a Wife (U.S. TV series) ===
+Columns: Episode, Air Date, Timeslot, Rating, Share, 18-49, Viewers, Weekly Rank
+  - "Goodbye City...Hello Country", April 30, 2008, 9:00 P.M., 1.7, 3, 1.0/3 (#5), 2.37 (#5), 89/96
+  - "Pigs & Cows & Sheeps...Oh My", May 7, 2008, 9:00 P.M., 1.5, 2, 1.0/3 (#5), 2.11 (#5), 90/97
+  - "Wet 'n Wild", May 14, 2008, 9:00 P.M., 1.3, 2, 0.9/2 (#5), 1.96 (#5), 90/96
+  - "Do-Si-Do", May 28, 2008, 9:00 P.M., 1.8, 3, 0.9/2 (#5), 2.44 (#5), 75/87
+  - "As Country as Apple Pie", June 4, 2008, 9:00 P.M., 1.3, 2, 0.8/2 (#5), 2.01 (#5), 79/91
+  - "It's Show Time", June 11, 2008, 9:00 P.M., 1.3, 2, 0.8/2 (#5), 2.04 (#5), 76/88
+  - "A Family Affair", June 18, 2008, 9:00 P.M., 1.5, 3, 0.8/2 (#5), 2.00 (#5), TBA
+  - "Farmer Picks a Wife", June 25, 2008, 9:00 P.M., 1.6, 3, 1.0/3 (#5), 2.45 (#5), TBA
+
+=== Table ID: 2-16225902-2 ===
+=== Table Title: 2005 Open Championship ===
+Columns: Player, Country, Year(s) won, Total, To par, Finish
+  - Tiger Woods, United States, 2000, 274, −14, 1
+  - Nick Faldo, England, 1987 , 1990 , 1992, 282, −6, T11
+  - John Daly, United States, 1995, 283, −5, T15
+  - Tom Lehman, United States, 1996, 284, −4, T23
+  - Sandy Lyle, Scotland, 1985, 285, −3, T32
+  - Ernie Els, South Africa, 2002, 286, −2, T34
+  - Tom Watson, United States, 1975 , 1977 , 1980 , 1982 , 1983, 287, −1, T41
+  - Paul Lawrie, Scotland, 1999, 288, E, T52
+  - Justin Leonard, United States, 1997, 288, E, T52
+  - Mark Calcavecchia, United States, 1989, 289, +1, T60
+  - Greg Norman, Australia, 1986 , 1993, 289, +1, T60
+
+=== Table ID: 2-16225902-3 ===
+=== Table Title: 2005 Open Championship ===
+Columns: Player, Country, Year(s) won, Total, To par
+  - Mark O'Meara, United States, 1998, 146, +2
+  - Jack Nicklaus, United States, 1966 , 1970 , 1978, 147, +3
+  - Ben Curtis, United States, 2003, 148, +4
+  - Todd Hamilton, United States, 2004, 148, +4
+  - Nick Price, Zimbabwe, 1994, 148, +4
+  - Tony Jacklin, England, 1969, 155, +11
+  - David Duval, United States, 2001, 157, +13
+
+=== Table ID: 2-16226584-1 ===
+=== Table Title: Railways of Jamaica: Kingston to Montego Bay ===
+Columns: Name, Mi from Kingston, Km from Kingston, Parish, Length feet, Length meters
+  - Scotts Pass, 44.25, 71.2, Clarendon, 70, 21.3
+  - Scotts Pass, 44.50, 71.6, Clarendon, 170, 51.8
+  - Comfort Hall, 65.50, 105.4, St. Elizabeth, 688, 209.1
+  - Balaclava, 70.00, 112.6, St. Elizabeth, 348, 106.1
+  - Highworth, 84.00, 135.2, St. Elizabeth, 182, 55.5
+  - Y S, 84.50, 136.0, St. Elizabeth, 218, 66.4
+  - Ipswich, 86.25, 138.8, St. Elizabeth, 855, 260.6
+  - Unnamed, 87.75, 141.2, St. James, 555, 164.6
+  - Merrywood, 88.50, 142.4, St. James, 362, 115.8
+  - Anchovy, 104.50, 168.2, St. James, 102, 31.1
+  - Ramble, 108.00, 173.8, St. James, 182, 55.5
+  - Bogue Hill, 108.50, 174.6, St. James, 1276, 388.9
+  - Bogue Hill, 108.75, 175.0, St. James, 458, 139.6
+
+=== Table ID: 2-16245045-2 ===
+=== Table Title: Tír na nÓg (album) ===
+Columns: Region, Date, Label, Format, Catalog
+  - United Kingdom, May1971, Chrysalis Records, stereo LP, ILPS 9153
+  - United Kingdom, 1971, Chrysalis, Island Records, stereo Compact Cassette, ZCI 9153
+  - Germany, 1971, Chrysalis, Island, LP, 85 547 IT
+  - Spain, 1971, Chrysalis, Island, LP, 85 547 IT
+  - United Kingdom, 1992, BGO Records, ed remaster CD, BGOCD53
+
+=== Table ID: 2-162503-1 ===
+=== Table Title: 2001 in film ===
+Columns: Rank, Title, Studio, Director(s), Worldwide gross
+  - 1., Harry Potter and the Philosopher's Stone, Warner Bros., Chris Columbus, $974,733,550
+  - 2., The Lord of the Rings: The Fellowship of the Ring, New Line Cinema, Peter Jackson, $870,761,744
+  - 3., Monsters, Inc., Disney / Pixar, Pete Docter and Lee Unkrich, $525,366,597
+  - 4., Shrek, DreamWorks Animation, Andrew Adamson and Vicky Jenson, $484,409,218
+  - 5., Ocean's Eleven, Warner Bros., Steven Soderbergh, $450,717,150
+  - 6., Pearl Harbor, Touchstone Pictures, Michael Bay, $449,220,945
+  - 7., The Mummy Returns, Universal Studios / Amblin Entertainment, Stephen Sommers, $433,013,274
+  - 8., Jurassic Park III, Universal Studios, Joe Johnston, $368,780,809
+  - 9., Planet of the Apes, 20th Century Fox, Tim Burton, $362,211,740
+  - 10., Hannibal, MGM / Universal Studios, Ridley Scott, $351,692,268
+  - 11., Rush Hour 2, New Line Cinema, Brett Ratner, $347,325,802
+  - 12., A Beautiful Mind, Universal Studios / DreamWorks, Ron Howard, $313,542,341
+  - 13., American Pie 2, Universal Studios, J. B. Rogers, $287,553,595
+  - 14., Bridget Jones's Diary, StudioCanal / Working Title, Sharon Maguire, $281,929,795
+  - 15., Lara Croft: Tomb Raider, Paramount Pictures, Simon West, $274,703,340
+  - 16., A.I. Artificial Intelligence, DreamWorks / Amblin Entertainment, Steven Spielberg, $235,926,552
+  - 17., The Others, Dimension Films / Warner Bros., Alejandro Amenábar, $218,947,037
+  - 18., The Fast and the Furious, Universal Studios, Rob Cohen, $207,283,925
+  - 19., Vanilla Sky, Paramount Pictures, Cameron Crowe, $203,388,341
+  - 20., Cats & Dogs, Warner Bros., Lawrence Guterman, $200,687,492
+
+=== Table ID: 2-162504-2 ===
+=== Table Title: 1968 Winter Olympics ===
+Columns: Rank, Nation, Gold, Silver, Bronze, Total
+  - 1, Norway, 6, 6, 2, 14
+  - 2, Soviet Union, 5, 5, 3, 13
+  - 3, France (host nation), 4, 3, 2, 9
+  - 4, Italy, 4, 0, 0, 4
+  - 5, Austria, 3, 4, 4, 11
+  - 6, Netherlands, 3, 3, 3, 9
+  - 7, Sweden, 3, 2, 3, 8
+  - 8, West Germany, 2, 2, 3, 7
+  - 9, United States, 1, 5, 1, 7
+  - 10, East Germany, 1, 2, 2, 5
+  - 10, Finland, 1, 2, 2, 5
+
+=== Table ID: 2-16250642-1 ===
+=== Table Title: List of Country Fire Authority brigades ===
+Columns: Brigade, Type, Pumpers, Tankers, Slip-Ons, Cars, Hazmat
+  - Beeac,Victoria (Volunteers) 2, Rural, –, 2, –, –, –
+  - Colac,Victoria (Volunteers) 1, Urban, 1, 2, –, 2, –
+  - Forrest,Victoria (Volunteers) 1, Rural, –, 1, –, –, –
+  - Gerangamete,Victoria (Volunteers) 2, Rural, –, 1, –, –, –
+  - Irrewarra,Victoria (Volunteers), Rural, –, 1, –, –, –
+  - Weering-Eurack,Victoria (Volunteers), Rural, –, 1, –, –, –
+  - Yeo,Victoria (Volunteers) 1, Rural, –, 1, –, –, –
+  - Yeodene.Victoria (Volunteers) 2, Rural, –, 1, –, –, –
+
+=== Table ID: 2-16250642-4 ===
+=== Table Title: List of Country Fire Authority brigades ===
+Columns: Brigade, Staffing, Type, Location, Pumpers, Tankers, Telebooms, Platforms, Cars, Hazmat
+  - Belmont, Integrated, Urban, Google Map, 1, 1, –, –, –, –
+  - Corio, Integrated, Urban, Google Map, 1, 1, 1, –, 1, 2
+  - Geelong City, Integrated, Urban, Google Map, 2, 1, –, 1, 1, –
+  - Geelong West, Volunteer, Urban, Google Map, 1, 1, –, –, 1, –
+  - Grovedale, Volunteer, Urban & Rural, Google Map, 1, 1, –, –, 1, –
+  - Highton, Volunteer, Urban, Google Map, 1, 1, –, –, –, –
+  - Lara, Volunteer, Urban & Rural, Google Map, 1, 2, –, –, 1, –
+  - Total, Group, –, –, 8, 7, 1, 1, 5, 2
+
+=== Table ID: 2-16250642-5 ===
+=== Table Title: List of Country Fire Authority brigades ===
+Columns: Brigade, Type, Pumpers, Tankers, Cars
+  - Ballarat (Volunteers) 1, Urban, 1, 1, 1
+  - Ballarat City (Integrated) 1, Urban, 2, 1, 1
+  - Buninyong (Volunteers) 1, Urban, 1, 1, 1
+  - Sebastopol (Volunteers) 1, Urban, 1, 1, 1
+  - Wendouree (Volunteers) 1, Urban, 1, 1, 1
+  - Total, Group, 6, 5, 5
+
+=== Table ID: 2-16251064-1 ===
+=== Table Title: David Molina ===
+Columns: Date, Season, Playing for, Opponent, Final score
+  - 4 October 2008, 2008–09, Motagua, Real España, 2–3 L
+  - 5 November 2008, 2008–09, Motagua, Vida, 1–0 W
+  - 3 March 2009, 2008–09, Motagua, Real Juventud, 1–1 D
+  - 29 January 2012, 2011–12, Motagua, Atlético Choloma, 1–0 W
+  - 16 November 2012, 2012–13, Motagua, Real España, 4–1 W
+
+=== Table ID: 2-1625862-9 ===
+=== Table Title: Bengali grammar ===
+Columns: Verb, 2 (VF), 2 (F), 3 (F), 2/3 (P)
+  - বলা, তুই boltish, তুমি bolte, সে bolto, apni bolten
+  - khola, তুই khultish, তুমি khulte, সে khulto, apni khulten
+  - khêla, তুই kheltish, তুমি khelte, সে khelto, apni khelten
+  - chena, তুই chintish, তুমি chinte, সে chinto, apni chinten
+  - jana, তুই jantish, তুমি jante, সে janto, apni janten
+  - hôoa, তুই hotish, তুমি hote, সে hoto, apni hoten
+  - dhoa, তুই dhutish, তুমি dhute, সে dhuto, apni dhuten
+  - khaoa, তুই khetish, তুমি khete, সে kheto, apni kheten
+  - dêoa, তুই ditish, তুমি dite, সে dito, apni diten
+
+=== Table ID: 2-16268026-3 ===
+=== Table Title: Miss USA 1989 ===
+Columns: State, Preliminary Average, Interview, Swimsuit, Evening Gown, Semifinal Average
+  - New Jersey, 8.510 (7), 8.626 (5), 8.712 (6), 9.165 (3), 8.834 (3)
+  - Colorado, 8.388 (10), 8.638 (4), 8.432 (9), 8.786 (5), 8.618 (7)
+  - Louisiana, 8.829 (2), 8.600 (6), 8.820 (4), 8.710 (7), 8.710 (5)
+  - Oklahoma, 8.662 (3), 8.880 (2), 8.762 (5), 9.214 (2), 8.952 (2)
+  - California, 8.659 (4), 8.313 (8), 8.977 (2), 8.774 (6), 8.688 (6)
+  - Illinois, 8.501 (8), 7.988 (9), 8.432 (9), 8.681 (9), 8.367 (10)
+  - Texas, 9.084 (1), 9.425 (1), 9.535 (1), 9.601 (1), 9.520 (1)
+  - Pennsylvania, 8.580 (5), 8.534 (7), 8.467 (8), 8.613 (10), 8.538 (8)
+  - Arizona, 8.529 (6), 7.792 (10), 8.833 (3), 8.703 (8), 8.442 (9)
+  - Georgia, 8.407 (9), 8.821 (3), 8.473 (7), 9.032 (4), 8.775 (4)
+
+=== Table ID: 2-16270210-1 ===
+=== Table Title: List of Talyllyn Railway rolling stock ===
+Columns: Number, Name, Type, Builder, Works number, Date built
+  - 1, Talyllyn, 0-4-2 ST, Fletcher,Jennings &Co. , Whitehaven, 42, 1864
+  - 2, Dolgoch, 0-4-0 WT, Fletcher,Jennings &Co., Whitehaven, 63, 1866
+  - 3, Sir Haydn, 0-4-2 ST, Hughes, Falcon Works , Loughborough, 323, 1878
+  - 4, Edward Thomas, 0-4-2 ST, Kerr Stuart , Stoke-on-Trent, 4047, 1921
+  - 6, Douglas, 0-4-0 WT, Andrew Barclay , Kilmarnock, 1431, 1918
+  - 7, Tom Rolt, 0-4-2 T, Talyllyn Railway, none given, 1991
+
+=== Table ID: 2-16271198-1 ===
+=== Table Title: Outline of the United States ===
+Columns: Department, Creation, Order of succession, 2007 Budget in billions of dollars, Employees (2007)
+  - State, 1789, 1, 9.96, 30,266
+  - Treasury, 1789, 2, 11.10, 115,897
+  - Defense, 1947, 3, 439.30, 3,000,000
+  - Justice, 1870, 4, 23.40, 112,557
+  - Interior, 1849, 5, 10.70, 71,436
+  - Agriculture, 1889, 6, 77.60, 109,832
+  - Commerce, 1903, 7, 6.20, 36,000
+  - Labor, 1913, 8, 59.70, 17,347
+  - Health and Human Services, 1953, 9, 543.20, 67,000
+  - Housing and Urban Development, 1965, 10, 46.20, 10,600
+  - Transportation, 1966, 11, 58.00, 58,622
+  - Energy, 1977, 12, 21.50, 116,100
+  - Education, 1979, 13, 62.80, 4,487
+  - Veterans Affairs, 1989, 14, 73.20, 235,000
+  - Homeland Security, 2002, 15, 44.60, 208,000
+  - Total budget (fiscal year 2007):, Total budget (fiscal year 2007):, Total budget (fiscal year 2007):, 1,523.42, 4,193,144
+
+=== Table ID: 2-16275828-7 ===
+=== Table Title: Motorsport in Illinois ===
+Columns: Track Name, Location, Length, Sanction, Program
+  - Belleville Enduro Team, Belleville, Illinois, Multiple tracks, AMA, Various programs throughout the year
+  - Motosports Park, Byron, Illinois, Multiple Tracks, AMA, Various programs throughout the year
+  - Lincoln Trail Motosports, Casey, Illinois, Multiple tracks, AMA, Various programs throughout the year
+  - South Fork Dirt Riders, Taylorville, Illinois, Multiple Tracks, AMA, Various programs throughout the year
+  - Triple R Motocross, Nashville, Illinois, Multiple tracks, AMA, Various programs throughout the year
+
+=== Table ID: 2-1628066-2 ===
+=== Table Title: Air China destinations ===
+Columns: City, Province, Country, IATA, ICAO, Airport
+  - Aksu [begins 27 October 2013], Xinjiang, China, AKU, ZWAK, Aksu Airport
+  - Addis Ababa, —, Ethiopia, ADD, HAAB, Bole International Airport
+  - Almaty, —, Kazakhstan, ALA, UAAA, Almaty International Airport
+  - Athens, —, Greece, ATH, LGAV, Athens International Airport
+  - Auckland, —, New Zealand, AKL, NZAA, Auckland Airport
+  - Baghdad, —, Iraq, BGW, ORBI, Baghdad International Airport
+  - Bangalore, —, India, BLR, VOBL, Bengaluru International Airport
+  - Bangkok, —, Thailand, BKK, VTBS, Suvarnabhumi Airport
+  - Baotou, Inner Mongolia, China, BAV, ZBOW, Baotou Erliban Airport
+  - Beihai, Guangxi, China, BHY, ZGBH, Beihai Fucheng Airport
+  - Beijing, Beijing, China, PEK, ZBAA, Beijing Capital International Airport
+  - Belgrade, —, Serbia, BEG, LYBE, Belgrade Nikola Tesla Airport
+  - Berlin, —, Germany, TXL, EDDT, Berlin Tegel Airport
+  - Bucharest, —, Romania, OTB, LROP, Henri Coandă International Airport
+  - Budapest, —, Hungary, BUD, LHBP, Budapest Ferihegy International Airport
+  - Busan, —, South Korea, PUS, RKPK, Gimhae International Airport
+  - Changchun, Jilin, China, CGQ, ZYCC, Longjia International Airport
+  - Changde, Hunan, China, CGD, ZGCD, Changde Airport
+  - Changzhou, Jiangsu, China, CZX, ZSCG, Benniu Airport
+  - Chaoyang, Liaoning, China, CHG, ZYCY, Chaoyang Airport
+  - Chengdu, Sichuan, China, CTU, ZUUU, Shuangliu International Airport
+  - Changsha, Hunan, China, CSX, ZGCS, Changsha Huanghua International Airport
+  - Cairo, —, Egypt, CAI, HECA, Cairo International Airport
+  - Changzhi, Shanxi, China, CIH, ZBCZ, Changzhi Wangcun Airport
+  - Chiang Mai [begins 7 November 2013], —, Thailand, CNX, VTCC, Chiang Mai Airport
+  - Chifeng, Inner Mongolia, China, CIF, ZBCF, Chifeng Yulong Airport
+  - Chita, —, Russia, HTA, UIAA, Kadala Airport
+  - Chongqing, Chongqing, China, CKG, ZUCK, Chongqing Jiangbei International Airport
+  - Copenhagen, —, Denmark, CPH, EKCH, Copenhagen Airport
+  - Daegu, —, South Korea, TAE, RKTN, Daegu Airport
+  - Dalian, Liaoning, China, DLC, ZYTL, Zhoushuizi International Airport
+  - Dandong, Liaoning, China, DDG, ZYDD, Dandong Langtou Airport
+  - Daocheng, Sichuan, China, DCY, ZUDC, Daocheng Yading Airport
+  - Delhi, —, India, DEL, VIDP, Indira Gandhi International Airport
+  - Dubai, —, United Arab Emirates, DXB, OMDB, Dubai International Airport
+  - Dunhuang, Gansu, China, DNH, ZLDH, Dunhuang Airport
+  - Düsseldorf, —, Germany, DUS, EDDL, Düsseldorf International Airport
+  - Frankfurt, —, Germany, FRA, EDDF, Frankfurt Airport
+  - Fukuoka, —, Japan, FUK, RJFF, Fukuoka Airport
+  - Fuzhou, Fujian, China, FOC, ZSFZ, Fuzhou Changle International Airport
+  - Geneva, —, Switzerland, GVA, LSGG, Geneva Airport
+  - Guangzhou, Guangdong, China, CAN, ZGGG, Baiyun International Airport
+  - Guilin, Guangxi, China, KWL, ZGKL, Guilin Liangjiang International Airport
+  - Guiyang, Guizhou, China, KWE, ZUGY, Guiyang Longdongbao International Airport
+  - Haikou, Hainan, China, HAK, ZJHK, Meilan International Airport
+  - Hailar, Inner Mongolia, China, HLD, ZBLA, Hulunbuir Hailar Airport
+  - Hangzhou, Zhejiang, China, HGH, ZSHC, Hangzhou Xiaoshan International Airport
+  - Hanoi, —, Vietnam, HAN, VVNB, Noi Bai International Airport
+  - Harbin, Heilongjiang, China, HRB, ZYHB, Taiping International Airport
+  - Hefei, Anhui, China, HFE, ZSOF, Hefei Luogang International Airport
+  - Hiroshima, —, Japan, HIJ, RJOA, Hiroshima Airport
+  - Ho Chi Minh City, —, Vietnam, SGN, VVTS, Tan Son Nhat International Airport
+  - Hohhot, Inner Mongolia, China, HET, ZBHH, Hohhot Baita International Airport
+  - Honolulu [begins 21 January 2014], —, United States, HNL, PHNL, Honolulu International Airport
+  - Houston, —, United States, IAH, KIAH, George Bush Intercontinental Airport
+  - Hong Kong, —, Hong Kong, HKG, VHHH, Hong Kong International Airport
+  - Huangshan, Anhui, China, TXN, ZSTX, Huangshan Tunxi International Airport
+  - Irkutsk, —, Russia, IKT, UIII, International Airport Irkutsk
+  - Istanbul, —, Turkey, IST, LTBA, Atatürk International Airport
+  - Jakarta, —, Indonesia, CGK, WIII, Soekarno–Hatta International Airport
+  - Jiamusi, Heilongjiang, China, JMU, ZYJM, Jiamusi Airport
+  - Ji'an, Jiangxi, China, JNG, ZLJN, Jinggangshan Airport
+  - Jinan, Shandong, China, TNA, ZSJN, Jinan Yaoqiang International Airport
+  - Jingdezhen, Jiangxi, China, JDZ, ZSJD, Jingdezhen Luojia Airport
+  - Jinghong, Yunnan, China, JHG, ZPJH, Xishuangbanna Gasa Airport
+  - Karachi, —, Pakistan, KHI, OPKC, Jinnah International Airport
+  - Kashgar, Xinjiang, China, KHG, ZWSH, Kashgar Airport
+  - Kathmandu, —, Nepal, KTM, VNKT, Tribhuvan International Airport
+  - Kuala Lumpur, —, Malaysia, KUL, WMMK, Kuala Lumpur International Airport
+  - Kunming, Yunnan, China, KMG, ZPPP, Kunming Changshui International Airport
+  - Kuwait City, —, Kuwait, KWI, OKBK, Kuwait International Airport
+  - Lanzhou, Gansu, China, LHW, ZLLL, Lanzhou Airport
+  - Lhasa, Tibet, China, LXA, ZULS, Lhasa Gonggar Airport
+  - Lijiang, Yunnan, China, LJG, ZPLJ, Lijiang Airport
+  - Liuzhou, Guangxi, China, LZH, ZGZH, Liuzhou Airport
+  - London, —, United Kingdom, LGW, EGKK, Gatwick Airport [seasonal]
+  - London, —, United Kingdom, LHR, EGLL, London Heathrow Airport
+  - Los Angeles, —, United States, LAX, KLAX, Los Angeles International Airport
+  - Macau, —, Macau, MFM, VMMC, Macau International Airport
+  - Madrid, —, Spain, MAD, LEMD, Madrid-Barajas Airport
+  - Mandalay, —, Burma, MDY, VYMD, Mandalay International Airport
+  - Manila, —, Philippines, MNL, RPLL, Ninoy Aquino International Airport
+  - Manzhouli, Inner Mongolia, China, NZH, ZBMZ, Manzhouli Xijiao Airport
+  - Melbourne, —, Australia, MEL, YMML, Melbourne Airport
+  - Milan, —, Italy, MXP, LIMC, Malpensa Airport
+  - Moscow, —, Russia, SVO, UUEE, Sheremetyevo International Airport
+  - Mumbai, —, India, BOM, VABB, Chhatrapati Shivaji International Airport
+  - Munich, —, Germany, MUC, EDDM, Munich Airport
+  - Nagasaki, —, Japan, NGS, RJFU, Nagasaki Airport
+  - Nagoya, —, Japan, NGO, RJGG, Chūbu Centrair International Airport
+  - Naha, —, Japan, OKA, ROAH, Naha Airport
+  - Nanchang, Jiangxi, China, KHN, ZSCN, Nanchang Changbei International Airport
+  - Nanjing, Jiangsu, China, NKG, ZSNJ, Lukou International Airport
+  - Nanning, Guangxi, China, NNG, ZGNN, Nanning Wuxu International Airport
+  - Nantong, Jiangsu, China, NTG, ZSNT, Nantong Airport
+  - New York City, —, United States, JFK, KJFK, John F. Kennedy International Airport
+  - Ningbo, Zhejiang, China, NGB, ZSNB, Ningbo Lishe International Airport
+  - Nyingchi, Tibet, China, LZY, ZUNZ, Nyingchi Mainling Airport
+  - Omsk, —, Russia, OMS, UNOO, Omsk Tsentralny Airport
+  - Ordos, Inner Mongolia, China, DSN, ZBDS, Ordos Ejin Horo Airport
+  - Osaka, —, Japan, KIX, RJBB, Kansai International Airport
+  - Paris, —, France, CDG, LFPG, Charles de Gaulle Airport
+  - Phuket, —, Thailand, HKT, VTSP, Phuket International Airport
+  - Pyongyang, —, North Korea, FNJ, ZKPY, Pyongyang Sunan International Airport
+  - Qamdo, Tibet, China, BPX, ZUBD, Qamdo Bamda Airport
+  - Qingdao, Shandong, China, TAO, ZSQD, Qingdao Liuting International Airport
+  - Qiqihar, Heilongjiang, China, NDG, ZYQQ, Qiqihar Airport
+  - Quanzhou, Fujian, China, JJN, ZSQZ, Quanzhou Jinjiang Airport
+  - Rome, —, Italy, FCO, LIRF, Leonardo da Vinci-Fiumicino Airport
+  - Saint Petersburg, —, Russia, LED, ULLI, Pulkovo International Airport
+  - San Francisco, —, United States, SFO, KSFO, San Francisco International Airport
+  - Sanya, Hainan, China, SYX, ZJSY, Sanya Phoenix International Airport
+  - São Paulo, —, Brazil, GRU, SBGR, São Paulo-Guarulhos International Airport
+  - Sapporo, —, Japan, CTS, RJCC, New Chitose Airport
+  - Sendai [ends 27 October 2013], —, Japan, SDJ, RJSS, Sendai Airport
+  - Seoul, —, South Korea, GMP, RKSS, Gimpo International Airport
+  - Seoul, —, South Korea, ICN, RKSI, Incheon International Airport
+  - Shanghai, Shanghai, China, SHA, ZSSS, Shanghai Hongqiao International Airport
+  - Shanghai, Shanghai, China, PVG, ZSPD, Shanghai Pudong International Airport
+  - Shantou, Guangdong, China, SWA, ZGOW, Jieyang Chaoshan Airport
+  - Sharjah, —, United Arab Emirates, SHJ, OMSJ, Sharjah International Airport
+  - Shenyang, Liaoning, China, SHE, ZYTX, Shenyang Taoxian International Airport
+  - Shenzhen, Guangdong, China, SZX, ZGSC, Shenzhen Bao'an International Airport
+  - Shigatse, Tibet, China, RKZ, ZURK, Shigatse Peace Airport
+  - Shiquanhe, Tibet, China, NGQ, ZUAL, Ngari Gunsa Airport
+  - Siem Reap [begins 1 December 2013], —, Cambodia, REP, VDSR, Siem Reap International Airport
+  - Singapore, —, Singapore, SIN, WSSS, Singapore Changi Airport
+  - Stockholm, —, Sweden, ARN, ESSA, Arlanda Airport
+  - Sydney, —, Australia, SYD, YSSY, Sydney Airport
+  - Taichung, —, Taiwan, RMQ, RCMQ, Taichung Airport
+  - Taipei, —, Taiwan, TSA, RCSS, Taipei Songshan Airport
+  - Taipei, —, Taiwan, TPE, RCTP, Taipei Taoyuan International Airport
+  - Taizhou, Zhejiang, China, HYN, ZSLQ, Taizhou Luqiao Airport
+  - Tianjin, Tianjin, China, TSN, ZBTJ, Binhai International Airport
+  - Tongliao, Inner Mongolia, China, TGO, ZBTL, Tongliao Airport
+  - Tokyo, —, Japan, HND, RJTT, Haneda Airport
+  - Tokyo, —, Japan, NRT, RJAA, Narita International Airport
+  - Toronto, —, Canada, YYZ, CYYZ, Toronto Pearson International Airport
+  - Ulan Bator, —, Mongolia, ULN, ZMUB, Chinggis Khaan International Airport
+  - Vancouver, —, Canada, YVR, CYVR, Vancouver International Airport
+  - Vienna, —, Austria, VIE, LOWW, Vienna International Airport
+  - Xi'an, Shaanxi, China, XIY, ZLXY, Xianyang International Airport
+  - Xining, Qinghai, China, XNN, ZLXN, Xining Caojiabu Airport
+  - Yangon, —, Myanmar, RGN, VYYY, Yangon International Airport
+  - Yekaterinburg, —, Russia, SVX, USSS, Koltsovo International Airport
+  - Wanzhou, Chongqing, China, WXN, ZUWX, Wanzhou Wuqiao Airport
+  - Weihai, Shandong, China, WEH, ZSWH, Weihai Dashuibo Airport
+  - Wenzhou, Zhejiang, China, WNZ, ZSWZ, Wenzhou Yongqiang Airport
+  - Wuhan, Hubei, China, WUH, ZHHH, Tianhe International Airport
+  - Wuxi, Jiangsu, China, WUX, ZSWX, Wuxi Shuofang Airport
+  - Xiamen, Fujian, China, XMN, ZSAM, Xiamen Gaoqi International Airport
+  - Xiangfan, Hubei, China, XFN, ZHXF, Xiangfan Airport
+  - Xilinhot, Inner Mongolia, China, XIL, ZBXH, Xilinhot Airport
+  - Xuzhou, Jiangsu, China, XUZ, ZSXZ, Xuzhou Airport
+  - Yanji, Jilin, China, YNJ, ZYYJ, Yanji Chaoyangchuan Airport
+  - Yantai, Shandong, China, YNT, ZSYT, Yantai Laishan International Airport
+  - Yichang, Hubei, China, YIH, ZHYC, Yichang Airport
+  - Yinchuan, Ningxia, China, INC, ZLIC, Yinchuan Hedong Airport
+  - Zhangjiajie, Hunan, China, DYG, ZGDY, Zhangjiajie Airport
+  - Zhanjiang [begins 27 October 2013], Guangdong, China, ZHA, ZGZJ, Zhanjiang Airport
+  - Zhengzhou, Henan, China, CGO, ZHCC, Zhengzhou Xinzheng International Airport
+  - Zhuhai, Guangdong, China, ZUH, ZGSD, Zhuhai Jinwan Airport
+  - Zunyi, Guizhou, China, ZYI, ZUZY, Zunyi Xinzhou Airport
+  - Zurich, —, Switzerland, ZRH, LSZH, Zurich Airport
+
+=== Table ID: 2-1628424-2 ===
+=== Table Title: Betsy King ===
+Columns: Date, Tournament, Winning score, Margin of victory, Runner(s)-up
+  - Mar 25, 1984, Women's Kemper Open, –9 (71-72-73-73=289), 3 strokes, Pat Bradley
+  - Apr 29, 1984, Freedom/Orlando Classic, –14 (69-67-66=202), 2 strokes, Alice Miller
+  - Aug 26, 1984, Columbia Savings Classic, –7 (72-70-67-72=281), 1 stroke, Muffin Spencer-Devlin
+  - Mar 3, 1985, Samaritan Turquoise Classic, –8 (69-68-72-71=280), Playoff, Patty Sheehan
+  - Sep 2, 1985, Rail Charity Classic, –11 (65-73-67=205), 2 strokes, Janet Anderson
+  - Aug 10, 1986, Henredon Classic, –11 (70-67-70-70=277), Playoff, JoAnne Carner
+  - Sep 1, 1986, Rail Charity Classic, –11 (70-72-63=205), Playoff, Cathy Gerring , Alice Ritzman
+  - Mar 22, 1987, Circle K Tucson Open, –7 (70-71-72-68=281), 2 strokes, Jan Stephenson
+  - Apr 5, 1987, Nabisco Dinah Shore, –5 (68-75-72-68=283), Playoff, Patty Sheehan
+  - Jun 7, 1987, McDonald's Championship, –6 (72-68-71-67=278), 2 strokes, Ayako Okamoto
+  - Aug 23, 1987, Atlantic City LPGA Classic, –6 (70-71-66=207), 3 strokes, Nancy Lopez
+  - Mar 6, 1988, Women's Kemper Open, –8 (73-72-66-69=280), 1 stroke, Beth Daniel
+  - Sep 5, 1988, Rail Charity Golf Classic, –9 (68-68-71=207), 2 strokes, Margaret Ward
+  - Sep 11, 1988, Cellular One-Ping Golf Championship, –3 (71-70-72=213), 1 stroke, Colleen Walker
+  - Jan 15, 1989, The Jamaica Classic, –11 (64-68-70=202), 1 stroke, Nancy Lopez
+  - Feb 26, 1989, Women's Kemper Open, –14 (63-72-67=202), 2 strokes, Jane Geddes
+  - Apr 23, 1989, USX Golf Classic, –13 (67-70-72-66=275), Playoff, Lynn Adams
+  - Jun 25, 1989, McDonald's Championship, –16 (69-65-71-67=272), 2 strokes, Pat Bradley , Shirley Furlong
+  - Jul 16, 1989, U.S. Women's Open, –6 (67-71-72-68=278), 4 strokes, Nancy Lopez
+  - Aug 27, 1989, Nestle World Championship, –13 (66-71-70-68=275), 1 stroke, Pat Bradley , Patty Sheehan
+  - Apr 1, 1990, Nabisco Dinah Shore, –5 (69-70-69-75=283), 2 strokes, Shirley Furlong , Kathy Postlewait
+  - Jul 15, 1990, U.S. Women's Open, –4 (72-71-71-70=284), 1 stroke, Patty Sheehan
+  - Aug 19, 1990, JAL Big Apple Classic, –15 (75-67-63-68=273), 3 strokes, Beth Daniel
+  - May 26, 1991, LPGA Corning Classic, –15 (69-73-65-66=273), 6 strokes, Deb Richard
+  - Jul 21, 1991, JAL Big Apple Classic, –9 (73-66-67-73=279), 1 stroke, Ayako Okamoto
+  - May 17, 1992, Mazda LPGA Championship, –17 (68-66-67-66=267), 11 strokes, JoAnne Carner , Liselotte Neumann , Karen Noble
+  - Jul 12, 1992, The Phar-Mor in Youngstown, –7 (71-67-71=209), Playoff, Donna Andrews , Beth Daniel , Meg Mallon
+  - Nov 8, 1992, Mazda Japan Classic, –11 (66-72-67=205), Playoff, Helen Alfredsson
+  - Nov 7, 1993, Toray Japan Queens Cup, –11 (68-70-67=205), 1 stroke, Jane Geddes
+  - Jun 25, 1995, ShopRite LPGA Classic, –9 (66-71-67=204), 2 strokes, Beth Daniel , Rosie Jones
+  - Mar 30, 1997, Nabisco Dinah Shore, –12 (71-67-67-71=276), 2 strokes, Kris Tschetter
+  - Feb 19, 2000, Cup Noodles Hawaiian Ladies Open, –12 (67-67-70=204), 2 strokes, Brandie Burton
+  - May 28, 2000, LPGA Corning Classic, –12 (69-68-69-70=276), Playoff, Vicki Goetze-Ackerman , Kelli Kuehne
+  - Jul 1, 2001, ShopRite LPGA Classic, –12 (65-69-67=201), 2 strokes, Lorie Kane
+
+=== Table ID: 2-16284301-2 ===
+=== Table Title: 2004 Toyota Grand Prix of Long Beach ===
+Columns: Driver, Team, Laps, Time/Retired, Grid, Points
+  - Paul Tracy, Forsythe Racing, 81, 1:44:12.348, 3, 32
+  - Bruno Junqueira, Newman/Haas Racing, 81, +5.681 secs, 1, 29
+  - Sébastien Bourdais, Newman/Haas Racing, 81, +6.375 secs, 2, 27
+  - Patrick Carpentier, Forsythe Racing, 81, +16.801 secs, 7, 24
+  - Mario Domínguez, Herdez Competition, 81, +17.527 secs, 5, 21
+  - Justin Wilson, Mi-Jack Conquest Racing, 81, +36.645 secs, 11, 20
+  - Ryan Hunter-Reay, Herdez Competition, 81, +38.926 secs, 6, 17
+  - Alex Tagliani, Rocketsports Racing, 81, +1:00.578, 4, 15
+  - Mario Haberfeld, Walker Racing, 80, + 1 Lap, 14, 13
+  - Rodolfo Lavín, Forsythe Racing, 80, + 1 Lap, 9, 11
+  - Michel Jourdain, Jr., RuSPORT, 80, + 1 Lap, 13, 10
+  - A. J. Allmendinger, RuSPORT, 79, + 2 Laps, 8, 9
+  - Nelson Philippe, Rocketsports Racing, 78, + 3 Laps, 16, 8
+  - Roberto González, PKV Racing, 76, Gearbox, 17, 7
+  - Oriol Servià, Dale Coyne Racing, 14, Oil Leak, 12, 6
+  - Jimmy Vasser, PKV Racing, 1, Contact, 10, 5
+  - Alex Sperafico, Mi-Jack Conquest Racing, 1, Contact, 15, 4
+  - Tarso Marques, Dale Coyne Racing, 1, Contact, 18, 3
+
+=== Table ID: 2-16287116-1 ===
+=== Table Title: 2008 Malaysian motorcycle Grand Prix ===
+Columns: Rider, Manufacturer, Laps, Time, Grid
+  - Valentino Rossi, Yamaha, 21, 43:06.007, 2
+  - Dani Pedrosa, Honda, 21, +4.008, 1
+  - Andrea Dovizioso, Honda, 21, +8.536, 6
+  - Nicky Hayden, Honda, 21, +8.858, 4
+  - Shinya Nakano, Honda, 21, +10.583, 15
+  - Casey Stoner, Ducati, 21, +13.640, 7
+  - Loris Capirossi, Suzuki, 21, +15.936, 8
+  - Colin Edwards, Yamaha, 21, +18.802, 5
+  - Chris Vermeulen, Suzuki, 21, +23.174, 11
+  - Randy de Puniet, Honda, 21, +25.516, 9
+  - John Hopkins, Kawasaki, 21, +27.609, 10
+  - Anthony West, Kawasaki, 21, +41.399, 13
+  - Sylvain Guintoli, Ducati, 21, +45.617, 16
+  - Alex de Angelis, Honda, 21, +49.003, 17
+  - Toni Elias, Ducati, 21, +59.139, 19
+  - Marco Melandri, Ducati, 21, +1:03.328, 14
+  - Nobuatsu Aoki, Suzuki, 21, +1:48.363, 18
+  - Jorge Lorenzo, Yamaha, 12, Accident, 3
+  - James Toseland, Yamaha, 2, Accident, 12
+
+=== Table ID: 2-1628851-2 ===
+=== Table Title: Pat Bradley (golfer) ===
+Columns: Date, Tournament, Winning score, Margin of victory, Runner(s)-up
+  - Jun 6, 1976, Girl Talk Classic, +1 (72-73-72=217), Playoff, Bonnie Lauer , Sandra Post , Judy Rankin
+  - Jul 10, 1977, Bankers Trust Classic, –6 (75-68-70=213), 2 strokes, JoAnne Carner , Carol Mann , Kathy Whitworth
+  - Jun 25, 1978, Lady Keystone Open, –10 (70-69-67=206), 4 strokes, Jane Blalock
+  - Jul 30, 1978, Hoosier Classic, –10 (69-69-68=206), 3 strokes, JoAnne Carner
+  - Sep 4, 1978, Rail Charity Classic, –12 (67-66-73-71=276), 4 strokes, Sharon Miller
+  - Jul 20, 1980, Greater Baltimore Golf Classic, –13 (69-70-67=206), 1 stroke, Nancy Lopez
+  - Aug 10, 1980, Peter Jackson Classic, –15 (65-72-69-71=277), 1 stroke, JoAnne Carner
+  - Mar 29, 1981, Women's Kemper Open, E (71-75-68-70=284), 5 strokes, Debbie Massey
+  - Jul 26, 1981, U.S. Women's Open, –9 (71-74-68-66=279), 1 stroke, Beth Daniel
+  - Jan 30, 1983, Mazda Classic of Deer Creek, –16 (68-69-69-66=272), 7 strokes, Beth Daniel
+  - May 22, 1983, Chrysler-Plymouth Charity Classic, –7 (73-73-66=212), 1 stroke, Stephanie Farwig
+  - Aug 28, 1983, Columbia Savings Classic, –11 (71-69-70-67=277), Playoff, Beth Daniel
+  - Nov 13, 1983, Mazda Japan Classic, –10 (72-70-64=206), 7 strokes, Laurie Rinker
+  - Jun 16, 1985, Rochester International, –8 (74-67-67-72=280), 2 strokes, Nancy Lopez
+  - Jul 28, 1985, du Maurier Classic, –10 (70-73-67-68=278), 1 stroke, Jane Geddes
+  - Aug 25, 1985, LPGA National Pro-Am, –4 (71-74-71-68=284), Playoff, Amy Alcott
+  - Apr 6, 1986, Nabisco Dinah Shore, –8 (68-72-69-71=280), 2 strokes, Val Skinner
+  - Apr 27, 1986, S&H Golf Classic, –16 (69-67-71-65=272), 1 stroke, Janet Coles
+  - Jun 1, 1986, LPGA Championship, –11 (67-72-70-68=277), 1 stroke, Patty Sheehan
+  - Jul 27, 1986, du Maurier Classic, –12 (73-70-67-66=276), Playoff, Ayako Okamoto
+  - Aug 17, 1986, Nestle World Championship, –9 (72-72-72-63=279), 2 strokes, Betsy King , Nancy Lopez
+  - Mar 29, 1987, Standard Register Turquoise Classic, –6 (75-74-67-70=286), 2 strokes, Christa Johnson
+  - Apr 16, 1989, AI Star/Centinela Hospital Classic, –8 (72 69-67=208), 1 stroke, Nancy Lopez, Hollis Stacy
+  - Feb 4, 1990, Oldsmobile LPGA Classic, –7 (66-65-74-76=281), Playoff, Dale Eggeling
+  - Mar 25, 1990, Standard Register Turquoise Classic, –12 (70-71-68-71=280), 1 stroke, Ayako Okamoto
+  - May 27, 1990, LPGA Corning Classic, –10 (69-70-66-69=274), 3 strokes, Patty Sheehan
+  - May 19, 1991, Centel Classic, –10 (70-68-69-71=278), 1 stroke, Ayako Okamoto
+  - Sep 3, 1991, Rail Charity Golf Classic, –19 (67-65-65=197), 6 strokes, Danielle Ammaccapane
+  - Sep 22, 1991, Safeco Classic, –8 69-67-72-72=280), Playoff, Rosie Jones
+  - Sep 29, 1991, MBS LPGA Classic, –11 (72-70-67-68=277), 1 stroke, Michelle Estill
+  - Jan 22, 1995, HealthSouth Inaugural, –5 (71-72-68=211), 1 stroke, Beth Daniel
+
+=== Table ID: 2-16299790-4 ===
+=== Table Title: 2002 U.S. Open (golf) ===
+Columns: Place, Player, Country, Score, To par
+  - 1, Tiger Woods, United States, 67, –3
+  - 2, Sergio García, Spain, 68, –2
+  - T3, K. J. Choi, South Korea, 69, –1
+  - T3, Dudley Hart, United States, 69, –1
+  - T3, Jeff Maggert, United States, 69, –1
+  - T3, Billy Mayfair, United States, 69, –1
+  - T7, Stewart Cink, United States, 70, E
+  - T7, Nick Faldo, England, 70, E
+  - T7, Pádraig Harrington, Ireland, 70, E
+  - T7, Franklin Langham, United States, 70, E
+  - T7, Steve Lowery, United States, 70, E
+  - T7, Phil Mickelson, United States, 70, E
+
+=== Table ID: 2-16304368-1 ===
+=== Table Title: PBA Bowling Tour: 2006–07 season ===
+Columns: Date, Event, City, Oil Pattern, Winner (Title #), Runner-up, Score
+  - Sep. 26, Dydo Japan Cup, Tokyo, Standard, Walter Ray Williams Jr. (42), Pete Weber, 289-236
+  - Oct. 28, USBC Masters, Milwaukee, Standard, Doug Kent (9), Jack Jurek, 277-230
+  - Nov. 5, Motor City Classic, Taylor, MI, Cheetah, Tony Reyes (1), Wes Malott, 255-238
+  - Nov. 12, Etonic Championship, Cheektowaga, Shark, Pete Weber (33), Doug Kent, 247-196
+  - Nov. 19, Lake County Indiana Classic, Hammond, IN, Chameleon, Norm Duke (25), Mika Koivuniemi, 236-233
+  - Nov. 25, Discover Windy City Classic, Vernon Hills, Scorpion, Wes Malott (2), Chris Barnes, 269-239
+  - Dec. 3, Ace Hardware Championship, Wickliffe, OH, Viper, Tommy Jones (9), Wes Malott, 222-221
+  - Dec. 10, Beltway Classic, Baltimore, MD, Cheetah, Sean Rash (2), Parker Bohn III, 279-225
+  - Dec. 17, Columbia 300 Classic, West Babylon, NY, Shark, Norm Duke (26), Ryan Shafer, 218-179
+  - Jan. 7, H&R Block Classic, Reno, NV, Chameleon, Patrick Allen (8), Walter Ray Williams Jr., 255-247
+  - Jan. 14, Earl Anthony Medford Classic, Medford, OR, Scorpion, Sean Rash (3), Brian Himmler, 262-190
+  - Jan. 21, Dick Weber Open, Fountain Valley, Standard, Jason Couch (14), Patrick Allen, 258-236
+  - Jan. 28, Motel 6 Classic, Henderson, NV, Viper, Jason Couch (15), Billy Oatman, 236-228
+  - Feb. 4, Sun City Classic, El Paso, TX, Scorpion, Mika Koivuniemi (7), Chris Barnes, 214-185
+  - Feb. 11, GEICO Classic, Irving, TX, Shark, Chris Barnes (8), John May, 235-216
+  - Feb. 18, Go RV'ing Classic, Council Bluffs, IA, Chameleon, Patrick Allen (9), Parker Bohn III, 218-169
+  - Feb. 25, Bayer Classic, Parkersburg, WV, Cheetah, Mike Mineman (1), Mike Machuga, 223-202
+  - Mar. 4, 64th U.S. Open, North Brunswick, NJ, U.S. Open, Pete Weber (34), Wes Malott, 210-204
+  - Mar. 18, Pepsi Championship, Indianapolis, Viper, Norm Duke (27), Ryan Shafer, 235-219
+  - Mar. 25, Denny's World Championship, Wyoming, MI, World Champ., Doug Kent (10), Chris Barnes, 237-216
+  - Apr. 1, Tournament Of Champions, Uncasville, CT, T of C, Tommy Jones (10), Tony Reyes, 257-222
+
+=== Table ID: 2-16304563-3 ===
+=== Table Title: List of most popular given names by state in the United States ===
+Columns: Region (year), No. 1, No. 2, No. 3, No. 4, No. 5, No. 6, No. 7, No. 8, No. 9, No. 10
+  - Alabama (2009), William, James, Jacob, Jackson, John, Joshua, Jayden, Christopher, Michael, Ethan
+  - Alaska (2009), Michael, Ethan, Logan, Samuel, Elijah, James, Joseph, William, David, Gabriel
+  - Arizona (2009), Jacob, Alexander, Daniel, Angel, Anthony, Ethan, David, Michael, Aiden, Jose
+  - Arkansas (2009), William, Jacob, Ethan, Joshua, Jayden, Noah, Christopher, Jackson, Landon, Aiden
+  - California (2009), Daniel, Anthony, Angel, Jacob, Alexander, Ethan, David, Andrew, Matthew, Joshua
+  - Colorado (2009), Alexander, Jacob, Noah, William, Benjamin, Ethan, Logan, Daniel, David, Jackson
+  - Connecticut (2009), Michael, Ryan, Alexander, Matthew, Jayden, Ethan, William, Anthony, Joshua, Christopher
+  - Delaware (2009), Alexander, Michael, James, Jayden, Ethan, Matthew, William, Logan, Aiden, Chase
+  - District of Columbia (2009), William, Michael, James, Alexander, Daniel, Christopher, John, Joshua, Elijah, Jacob
+  - Florida (2009), Jayden, Michael, Joshua, Jacob, Anthony, Christopher, Ethan, Daniel, Alexander, Noah
+  - Georgia (2009), William, Christopher, Joshua, James, Jayden, Jacob, Michael, Christian, Ethan, Noah
+  - Hawaii (2009), Ethan, Noah, Jayden, Joshua, Elijah, Caleb, Jacob, Aiden, Gabriel, Isaiah
+  - Idaho (2009), Logan, Jacob, Ethan, William, Wyatt, Jackson, Noah, Aiden, Mason, Alexander
+  - Illinois (2009), Alexander, Daniel, Jacob, Michael, Anthony, Ethan, Joshua, William, Nathan, Aiden
+  - Indiana (2009), Ethan, Noah, Jacob, Logan, Elijah, Aiden, Alexander, William, Jackson, Gavin
+  - Iowa (2009), Jacob, Ethan, Carter, Noah, William, Owen, Jackson, Gavin, Logan, Mason
+  - Kansas (2009), Ethan, William, Jacob, Alexander, Noah, Aiden, Jackson, Gabriel, Logan, Joshua
+  - Kentucky (2009), Jacob, William, James, Ethan, Noah, Landon, Aiden, Brayden, Elijah, Jackson
+  - Louisiana (2009), Jayden, Ethan, Landon, Joshua, Noah, William, Michael, Aiden, John, Christopher
+  - Maine (2009), Noah, Logan, Jacob, Owen, Aiden, Landon, William, Michael, Carter, Wyatt
+  - Maryland (2009), Michael, Jayden, Joshua, Ethan, William, Alexander, Jacob, Matthew, Noah, Ryan
+  - Massachusetts (2009), Ryan, Jacob, William, Michael, Matthew, Benjamin, John, Anthony, Alexander, Jack
+  - Michigan (2009), Jacob, Ethan, Logan, Noah, Aiden, Michael, Alexander, Joshua, Andrew, William
+  - Minnesota (2009), Logan, Benjamin, William, Ethan, Jacob, Alexander, Owen, Carter, Samuel, Noah
+  - Mississippi (2009), William, Jayden, James, Christopher, Joshua, John, Michael, Ethan, Landon, Jacob
+  - Missouri (2009), Jacob, Ethan, William, Jackson, Logan, Aiden, Noah, Michael, Landon, Gavin
+  - Montana (2009), Ethan, Wyatt, Logan, Landon, James, William, Jacob, Liam, Benjamin, Isaac
+  - Nebraska (2009), Alexander, Carter, Noah, William, Jacob, Ethan, Logan, Samuel, Landon, Gavin
+  - Nevada (2009), Anthony, Jacob, Daniel, Michael, Alexander, Ethan, Jayden, Angel, David, Aiden
+  - New Hampshire (2009), Logan, Jacob, Liam, Aiden, Ryan, Ethan, Matthew, Benjamin, Gavin, William
+  - New Jersey (2009), Michael, Matthew, Anthony, Jayden, Ryan, Daniel, Joseph, Christopher, Alexander, Nicholas
+  - New Mexico (2009), Aiden, Noah, Joshua, Jacob, Gabriel, Michael, Isaiah, Daniel, Elijah, Josiah
+  - New York (2009), Michael, Jayden, Matthew, Ethan, Daniel, Ryan, Anthony, Joseph, Jacob, Christopher
+  - North Carolina (2009), William, Jacob, Christopher, Noah, Joshua, Ethan, Michael, Alexander, Elijah, James
+  - North Dakota (2009), Ethan, Logan, Jack, Carter, Jacob, Mason, Brayden, Gavin, Aiden, Jackson
+  - Ohio (2009), Jacob, Noah, Ethan, Logan, William, Aiden, Michael, Andrew, Alexander, James
+  - Oklahoma (2009), Ethan, Jacob, Noah, William, Joshua, Aiden, James, Michael, Gabriel, Logan
+  - Oregon (2009), Alexander, Logan, Jacob, Daniel, Ethan, Gabriel, Noah, Elijah, William, Benjamin
+  - Pennsylvania (2009), Michael, Jacob, Ethan, Logan, Matthew, Ryan, Alexander, Chase, Joseph, Aiden
+  - Puerto Rico (2009), Luis, Angel, Adrian, Jose, Diego, Sebastian, Carlos, Ian, Gabriel, Yadiel
+  - Rhode Island (2009), Anthony, Jayden, Logan, Jacob, Michael, Aiden, Joseph, Joshua, Matthew, Benjamin
+  - South Carolina (2009), William, Jayden, Christopher, James, Jacob, Joshua, Michael, Jackson, Noah, Caleb
+  - South Dakota (2009), Ethan, Noah, Gavin, Logan, Jackson, Aiden, Jacob, Mason, Wyatt, Carter
+  - Tennessee (2009), William, Jacob, Joshua, Noah, Ethan, James, Elijah, Jackson, Michael, Aiden
+  - Texas (2009), Jose, Daniel, Jacob, Angel, Christopher, David, Ethan, Joshua, Jayden, Alexander
+  - Utah (2009), Ethan, William, Jacob, Isaac, James, Mason, Benjamin, Samuel, Joshua, Logan
+  - Vermont (2009), Noah, William, Owen, Logan, Aiden, Hunter, Jackson, Jacob, Carter, Wyatt
+  - Virginia (2009), William, Jacob, Michael, Noah, Ethan, Christopher, Joshua, Alexander, James, Jayden
+  - Washington (2009), Alexander, Jacob, Ethan, William, Daniel, Logan, Benjamin, Aiden, Samuel, David
+  - West Virginia (2009), Jacob, Hunter, Ethan, Noah, Aiden, Brayden, Logan, Landon, Elijah, James
+  - Wisconsin (2009), Ethan, Jacob, Noah, Logan, Mason, Alexander, Aiden, Owen, Carter, Jackson
+  - Wyoming (2009), Wyatt, William, Aiden, Jacob, Mason, Noah, Hunter, Logan, James, Brayden
+
+=== Table ID: 2-16304749-2 ===
+=== Table Title: List of U.S. Highways in Michigan ===
+Columns: South or west terminus, North or east terminus, First year, Final year, Notes
+  - Muskegon, Detroit, 1926, 1962, Replaced by I-96
+  - Erie, Port Austin, 1926, 1973, Replaced by I-75 and M-25
+  - Coldwater, Mackinaw City, 1926, 2002, Replaced by I-69 and US127
+  - Niles, Hagar Shores, 1937, 1998, Replaced by US31 and M-63
+  - Crystal Falls, Covington, 1926, 1928, Replaced by US 141
+  - New Buffalo, Detroit, 1926, 1961, Replaced by US 12 when I-94 replaced US 12
+  - Indiana state line, Union, 1926, 1935, Replaced by M-205 , now a county road
+
+=== Table ID: 2-1630554-2 ===
+=== Table Title: 2003–04 Rangers F.C. season ===
+Columns: Nat., Name, Moving to, Type, Transfer window, Transfer fee
+  - NOR, Dan Eggen, Free Agent, End of contract, Summer, n/a
+  - NED, Arthur Numan, Retired, End of contract, Summer, n/a
+  - ARG, Claudio Caniggia, Free Agent, End of contract, Summer, n/a
+  - SCO, Stephen Dobbie, Hibernian, End of contract, Summer, n/a
+  - SCO, Marc Twaddle, Falkirk, End of contract, Summer, n/a
+  - SCO, Jimmy Gibson, Clyde, End of contract, Summer, n/a
+  - NED, Bert Konterman, Vitesse, End of contract, Summer, n/a
+  - FRA, Jerome Bonnissel, Fulham, End of contract, Summer, n/a
+  - ENG, Paul Reid, Northampton Town, Transfer, Summer, £0.1m
+  - ITA, Lorenzo Amoruso, Blackburn Rovers, Transfer, Summer, £1.4m
+  - SCO, Neil McCann, Southampton, Transfer, Summer, £1.5m
+  - SCO, Barry Ferguson, Blackburn Rovers, Transfer, Summer, £7.5m
+  - AUS, Kevin Muscat, Millwall, Transfer, Summer, Free
+  - DEN, Jesper Christiansen, Viborg, Transfer, Winter, Free
+  - NOR, Egil Østenstad, Free Agent, Transfer, n/a, n/a
+
+=== Table ID: 2-1630554-5 ===
+=== Table Title: 2003–04 Rangers F.C. season ===
+Columns: Date, Round, Opponent, Venue, Result, Attendance
+  - 13 August 2003, QR3, FC Copenhagen, H, 1–1, 47,401
+  - 27 August 2003, QR3, FC Copenhagen, A, 2–1, 35,519
+  - 16 September 2003, GS, VfB Stuttgart, H, 2–1, 47,957
+  - 1 October 2003, GS, Panathinaikos, A, 1–1, 13,718
+  - 22 October 2003, GS, Manchester United, H, 0–1, 48,730
+  - 4 November 2003, GS, Manchester United, A, 0–3, 66,707
+  - 26 November 2003, GS, VfB Stuttgart, A, 0–1, 50,348
+  - 9 December 2003, GS, Panathinaikos, H, 1–3, 48,588
+
+=== Table ID: 2-16306899-9 ===
+=== Table Title: Stephanie Vogt ===
+Columns: Outcome, Date, Tournament, Surface, Partner, Opponents, Score
+  - Winner, 16 February 2008, Majorca , Spain, Clay, Polona Hercog, Leticia Costas Maite Gabarrus-Alonso, 7–6 (7–2) , 6–3
+  - Runner-up, 19 April 2008, Bari , Italy, Clay, Polona Hercog, Alberta Brianti Anna Floris, 3–6, 3–6
+  - Winner, 4 May 2008, Makarska , Croatia, Clay, Polona Hercog, Tadeja Majeric Maša Zec Peškirič, 7–5, 6–2
+  - Runner-up, 11 April 2010, Hvar , Croatia, Clay, Leonie Mekel, Marlot Meddens Nicole Thyssen, 4–6, 1–6
+  - Runner-up, 31 October 2010, Cairo , Egypt, Clay, Maša Zec Peškirič, Réka-Luca Jani Martina Kubičíková, 7–6 (7–4) , 1–6, [9–11]
+  - Runner-up, 3 July 2011, Stuttgart-Vaihingen , Germany, Clay, Hana Birnerová, Darija Jurak Anaïs Laurendon, 6–4, 1–6, [0–10]
+  - Runner-up, 10 July 2011, Aschaffenburg , Germany, Clay, Hana Birnerová, Pemra Özgen Yurika Sema, 4–6, 6–7 (5–7)
+  - Runner-up, 23 October 2011, Glasgow , United Kingdom, Hard (i), Yvonne Meusburger, Emma Laine Kristina Mladenovic, 2–6, 4–6
+  - Winner, 25 March 2012, Bath , United Kingdom, Hard (i), Tatjana Malek, Julie Coin Melanie South, 6–3, 3–6, [10–3]
+  - Runner-up, 6 April 2012, Tessenderlo , Belgium, Clay (i), Tatjana Malek, Demi Schuurs Maryna Zanevska, 4–6, 3–6
+  - Winner, 15 July 2012, Aschaffenburg , Germany, Clay, Florencia Molinero, Malou Ejdesgaard Réka-Luca Jani, 6–3, 7–6 (7–2)
+  - Runner-up, 13 April 2013, Edgbaston , United Kingdom, Hard (i), Richèl Hogenkamp, Kristina Barrois Ana Vrljić, 4–6, 6–7 (2–7)
+  - Winner, 4 May 2013, Civitavecchia , Italy, Clay, Renata Voráčová, Paula Kania Magda Linette, 6–3, 6–4
+  - Runner-up, 30 June 2013, Stuttgart-Vaihingen , Germany, Clay, Sandra Zaniewska, Kristina Barrois Laura Siegemund, 6–7 (1–7) , 4–6
+  - Winner, 6 September 2013, Mestre , Italy, Clay, Laura Thorpe, Petra Krejsová Tereza Smitková, 7–6 (7–5) , 7-5
+
+=== Table ID: 2-16311036-8 ===
+=== Table Title: Santiago Giraldo ===
+Columns: Outcome, Date, Tournament, Surface, Opponent, Score
+  - Winner, 9 October 2005, Medellín , Colombia, Clay, Luciano Vitullo, 2–6, 6–4, 7–5
+  - Winner, 7 May 2006, Cali , Colombia, Clay, Carlos Salamanca, 6–4, 6–2
+  - Winner, 25 June 2006, Sorocaba , Brazil, Clay, Eduardo Portal, 7–6 (8–6) , 6–2
+  - Winner, 23 July 2006, Bogotá , Colombia, Clay, Bruno Echagaray, 6–3, 1–6, 6–2
+  - Winner, 18 March 2007, Bogotá , Colombia, Clay, Flávio Saretta, 7–6 (7–4) , 6–2
+  - Winner, 14 October 2007, Quito , Ecuador, Clay, Giovanni Lapentti, 7–6 (7–4) , 6–4
+  - Runner–up, 2 June 2008, Fürth , Germany, Clay, Daniel Köllerer, 6–1, 6–3
+  - Winner, 17 January 2009, Salinas , Ecuador, Hard, Michael Russell, 6–3, 6–2
+  - Winner, 17 April 2009, San Luis Potosí , Mexico, Clay, Paolo Lorenzi, 6–2, 6–7 (3–7) , 6–2
+  - Winner, 11 October 2009, Sacramento, California , USA, Hard, Jesse Levine, 7–6 (7–4) , 6–1
+  - Runner–up, 9 November 2009, Guayaquil , Ecuador, Clay, Nicolás Lapentti, 6–2, 2–6, 7–6 (7–4)
+  - Winner, 18 April 2010, Pereira , Colombia, Clay (Red), Paolo Lorenzi, 6–3, 6–3
+  - Runner–up, 9 July 2012, Bogotá , Colombia, Clay, Alejandro Falla, 7–5, 6–3
+  - Winner, 25 March 2013, Pereira , Colombia, Clay (Red), Paul Capdeville, 6–2, 6–4
+  - Runner–up, 1 July 2013, Todi , Italy, Clay, Pere Riba, 7–6 (7–5) , 2–6, 7–6 (8–6)
+
+=== Table ID: 2-16311036-9 ===
+=== Table Title: Santiago Giraldo ===
+Columns: Tournament, 2007, 2008, 2009, 2010, 2011, 2012
+  - Grand Slam Tournaments, Grand Slam Tournaments, Grand Slam Tournaments, Grand Slam Tournaments, Grand Slam Tournaments, Grand Slam Tournaments, Grand Slam Tournaments
+  - Australian Open, LQ, A, A, 2R, 2R, 2R
+  - French Open, 1R, 1R, 1R, 1R, 1R, 3R
+  - Wimbledon, LQ, A, Q1, 1R, 1R, 1R
+  - US Open, Q1, LQ, Q2, 1R, 1R, 1R
+  - Win–Loss, 0–1, 0–1, 0–1, 1–4, 1–4, 3–4
+  - Olympic Games, Olympic Games, Olympic Games, Olympic Games, Olympic Games, Olympic Games, Olympic Games
+  - Summer Olympics, NH, A, Not Held, Not Held, Not Held, 2R
+  - Davis Cup Singles, Davis Cup Singles, Davis Cup Singles, Davis Cup Singles, Davis Cup Singles, Davis Cup Singles, Davis Cup Singles
+  - Americas Zone Group I, A, A, 2R, 2R, 1R, 2R
+  - World Group, A, A, A, PO, A, A
+  - Win–Loss, 0–0, 0–0, 1–1, 3–1, 2–1, 3–1
+  - ATP World Tour Masters 1000, ATP World Tour Masters 1000, ATP World Tour Masters 1000, ATP World Tour Masters 1000, ATP World Tour Masters 1000, ATP World Tour Masters 1000, ATP World Tour Masters 1000
+  - Indian Wells Masters, A, 2R, 1R, A, 2R, 3R
+  - Miami Masters, A, 1R, LQ, 2R, 1R, 2R
+  - Monte Carlo Masters, A, A, A, A, 1R, A
+  - Rome Masters, A, A, A, 3R, 1R, 1R
+  - Hamburg Masters, A, A, Not Masters Series, Not Masters Series, Not Masters Series, Not Masters Series
+  - Canada Masters, LQ, A, LQ, 1R, A, A
+  - Cincinnati Masters, A, A, LQ, 1R, A, 1R
+  - Madrid Masters, A, A, A, 2R, 2R, 1R
+  - Shanghai Masters, NMS, NMS, A, LQ, 3R, A
+  - Paris Masters, A, A, A, 2R, 1R, A
+  - Win–Loss, 0–0, 1–2, 0–1, 5–6, 4–7, 3–5
+  - ATP World Tour 500 series, ATP World Tour 500 series, ATP World Tour 500 series, ATP World Tour 500 series, ATP World Tour 500 series, ATP World Tour 500 series, ATP World Tour 500 series
+  - Acapulco, A, A, A, A, QF, SF
+  - Barcelona, A, A, A, A, 3R, 3R
+  - Hamburg, HMS, HMS, A, A, 1R, A
+  - Washington, 1R, A, 1R, 1R, A, A
+  - China, A, A, A, A, A, A
+  - Tokyo, A, A, A, 1R, QF, A
+  - Basel, A, A, A, 2R, 1R, A
+  - Valencia, A, A, A, A, A, A
+  - Win–Loss, 0–1, 0–0, 0–1, 1–3, 5–5, 5–2
+  - ATP World Tour 250 series, ATP World Tour 250 series, ATP World Tour 250 series, ATP World Tour 250 series, ATP World Tour 250 series, ATP World Tour 250 series, ATP World Tour 250 series
+  - Chennai, 1R, A, A, QF, A, A
+  - Brisbane, A, A, A, A, QF, QF
+  - Auckland, A, A, A, A, SF, 2R
+  - Montpellier, A, 1R, A, A, NH, A
+  - Viña del Mar, A, A, A, A, F, 1R
+  - São Paulo, A, A, A, A, 1R, 1R
+  - San Jose, A, A, A, 1R, A, A
+  - Delray Beach, A, A, A, 2R, A, A
+  - Bucharest, A, A, A, A, A, A
+  - Estoril, A, A, A, 2R, A, A
+  - Munich, A, A, A, A, A, 2R
+  - Nice, Not Held, Not Held, Not Held, A, A, A
+  - London, A, A, A, 2R, A, A
+  - Rosmalen, A, A, A, QF, QF, 1R
+  - Newport, A, A, A, 2R, A, A
+  - Stuttgart, A, 1R, A, A, QF, A
+  - Bogotá, Not Held, Not Held, Not Held, Not Held, Not Held, Not Held
+  - Atlanta, 1R, A, A, A, A, A
+  - Gstaad, A, A, A, A, 2R, 2R
+  - Kitzbühel, A, 1R, A, A, QF, A
+  - Winston-Salem, A, A, A, A, 3R, 2R
+  - Bangkok, A, A, A, A, 2R, A
+  - Kuala Lumpur, A, A, A, A, 2R, A
+  - Stockholm, A, A, A, A, A, A
+  - Vienna, A, 2R, A, 2R, A, A
+  - Win–Loss, 0–2, 1–4, 0–0, 9–8, 20–11, 6–8
+  - Career statistics, Career statistics, Career statistics, Career statistics, Career statistics, Career statistics, Career statistics
+  - Titles–Finals, 0–0, 0–0, 0–0, 0–0, 0–1, 0–0
+  - Year End Ranking, 538, 163, 107, 64, 55, 57
+
+=== Table ID: 2-16312746-2 ===
+=== Table Title: 1979–80 FA Cup ===
+Columns: Tie no, Home team, Score, Away team, Date
+  - 1, Chester, 1–0, Barnsley, 18 December 1979
+  - 2, Croydon, 1–1, Millwall, 15 December 1979
+  - Replay, Millwall, 3–2, Croydon, 18 December 1979
+  - 3, Darlington, 0–1, Bradford City, 15 December 1979
+  - 4, Bury, 0–0, York City, 15 December 1979
+  - Replay, York City, 0–2, Bury, 18 December 1979
+  - 5, Yeovil Town, 1–0, Slough Town, 15 December 1979
+  - 6, Reading, 3–1, Barking, 15 December 1979
+  - 7, Walsall, 1–1, Halifax Town, 15 December 1979
+  - Replay, Halifax Town, 1–1, Walsall, 18 December 1979
+  - Replay, Halifax Town, 2–0, Walsall, 24 December 1979
+  - 8, Blackburn Rovers, 2–0, Stafford Rangers, 17 December 1979
+  - 9, Grimsby Town, 2–0, Sheffield United, 15 December 1979
+  - 10, Northwich Victoria, 2–2, Wigan Athletic, 5 January 1980
+  - Replay, Wigan Athletic, 1–0, Northwich Victoria, 7 January 1980
+  - 11, Doncaster Rovers, 1–2, Mansfield Town, 15 December 1979
+  - 12, Tranmere Rovers, 2–2, Rochdale, 15 December 1979
+  - Replay, Rochdale, 2–1, Tranmere Rovers, 18 December 1979
+  - 13, Carlisle United, 3–0, Sheffield Wednesday, 15 December 1979
+  - 14, Wimbledon, 0–0, Portsmouth, 18 December 1979
+  - Replay, Portsmouth, 3–3, Wimbledon, 24 December 1979
+  - Replay, Wimbledon, 0–1, Portsmouth, 5 January 1980
+  - 15, Southend United, 1–1, Harlow Town, 15 December 1979
+  - Replay, Harlow Town, 1–0, Southend United, 18 December 1979
+  - 16, Chesham United, 1–1, Merthyr Tydfil, 19 December 1979
+  - Replay, Merthyr Tydfil, 1–3, Chesham United, 22 December 1979
+  - 17, Torquay United, 3–3, Swindon Town, 18 December 1979
+  - Replay, Swindon Town, 3–2, Torquay United, 22 December 1979
+  - 18, Hereford United, 1–2, Aldershot, 15 December 1979
+  - 19, Rotherham United, 0–2, Altrincham, 15 December 1979
+  - 20, Colchester United, 1–0, Bournemouth, 15 December 1979
+
+=== Table ID: 2-16319887-9 ===
+=== Table Title: Florida State Seminoles men's basketball ===
+Columns: Name, Pos., Year, Height, Weight, Hometown, Last School
+  - Boris Bojanovsky, C, Fr., 7-3, 240, Bratislava, Slovak Republic, Oakley College
+  - Devon Bookert, G, Fr., 6-3, 185, Anchorage, Alaska, West Anchorage
+  - Montay Brandon, G, Fr., 6-7, 216, Greensboro, North Carolina, Wesleyan Christian
+  - Robert Gilchrist, F, Jr., 6-9, 220, London, England, Polk State College
+  - Joell Hopkins, F, So., 6-6, 205, Durham, North Carolina, Tallahassee Community College
+  - Ian Miller, G, Jr., 6-3, 186, Charlotte, North Carolina, United Faith Christian Academy
+  - Joey Moreau, G, Sr., 6-2, 179, Henderson, Nevada, IMG Academy
+  - Michael Ojo, C, Fr., 7-1, 290, Lagos, Nigeria, Tennessee Temple
+  - Rafael Portundo, G, Sr., 5-11, 165, Miami, Florida, Dade College
+  - Terrance Shannon, F, RJr., 6-8, 240, Forsyth, Georgia, Mary Persons
+  - Michael Snaer, F, Sr., 6-5, 202, Moreno Valley, California, Rancho Verde
+  - Aaron Thomas, G, Fr., 6-5, 195, Cincinnati, Ohio, Brewster Academy
+  - Kiel Turpin, C, RJr., 7-0, 240, Normal, Illinois, Lincoln College
+  - Terry Whisnant II, G, So., 6-3, 185, Cherryville, North Carolina, Cherryville
+  - Okaro White, F, Jr., 6-8, 202, Clearwater, Florida, Clearwater
+
+=== Table ID: 2-16321-1 ===
+=== Table Title: Joseph McCarthy ===
+Columns: Date, Favorable, No Opinion, Unfavorable, Net Favorable
+  - 1951 August, 15, 63, 22, −7
+  - 1953 April, 19, 59, 22, −3
+  - 1953 June, 35, 35, 30, +5
+  - 1953 August, 34, 24, 42, −8
+  - 1954 January, 50, 21, 29, +21
+  - 1954 March, 46, 18, 36, +10
+  - 1954 April, 38, 16, 46, −8
+  - 1954 May, 35, 16, 49, −14
+  - 1954 June, 34, 21, 45, −11
+  - 1954 August, 36, 13, 51, −15
+  - 1954 November, 35, 19, 46, −11
+
+=== Table ID: 2-163215-7 ===
+=== Table Title: Brampton Battalion ===
+Columns: Season, Games, Lost, Points, Pct %, Goals For, Goals Against, Standing
+  - 1998–99, 68, 57, 19, 0.140, 198, 362, 5th Midwest
+  - 1999–2000, 68, 28, 65, 0.449, 213, 226, 3rd Midwest
+  - 2000–01, 68, 22, 79, 0.551, 231, 210, 3rd Midwest
+  - 2001–02, 68, 35, 59, 0.419, 215, 258, 5th Midwest
+  - 2002–03, 68, 24, 78, 0.544, 239, 202, 1st Central
+  - 2003–04, 68, 32, 61, 0.434, 180, 221, 4th Central
+  - 2004–05, 68, 24, 77, 0.551, 214, 200, 3rd Central
+  - 2005–06, 68, 21, 91, 0.669, 272, 222, 1st Central
+  - 2006–07, 68, 36, 59, 0.434, 214, 277, 4th Central
+  - 2007–08, 68, 22, 88, 0.647, 264, 187, 1st Central
+  - 2008–09, 68, 19, 96, 0.706, 264, 184, 1st Central
+  - 2009–10, 68, 29, 64, 0.471, 167, 181, 3rd Central
+  - 2010–11, 68, 32, 65, 0.478, 190, 214, 3rd Central
+  - 2011–12, 68, 22, 82, 0.603, 202, 188, 3rd Central
+  - 2012–13, 68, 25, 77, 0.566, 193, 190, 2nd Central
+  - Total, 1,020, 428, 1,060, 0.519, 3,256, 3,322, 4 Division Titles
+
+=== Table ID: 2-163231-4 ===
+=== Table Title: 1960 Winter Olympics ===
+Columns: Rank, Nation, Gold, Silver, Bronze, Total
+  - 1, Soviet Union, 7, 5, 9, 21
+  - 2, Germany, 4, 3, 1, 8
+  - 3, United States, 3, 4, 3, 10
+  - 4, Norway, 3, 3, 0, 6
+  - 5, Sweden, 3, 2, 2, 7
+  - 6, Finland, 2, 3, 3, 8
+  - 7, Canada, 2, 1, 1, 4
+  - 8, Switzerland, 2, 0, 0, 2
+  - 9, Austria, 1, 2, 3, 6
+  - 10, France, 1, 0, 2, 3
+  - 11, Netherlands, 0, 1, 1, 2
+  - 11, Poland, 0, 1, 1, 2
+  - 13, Czechoslovakia, 0, 1, 0, 1
+  - 14, Italy, 0, 0, 1, 1
+  - Total (14 NOCs), Total (14 NOCs), 28‡, 26‡, 27, 81
+
+=== Table ID: 2-1632486-6 ===
+=== Table Title: Driver deaths in motorsport ===
+Columns: Discipline, Championship, Circuit, Event, Session, Cause
+  - NASCAR Winston Cup Series, 2001 NASCAR Winston Cup Series, Daytona Speedway, 2001 Daytona 500, Race, Crash
+  - Stock Car, 1978 Grand American Sportsman Series, Riverside Raceway, 1978 Stock Car Products 300, Practice, Crash
+  - Open Wheel, 1959 USAC Championship Car season, Milwaukee Mile, Milwaukee 200, Race, Crash
+  - Sportscar, non-championship, Le Mans, 1997 24 Hours of Le Mans, Pre-race test, Crash
+  - Stock Car, NASCAR Featherlite Modified Series, Martinsville Speedway, Winn-Dixie 500 Modified Feature, Practice, Crash
+
+=== Table ID: 2-1632486-8 ===
+=== Table Title: Driver deaths in motorsport ===
+Columns: Discipline, Championship, Circuit, Session, Cause
+  - Stock Car, NASCAR Limited Sportsman Division, Lowes Motor Speedway, Practice, Crash
+  - Sports Car, World Sports-Prototype Championship, Le Mans, Race, Crash
+  - Stock Car, ARCA RE/MAX Series, Talladega, Race, Crash
+  - Sports car, International Championship for Makes, Autódromo Juan y Oscar Gálvez, Race, Crash
+  - Open Wheel, Euroboss, Autodrom Most, Race, Crash
+
+=== Table ID: 2-163252-2 ===
+=== Table Title: NYPD Blue ===
+Columns: Season, Premiere, Finale, Episodes, Timeslot, Rank, Viewers (in households)
+  - Season 1, September 21, 1993, May 17, 1994, 22, Tuesday 10:00 pm, #18, 13.0
+  - Season 2, October 11, 1994, May 23, 1995, 22, Tuesday 10:00 pm, #7, 15.7
+  - Season 3, October 24, 1995, May 21, 1996, 22, Tuesday 10:00 pm, #10, 13.5
+  - Season 4, October 15, 1996, May 20, 1997, 22, Tuesday 10:00 pm, #13, 12.1
+  - Season 5, September 9, 1997, May 19, 1998, 22, Tuesday 10:00 pm, #17, 10.5
+  - Season 6, October 20, 1998, May 25, 1999, 22, Tuesday 10:00 pm, #12, 10.4
+  - Season 7, January 11, 2000, May 23, 2000, 22, Tuesday 10:00 pm, #17, 15.5
+  - Season 8, January 9, 2001, May 22, 2001, 20, Tuesday 10:00 pm, #23, 16.2
+  - Season 9, November 6, 2001, May 21, 2002, 22, Tuesday 9:00 pm, #31, 12.3
+  - Season 10, September 24, 2002, May 20, 2003, 22, Tuesday 10:00 pm, #34, 11.3
+  - Season 11, September 23, 2003, May 11, 2004, 22, Tuesday 10:00 pm, #51, 9.9
+  - Season 12, September 21, 2004, March 1, 2005, 20, Tuesday 10:00 pm, #42, 10.1
+
+=== Table ID: 2-1632976-1 ===
+=== Table Title: KDOC-TV ===
+Columns: Channel, Video, Aspect, PSIP Short Name, Programming
+  - 56.1, 720p, 16:9, KDOC-HD, Main KDOC-TV programming
+  - 56.2, 480i, 4:3, ESNE, Spanish Catholic
+  - 56.3, 480i, 4:3, METVLA, Me-TV
+  - 56.4, 480i, 4:3, NDOC, s Infomercial
+  - 56.5, 480i, 4:3, IBC-TV, IBC-TV (Vietnamese)
+
+=== Table ID: 2-16341329-1 ===
+=== Table Title: List of VIA C3 microprocessors ===
+Columns: Model Number, Frequency, L2-Cache, Front Side Bus, Multiplier, Voltage, Socket
+  - C3 667, 667MHz, 64KiB, 133MHz, 5×, 1.6V, Socket 370
+  - C3 733, 733MHz, 64KiB, 133MHz, 5.5×, 1.6V, Socket 370
+  - C3 750, 750MHz, 64KiB, 100MHz, 7.5×, 1.6V, Socket 370
+  - C3 800, 800MHz, 64KiB, 100MHz, 8×, 1.6V, Socket 370
+  - C3 800, 800MHz, 64KiB, 133MHz, 6×, 1.6V, EBGA
+
+=== Table ID: 2-16341329-3 ===
+=== Table Title: List of VIA C3 microprocessors ===
+Columns: Model Number, Frequency, L2-Cache, Front Side Bus, Multiplier, Voltage, Socket
+  - C3 1.0A, 1000 MHz, 64 KiB, 133 MHz, 7.5×, 1.4 V, Socket 370
+  - C3 1.0B, 1000 MHz, 64 KiB, 133 MHz, 7.5×, 1.45 V, EBGA
+  - C3 1.1A, 1133 MHz, 64 KiB, 133 MHz, 8.5×, 1.4 V, Socket 370
+  - C3 1.1B, 1133 MHz, 64 KiB, 133 MHz, 8.5×, 1.45 V, EBGA
+  - C3 1.2A, 1200 MHz, 64 KiB, 133 MHz, 9×, 1.45 V, Socket 370
+  - C3 1.2B, 1200 MHz, 64 KiB, 133 MHz, 9×,  V, EBGA
+  - C3 1.2C, 1200 MHz, 64 KiB, 200 MHz, 6×,  V, EBGA
+  - C3 1.3A, 1333 MHz, 64 KiB, 133 MHz, 10×, 1.4 V, Socket 370
+  - C3 1.3B, 1333 MHz, 64 KiB, 133 MHz, 10×,  V, EBGA
+  - C3 1.3C, 1300 MHz, 64 KiB, 200 MHz, 6.5×,  V, EBGA
+  - C3 1.4A, 1400 MHz, 64 KiB, 133 MHz, 10.5×, 1.4 V, Socket 370
+  - C3 1.4B, 1400 MHz, 64 KiB, 133 MHz, 10.5×,  V, EBGA
+  - C3 1.4C, 1400 MHz, 64 KiB, 200 MHz, 7×,  V, EBGA
+
+=== Table ID: 2-1634376-1 ===
+=== Table Title: Delta-class submarine ===
+Columns: Shipyard, Name, Laid down, Launched, Commissioned, Fleet
+  - SEVMASH, Severodvinsk, NA, 30 January 1974, 11 February 1976, 30 December 1976, Northern
+  - SEVMASH, Severodvinsk, NA, 7 May 1974, 25 May 1976, 31 October 1976, Pacific
+  - SEVMASH, Severodvinsk, NA, 19 July 1974, 29 July 1976, 5 February 1977, Pacific
+  - SEVMASH, Severodvinsk, NA, 16 October 1974, 16 August 1976, 30 December 1976, Pacific
+  - SEVMASH, Severodvinsk, NA, 6 March 1975, 27 January 1977, 30 September 1977, Pacific
+  - SEVMASH, Severodvinsk, NA, 9 June 1975, 4 April 1977, 27 December 1977, Northern
+  - SEVMASH, Severodvinsk, Borisoglebsk, 23 September 1975, 13 August 1977, 30 December 1977, Northern
+  - SEVMASH, Severodvinsk, Zelenograd, 29 December 1975, 26 January 1978, 30 November 1978, Pacific
+  - SEVMASH, Severodvinsk, Petropavlovsk-Kamchatskiy, 19 August 1976, 13 January 1979, 28 September 1979, Pacific
+  - SEVMASH, Severodvinsk, Podolsk, 19 February 1977, 30 April 1979, 27 November 1979, Pacific
+  - SEVMASH, Severodvinsk, NA, 27 December 1977, 8 January 1980, 25 September 1980, Pacific
+  - SEVMASH, Severodvinsk, Svyatoy Georgiy Pobedonosets, 24 August 1978, 20 June 1980, 15 December 1980, Pacific
+  - SEVMASH, Severodvinsk, Orenburg, 9 April 1979, 15 April 1981, 5 November 1981, Northern
+  - SEVMASH, Severodvinsk, Ryazan, 31 January 1980, 19 January 1982, 17 September 1982, Pacific
+
+=== Table ID: 2-163464-1 ===
+=== Table Title: List of colleges and universities in Ohio ===
+Columns: University, Common short form and abbreviation, Location, Enrollment, Athletics nickname, School Colors, Founded, Student newspaper
+  - University of Akron, Akron UA, Akron, 29,251, Akron Zips (formerly Zippers), blue, gold, 1870 (Buchtelite College), The Buchtelite
+  - Bowling Green State University, Bowling Green State Bowling Green BGSU, Bowling Green, 18,989, Bowling Green Falcons, orange, brown, 1910, The BG News
+  - Central State University ( Historically black ), Central State CSU, Wilberforce, 2,430, Central State Marauders, Maroon and Gold, 1887, The Gold Torch
+  - University of Cincinnati, Cincinnati UC, Cincinnati, 41,357, Cincinnati Bearcats, red, black, 1819, The News Record
+  - Cleveland State University, Cleveland State CSU, Cleveland, 15,664, Cleveland State Vikings (formerly Foxes), forest green, white, 1964 (Fenn College), The Cleveland Stater
+  - Kent State University, Kent State Kent KSU, Kent, 42,185, Kent State Golden Flashes, navy blue, gold, 1910, The Daily Kent Stater
+  - Miami University, Miami MU, Oxford, 17,161, Miami RedHawks (formerly Redskins), red, white, 1809, The Miami Student
+  - Ohio State University (flagship institution), Ohio State OSU, Columbus, 59,091, Ohio State Buckeyes, scarlet, gray, 1870, The Lantern
+  - Ohio University, Ohio OU, Athens, 35,324, Ohio Bobcats, hunter green, white, 1804, The Post
+  - Shawnee State University, Shawnee State SSU, Portsmouth, 4,300, Shawnee State Bears, Blue and White, 1986, University Chronicle
+  - University of Toledo, Toledo UT, Toledo, 20,775, Toledo Rockets, midnight blue, gold, 1872, The Independent Collegian
+  - Wright State University, Wright State WSU, Dayton ( Fairborn ), 18,786, Wright State Raiders, hunter green, gold, 1965, The Guardian
+  - Youngstown State University, Youngstown State YSU, Youngstown, 14,682, Youngstown State Penguins, red, white, 1908, The Jambar
+
+=== Table ID: 2-16347193-1 ===
+=== Table Title: 1960–61 Atlantic Coast Conference men's basketball season ===
+Columns: Team, All Games, All Games %, Nonconference Games, Nonconference Games %, Ranked AP Nonconference
+  - North Carolina, 19–4, .826, 5–2, .714, 0–2
+  - Wake Forest, 19–11, .633, 6–7, .462, 2–3
+  - Duke, 22–6, .786, 10–0, 1.000, 1–0
+  - NC State, 16–9, .640, 6–2, .750, 0–1
+  - Maryland, 14–12, .538, 7–1, .875, 0–0
+  - Clemson, 10–16, .385, 5–6, .455, 0–0
+  - South Carolina, 9–17, .346, 6–4, .600, 0–0
+  - Virginia, 3–23, .115, 1–10, .091, 0–1
+  - Total, 112–98, .533, 46–32, .590, 3–7
+
+=== Table ID: 2-16351707-1 ===
+=== Table Title: Tasmania cricket team List A records ===
+Columns: Rank, Runs, Opponent, Venue, Season
+  - 1, 340/5, South Australia, Bellerive Oval , Hobart, 2004/05
+  - 2, 327/7, New South Wales, Bankstown Oval , Sydney, 2001/02
+  - 3, 311/8, Victoria, Melbourne Cricket Ground , Melbourne, 2002/03
+  - 4, 299/9, New South Wales, Bellerive Oval , Hobart, 2005/06
+  - 5, 298/5, Victoria, Bellerive Oval , Hobart, 2004/05
+  - Source: . Last updated: 28 June 2007., Source: . Last updated: 28 June 2007., Source: . Last updated: 28 June 2007., Source: . Last updated: 28 June 2007., Source: . Last updated: 28 June 2007.
+
+=== Table ID: 2-16351707-5 ===
+=== Table Title: Tasmania cricket team List A records ===
+Columns: Rank, Margin, Opponent, Venue, Season
+  - 1, 179 runs, Matabeleland, Bulawayo Athletic Club , Bulawayo, 1995/96
+  - 2, 140 runs, South Australia, Bellerive Oval , Hobart, 2002/03
+  - 3, 115 runs, South Australia, Bellerive Oval , Hobart, 1996/97
+  - 4, 114 runs, South Australia, Bellerive Oval , Hobart, 2004/05
+  - =4, 114 runs, Victoria, Junction Oval , Melbourne, Victoria, 2005/06
+  - Source: . Last updated: 28 June 2007., Source: . Last updated: 28 June 2007., Source: . Last updated: 28 June 2007., Source: . Last updated: 28 June 2007., Source: . Last updated: 28 June 2007.
+
+=== Table ID: 2-16351707-9 ===
+=== Table Title: Tasmania cricket team List A records ===
+Columns: Rank, Runs, Player, Opponent, Venue, Season
+  - 1, 145, Travis Birt, South Australia, Bellerive Oval , Hobart, 2004/05
+  - 2, 129*, Michael Di Venuto, South Australia, Bellerive Oval , Hobart, 1996/97
+  - 3, 125, Michael Di Venuto, New South Wales, Bellerive Oval , Hobart, 2003/04
+  - 4, 124, Michael Di Venuto, South Australia, Adelaide Oval , Adelaide, 2000/01
+  - 5, 118, Michael Bevan, South Australia, Bellerive Oval , Hobart, 2004/05
+  - Source:. Last updated: 28 June 2007., Source:. Last updated: 28 June 2007., Source:. Last updated: 28 June 2007., Source:. Last updated: 28 June 2007., Source:. Last updated: 28 June 2007., Source:. Last updated: 28 June 2007.
+
+=== Table ID: 2-16354524-2 ===
+=== Table Title: List of Masters Tournament champions ===
+Columns: Year, Country, Champion, Total score, To Par [a ]
+  - 1934, United States, Horton Smith Category:Articles with hCards, 284, −4
+  - 1935, United States, Gene Sarazen Category:Articles with hCards [c ], 282, −6
+  - 1936, United States, Horton Smith Category:Articles with hCards, 285, −3
+  - 1937, United States, Byron Nelson Category:Articles with hCards, 283, −5
+  - 1938, United States, Henry Picard Category:Articles with hCards, 285, −3
+  - 1939, United States, Ralph Guldahl Category:Articles with hCards, 279, −9
+  - 1940, United States, Jimmy Demaret Category:Articles with hCards, 280, −8
+  - 1941, United States, Craig Wood Category:Articles with hCards, 280, −8
+  - 1942, United States, Byron Nelson Category:Articles with hCards [d ], 280, −8
+  - 1943, —, None [b ], —, —
+  - 1944, —, None, —, —
+  - 1945, —, None, —, —
+  - 1946, United States, Herman Keiser Category:Articles with hCards, 282, −6
+  - 1947, United States, Jimmy Demaret Category:Articles with hCards, 281, −7
+  - 1948, United States, Claude Harmon Category:Articles with hCards, 279, −9
+  - 1949, United States, Sam Snead Category:Articles with hCards, 282, −6
+  - 1950, United States, Jimmy Demaret Category:Articles with hCards, 283, −5
+  - 1951, United States, Ben Hogan Category:Articles with hCards, 280, −8
+  - 1952, United States, Sam Snead Category:Articles with hCards, 286, −2
+  - 1953, United States, Ben Hogan Category:Articles with hCards, 274, −14
+  - 1954, United States, Sam Snead Category:Articles with hCards [e ], 289, +1
+  - 1955, United States, Cary Middlecoff Category:Articles with hCards, 279, −9
+  - 1956, United States, Jack Burke, Jr. Category:Articles with hCards, 289, +1
+  - 1957, United States, Doug Ford Category:Articles with hCards, 283, −5
+  - 1958, United States, Arnold Palmer Category:Articles with hCards, 284, −4
+  - 1959, United States, Art Wall, Jr. Category:Articles with hCards, 284, −4
+  - 1960, United States, Arnold Palmer Category:Articles with hCards, 282, −6
+  - 1961, South Africa, Gary Player Category:Articles with hCards, 280, −8
+  - 1962, United States, Arnold Palmer Category:Articles with hCards [f ], 280, −8
+  - 1963, United States, Jack Nicklaus Category:Articles with hCards, 286, −2
+  - 1964, United States, Arnold Palmer Category:Articles with hCards, 276, −12
+  - 1965, United States, Jack Nicklaus Category:Articles with hCards, 271, −17
+  - 1966, United States, Jack Nicklaus Category:Articles with hCards [g ], 288, E
+  - 1967, United States, Gay Brewer Category:Articles with hCards, 280, −8
+  - 1968, United States, Bob Goalby Category:Articles with hCards, 277, −11
+  - 1969, United States, George Archer Category:Articles with hCards, 281, −7
+  - 1970, United States, Billy Casper Category:Articles with hCards [h ], 279, −9
+  - 1971, United States, Charles Coody Category:Articles with hCards, 279, −9
+  - 1972, United States, Jack Nicklaus Category:Articles with hCards, 286, −2
+  - 1973, United States, Tommy Aaron Category:Articles with hCards, 283, −5
+  - 1974, South Africa, Gary Player Category:Articles with hCards, 278, −10
+  - 1975, United States, Jack Nicklaus Category:Articles with hCards, 276, −12
+  - 1976, United States, Raymond Floyd Category:Articles with hCards, 271, −17
+  - 1977, United States, Tom Watson Category:Articles with hCards, 276, −12
+  - 1978, South Africa, Gary Player Category:Articles with hCards, 277, −11
+  - 1979, United States, Fuzzy Zoeller Category:Articles with hCards [i ], 280, −8
+  - 1980, Spain, Seve Ballesteros Category:Articles with hCards, 275, −13
+  - 1981, United States, Tom Watson Category:Articles with hCards, 280, −8
+  - 1982, United States, Craig Stadler Category:Articles with hCards [j ], 284, −4
+  - 1983, Spain, Seve Ballesteros Category:Articles with hCards, 280, −8
+  - 1984, United States, Ben Crenshaw Category:Articles with hCards, 277, −11
+  - 1985, West Germany, Bernhard Langer Category:Articles with hCards, 282, −6
+  - 1986, United States, Jack Nicklaus Category:Articles with hCards, 279, −9
+  - 1987, United States, Larry Mize Category:Articles with hCards [k ], 285, −3
+  - 1988, Scotland, Sandy Lyle Category:Articles with hCards, 281, −7
+  - 1989, England, Nick Faldo Category:Articles with hCards [l ], 283, −5
+  - 1990, England, Nick Faldo Category:Articles with hCards [m ], 278, −10
+  - 1991, Wales, Ian Woosnam Category:Articles with hCards, 277, −11
+  - 1992, United States, Fred Couples Category:Articles with hCards, 275, −13
+  - 1993, Germany, Bernhard Langer Category:Articles with hCards, 277, −11
+  - 1994, Spain, José María Olazábal Category:Articles with hCards, 279, −9
+  - 1995, United States, Ben Crenshaw Category:Articles with hCards, 274, −14
+  - 1996, England, Nick Faldo Category:Articles with hCards, 276, −12
+  - 1997, United States, Tiger Woods Category:Articles with hCards, 270, −18
+  - 1998, United States, Mark O'Meara Category:Articles with hCards, 279, −9
+  - 1999, Spain, José María Olazábal Category:Articles with hCards, 280, −8
+  - 2000, Fiji, Vijay Singh Category:Articles with hCards, 278, −10
+  - 2001, United States, Tiger Woods Category:Articles with hCards, 272, −16
+  - 2002, United States, Tiger Woods Category:Articles with hCards, 276, −12
+  - 2003, Canada, Mike Weir Category:Articles with hCards [n ], 281, −7
+  - 2004, United States, Phil Mickelson Category:Articles with hCards, 279, −9
+  - 2005, United States, Tiger Woods Category:Articles with hCards [o ], 276, −12
+  - 2006, United States, Phil Mickelson Category:Articles with hCards, 281, −7
+  - 2007, United States, Zach Johnson Category:Articles with hCards, 289, +1
+  - 2008, South Africa, Trevor Immelman Category:Articles with hCards, 280, −8
+  - 2009, Argentina, Ángel Cabrera Category:Articles with hCards [p ], 276, −12
+  - 2010, United States, Phil Mickelson Category:Articles with hCards, 272, −16
+  - 2011, South Africa, Charl Schwartzel Category:Articles with hCards, 274, −14
+  - 2012, United States, Bubba Watson Category:Articles with hCards [q ], 278, −10
+  - 2013, Australia, Adam Scott Category:Articles with hCards [r ], 279, −9
+
+=== Table ID: 2-1635909-1 ===
+=== Table Title: Irish general election, 2007 ===
+Columns: Party, Leader, Seats, % of seats, First Pref votes, % FPv
+  - Fianna Fáil, Bertie Ahern, 77, 46.6, 858,565, 41.56
+  - Fine Gael, Enda Kenny, 51, 30.9, 564,428, 27.32
+  - Labour Party, Pat Rabbitte, 20, 12.1, 209,175, 10.13
+  - Green Party, Trevor Sargent, 6, 3.6, 96,936, 4.69
+  - Sinn Féin, Gerry Adams, 4, 2.4, 143,410, 6.94
+  - Progressive Democrats, Michael McDowell, 2, 1.2, 56,396, 2.73
+  - Socialist Party, Joe Higgins, 0, 0, 13,218, 0.64
+  - People Before Profit, N/A, 0, 0, 9,333, 0.45
+  - Workers' Party, Seán Garland, 0, 0, 3,026, 0.15
+  - Christian Solidarity, Cathal Loftus, 0, 0, 1,705, 0.08
+  - Fathers Rights, Liam Ó Gógáin, 0, 0, 1,355, 0.07
+  - Immigration Control, Áine Ní Chonaill, 0, 0, 1,329, 0.06
+  - Irish Socialist Network, N/A, 0, 0, 505, 0.02
+  - Independent, N/A, 5, 3.0, 106,429, 5.15
+  - Ceann Comhairle, N/A, 1†, 0.6, N/A, N/A
+  - Spoilt votes, Spoilt votes, Spoilt votes, Spoilt votes, 19,435, —
+  - Total, Total, 166, 100, 2,085,245, 100
+  - Electorate/Turnout, Electorate/Turnout, Electorate/Turnout, Electorate/Turnout, 3,110,914, 67.0%
+
+=== Table ID: 2-16360419-1 ===
+=== Table Title: 2008 Arctic Winter Games ===
+Columns: Team, Gold, Silver, Bronze, Overall
+  - Alaska, 74, 55, 73, 202
+  - Yamal-Nenets, 44, 32, 16, 92
+  - Northwest Territories, 34, 41, 36, 111
+  - Alberta North, 29, 37, 24, 90
+  - Yukon, 26, 25, 30, 81
+  - Nunavut, 15, 27, 25, 67
+  - Greenland, 12, 14, 18, 44
+  - Nunavik Quebec, 9, 7, 8, 24
+  - Saami, 5, 5, 6, 16
+
+=== Table ID: 2-16360443-1 ===
+=== Table Title: 1991 ATP Championship Series, Single Week ===
+Columns: Tournament, Surface, Week, Winner and score, Finalist, Semifinalists
+  - Indian Wells, Hard, March 4, Jim Courier (16) 4–6, 6–3, 4–6, 6–3, 7–6(4), Guy Forget (3), Stefan Edberg (1) Michael Stich (11)
+  - Key Biscane, Hard, March 11, Jim Courier (13) 4–6, 6–3, 6–4, David Wheaton, Stefan Edberg (1) Richey Reneberg (24)
+  - Monte Carlo, Clay, April 22, Sergi Bruguera 5–7, 6–4, 7–6(6), 7–6(4), Boris Becker, Horst Skoff Goran Prpić
+  - Hamburg, Clay, May 6, Karel Nováček 6–3, 6–3, 5–7, 0–6, 6–1, Magnus Gustafsson, Michael Stich Goran Prpić
+  - Rome, Clay, May 13, Emilio Sánchez 6–3, 6–1, 3–0 retired, Alberto Mancini, Goran Prpić Sergi Bruguera
+  - Montréal, Hard, July 22, Andrei Chesnokov 3–6, 6–4, 6–3, Petr Korda, Ivan Lendl Jim Courier
+  - Cincinnati, Hard, August 5, Guy Forget 2–6, 7–6(4), 6–4, Pete Sampras, Boris Becker Jim Courier
+  - Stockholm, Carpet (i), October 21, Boris Becker 3–6, 6–4, 1–6, 6–2, 6–2, Stefan Edberg, Aaron Krickstein Jim Courier
+  - Paris, Carpet (i), October 28, Guy Forget 7–6(9), 4–6, 5–7, 6–4, 6–4, Pete Sampras, Michael Chang Jonas Svensson
+
+=== Table ID: 2-1636090-1 ===
+=== Table Title: Women's Western Open ===
+Columns: Year, Winner, Score, Runner(s)-up, Winner's share ($), Course, Location
+  - 1967, Kathy Whitworth, 289 (–11), Sandra Haynie, 1,500, Pekin CC, Pekin, Illinois
+  - 1966, Mickey Wright, 302 (+2), Margie Masters , Jo Ann Prentice, 1,500, Rainbow Springs CC, Mukwonago, Wisconsin
+  - 1965, Susie Maxwell, 290 (–2), Marlene Hagge, 1,500, Beverly CC, Chicago, Illinois
+  - 1964, Carol Mann, 308 (+8), Ruth Jessen , Judy Kimball-Simon, 1,200, Scenic Hills CC, Pensacola, Florida
+  - 1963, Mickey Wright, 292 (E), Kathy Whitworth, 1,200, Maple Bluff CC, Madison, Wisconsin
+  - 1962, Mickey Wright, 295 (+7) PO, Mary Lena Faulk, 1,200, Montgomery CC, Montgomery, Alabama
+  - 1961, Mary Lena Faulk, 290 (–10), Betsy Rawls, 1,313, Belle Meade CC, Nashville, Tennessee
+  - 1960, Joyce Ziske, 301 (+9) PO, Barbara Romack, 1,313, Beverly CC, Chicago, Illinois
+  - 1959, Betsy Rawls, 293 (+5), JoAnne Gunderson (a), Patty Berg, 1,313, Ranier G&CC, Seattle, Washington
+  - 1958, Patty Berg, 293 (+1), Beverly Hanson, 950, Kahkwa CC, Erie, Pennsylvania
+  - 1957, Patty Berg, 291 (–1), Wiffi Smith, 1,000, Montgomery CC, Montgomery, Alabama
+  - 1956, Beverly Hanson, 304 (E), Louise Suggs, 1,000, Wakonda CC, Des Moines, Iowa
+  - 1955, Patty Berg, 292 (E), Fay Crocker , Louise Suggs, 1,000, Maple Bluff CC, Madison, Wisconsin
+
+=== Table ID: 2-1636090-2 ===
+=== Table Title: Women's Western Open ===
+Columns: Year, Winner, Score, Runner(s)-up, Course, Location
+  - 1954, Betty Jameson, 6 & 5, Louise Suggs, Glen Flora CC, Waukegan, Illinois
+  - 1953, Louise Suggs, 6 & 5, Patty Berg, Capital City Club, Atlanta, Georgia
+  - 1952, Betsy Rawls, 1 up, Betty Jameson, Skokie CC, Chicago, Illinois
+  - 1951, Patty Berg, 2 up, Pat O'Sullivan (a), Whitemarsh Valley CC, Philadelphia, Pennsylvania
+  - 1950, Babe Zaharias, 5 & 3, Peggy Kirk, Cherry Hills CC, Denver, Colorado
+  - 1949, Louise Suggs, 5 & 4, Betty Jameson, Oklahoma City CC, Oklahoma City, Oklahoma
+  - 1948, Patty Berg, 37 holes, Babe Zaharias, Skycrest CC, Chicago, Illinois
+  - 1947, Louise Suggs (a), 4 & 2, Dorothy Kirby (a), Capital City Club, Atlanta, Georgia
+  - 1946, Louise Suggs (a), 2 up, Patty Berg, Wakonda Club, Des Moines, Iowa
+  - 1945, Babe Zaharias (a), 4 & 2, Dorothy Germain (a), Highland G&CC, Indianapolis, Indiana
+  - 1944, Babe Zaharias (a), 7 & 5, Dorothy Germain (a), Park Ridge, Chicago, Illinois
+  - 1943, Patty Berg, 1 up, Dorothy Kirby (a), Glen Oak CC, Glen Ellyn, Illinois
+  - 1942, Betty Jameson (a), 9 & 7, Phyllis Otto, Elmhurst CC, Chicago, Illinois
+  - 1941, Patty Berg, 7 & 6, Mrs. Burt Weil, Cincinnati CC, Cincinnati, Ohio
+  - 1940, Babe Zaharias (a), 5 & 4, Mrs. Russell Mann, Blue Mound G&CC, Wauwatosa, Wisconsin
+  - 1939, Helen Dettweiler, 4 & 3, Bea Barrett (a), Westwood CC, St. Louis, Missouri
+  - 1938, Bea Barrett (a), 6 & 4, Helen Hofmann, Broadmoor GC, Colorado Springs, Colorado
+  - 1937, Helen Hicks, 6 & 5, Bea Barrett (a), Beverly CC, Chicago, Illinois
+  - 1936, Opal Hill (a), 3 & 2, Mrs. Charles Dennehy (a), Topeka CC, Topeka, Kansas
+  - 1935, Opal Hill (a), 9 & 7, Mrs. S.L. Reinhart (a), Sunset Ridge CC, Chicago, Illinois
+  - 1934, Marian McDougall (a), 9 & 7, Mrs. Guy Riegel (a), Portland G&CC, Portland, Oregon
+  - 1933, June Beebe (a), 3 & 2, Jane Weiller (a), Olympia Fields CC, Olympia Fields, Illinois
+  - 1932, Jane Weiller (a), 5 & 4, June Beebe (a), Ozaukee CC, Mequon, Wisconsin
+  - 1931, June Beebe (a), 3 & 2, Mrs. Melvin Jones (a), Midlothian CC, Midlothian, Illinois
+  - 1930, Mrs. Lee Mida (a), 6 & 5, June Beebe (a), Acacia CC, Indian Head Park, Illinois
+
+=== Table ID: 2-16362719-3 ===
+=== Table Title: 2007–08 ACB season ===
+Columns: Rank, Name, Team, Games, Rebounds
+  - 1., Marc Gasol, Akasvayu Girona, 37, 311
+  - 2., Frédéric Weis, Iurbentia Bilbao, 30, 212
+  - 3., Felipe Reyes, Real Madrid, 31, 211
+  - 4., Pete Mickeal, TAU Cerámica, 32, 197
+  - 5., Chris Moss, Vive Menorca, 34, 209
+
+=== Table ID: 2-16362719-4 ===
+=== Table Title: 2007–08 ACB season ===
+Columns: Rank, Name, Team, Games, Assists
+  - 1., Javier Rodríguez, Ricoh Manresa, 34, 182
+  - 2., Juan Ignacio Sánchez, AXA FC Barcelona, 40, 202
+  - 3., Shammond Williams, Pamesa Valencia, 34, 170
+  - 4., Pablo Prigioni, TAU Cerámica, 41, 175
+  - 5., Víctor Sada, Akasvayu Girona, 37, 157
+
+=== Table ID: 2-1637043-4 ===
+=== Table Title: Patty Sheehan ===
+Columns: Year, Championship, Winning score, Margin, Runner(s)-up
+  - 1983, LPGA Championship, –9 (68-71-74-66=279), 2 strokes, Sandra Haynie
+  - 1984, LPGA Championship, –16 (71-70-63-68=272), 10 strokes, Pat Bradley , Beth Daniel
+  - 1992, U.S. Women's Open, –4 (69-72-70-69=280), Playoff 1, Juli Inkster
+  - 1993, Mazda LPGA Championship, –9 (70-72-69-68=279), 1 stroke, Lauri Merten
+  - 1994, U.S. Women's Open, –7 (66-71-69-71=277), 1 stroke, Tammie Green
+  - 1996, Nabisco Dinah Shore, –7 (71-72-67-71=281), 1 stroke, Meg Mallon , Kelly Robbins , Annika Sörenstam
+
+=== Table ID: 2-1637053-4 ===
+=== Table Title: John Andretti ===
+Columns: Year, Chassis, Engine, Start, Finish, Team
+  - 1988, Lola T88/00, Ford Cosworth DFX, 27, 21, Curb Racing
+  - 1989, Lola T88/00, Buick, 12, 25, Granatelli Racing
+  - 1990, March 90P, Porsche, 10, 21, Porsche
+  - 1991, Lola T91/00, Chevrolet 265A, 7, 5, Hall/VDS Racing
+  - 1992, Lola T92/00, Chevrolet 265A, 14, 8, Hall/VDS Racing
+  - 1993, Lola T92/00, Ford XB, 24, 10, A.J. Foyt Enterprises
+  - 1994, Lola T94/00, Ford XB, 10, 10, A.J. Foyt Enterprises
+  - 2007, Dallara, Honda, 24, 30, Panther Racing
+  - 2008, Dallara, Honda, 21, 16, Roth Racing
+  - 2009, Dallara, Honda, 28, 19, Richard Petty / DRR
+  - 2010, Dallara, Honda, 28, 30, Richard Petty / Andretti Autosport
+  - 2011, Dallara, Honda, 17, 22, Richard Petty / Andretti Autosport
+
+=== Table ID: 2-1637981-7 ===
+=== Table Title: Capital Region International Airport ===
+Columns: Year, Lansing (LAN), Detroit (DTW), Grand Rapids (GRR), Flint (FNT), Kalamazoo (AZO), Saginaw (MBS)
+  - 2006, $370.61, $322.83, $413.74, $298.89, $472.93, $441.26
+  - 2007, $364.39, $307.29, $420.68, $281.37, $471.01, $441.08
+  - 2008, $397.75, $334.18, $463.96, $314.89, $517.32, $481.39
+  - 2009, $434.59, $313.67, $409.85, $275.23, $500.55, $434.69
+  - 2010, $482.76, $353.75, $377.29, $298.40, $563.92, $470.47
+  - 2011, $433.59, $378.55, $400.11, $334.90, $579.23, $474.77
+  - 2012, $417.92, $404.96, $445.80, $372.96, $599.39, $465.86
+
+=== Table ID: 2-16380141-1 ===
+=== Table Title: 1993 ATP Super 9 ===
+Columns: Tournament, Surface, Week, Winner and score, Finalist, Semifinalists
+  - Indian Wells, Hard, March 1, Jim Courier 6–3, 6–3, 6–1, Wayne Ferreira, Michael Chang Alexander Volkov
+  - Key Biscane, Hard, March 8, Pete Sampras 6–3, 6–2, MaliVai Washington, Marcos Ondruska Petr Korda
+  - Monte Carlo, Clay, April 19, Sergi Bruguera 7–6(2), 6–0, Cédric Pioline, Stefan Edberg Thomas Muster
+  - Hamburg, Clay, May 3, Michael Stich 6–3, 6–7(1), 7–6(7), 6–4, Andrei Chesnokov, Emilio Sánchez Bernd Karbacher
+  - Rome, Clay, May 10, Jim Courier 6–1, 6–2, 6–2, Goran Ivanišević, Pete Sampras Michael Chang
+  - Montreal, Hard, July 26, Mikael Pernfors 2–6, 6–2, 7–5, Todd Martin, Richey Reneberg Petr Korda
+  - Cincinnati, Hard, August 9, Michael Chang 7–5, 0–6, 6–4, Stefan Edberg, Pete Sampras Andre Agassi
+  - Stockholm, Carpet (i), October 25, Michael Stich 4–6, 7–6(6), 7–6(3), 6–2, Goran Ivanišević, MaliVai Washington Marc Rosset
+  - Paris, Carpet (i), November 1, Goran Ivanišević 6–4, 6–2, 7–6(2), Andriy Medvedev, Stefan Edberg Arnaud Boetsch
+
+=== Table ID: 2-16380780-1 ===
+=== Table Title: 1995 ATP Super 9 ===
+Columns: Tournament, Country, Location, Began, Court surface
+  - Indian Wells Masters, United States, Indian Wells, 1974, Hard
+  - Miami Masters, United States, Key Biscayne, 1985, Hard
+  - Monte Carlo Masters, Monaco, Roquebrune-Cap-Martin , France, 1897, Clay
+  - Rome Masters, Italy, Rome, 1930, Clay
+  - Hamburg Masters, Germany, Hamburg, 1892, Clay
+  - Canada Masters, Canada, Montreal / Toronto, 1881, Hard
+  - Cincinnati Masters, United States, Mason, Ohio, 1899, Hard
+  - Essen Masters, Germany, Essen, 1990, Carpet (i)
+  - Paris Masters, France, Paris, 1968, Carpet (i)
+
+=== Table ID: 2-16384648-2 ===
+=== Table Title: Tri-State Collegiate Hockey League ===
+Columns: Institution, Location, Team Nickname, Joined TSCHL, Home Arena, Capacity, Team Website
+  - University of Akron, Akron, OH, Zips, 2010, Center Ice Sports Complex, 900, Zips Hockey
+  - University of Cincinnati, Cincinnati, OH, Bearcats, 2010, Cincinnati Gardens, 10,208, Cincinnati Hockey
+  - University of Dayton, Dayton, OH, Flyers, 2010, Kettering Rec Center, 700, Dayton Hockey
+  - Indiana University of Pennsylvania, Indiana, PA, Crimson Hawks, 2010, S&T Bank Arena, 1,000, IUP Hockey
+  - Ohio University, Athens, OH, Bobcats, 2011, Bird Arena, 2,000, Ohio Hockey
+  - University of Toledo, Toledo, OH, Rockets, 2010, Team Toledo Ice House, 1,100, Toledo Hockey
+  - University of Pittsburgh, Pittsburgh, PA, Panthers, 2010, BladeRunners Harmarville, 1,200, Pitt Hockey
+  - West Virginia University, Morgantown, WV, Mountaineers, 2010, Morgantown Municipal Ice Arena, 500, WVU Hockey
+  - Wright State University, Fairborn, OH, Raiders, 2010, Kettering Rec Center, 700, WSU Hockey
+
+=== Table ID: 2-16385154-1 ===
+=== Table Title: Great Midwest Hockey League ===
+Columns: Institution, Location, Founded, Affiliation, Enrollment, Team Nickname
+  - Ferris State University, Big Rapids, Michigan, 1884, Public, 13,532, Bulldogs
+  - Grand Valley State University, Allendale, Michigan, 1960, Public, 23,892, Lakers
+  - Miami University (OH), Oxford, Ohio, 1809, Public, 20,126, RedHawks
+  - Michigan State University, East Lansing, Michigan, 1855, Public, 46,045, Spartans
+  - University of Michigan, Ann Arbor, Michigan, 1817, Public, 40,042, Wolverines
+  - Ohio State University, Columbus, Ohio, 1870, Public, 60,347, Buckeyes
+
+=== Table ID: 2-16386910-3 ===
+=== Table Title: 1976–77 San Antonio Spurs season ===
+Columns: Date, Visitor, Score, Home, Record
+  - November 3, 1976, San Antonio Spurs, 97-113, Indiana Pacers, 2-5
+  - November 5, 1976, San Antonio Spurs, 119–127, New Orleans Jazz, 2–6
+  - November 6, 1976, Indiana Pacers, 94–113, San Antonio Spurs, 3-6
+  - November 9, 1976, Seattle SuperSonics, 114–138, San Antonio Spurs, 4–6
+  - November 11, 1976, New York Nets, 104–108, San Antonio Spurs, 5–6
+  - November 13, 1976, Portland Trail Blazers, 101–113, San Antonio Spurs, 6–6
+  - November 16, 1976, Buffalo Braves, 112–114, San Antonio Spurs, 7–6
+  - November 18, 1976, Kansas City Kings, 104–129, San Antonio Spurs, 8–6
+  - November 20, 1976, San Antonio Spurs, 103–109, Washington Bullets, 8–7
+  - November 23, 1976, San Antonio Spurs, 122–115, Buffalo Braves, 9–7
+  - November 24, 1976, San Antonio Spurs, 91–99, New York Nets, 9–8
+  - November 26, 1976, Golden State Warriors, 121–123, San Antonio Spurs, 10–8
+  - November 27, 1976, San Antonio Spurs, 89–75, Houston Rockets, 10–9
+  - November 30, 1976, Detroit Pistons, 129–130, San Antonio Spurs, 11–9
+
+=== Table ID: 2-16388047-1 ===
+=== Table Title: 1995 Ansett Australia Cup ===
+Columns: Home team, Home team score, Away team, Away team score, Ground, Crowd, Date, Time
+  - Fremantle, 13.8 (86), St. Kilda, 19.7 (121), East Fremantle Oval, 10,028, Friday 24 February 1995, 4:00 PM
+  - Carlton, 20.9 (129), Richmond, 13.9 (87), Waverley Park, 23,678, Saturday, 25 February 1995, 8:00 PM
+  - North Melbourne, 17.18 (120), Brisbane, 8.12 (60), Waverley Park, 4,737, Sunday, 26 February 1995, 1:05 PM
+  - Essendon, 14.10 (94), Fitzroy, 8.13 (61), Waverley Park, 10,469, Monday, 27 February 1995, 8:00 PM
+  - Collingwood, 12.15 (87), Footscray, 12.16 (88), Waverley Park, 18,310, Wednesday 1 March 1995, 8:00 PM
+  - Sydney, 18.11 (119), Hawthorn, 16.10 (106), Bruce Stadium, 11,644, Saturday 4 March 1995, 1:05 PM
+  - Melbourne, 11.11 (77), West Coast, 16.15 (111), Waverley Park, 9,348, Saturday, 4 March 1995, 8:00 PM
+  - Adelaide, 23.16 (154), Geelong, 13.15 (93), Football Park, 13,866, Sunday 5 March 1995, 12:05 PM
+
+=== Table ID: 2-16388357-1 ===
+=== Table Title: 1999 Ansett Australia Cup ===
+Columns: Home team, Home team score, Away team, Away team score, Ground, Crowd, Date, Time
+  - Fremantle, 7.8 (50), Hawthorn, 14.12 (96), Subiaco Oval, 12,088, Thursday 11 February 1999, 6:00 PM
+  - Brisbane Lions, 12.15 (87), Carlton, 4.4 (28), The Gabba, 16,318, Friday, 12 February 1999, 7:00 PM
+  - Sydney, 12.13 (85), Collingwood, 11.8 (74), Manuka Oval, 13,313, Saturday, 13 February 1999, 5:00 PM
+  - Essendon, 14.8 (92), Western Bulldogs, 18.12 (120), Marrara Oval, 14,211, Saturday, 13 February 1999, 6:00 PM
+  - Richmond, 8.15 (63), West Coast, 6.10 (46), Waverley Park, 11,325, Thursday, 18 February 1999, 8:00 PM
+  - Adelaide, 8.9 (57), Port Adelaide, 13.15 (93), Football Park, 40,577, Friday 19 February 1999, 8:00 PM
+  - Geelong, 9.7 (61), Kangaroos, 20.14 (134), Waverley Park, 13,514, Saturday, 20 February 1999, 8:00 PM
+  - Melbourne, 9.6 (60), St Kilda, 12.9 (81), Waverley Park, 16,321, Sunday, 21 February 1999, 8:00 PM
+
+=== Table ID: 2-16388398-4 ===
+=== Table Title: 2000 Ansett Australia Cup ===
+Columns: Home team, Home team score, Away team, Away team score, Ground, Crowd, Date
+  - West Coast, 8.10 (58), Essendon, 11.12 (78), Marrara Oval, 13,600, Friday, 28 January
+  - Hawthorn, 4.14 (38), Western Bulldogs, 13.7 (85), Westpac Stadium , Wellington, New Zealand, 11,666, Saturday, 29 January
+  - Essendon, 17.12 (114), Western Bulldogs, 10.21 (81), Waverley Park, 11,391, Friday, 4 February
+  - Hawthorn, 17.14 (116), West Coast, 5.10 (40), Waverley Park, 6,872, Sunday, 6 February
+  - West Coast, 19.15 (129), Western Bulldogs, 12.10 (82), Subiaco Oval, 9,285, Saturday, 12 February
+  - Hawthorn, 10.16 (76), Essendon, 19.11 (125), Waverley Park, 15,081, Sunday, 13 February
+
+=== Table ID: 2-16388439-1 ===
+=== Table Title: 2001 Ansett Australia Cup ===
+Columns: Home team, Home team score, Away team, Away team score, Ground, Date, Crowd
+  - Geelong, 4.10 (34), Sydney, 6.11 (47), Marrara Oval, Friday, 16 February, 8500
+  - Port Adelaide, 16.25 (121), Essendon, 5.12 (42), Football Park, Saturday, 17 February, 19,498
+  - Port Adelaide, 17.10 (112), Sydney, 15.17 (107), Football Park, Friday, 23 February, 15,709
+  - Essendon, 12.18 (90), Geelong, 17.10 (112), Colonial Stadium, Friday, 23 February, 22,829
+  - Geelong, 12.15 (87), Port Adelaide, 16.9 (105), Colonial Stadium, Saturday, 3 March, 4474
+  - Sydney, 11.17 (83), Essendon, 8.11 (59), Manuka Oval, Saturday, 3 March, 12,358
+
+=== Table ID: 2-16388439-3 ===
+=== Table Title: 2001 Ansett Australia Cup ===
+Columns: Home team, Home team score, Away team, Away team score, Ground, Date, Crowd
+  - Adelaide, 10.13 (73), Brisbane Lions, 16.18 (114), Westpac Stadium, Saturday, 17 February, 8000
+  - Western Bulldogs, 14.8 (92), Carlton, 16.10 (106), Colonial Stadium, Saturday, 17 February, 15,815
+  - Carlton, 10.12 (72), Adelaide, 9.12 (66), Optus Oval, Saturday, 24 February, 7291
+  - Brisbane Lions, 5.15 (45), Western Bulldogs, 9.7 (61), Bundaberg Rum Stadium, Saturday, 24 February, 5800
+  - Adelaide, 11.11 (77), Western Bulldogs, 9.5 (59), Football Park, Friday, 2 March, 20,169
+  - Brisbane Lions, 10.14 (74), Carlton, 9.7 (61), Gabba, Saturday, 3 March, 22,957
+

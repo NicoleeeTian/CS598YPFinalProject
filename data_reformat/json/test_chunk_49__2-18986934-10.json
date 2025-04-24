@@ -1,0 +1,86 @@
+{
+  "header": [
+    "Score",
+    "Shooter",
+    "Date",
+    "Comp",
+    "Place"
+  ],
+  "page_title": "List of 10 metre air pistol records",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "text",
+    "text"
+  ],
+  "page_id": 18986934,
+  "id": "2-18986934-10",
+  "section_title": "World record progression",
+  "rows": [
+    [
+      "485.5",
+      "Anke Völker ( GDR )",
+      "1986",
+      "WCH",
+      "Suhl , East Germany"
+    ],
+    [
+      "489.0",
+      "Jasna Brajković ( YUG )",
+      "1987",
+      "WCH",
+      "Budapest , Hungary"
+    ],
+    [
+      "489.5",
+      "Jasna Šekarić ( YUG )",
+      "1988",
+      "OG",
+      "Seoul , South Korea"
+    ],
+    [
+      "New targets from 1989",
+      "New targets from 1989",
+      "New targets from 1989",
+      "New targets from 1989",
+      "New targets from 1989"
+    ],
+    [
+      "488.8",
+      "Svetlana Smirnova ( URS )",
+      "1989",
+      "ECH",
+      "Copenhagen , Denmark"
+    ],
+    [
+      "492.4",
+      "Liselotte Breker ( FRG )",
+      "1989",
+      "WC",
+      "Zagreb , Yugoslavia"
+    ],
+    [
+      "492.7",
+      "Jasna Šekarić ( YUG )",
+      "1996",
+      "WCF",
+      "Näfels , Switzerland"
+    ],
+    [
+      "493.0",
+      "Svetlana Smirnova ( RUS )",
+      "23 May 1998",
+      "WC",
+      "Munich , Germany"
+    ],
+    [
+      "493.5",
+      "Ren Jie ( CHN )",
+      "22 May 1999",
+      "WC",
+      "Munich , Germany"
+    ]
+  ],
+  "caption": "World record progression"
+}

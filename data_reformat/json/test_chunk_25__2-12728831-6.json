@@ -1,0 +1,58 @@
+{
+  "header": [
+    "Date",
+    "Visitor",
+    "Score",
+    "Home",
+    "Record"
+  ],
+  "page_title": "1987–88 Edmonton Oilers season",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "text",
+    "text"
+  ],
+  "page_id": 12728831,
+  "id": "2-12728831-6",
+  "section_title": "Edmonton Oilers 4, Boston Bruins 0",
+  "rows": [
+    [
+      "May 18",
+      "Boston Bruins",
+      "1–2",
+      "Edmonton Oilers",
+      "1–0"
+    ],
+    [
+      "May 20",
+      "Boston Bruins",
+      "2–4",
+      "Edmonton Oilers",
+      "2–0"
+    ],
+    [
+      "May 22",
+      "Edmonton Oilers",
+      "6–3",
+      "Boston Bruins",
+      "3–0"
+    ],
+    [
+      "May 24",
+      "Edmonton Oilers",
+      "3–3",
+      "Boston Bruins",
+      "3–0–1"
+    ],
+    [
+      "May 26",
+      "Boston Bruins",
+      "3–6",
+      "Edmonton Oilers",
+      "4–0–1"
+    ]
+  ],
+  "caption": "Edmonton Oilers 4, Boston Bruins 0"
+}

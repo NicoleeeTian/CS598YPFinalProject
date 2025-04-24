@@ -1,0 +1,99 @@
+{
+  "header": [
+    "School",
+    "Location",
+    "Mascot",
+    "Enrollment",
+    "IHSAA Class",
+    "IHSAA Football Class",
+    "# / County"
+  ],
+  "page_title": "Indiana High School Athletics Conferences: Mid-Eastern – Northwestern",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "real",
+    "text",
+    "text",
+    "text"
+  ],
+  "page_id": 18942405,
+  "id": "2-18942405-3",
+  "section_title": "",
+  "rows": [
+    [
+      "Cass",
+      "Walton",
+      "Kings",
+      "504",
+      "AA",
+      "AA",
+      "09 Cass"
+    ],
+    [
+      "Eastern Greentown",
+      "Greentown",
+      "Comets",
+      "460",
+      "AA",
+      "AA",
+      "34 Howard"
+    ],
+    [
+      "Hamilton Heights",
+      "Arcadia",
+      "Huskies",
+      "742",
+      "AAA",
+      "AAA",
+      "29 Hamilton"
+    ],
+    [
+      "Maconaquah",
+      "Bunker Hill",
+      "Braves",
+      "703",
+      "AAA",
+      "AAA",
+      "52 Miami"
+    ],
+    [
+      "Northwestern",
+      "Kokomo",
+      "Tigers",
+      "566",
+      "AAA",
+      "AA",
+      "34 Howard"
+    ],
+    [
+      "Peru",
+      "Peru",
+      "Tigers",
+      "672",
+      "AAA",
+      "AAA",
+      "52 Miami"
+    ],
+    [
+      "Taylor",
+      "Center",
+      "Titans",
+      "475",
+      "AA",
+      "AA",
+      "34 Howard"
+    ],
+    [
+      "Western",
+      "Russiaville",
+      "Panthers",
+      "813",
+      "AAA",
+      "AAA",
+      "34 Howard"
+    ]
+  ],
+  "caption": ""
+}

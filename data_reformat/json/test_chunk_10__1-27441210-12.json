@@ -1,0 +1,73 @@
+{
+  "header": [
+    "Artist",
+    "Country",
+    "Number-one single(s)",
+    "Year",
+    "Weeks at #1",
+    "Straight to #1 ?"
+  ],
+  "page_title": "List of artists who reached number one on the French Singles Chart",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "real",
+    "real",
+    "text"
+  ],
+  "id": "1-27441210-12",
+  "section_title": "K",
+  "caption": "K",
+  "rows": [
+    [
+      "Kamini",
+      "France",
+      "\" Marly-Gomont \"",
+      2007,
+      4,
+      "No"
+    ],
+    [
+      "Kaoma",
+      "Brazil",
+      "\" Lambada \"",
+      1989,
+      12,
+      "No"
+    ],
+    [
+      "Kesha",
+      "United States",
+      "\" Tik Tok \"",
+      2010,
+      2,
+      "No"
+    ],
+    [
+      "Khaled",
+      "Algeria",
+      "\" Aïcha \"",
+      1996,
+      1,
+      "No"
+    ],
+    [
+      "Khaled",
+      "Algeria",
+      "\" Même pas fatigué !!! \"",
+      2009,
+      7,
+      "Yes"
+    ],
+    [
+      "K.Maro",
+      "Canada",
+      "\" Femme Like U (Donne-moi ton corps) \"",
+      2004,
+      1,
+      "No"
+    ]
+  ],
+  "name": "table_27441210_12"
+}

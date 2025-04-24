@@ -1,0 +1,65 @@
+{
+  "header": [
+    "Tournament",
+    "Wins",
+    "Top-5",
+    "Top-25",
+    "Events",
+    "Cuts made"
+  ],
+  "page_title": "Jason Dufner",
+  "types": [
+    "text",
+    "real",
+    "real",
+    "real",
+    "real",
+    "real"
+  ],
+  "page_id": 12899300,
+  "id": "2-12899300-6",
+  "section_title": "Summary",
+  "rows": [
+    [
+      "Masters Tournament",
+      "0",
+      "0",
+      "2",
+      "3",
+      "3"
+    ],
+    [
+      "U.S. Open",
+      "0",
+      "2",
+      "2",
+      "7",
+      "5"
+    ],
+    [
+      "The Open Championship",
+      "0",
+      "0",
+      "0",
+      "4",
+      "2"
+    ],
+    [
+      "PGA Championship",
+      "1",
+      "3",
+      "3",
+      "5",
+      "4"
+    ],
+    [
+      "Totals",
+      "1",
+      "5",
+      "7",
+      "19",
+      "14"
+    ]
+  ],
+  "caption": "Summary"
+}

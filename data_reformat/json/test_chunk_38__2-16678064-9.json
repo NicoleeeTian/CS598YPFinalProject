@@ -1,0 +1,65 @@
+{
+  "header": [
+    "Player",
+    "Games",
+    "Returns",
+    "Yards",
+    "Long",
+    "Yards per return"
+  ],
+  "page_title": "1989 Philadelphia Eagles season",
+  "types": [
+    "text",
+    "real",
+    "real",
+    "real",
+    "real",
+    "real"
+  ],
+  "page_id": 16678064,
+  "id": "2-16678064-9",
+  "section_title": "Kick Returns",
+  "rows": [
+    [
+      "Keith Byars",
+      "16",
+      "1",
+      "27",
+      "27",
+      "27.0"
+    ],
+    [
+      "Mark Higgs",
+      "15",
+      "16",
+      "293",
+      "30",
+      "18.3"
+    ],
+    [
+      "Dave Little",
+      "16",
+      "2",
+      "14",
+      "12",
+      "7.0"
+    ],
+    [
+      "Heath Sherman",
+      "15",
+      "13",
+      "222",
+      "45",
+      "17.1"
+    ],
+    [
+      "Gizmo Williams",
+      "13",
+      "14",
+      "249",
+      "28",
+      "17.8"
+    ]
+  ],
+  "caption": "Kick Returns"
+}

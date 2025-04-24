@@ -1,0 +1,58 @@
+{
+  "header": [
+    "Religion",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Other Backward Class",
+    "Forward caste"
+  ],
+  "page_title": "Christianity in India",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "text",
+    "text"
+  ],
+  "page_id": 1683930,
+  "id": "2-1683930-3",
+  "section_title": "State Populations",
+  "rows": [
+    [
+      "Buddhism",
+      "89.50%",
+      "7.40%",
+      "0.4%",
+      "2.7%"
+    ],
+    [
+      "Sikhism",
+      "30.70%",
+      "0.90%",
+      "22.4%",
+      "46.1%"
+    ],
+    [
+      "Hinduism",
+      "22.20%",
+      "9.10%",
+      "42.8%",
+      "26%"
+    ],
+    [
+      "Christianity",
+      "9.00%",
+      "32.80%",
+      "24.8%",
+      "33.3%"
+    ],
+    [
+      "Islam",
+      "0.80%",
+      "0.50%",
+      "39.2%",
+      "59.5%"
+    ]
+  ],
+  "caption": "Caste Demographic data reported by the \n Sachar Committee \n on Muslim Affairs in 2006"
+}

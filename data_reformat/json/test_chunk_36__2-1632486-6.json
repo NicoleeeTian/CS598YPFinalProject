@@ -1,0 +1,65 @@
+{
+  "header": [
+    "Discipline",
+    "Championship",
+    "Circuit",
+    "Event",
+    "Session",
+    "Cause"
+  ],
+  "page_title": "Driver deaths in motorsport",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "text",
+    "text",
+    "text"
+  ],
+  "page_id": 1632486,
+  "id": "2-1632486-6",
+  "section_title": "E",
+  "rows": [
+    [
+      "NASCAR Winston Cup Series",
+      "2001 NASCAR Winston Cup Series",
+      "Daytona Speedway",
+      "2001 Daytona 500",
+      "Race",
+      "Crash"
+    ],
+    [
+      "Stock Car",
+      "1978 Grand American Sportsman Series",
+      "Riverside Raceway",
+      "1978 Stock Car Products 300",
+      "Practice",
+      "Crash"
+    ],
+    [
+      "Open Wheel",
+      "1959 USAC Championship Car season",
+      "Milwaukee Mile",
+      "Milwaukee 200",
+      "Race",
+      "Crash"
+    ],
+    [
+      "Sportscar",
+      "non-championship",
+      "Le Mans",
+      "1997 24 Hours of Le Mans",
+      "Pre-race test",
+      "Crash"
+    ],
+    [
+      "Stock Car",
+      "NASCAR Featherlite Modified Series",
+      "Martinsville Speedway",
+      "Winn-Dixie 500 Modified Feature",
+      "Practice",
+      "Crash"
+    ]
+  ],
+  "caption": "E"
+}

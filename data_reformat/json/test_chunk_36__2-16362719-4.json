@@ -1,0 +1,58 @@
+{
+  "header": [
+    "Rank",
+    "Name",
+    "Team",
+    "Games",
+    "Assists"
+  ],
+  "page_title": "2007–08 ACB season",
+  "types": [
+    "real",
+    "text",
+    "text",
+    "real",
+    "real"
+  ],
+  "page_id": 16362719,
+  "id": "2-16362719-4",
+  "section_title": "Assists",
+  "rows": [
+    [
+      "1.",
+      "Javier Rodríguez",
+      "Ricoh Manresa",
+      "34",
+      "182"
+    ],
+    [
+      "2.",
+      "Juan Ignacio Sánchez",
+      "AXA FC Barcelona",
+      "40",
+      "202"
+    ],
+    [
+      "3.",
+      "Shammond Williams",
+      "Pamesa Valencia",
+      "34",
+      "170"
+    ],
+    [
+      "4.",
+      "Pablo Prigioni",
+      "TAU Cerámica",
+      "41",
+      "175"
+    ],
+    [
+      "5.",
+      "Víctor Sada",
+      "Akasvayu Girona",
+      "37",
+      "157"
+    ]
+  ],
+  "caption": "Assists"
+}

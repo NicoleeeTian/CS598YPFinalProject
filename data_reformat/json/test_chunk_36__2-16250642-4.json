@@ -1,0 +1,129 @@
+{
+  "header": [
+    "Brigade",
+    "Staffing",
+    "Type",
+    "Location",
+    "Pumpers",
+    "Tankers",
+    "Telebooms",
+    "Platforms",
+    "Cars",
+    "Hazmat"
+  ],
+  "page_title": "List of Country Fire Authority brigades",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "text",
+    "real",
+    "real",
+    "text",
+    "text",
+    "text",
+    "text"
+  ],
+  "page_id": 16250642,
+  "id": "2-16250642-4",
+  "section_title": "Geelong Group",
+  "rows": [
+    [
+      "Belmont",
+      "Integrated",
+      "Urban",
+      "Google Map",
+      "1",
+      "1",
+      "–",
+      "–",
+      "–",
+      "–"
+    ],
+    [
+      "Corio",
+      "Integrated",
+      "Urban",
+      "Google Map",
+      "1",
+      "1",
+      "1",
+      "–",
+      "1",
+      "2"
+    ],
+    [
+      "Geelong City",
+      "Integrated",
+      "Urban",
+      "Google Map",
+      "2",
+      "1",
+      "–",
+      "1",
+      "1",
+      "–"
+    ],
+    [
+      "Geelong West",
+      "Volunteer",
+      "Urban",
+      "Google Map",
+      "1",
+      "1",
+      "–",
+      "–",
+      "1",
+      "–"
+    ],
+    [
+      "Grovedale",
+      "Volunteer",
+      "Urban & Rural",
+      "Google Map",
+      "1",
+      "1",
+      "–",
+      "–",
+      "1",
+      "–"
+    ],
+    [
+      "Highton",
+      "Volunteer",
+      "Urban",
+      "Google Map",
+      "1",
+      "1",
+      "–",
+      "–",
+      "–",
+      "–"
+    ],
+    [
+      "Lara",
+      "Volunteer",
+      "Urban & Rural",
+      "Google Map",
+      "1",
+      "2",
+      "–",
+      "–",
+      "1",
+      "–"
+    ],
+    [
+      "Total",
+      "Group",
+      "–",
+      "–",
+      "8",
+      "7",
+      "1",
+      "1",
+      "5",
+      "2"
+    ]
+  ],
+  "caption": "Geelong Group"
+}

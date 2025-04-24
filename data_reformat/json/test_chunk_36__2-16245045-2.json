@@ -1,0 +1,58 @@
+{
+  "header": [
+    "Region",
+    "Date",
+    "Label",
+    "Format",
+    "Catalog"
+  ],
+  "page_title": "Tír na nÓg (album)",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "text",
+    "text"
+  ],
+  "page_id": 16245045,
+  "id": "2-16245045-2",
+  "section_title": "Release history",
+  "rows": [
+    [
+      "United Kingdom",
+      "May1971",
+      "Chrysalis Records",
+      "stereo LP",
+      "ILPS 9153"
+    ],
+    [
+      "United Kingdom",
+      "1971",
+      "Chrysalis, Island Records",
+      "stereo Compact Cassette",
+      "ZCI 9153"
+    ],
+    [
+      "Germany",
+      "1971",
+      "Chrysalis, Island",
+      "LP",
+      "85 547 IT"
+    ],
+    [
+      "Spain",
+      "1971",
+      "Chrysalis, Island",
+      "LP",
+      "85 547 IT"
+    ],
+    [
+      "United Kingdom",
+      "1992",
+      "BGO Records",
+      "ed remaster CD",
+      "BGOCD53"
+    ]
+  ],
+  "caption": "Release history"
+}

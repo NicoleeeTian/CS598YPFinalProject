@@ -1,0 +1,97 @@
+{
+  "header": [
+    "Rank",
+    "Nation",
+    "Gold",
+    "Silver",
+    "Bronze",
+    "Total"
+  ],
+  "page_title": "2007–08 Grand Prix of Figure Skating Final",
+  "types": [
+    "real",
+    "text",
+    "real",
+    "real",
+    "real",
+    "real"
+  ],
+  "page_id": 12912726,
+  "id": "2-12912726-1",
+  "section_title": "Medals table",
+  "rows": [
+    [
+      "1",
+      "Germany",
+      "1",
+      "0",
+      "0",
+      "1"
+    ],
+    [
+      "1",
+      "Russia",
+      "1",
+      "0",
+      "0",
+      "1"
+    ],
+    [
+      "1",
+      "South Korea",
+      "1",
+      "0",
+      "0",
+      "1"
+    ],
+    [
+      "1",
+      "Switzerland",
+      "1",
+      "0",
+      "0",
+      "1"
+    ],
+    [
+      "5",
+      "Japan",
+      "0",
+      "2",
+      "0",
+      "2"
+    ],
+    [
+      "6",
+      "China",
+      "0",
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "6",
+      "United States",
+      "0",
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "8",
+      "France",
+      "0",
+      "0",
+      "1",
+      "1"
+    ],
+    [
+      "8",
+      "Italy",
+      "0",
+      "0",
+      "1",
+      "1"
+    ]
+  ],
+  "caption": "Medals table"
+}

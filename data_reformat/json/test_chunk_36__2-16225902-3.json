@@ -1,0 +1,72 @@
+{
+  "header": [
+    "Player",
+    "Country",
+    "Year(s) won",
+    "Total",
+    "To par"
+  ],
+  "page_title": "2005 Open Championship",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "real",
+    "real"
+  ],
+  "page_id": 16225902,
+  "id": "2-16225902-3",
+  "section_title": "Missed the cut",
+  "rows": [
+    [
+      "Mark O'Meara",
+      "United States",
+      "1998",
+      "146",
+      "+2"
+    ],
+    [
+      "Jack Nicklaus",
+      "United States",
+      "1966 , 1970 , 1978",
+      "147",
+      "+3"
+    ],
+    [
+      "Ben Curtis",
+      "United States",
+      "2003",
+      "148",
+      "+4"
+    ],
+    [
+      "Todd Hamilton",
+      "United States",
+      "2004",
+      "148",
+      "+4"
+    ],
+    [
+      "Nick Price",
+      "Zimbabwe",
+      "1994",
+      "148",
+      "+4"
+    ],
+    [
+      "Tony Jacklin",
+      "England",
+      "1969",
+      "155",
+      "+11"
+    ],
+    [
+      "David Duval",
+      "United States",
+      "2001",
+      "157",
+      "+13"
+    ]
+  ],
+  "caption": "Missed the cut"
+}

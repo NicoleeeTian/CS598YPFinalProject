@@ -1,0 +1,65 @@
+{
+  "header": [
+    "Date",
+    "Region",
+    "Label",
+    "Catalogue",
+    "Format"
+  ],
+  "page_title": "No Sleep 'til Hammersmith",
+  "types": [
+    "text",
+    "text",
+    "text",
+    "text",
+    "text"
+  ],
+  "page_id": 1620220,
+  "id": "2-1620220-3",
+  "section_title": "Release history",
+  "rows": [
+    [
+      "27 June 1981",
+      "UK",
+      "Bronze",
+      "BRON 535",
+      "vinyl"
+    ],
+    [
+      "27 June 1981",
+      "UK",
+      "Bronze",
+      "BRONG 535",
+      "gold vinyl"
+    ],
+    [
+      "1990",
+      "UK",
+      "Castle",
+      "CLACD 179",
+      "CD"
+    ],
+    [
+      "1996",
+      "UK",
+      "Essential",
+      "ESMCD313",
+      "CD"
+    ],
+    [
+      "1996",
+      "North America",
+      "Dojo",
+      "DOJO 3035-2",
+      "CD"
+    ],
+    [
+      "2001",
+      "UK",
+      "Sanctuary",
+      "SMEDD 043",
+      "2CD"
+    ]
+  ],
+  "caption": "Release history"
+}

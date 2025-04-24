@@ -1,0 +1,72 @@
+{
+  "header": [
+    "Tournament",
+    "Wins",
+    "Top-5",
+    "Top-10",
+    "Top-25",
+    "Events",
+    "Cuts made"
+  ],
+  "page_title": "Rickie Fowler",
+  "types": [
+    "text",
+    "real",
+    "real",
+    "real",
+    "real",
+    "real",
+    "real"
+  ],
+  "page_id": 12710384,
+  "id": "2-12710384-4",
+  "section_title": "Summary",
+  "rows": [
+    [
+      "Masters Tournament",
+      "0",
+      "0",
+      "0",
+      "0",
+      "3",
+      "3"
+    ],
+    [
+      "U.S. Open",
+      "0",
+      "0",
+      "1",
+      "1",
+      "5",
+      "3"
+    ],
+    [
+      "The Open Championship",
+      "0",
+      "1",
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    [
+      "PGA Championship",
+      "0",
+      "0",
+      "0",
+      "1",
+      "4",
+      "3"
+    ],
+    [
+      "Totals",
+      "0",
+      "1",
+      "2",
+      "4",
+      "16",
+      "12"
+    ]
+  ],
+  "caption": "Summary"
+}

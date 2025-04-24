@@ -1,0 +1,58 @@
+{
+  "header": [
+    "Tournament",
+    "Wins",
+    "Top-10",
+    "Events",
+    "Cuts made"
+  ],
+  "page_title": "Nicolas Colsaerts",
+  "types": [
+    "text",
+    "real",
+    "real",
+    "real",
+    "real"
+  ],
+  "page_id": 12796733,
+  "id": "2-12796733-3",
+  "section_title": "Summary",
+  "rows": [
+    [
+      "Masters Tournament",
+      "0",
+      "0",
+      "1",
+      "0"
+    ],
+    [
+      "U.S. Open",
+      "0",
+      "1",
+      "3",
+      "2"
+    ],
+    [
+      "The Open Championship",
+      "0",
+      "1",
+      "3",
+      "1"
+    ],
+    [
+      "PGA Championship",
+      "0",
+      "0",
+      "2",
+      "0"
+    ],
+    [
+      "Totals",
+      "0",
+      "2",
+      "9",
+      "3"
+    ]
+  ],
+  "caption": "Summary"
+}
